@@ -4,3 +4,12 @@
 [submodule "ETCSANS-extended"]
 	path = ETCSANS-extended
 	url = https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
+[submodule "tools/search"]
+	path = tools/query
+	url = https://github.com/cdli-gh/cqp4rdf
+[submodule "tools/pre-annotation"]
+	path = tools/pre-annotation
+	url = https://github.com/cdli-gh/mtaac_syntax_pipeline
+[submodule "tools/view"]
+	path = tools/view
+	url = https://chiarcos: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@github.com/cdli-gh/sumerian-syntax-tree
