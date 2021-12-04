@@ -1,2 +1,1 @@
-# ETCSANS
-Electronic Text Corpus of Syntactically Annotated Neo-Sumerian
+# Electronic Text Corpus of Syntactically Annotated Neo-Sumerian (ETCSANS)

@@ -1,0 +1,6 @@
+[submodule "ETCSANS-core"]
+	path = ETCSANS-core
+	url = https://github.com/cdli-gh/mtaac_syntax_corpus
+[submodule "ETCSANS-extended"]
+	path = ETCSANS-extended
+	url = https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
