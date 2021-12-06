@@ -37,7 +37,7 @@ for file in files:
     elif re.match(r"^[\-]+$",file):
         sys.stderr.write("reading from stdin\n")
         input=sys.stdin
-    elif re.match(r"^[\-]+(?|h|help)$",file):
+    elif re.match(r"^[\-]+(\?|h|help)$",file):
         help()
     else:
         sys.stderr.write("could not open file \""+file+"\"\n")

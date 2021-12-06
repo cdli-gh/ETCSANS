@@ -1,4 +1,8 @@
-all: core extended
+all: core core.tei.xml extended
+
+core.tei.xml: core
+	@# only the core corpus is exported to TEI
+	python3 ../../tools/convert/conll2tei.py core/*/*/*conll > core.tei.xml
 
 core: core/royal core/parallel
 
