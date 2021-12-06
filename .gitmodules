@@ -1,8 +1,8 @@
 [submodule "ETCSANS-core"]
-	path = ETCSANS-core
+	path = dev/ETCSANS-core
 	url = https://github.com/cdli-gh/mtaac_syntax_corpus
 [submodule "ETCSANS-extended"]
-	path = ETCSANS-extended
+	path = dev/ETCSANS-extended
 	url = https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
 [submodule "tools/search"]
 	path = tools/query
