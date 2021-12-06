@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi-simt lukur beloved of king Ur-lugal-edin ka scribe son of Kudaa your servant
+1	{d}szul-gi-si2-im-ti	{d}szul-gi-si2-im-ti[1]	PN	PN	0	root	_
+2	lukur	lukur[priestess]	N	N	3	ABS	_
+3	ki-ag2	ki[place]+ag2[measure]	V	NF.V	1	amod	_
+4	lugal	lugal[king]	N	N.GEN.ABS	3	GEN	_
+5	ur-{d}lugal-edin-ka	ur-{d}lugal-eden-ka[2]	PN	PN	1	_	_
+6	dub-sar	dub-sar[scribe]	N	N	5	appos	_
+7	dumu	dumu[child]	N	N	5	appos	_
+8	ku5-da-a	kud-da-x[1]	PN	PN.GEN.ABS	7	GEN	_
+9	ARAD2-zu	kud-da-x[1]+arad2[slave]	N	N.2-SG-POSS.ABS	5	appos	_
+

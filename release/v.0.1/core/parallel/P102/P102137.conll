@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of Abilatum fattener month Festival-of-An th day passed year en of Nanna by goat was found to month Harvest year Simurum Lulubu for th time were destroyed its months days
+# train/P102137.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	6	_	_	
+3	a2-bi2-la-tum	_[Abilatum]	PN	PN.GEN.DAT-H	2	GEN	_	
+4	kuruszda!	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	3	appos	_	
+5	iti	iti[month]	N	N	6	_	_	
+6	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	10	_	_	
+7	u4	ud[day]	N	N	6	appos	_	
+8	1(u)	1(u)[ten]	NU	NU	10	nummod	_	
+9	7(disz)	7(disz)[one][-sze]	NU	NU	8	nummod	_	
+10	zal-la	zal[pass]-a	V	NF.V.PT	1	acl	_	
+11	mu	mu[year]	N	N	10	date	_	
+12	en	en[priest]	N	N	15	ABS	_	
+13	{d}nanna	Nanna[1][-ak]	DN	DN	12	GEN	_	
+14	masz-e	masz[goat]-e	N	N.L3-NH	12	ERG	_	
+15	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	10	parataxis	_	
+16	iti	iti[month]	N	N	10	LOC	_	
+17	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	16	LOC	_	
+18	mu	mu[year]	N	N	16	appos	_	
+19	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	25	ABS	_	
+20	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	19	appos	_	
+21	a-ra2	ara[times]	N	N	20	DAT	_	
+22	1(u)	1(u)[ten]	NU	NU	25	nummod	_	
+23	la2	la[hang][-ø]	V	NF.V.ABS	22	_	_	
+24	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	16	acl	_	
+26	iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	25	date	_	
+27	1(u)	1(u)[ten]	NU	NU	29	nummod	projectivity violation	
+28	4(disz)	4(disz)[one]	NU	NU	1	nummod	projectivity violation	
+29	u4	ud[day]	N	N	25	date	_	
+30	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+31	7(disz)	7(disz)[one][-sze]	NU	NU	30	nummod	_
+	
+

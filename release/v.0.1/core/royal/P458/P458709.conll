@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen beloved of Enlil powerful king king of Urim king of four quarters Namzid-tara governor of Nibru child of Ur-Nanibgal governor of Nibru is your servant																						
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	2	ABS	_
+2	ki-ag2	ki[place]+ag2[measure]	V	NF.V	0	_	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	2	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	2	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	2	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	nam-zi-tar-ra	nam-zid-tar-ra[1]	PN	PN	0	_	_
+11	ensi2	ensi2[ruler]	N	N	10	appos	_
+12	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	11	GEN	_
+13	dumu	dumu[child]	N	N	10	appos	_
+14	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	10	GEN	_
+15	ensi2	ensi2[ruler]	N	N	14	appos	_
+16	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	15	GEN	_
+17	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127568.atf new_text=P127568
+# tr.en: ram slaughtered rd day from Tahi-atal Szulgi-irimu received month Piglet feast year Szu-Suen king boat Ibex-of-apsu of Enki fashioned
+# train/P127568.atf						#new_text=P127568
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+

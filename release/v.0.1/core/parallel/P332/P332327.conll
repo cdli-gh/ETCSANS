@@ -1,0 +1,801 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: grain-fed oxen grain-fed cow less oxen cows deer doe stallion mare grain-fed sheep grain-fed ewes grain-fed buck goats grain-fed doe goats sheep ewes buck goats goat doe goat mountain goat buck gazelles bear royal delivery sheep buck goats delivery of Szulgi less male k-equids female k-equids from managers oxen cows deer bucks deer doe jackasses jenny sheep ewes buck goats doe goats estate oxen cow sheep ewes buck goats doe goats gazelles from field total grain-fed oxen total grain-fed cow total oxen total cows total deer bucks total deer does total stallion total mare total less male k-equids total female k-equids total jackasses total jenny total grain-fed sheep total grain-fed ewes total grain-fed jack gaots total grain-fed doe goats total sheep total ewes total buck goats total doe goats total male mountain goat total gazelles total bear altogether various oxen and cows altogether less deer altogether horses altogether k-equids altogether donkeys altogether various sheep and goats altogether gazelles altogether bear are debit therefrom grain-fed oxen oxen grain-fed sheep grain-fed doe goat sheep ewes buck goats doe goats gazelles royal deductions their carcasses Ur-nigar received their leather Lugal-erin received grain-fed sheep sheep buck goat throne of Szulgi less grain-fed oxen grain-fed sheep sheep buck goats gazelle royal gift sheep ration of Gula sheep ration of Inim-Nanna less male k-equids female k-equids for dogs Dan-Szulgi received sheep buck goats slaughtered for dogs Ilum-bani received cow slaughtered under seal of Ur-nigar cows male mountain goat bear under seal of governor and managers grain-fed oxen oxen cows grain-fed sheep sheep ewes buck goats under seal of Lu-dingira son of Inim-Szara grain-fed oxen cow grain-fed sheep grain-fed doe goat sheep ewes less buck goats under seal of Szulgi-ayamu deer bucks deer does stallion mares under seal of Lu-dingira son of ARAD-ula grain-fed sheep grain-fed ewes grain-fed buck goats grain-fed doe goats sheep ewe buck goats under seal of Nalu jackasses jenny under seal of Sz-Erra grain-fed oxen grain-fed cow ox under seal of Ur-ugalama grain-fed oxen grain-fed sheep less sheep on street under seal of Bel-azu oxen cows sheep buck goats doe goats gazelles less remainder for field total grain-fed oxen total grain-fed cow total oxen total cows total deer bucks total deer does total stallion total mares total less k-equids total female k-equids total jackasses total jenny total grain-fed sheep total grain-fed ewes total grain-fed buck goats total grain-fed doe goats total sheep total ewes total buck goats total doe goats total male mountain goat total gazelles total bear altogether oxen altogether less deer altogether horses altogether k-equids altogether donkeys altogether various sheep and goats altogether gazelles altogether bear restored Abbasaga month Gazelle feast year Amar-Suen king destroyed Urbilum
+# train/P332327.atf new_text=P332327
+# train/P332327.atf						#new_text=P332327
+1	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	projectivity violation	
+2	2(u)	2(u)[ten]	NU	NU	7	nummod	projectivity violation	
+3	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+4	gu4	gud[ox]	N	N	0	root	_	
+5	niga	niga[fattened][-ø]	V	NF.V.ABS	4	acl	_	
+6	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+7	ab2	ab[cow][-ø]	N	N	4	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	1(gesz2)	1(gesz)[sixty]	NU	NU	13	nummod	projectivity violation	
+10	4(u)	4(u)[ten]	NU	NU	16	nummod	projectivity violation	
+11	la2	la[hang][-ø]	V	NF.V.ABS	13	acl	_	
+12	1(disz@t)	1(disz)[one]	NU	NU	11	nummod	_	
+13	gu4	gud[ox]	N	N	4	appos	_	
+14	1(u)	1(u)[ten]	NU	NU	13	nummod	_	
+15	1(disz)	1(disz)[one]	NU	NU	18	nummod	projectivity violation	
+16	ab2	ab[cow][-ø]	N	N	13	appos	_	
+17	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+18	szeg9-bar-munus	_[deer.doe]	N	N.GEN.ABS	13	acl	_	
+19	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+20	{ansze}zi-zi-nita2	_[stallion]	PN	PN	13	appos	_	
+21	2(disz)	2(disz)[one]	NU	NU	20	nummod	_	
+22	{ansze}zi-zi-munus	_[mare]	N	N	20	appos	_	
+23	4(gesz2)	4(gesz)[sixty]	NU	NU	20	nummod	_	
+24	1(u)	1(u)[ten]	NU	NU	29	nummod	projectivity violation	
+25	5(disz)	5(disz)[one]	NU	NU	24	nummod	_	
+26	udu	udu[sheep]	N	N	20	appos	_	
+27	niga	niga[fattened][-ø]	V	NF.V.ABS	26	acl	_	
+28	4(disz)	4(disz)[one]	NU	NU	20	nummod	_	
+29	u8	u[ewe]	N	N	20	appos	_	
+30	niga	niga[fattened][-ø]	V	NF.V.ABS	29	acl	_	
+31	4(disz)	4(disz)[one]	NU	NU	20	nummod	_	
+32	masz2	masz[goat]	N	N	20	appos	_	
+33	niga	niga[fattened][-ø]	V	NF.V.ABS	32	acl	_	
+34	5(disz)	5(disz)[one]	NU	NU	20	nummod	_	
+35	ud5	uzud[goat]	N	N	20	appos	_	
+36	niga	niga[fattened][-ø]	V	NF.V.ABS	35	acl	_	
+37	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	20	nummod	_	
+38	4(gesz2)	4(gesz)[sixty]	NU	NU	43	nummod	projectivity violation	
+39	2(disz)	2(disz)[one]	NU	NU	38	nummod	_	
+40	udu	udu[sheep]	N	N	20	appos	_	
+41	2(u)	2(u)[ten]	NU	NU	20	nummod	_	
+42	1(disz)	1(disz)[one]	NU	NU	48	nummod	projectivity violation	
+43	u8	u[ewe]	N	N	20	appos	_	
+44	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	20	nummod	_	
+45	2(gesz2)	2(gesz)[sixty]	NU	NU	50	nummod	projectivity violation	
+46	2(u)	2(u)[ten]	NU	NU	45	nummod	_	
+47	6(disz)	6(disz)[one][-sze]	NU	NU	45	nummod	_	
+48	masz2	masz[goat]	N	N	20	appos	_	
+49	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+50	ud5	uzud[goat]	N	N	20	appos	_	
+51	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+52	dara4-nita2	_[mountain.goat.buck]	PN	PN	20	appos	_	
+53	5(u)	5(u)[ten]	NU	NU	20	nummod	_	
+54	2(disz)	2(disz)[one]	NU	NU	57	nummod	projectivity violation	
+55	masz-da3	maszda[gazelle][-ø]	N	N	20	appos	_	
+56	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+57	az	_[bear]	N	N.GEN	20	appos	_	
+58	($	_	_	_	57	_	heuristic: attach to last	
+59	blank	_	_	_	58	_	heuristic: attach to last	
+60	space	_	_	_	59	_	heuristic: attach to last	
+61	$)	_	_	_	60	_	heuristic: attach to last	
+62	4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+63	6(gesz2)	6(gesz)[sixty]	NU	NU	62	nummod	_	
+64	3(u)	3(u)[ten]	NU	NU	62	nummod	_	
+65	4(disz)	4(disz)[one]	NU	NU	62	nummod	_	
+66	mu-kux(DU)	mukur[delivery][-ø]	N	N	20	appos	_	
+67	lugal	lugal[king]	N	N	66	acl	_	
+68	1(disz)	1(disz)[one]	NU	NU	69	nummod	_	
+69	udu	udu[sheep]	N	N	20	appos	_	
+70	3(disz)	3(disz)[one]	NU	NU	69	nummod	_	
+71	masz2	masz[goat]	N	N	72	nmod	_	
+72	($	_[buck.goats]	FN	FN	69	appos	_	
+73	blank	_	N	N	72	_	heuristic: attach to last	
+74	space	_	N	N	73	_	heuristic: attach to last	
+75	$)	_	N	N	74	_	heuristic: attach to last	
+76	4(disz)	4(disz)[one]	NU	NU	77	nummod	heuristic: NU premodifying	
+77	mu-kux(DU)	mukur[delivery][-ø]	N	N	69	appos	_	
+78	{d}szul-gi	Szulgir[1]	RN	RN	77	GEN	_	
+79	1(u)	1(u)[ten]	NU	NU	82	nummod	projectivity violation	
+80	la2	la[hang][-ø]	V	NF.V.ABS	79	acl	_	
+81	1(disz@t)	1(disz)[one]	NU	NU	85	nummod	projectivity violation	
+82	{ansze}kunga2-nita2	_[male.k-equids]	PN	PN	69	appos	_	
+83	5(disz)	5(disz)[one]	NU	NU	82	nummod	_	
+84	{ansze}kunga2-munus	_[female.k-equids]	N	N	85	acl	_	
+85	($	_[female.k-equids]	FN	FN	82	appos	_	
+86	blank	_	N	N	85	_	heuristic: attach to last	
+87	space	_	N	N	86	_	heuristic: attach to last	
+88	$)	_	N	N	87	_	heuristic: attach to last	
+89	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+90	4(disz)	4(disz)[one]	NU	NU	89	nummod	_	
+91	ki	ki[place]	N	N	92	ABL	_	
+92	szabra-ne-ta	_[managers]	N	N.GEN.PL.ABL	82	ABL	_	
+93	4(disz)	4(disz)[one]	NU	NU	94	nummod	_	
+94	gu4	gud[ox]	N	N	82	appos	_	
+95	1(u)	1(u)[ten]	NU	NU	94	nummod	_	
+96	2(disz)	2(disz)[one]	NU	NU	99	nummod	projectivity violation	
+97	ab2	ab[cow][-ø]	N	N	94	appos	_	
+98	7(disz)	7(disz)[one][-sze]	NU	NU	94	nummod	_	
+99	szeg9-bar-nita2	_[deer.bucks]	PN	PN	94	appos	_	
+100	1(disz)	1(disz)[one]	NU	NU	94	nummod	_	
+101	szeg9-bar-munus	_[deer.doe]	N	N.GEN.ABS	94	acl	_	
+102	2(disz)	2(disz)[one]	NU	NU	94	nummod	_	
+103	dusu2-nita2	_[jackasses]	PN	PN	94	appos	_	
+104	1(disz)	1(disz)[one]	NU	NU	94	nummod	_	
+105	dusu2-munus	_[jenny]	N	N	94	appos	_	
+106	3(u)	3(u)[ten]	NU	NU	94	nummod	_	
+107	2(disz)	2(disz)[one]	NU	NU	111	nummod	projectivity violation	
+108	udu	udu[sheep]	N	N	94	appos	_	
+109	2(u)	2(u)[ten]	NU	NU	94	nummod	_	
+110	3(disz)	3(disz)[one]	NU	NU	114	nummod	projectivity violation	
+111	u8	u[ewe]	N	N	94	appos	_	
+112	3(u)	3(u)[ten]	NU	NU	94	nummod	_	
+113	7(disz)	7(disz)[one][-sze]	NU	NU	118	nummod	projectivity violation	
+114	masz2	masz[goat]	N	N	94	appos	_	
+115	4(u)	4(u)[ten]	NU	NU	94	nummod	_	
+116	7(disz)	7(disz)[one][-sze]	NU	NU	115	nummod	_	
+117	ud5	uzud[goat]	N	N	118	nmod	_	
+118	($	_[doe.goats]	N	N	94	appos	_	
+119	blank	_	_	_	118	_	heuristic: attach to last	
+120	space	_	_	_	119	_	heuristic: attach to last	
+121	$)	_	_	_	120	_	heuristic: attach to last	
+122	2(gesz2)	2(gesz)[sixty]	NU	NU	0	nummod	_	
+123	4(u)	4(u)[ten]	NU	NU	122	nummod	_	
+124	6(disz)	6(disz)[one][-sze]	NU	NU	122	nummod	_	
+125	e2-du6-la	_[estate]	N	N	94	appos	_	
+126	1(u)	1(u)[ten]	NU	NU	94	nummod	_	
+127	7(disz)	7(disz)[one][-sze]	NU	NU	130	nummod	projectivity violation	
+128	gu4	gud[ox]	N	N	94	appos	_	
+129	1(disz)	1(disz)[one]	NU	NU	94	nummod	_	
+130	ab2	ab[cow][-ø]	N	N	94	appos	_	
+131	5(gesz2)	5(gesz)[sixty]	NU	NU	94	nummod	_	
+132	4(u)	4(u)[ten]	NU	NU	137	nummod	projectivity violation	
+133	7(disz)	7(disz)[one][-sze]	NU	NU	132	nummod	_	
+134	udu	udu[sheep]	N	N	94	appos	_	
+135	1(u)	1(u)[ten]	NU	NU	94	nummod	_	
+136	2(disz)	2(disz)[one]	NU	NU	141	nummod	projectivity violation	
+137	u8	u[ewe]	N	N	94	appos	_	
+138	5(gesz2)	5(gesz)[sixty]	NU	NU	94	nummod	_	
+139	5(u)	5(u)[ten]	NU	NU	144	nummod	projectivity violation	
+140	6(disz)	6(disz)[one][-sze]	NU	NU	139	nummod	_	
+141	masz2	masz[goat]	N	N	94	appos	_	
+142	3(gesz2)	3(gesz)[sixty]	NU	NU	94	nummod	_	
+143	4(disz)	4(disz)[one]	NU	NU	146	nummod	projectivity violation	
+144	ud5	uzud[goat]	N	N	94	appos	_	
+145	3(disz)	3(disz)[one]	NU	NU	94	nummod	_	
+146	masz-da3	maszda[gazelle][-ø]	N	N	94	appos	_	
+147	($	_	_	_	146	_	heuristic: attach to last	
+148	blank	_	_	_	147	_	heuristic: attach to last	
+149	space	_	_	_	148	_	heuristic: attach to last	
+150	$)	_	_	_	149	_	heuristic: attach to last	
+151	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+152	5(gesz2)	5(gesz)[sixty]	NU	NU	151	nummod	_	
+153	2(u)	2(u)[ten]	NU	NU	151	nummod	_	
+154	a-sza3-ta	_[from.field]	N	N.ABL	94	ABL	_	
+155	szunigin	szunigin[total]	N	N	4	appos	_	
+156	2(gesz2)	2(gesz)[sixty]	NU	NU	155	nummod	_	
+157	2(u)	2(u)[ten]	NU	NU	156	nummod	_	
+158	7(disz)	7(disz)[one][-sze]	NU	NU	156	nummod	_	
+159	gu4	gud[ox]	N	N	155	appos	_	
+160	niga	niga[fattened][-ø]	V	NF.V.ABS	159	acl	_	
+161	szunigin	szunigin[total]	N	N	155	appos	_	
+162	1(disz)	1(disz)[one]	NU	NU	163	nummod	_	
+163	ab2	ab[cow][-ø]	N	N	155	appos	_	
+164	niga	niga[fattened][-ø]	V	NF.V.ABS	163	acl	_	
+165	szunigin	szunigin[total]	N	N	163	appos	_	
+166	2(gesz2)	2(gesz)[sixty]	NU	NU	167	nummod	_	
+167	gu4	gud[ox]	N	N	163	appos	_	
+168	szunigin	szunigin[total]	N	N	167	appos	_	
+169	2(u)	2(u)[ten]	NU	NU	171	nummod	_	
+170	4(disz)	4(disz)[one]	NU	NU	169	nummod	_	
+171	ab2	ab[cow][-ø]	N	N	167	appos	_	
+172	szunigin	szunigin[total]	N	N	171	appos	_	
+173	7(disz)	7(disz)[one][-sze]	NU	NU	174	nummod	_	
+174	szeg9-bar-nita2	_[deer.bucks]	PN	PN	171	appos	_	
+175	szunigin	szunigin[total]	N	N	174	appos	_	
+176	2(disz)	2(disz)[one]	NU	NU	177	nummod	_	
+177	szeg9-bar-munus	_[deer.does]	N	N.GEN.ABS	174	acl	_	
+178	szunigin	szunigin[total]	N	N	177	appos	_	
+179	1(disz)	1(disz)[one]	NU	NU	177	nummod	projectivity violation	
+180	{ansze}zi-zi-nita2	_[stallion]	PN	PN	178	appos	_	
+181	szunigin	szunigin[total]	N	N	177	appos	_	
+182	2(disz)	2(disz)[one]	NU	NU	177	nummod	projectivity violation	
+183	{ansze}zi-zi-munus	_[mare]	N	N	181	appos	_	
+184	szunigin	szunigin[total]	N	N	177	appos	_	
+185	1(u)	1(u)[ten]	NU	NU	188	nummod	_	
+186	la2	la[hang][-ø]	V	NF.V.ABS	185	acl	_	
+187	1(disz@t)	1(disz)[one]	NU	NU	186	nummod	_	
+188	{ansze}kunga2-nita2	_[male.k-equids]	PN	PN	184	appos	_	
+189	szunigin	szunigin[total]	N	N	188	appos	_	
+190	5(disz)	5(disz)[one]	NU	NU	191	nummod	_	
+191	{ansze}kunga2-munus	_[female.k-equids]	N	N	188	appos	_	
+192	szunigin	szunigin[total]	N	N	191	appos	_	
+193	2(disz)	2(disz)[one]	NU	NU	194	nummod	_	
+194	dusu2-nita2	_[jackasses]	PN	PN	191	appos	_	
+195	szunigin	szunigin[total]	N	N	194	appos	_	
+196	1(disz)	1(disz)[one]	NU	NU	197	nummod	_	
+197	dusu2-munus	_[jenny]	N	N	194	appos	_	
+198	szunigin	szunigin[total]	N	N	197	appos	_	
+199	4(gesz2)	4(gesz)[sixty]	NU	NU	202	nummod	_	
+200	1(u)	1(u)[ten]	NU	NU	199	nummod	_	
+201	5(disz)	5(disz)[one]	NU	NU	199	nummod	_	
+202	udu	udu[sheep]	N	N	197	appos	_	
+203	niga	niga[fattened][-ø]	V	NF.V.ABS	202	acl	_	
+204	szunigin	szunigin[total]	N	N	202	appos	_	
+205	4(disz)	4(disz)[one]	NU	NU	206	nummod	_	
+206	u8	u[ewe]	N	N	202	appos	_	
+207	niga	niga[fattened][-ø]	V	NF.V.ABS	206	acl	_	
+208	szunigin	szunigin[total]	N	N	206	appos	_	
+209	4(disz)	4(disz)[one]	NU	NU	210	nummod	_	
+210	masz2	masz[goat]	N	N	206	appos	_	
+211	niga	niga[fattened][-ø]	V	NF.V.ABS	210	acl	_	
+212	szunigin	szunigin[total]	N	N	210	appos	_	
+213	5(disz)	5(disz)[one]	NU	NU	214	nummod	_	
+214	ud5	uzud[goat]	N	N	210	appos	_	
+215	niga	niga[fattened][-ø]	V	NF.V.ABS	214	acl	_	
+216	szunigin	szunigin[total]	N	N	214	appos	_	
+217	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	220	nummod	_	
+218	2(u)	2(u)[ten]	NU	NU	217	nummod	_	
+219	2(disz)	2(disz)[one]	NU	NU	217	nummod	_	
+220	udu	udu[sheep]	N	N	214	appos	_	
+221	szunigin	szunigin[total]	N	N	220	appos	_	
+222	5(u)	5(u)[ten]	NU	NU	224	nummod	_	
+223	6(disz)	6(disz)[one][-sze]	NU	NU	222	nummod	_	
+224	u8	u[ewe]	N	N	220	appos	_	
+225	szunigin	szunigin[total]	N	N	224	appos	_	
+226	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	229	nummod	_	
+227	9(gesz2)	9(gesz)[sixty]	NU	NU	226	nummod	_	
+228	2(disz)	2(disz)[one]	NU	NU	226	nummod	_	
+229	masz2	masz[goat]	N	N	224	appos	_	
+230	szunigin	szunigin[total]	N	N	229	appos	_	
+231	3(gesz2)	3(gesz)[sixty]	NU	NU	234	nummod	_	
+232	5(u)	5(u)[ten]	NU	NU	231	nummod	_	
+233	2(disz)	2(disz)[one]	NU	NU	231	nummod	_	
+234	ud5	uzud[goat]	N	N	229	appos	_	
+235	szunigin	szunigin[total]	N	N	234	appos	_	
+236	1(disz)	1(disz)[one]	NU	NU	237	nummod	_	
+237	dara4-nita2	_[male.mountain.goat]	PN	PN	234	appos	_	
+238	szunigin	szunigin[total]	N	N	237	appos	_	
+239	5(u)	5(u)[ten]	NU	NU	241	nummod	_	
+240	5(disz)	5(disz)[one]	NU	NU	239	nummod	_	
+241	masz-da3	maszda[gazelle][-ø]	N	N	237	appos	_	
+242	szunigin	szunigin[total]	N	N	241	appos	_	
+243	1(disz)	1(disz)[one]	NU	NU	244	nummod	_	
+244	az	_[bear]	N	N.GEN	241	appos	_	
+245	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+246	4(gesz2)	4(gesz)[sixty]	NU	NU	244	nummod	_	
+247	5(u)	5(u)[ten]	NU	NU	246	nummod	_	
+248	2(disz)	2(disz)[one]	NU	NU	246	nummod	_	
+249	gu4	gud[ox]	N	N	244	appos	_	
+250	ab2	ab[cow][-ø]	N	N	249	appos	_	
+251	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	249	acl	_	
+252	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+253	1(u)	1(u)[ten]	NU	NU	244	nummod	_	
+254	la2	la[hang][-ø]	V	NF.V.ABS	256	acl	_	
+255	1(disz@t)	1(disz)[one]	NU	NU	254	nummod	_	
+256	szeg9-bar	Szegbar[1][-ra]	N	PN.DAT-H	244	appos	_	
+257	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+258	3(disz)	3(disz)[one]	NU	NU	244	nummod	_	
+259	{ansze}zi-zi	_[horses]	PN	PN	244	appos	_	
+260	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+261	1(u)	1(u)[ten]	NU	NU	244	nummod	_	
+262	4(disz)	4(disz)[one]	NU	NU	261	nummod	_	
+263	{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	244	appos	_	
+264	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+265	3(disz)	3(disz)[one]	NU	NU	244	nummod	_	
+266	dusu2	_[donkeys]	N	N	244	appos	_	
+267	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+268	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	244	nummod	_	
+269	8(gesz2)	8(gesz2)[sixty]	NU	NU	268	nummod	_	
+270	4(u)	4(u)[ten]	NU	NU	268	nummod	_	
+271	1(disz)	1(disz)[one]	NU	NU	268	nummod	_	
+272	udu	udu[sheep]	N	N	244	appos	_	
+273	masz2	masz[goat]	N	N	272	appos	_	
+274	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	272	acl	_	
+275	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	244	_	_	
+276	5(u)	5(u)[ten]	NU	NU	244	nummod	_	
+277	5(disz)	5(disz)[one]	NU	NU	281	nummod	_	
+278	masz-da3	maszda[gazelle][-ø]	N	N	277	_	heuristic: attach to last	
+279	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	278	_	heuristic: attach to last	
+280	1(disz)	1(disz)[one]	NU	NU	281	nummod	_	
+281	az	_[bear]	N	N.GEN	290	ABS	_	
+282	($	_	_	_	281	_	heuristic: attach to last	
+283	blank	_	_	_	282	_	heuristic: attach to last	
+284	space	_	_	_	283	_	heuristic: attach to last	
+285	$)	_	_	_	284	_	heuristic: attach to last	
+286	1(szar2)	1(szar)[unit]	NU	N	0	nummod	_	
+287	4(gesz2)	4(gesz)[sixty]	NU	NU	286	nummod	_	
+288	5(u)	5(u)[ten]	NU	NU	286	nummod	_	
+289	8(disz)	8(disz)[one]	NU	NU	286	nummod	_	
+290	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	244	appos	_	
+291	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	293	_	_	
+292	4(disz)	4(disz)[one]	NU	NU	293	nummod	_	
+293	gu4	gud[ox]	N	N	244	appos	_	
+294	niga	niga[fattened][-ø]	V	NF.V.ABS	293	acl	_	
+295	1(u)	1(u)[ten]	NU	NU	293	nummod	_	
+296	7(disz)	7(disz)[one][-sze]	NU	NU	299	nummod	projectivity violation	
+297	gu4	gud[ox]	N	N	293	appos	_	
+298	2(disz)	2(disz)[one]	NU	NU	293	nummod	_	
+299	udu	udu[sheep]	N	N	293	appos	_	
+300	niga	niga[fattened][-ø]	V	NF.V.ABS	299	acl	_	
+301	1(disz)	1(disz)[one]	NU	NU	293	nummod	_	
+302	ud5	uzud[goat]	N	N	293	appos	_	
+303	niga	niga[fattened][-ø]	V	NF.V.ABS	302	acl	_	
+304	4(gesz2)	4(gesz)[sixty]	NU	NU	293	nummod	_	
+305	2(disz)	2(disz)[one]	NU	NU	309	nummod	projectivity violation	
+306	udu	udu[sheep]	N	N	293	appos	_	
+307	1(u)	1(u)[ten]	NU	NU	293	nummod	_	
+308	2(disz)	2(disz)[one]	NU	NU	313	nummod	projectivity violation	
+309	u8	u[ewe]	N	N	293	appos	_	
+310	4(gesz2)	4(gesz)[sixty]	NU	NU	293	nummod	_	
+311	2(u)	2(u)[ten]	NU	NU	316	nummod	projectivity violation	
+312	1(disz)	1(disz)[one]	NU	NU	311	nummod	_	
+313	masz2	masz[goat]	N	N	293	appos	_	
+314	3(gesz2)	3(gesz)[sixty]	NU	NU	293	nummod	_	
+315	4(disz)	4(disz)[one]	NU	NU	318	nummod	projectivity violation	
+316	ud5	uzud[goat]	N	N	293	appos	_	
+317	5(u)	5(u)[ten]	NU	NU	293	nummod	_	
+318	masz-da3	maszda[gazelle][-ø]	N	N	293	appos	_	
+319	($	_	_	_	318	_	heuristic: attach to last	
+320	blank	_	_	_	319	_	heuristic: attach to last	
+321	space	_	_	_	320	_	heuristic: attach to last	
+322	$)	_	_	_	321	_	heuristic: attach to last	
+323	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+324	2(gesz2)	2(gesz)[sixty]	NU	NU	323	nummod	_	
+325	5(u)	5(u)[ten]	NU	NU	323	nummod	_	
+326	3(disz)	3(disz)[one]	NU	NU	323	nummod	_	
+327	zi-ga	zig[expend]-a	V	NF.V.PT	293	acl	_	
+328	lugal	lugal[king]	N	N	327	acl	_	
+329	ad6-bi	_[their.carcasses]	N	N	332	ABS	projectivity violation	
+330	ur-nigar{gar}	Urnigar[1]	PN	PN	329	_	heuristic: attach to last	
+331	szu	szu[hand][-e]	N	N.L3-NH	244	appos	projectivity violation	
+332	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	293	acl	_	
+333	kusz-bi	_[their.leather]	N	N.3-SG-NH-POSS.ABS	334	nmod	_	
+334	lugal-erin2	_[Lugal-erin]	PN	PN	336	ERG	_	
+335	szu	szu[hand][-e]	N	N.L3-NH	336	_	_	
+336	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	244	acl	_	
+337	3(disz)	3(disz)[one]	NU	NU	338	nummod	_	
+338	udu	udu[sheep]	N	N	336	ABS	_	
+339	niga	niga[fattened][-ø]	V	NF.V.ABS	338	acl	_	
+340	1(disz)	1(disz)[one]	NU	NU	338	nummod	_	
+341	udu	udu[sheep]	N	N	338	appos	_	
+342	1(disz)	1(disz)[one]	NU	NU	338	nummod	_	
+343	masz2	masz[goat]	N	N	344	nmod	_	
+344	($	_[buck.goat]	N	N	338	appos	_	
+345	blank	_	_	_	344	_	heuristic: attach to last	
+346	space	_	_	_	345	_	heuristic: attach to last	
+347	$)	_	_	_	346	_	heuristic: attach to last	
+348	5(disz)	5(disz)[one]	NU	NU	349	nummod	heuristic: NU premodifying	
+349	{gesz}gu-za	guza[chair]	N	N	338	appos	_	
+350	{d}szul-gi	Szulgir[1]	RN	RN	349	GEN	_	
+351	1(u)	1(u)[ten]	NU	NU	354	nummod	projectivity violation	
+352	la2	la[hang][-ø]	V	NF.V.ABS	351	acl	_	
+353	1(disz@t)	1(disz)[one]	NU	NU	357	nummod	projectivity violation	
+354	gu4	gud[ox]	N	N	338	appos	_	
+355	niga	niga[fattened][-ø]	V	NF.V.ABS	354	acl	_	
+356	5(disz)	5(disz)[one]	NU	NU	354	nummod	_	
+357	udu	udu[sheep]	N	N	354	appos	_	
+358	niga	niga[fattened][-ø]	V	NF.V.ABS	357	acl	_	
+359	2(gesz2)	2(gesz)[sixty]	NU	NU	362	nummod	projectivity violation	
+360	4(u)	4(u)[ten]	NU	NU	366	nummod	projectivity violation	
+361	1(disz)	1(disz)[one]	NU	NU	360	nummod	_	
+362	udu	udu[sheep]	N	N	354	appos	_	
+363	1(gesz2)	1(gesz)[sixty]	NU	NU	362	nummod	_	
+364	4(u)	4(u)[ten]	NU	NU	368	nummod	projectivity violation	
+365	1(disz)	1(disz)[one]	NU	NU	364	nummod	_	
+366	masz2	masz[goat]	N	N	362	appos	_	
+367	1(disz)	1(disz)[one]	NU	NU	362	nummod	_	
+368	masz-da3	maszda[gazelle][-ø]	N	N	362	appos	_	
+369	($	_	_	_	368	_	heuristic: attach to last	
+370	blank	_	_	_	369	_	heuristic: attach to last	
+371	space	_	_	_	370	_	heuristic: attach to last	
+372	$)	_	_	_	371	_	heuristic: attach to last	
+373	4(gesz2)	4(gesz)[sixty]	NU	NU	0	nummod	_	
+374	3(u)	3(u)[ten]	NU	NU	373	nummod	_	
+375	7(disz)	7(disz)[one][-sze]	NU	NU	373	nummod	_	
+376	nig2-ba	nigba[gift]	N	N	362	appos	_	
+377	lugal	lugal[king]	N	N	376	acl	_	
+378	3(u)	3(u)[ten]	NU	NU	379	nummod	_	
+379	udu	udu[sheep]	N	N	362	appos	_	
+380	($	_	_	_	379	_	heuristic: attach to last	
+381	blank	_	_	_	380	_	heuristic: attach to last	
+382	space	_	_	_	381	_	heuristic: attach to last	
+383	$)	_	_	_	382	_	heuristic: attach to last	
+384	3(u)	3(u)[ten]	NU	NU	385	nummod	heuristic: NU premodifying	
+385	sa2-du11	sadug[offerings]	N	N	354	appos	projectivity violation	
+386	{d}gu-la	Gula[1][-ak][-ra]	DN	DN	379	appos	_	
+387	6(disz)	6(disz)[one][-sze]	NU	NU	388	nummod	_	
+388	udu	udu[sheep]	N	N	354	appos	_	
+389	($	_	_	_	388	_	heuristic: attach to last	
+390	blank	_	_	_	389	_	heuristic: attach to last	
+391	space	_	_	_	390	_	heuristic: attach to last	
+392	$)	_	_	_	391	_	heuristic: attach to last	
+393	6(disz)	6(disz)[one][-sze]	NU	NU	395	nummod	heuristic: NU premodifying	
+394	sa2-du11	sadug[offerings]	N	N	395	_	_	
+395	inim-{d}nanna	_[ration.Inim-Nanna]	PN	PN	388	appos	_	
+396	1(u)	1(u)[ten]	NU	NU	395	nummod	_	
+397	la2	la[hang][-ø]	V	NF.V.ABS	399	acl	projectivity violation	
+398	1(disz@t)	1(disz)[one]	NU	NU	402	nummod	projectivity violation	
+399	{ansze}kunga2-nita2	_[male.k-equids]	PN	PN	395	appos	_	
+400	5(disz)	5(disz)[one]	NU	NU	395	nummod	_	
+401	{ansze}kunga2-munus	_[female.k-equids]	N	N	402	acl	_	
+402	($	_[female.k-equids]	N	N	395	appos	_	
+403	blank	_	_	_	402	_	heuristic: attach to last	
+404	space	_	_	_	403	_	heuristic: attach to last	
+405	$)	_	_	_	404	_	heuristic: attach to last	
+406	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+407	4(disz)	4(disz)[one]	NU	NU	406	nummod	_	
+408	mu	mu[year]	N	N	407	_	heuristic: attach to last	
+409	ur-ra-sze3	_[for.dogs]	PN	PN.GEN.TERM	388	TERM	_	
+410	kal-{d}szul-gi	_[Dan-Szulgi]	PN	PN	412	ABS	projectivity violation	
+411	szu	szu[hand][-e]	N	N.L3-NH	244	appos	projectivity violation	
+412	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	409	acl	_	
+413	1(u)	1(u)[ten]	NU	NU	415	nummod	projectivity violation	
+414	5(disz)	5(disz)[one]	NU	NU	419	nummod	projectivity violation	
+415	udu	udu[sheep]	N	N	244	appos	_	
+416	1(u)	1(u)[ten]	NU	NU	415	nummod	_	
+417	5(disz)	5(disz)[one]	NU	NU	416	nummod	_	
+418	masz2	masz[goat]	N	N	419	nmod	_	
+419	($	_[buck.goats]	N	N	415	appos	_	
+420	blank	_	_	_	419	_	heuristic: attach to last	
+421	space	_	_	_	420	_	heuristic: attach to last	
+422	$)	_	_	_	421	_	heuristic: attach to last	
+423	3(u)	3(u)[ten]	NU	NU	424	nummod	heuristic: NU premodifying	
+424	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	415	acl	_	
+425	mu	mu[year]	N	N	424	_	heuristic: attach to last	
+426	ur-ra-sze3	_[for.dogs]	PN	PN.GEN.TERM	415	TERM	_	
+427	dingir-ba-ni	_[Ilum-bani]	PN	PN	426	acl	_	
+428	szu	szu[hand][-e]	N	N.L3-NH	429	_	_	
+429	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	427	acl	_	
+430	1(disz)	1(disz)[one]	NU	NU	432	nummod	projectivity violation	
+431	ab2	ab[cow][-ø]	N	N	429	appos	_	
+432	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	431	acl	_	
+433	($	_	_	_	432	_	heuristic: attach to last	
+434	blank	_	_	_	433	_	heuristic: attach to last	
+435	space	_	_	_	434	_	heuristic: attach to last	
+436	$)	_	_	_	435	_	heuristic: attach to last	
+437	1(disz)	1(disz)[one]	NU	NU	438	nummod	heuristic: NU premodifying	
+438	kiszib3	kiszib[seal]	N	N	432	LOC	_	
+439	ur-nigar{gar}	Urnigar[1]	PN	PN	438	GEN	_	
+440	2(disz)	2(disz)[one]	NU	NU	441	nummod	_	
+441	ab2	ab[cow][-ø]	N	N	206	appos	_	
+442	1(disz)	1(disz)[one]	NU	NU	441	nummod	_	
+443	dara4-nita2	_[male.mountain.goat]	PN	PN	441	appos	_	
+444	1(disz)	1(disz)[one]	NU	NU	441	nummod	_	
+445	az	_[bear]	N	N.GEN	441	appos	_	
+446	($	_	_	_	445	_	heuristic: attach to last	
+447	blank	_	_	_	446	_	heuristic: attach to last	
+448	space	_	_	_	447	_	heuristic: attach to last	
+449	$)	_	_	_	448	_	heuristic: attach to last	
+450	4(disz)	4(disz)[one]	NU	NU	451	nummod	heuristic: NU premodifying	
+451	kiszib3	kiszib[seal]	N	N	441	appos	_	
+452	ensi2	ensik[ruler]	N	N	451	GEN	_	
+453	u3	u[and]	CNJ	CNJ	441	appos	_	
+454	szabra-ne	_[managers]	PN	PN	441	appos	_	
+455	3(u)	3(u)[ten]	NU	NU	457	nummod	projectivity violation	
+456	3(disz)	3(disz)[one]	NU	NU	461	nummod	projectivity violation	
+457	gu4	gud[ox]	N	N	206	appos	_	
+458	niga	niga[fattened][-ø]	V	NF.V.ABS	457	acl	_	
+459	1(u)	1(u)[ten]	NU	NU	457	nummod	_	
+460	5(disz)	5(disz)[one]	NU	NU	463	nummod	projectivity violation	
+461	gu4	gud[ox]	N	N	457	appos	_	
+462	7(disz)	7(disz)[one][-sze]	NU	NU	457	nummod	_	
+463	ab2	ab[cow][-ø]	N	N	457	appos	_	
+464	3(disz)	3(disz)[one]	NU	NU	457	nummod	_	
+465	udu	udu[sheep]	N	N	457	appos	_	
+466	niga	niga[fattened][-ø]	V	NF.V.ABS	465	acl	_	
+467	3(u)	3(u)[ten]	NU	NU	457	nummod	_	
+468	8(disz)	8(disz)[one]	NU	NU	472	nummod	projectivity violation	
+469	udu	udu[sheep]	N	N	457	appos	_	
+470	1(u)	1(u)[ten]	NU	NU	457	nummod	_	
+471	5(disz)	5(disz)[one]	NU	NU	476	nummod	projectivity violation	
+472	u8	u[ewe]	N	N	457	appos	_	
+473	1(u)	1(u)[ten]	NU	NU	457	nummod	_	
+474	8(disz)	8(disz)[one]	NU	NU	473	nummod	_	
+475	masz2	masz[goat]	N	N	476	nmod	_	
+476	($	_[buck.goats]	N	N	457	appos	_	
+477	blank	_	_	_	476	_	heuristic: attach to last	
+478	space	_	_	_	477	_	heuristic: attach to last	
+479	$)	_	_	_	478	_	heuristic: attach to last	
+480	2(gesz2)	2(gesz)[sixty]	NU	NU	0	nummod	_	
+481	1(u)	1(u)[ten]	NU	NU	480	nummod	_	
+482	7(disz)	7(disz)[one][-sze]	NU	NU	480	nummod	_	
+483	kiszib3	kiszib[seal]	N	N	457	LOC	_	
+484	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	485	acl	_	
+485	dumu	dumu[child]	N	N	483	GEN	_	
+486	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	485	GEN	_	
+487	3(u)	3(u)[ten]	NU	NU	489	nummod	projectivity violation	
+488	5(disz)	5(disz)[one]	NU	NU	492	nummod	projectivity violation	
+489	gu4	gud[ox]	N	N	206	appos	_	
+490	niga	niga[fattened][-ø]	V	NF.V.ABS	489	acl	_	
+491	1(disz)	1(disz)[one]	NU	NU	489	nummod	_	
+492	ab2	ab[cow][-ø]	N	N	489	appos	_	
+493	7(disz)	7(disz)[one][-sze]	NU	NU	489	nummod	_	
+494	udu	udu[sheep]	N	N	489	appos	_	
+495	niga	niga[fattened][-ø]	V	NF.V.ABS	494	acl	_	
+496	1(disz)	1(disz)[one]	NU	NU	489	nummod	_	
+497	ud5	uzud[goat]	N	N	489	appos	_	
+498	niga	niga[fattened][-ø]	V	NF.V.ABS	497	acl	_	
+499	4(gesz2)	4(gesz)[sixty]	NU	NU	489	nummod	_	
+500	1(u)	1(u)[ten]	NU	NU	505	nummod	projectivity violation	
+501	7(disz)	7(disz)[one][-sze]	NU	NU	500	nummod	_	
+502	udu	udu[sheep]	N	N	489	appos	_	
+503	1(u)	1(u)[ten]	NU	NU	489	nummod	_	
+504	1(disz)	1(disz)[one]	NU	NU	512	nummod	projectivity violation	
+505	u8	u[ewe]	N	N	489	appos	_	
+506	3(gesz2)	3(gesz)[sixty]	NU	NU	489	nummod	_	
+507	1(u)	1(u)[ten]	NU	NU	506	nummod	_	
+508	la2	la[hang][-ø]	V	NF.V.ABS	512	acl	projectivity violation	
+509	1(disz@t)	1(disz)[one]	NU	NU	489	nummod	_	
+510	masz2	masz[goat]	N	N	512	nmod	_	
+511	8(gesz2)	8(gesz2)[sixty]	NU	NU	512	nummod	heuristic: NU premodifying	
+512	3(u)	3(u)[ten]	NU	NU	489	nummod	_	
+513	5(disz)	5(disz)[one]	NU	NU	512	nummod	_	
+514	kiszib3	kiszib[seal]	N	N	489	LOC	_	
+515	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	PN.ERG	514	GEN	_	
+516	7(disz)	7(disz)[one][-sze]	NU	NU	517	nummod	_	
+517	szeg9-bar-nita2	_[deer.bucks]	PN	PN	489	appos	_	
+518	2(disz)	2(disz)[one]	NU	NU	517	nummod	_	
+519	szeg9-bar-munus	_[deer.does]	N	N.GEN.ABS	517	appos	projectivity violation	
+520	1(disz)	1(disz)[one]	NU	NU	521	nummod	_	
+521	{ansze}zi-zi-nita2	_[stallion]	PN	PN	518	appos	_	
+522	2(disz)	2(disz)[one]	NU	NU	521	nummod	_	
+523	{ansze}zi-zi-munus	_[mares]	N	N	521	appos	_	
+524	($	_	_	_	521	_	heuristic: after nominal head	
+525	blank	_	_	_	521	_	heuristic: after nominal head	
+526	space	_	_	_	521	_	heuristic: after nominal head	
+527	$)	_	_	_	521	_	heuristic: after nominal head	
+528	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+529	2(disz)	2(disz)[one]	NU	NU	528	nummod	_	
+530	kiszib3	kiszib[seal]	N	N	521	LOC	_	
+531	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	532	acl	_	
+532	dumu	dumu[child]	N	N	530	GEN	_	
+533	ARAD2-hul3-la	_[ARAD-ula]	PN	PN	532	GEN	_	
+534	3(gesz2)	3(gesz)[sixty]	NU	NU	532	nummod	_	
+535	5(u)	5(u)[ten]	NU	NU	537	nummod	projectivity violation	
+536	1(disz)	1(disz)[one]	NU	NU	540	nummod	projectivity violation	
+537	udu	udu[sheep]	N	N	521	appos	_	
+538	niga	niga[fattened][-ø]	V	NF.V.ABS	537	acl	_	
+539	4(disz)	4(disz)[one]	NU	NU	537	nummod	_	
+540	u8	u[ewe]	N	N	537	appos	_	
+541	niga	niga[fattened][-ø]	V	NF.V.ABS	540	acl	_	
+542	4(disz)	4(disz)[one]	NU	NU	537	nummod	_	
+543	masz2	masz[goat]	N	N	537	appos	_	
+544	niga	niga[fattened][-ø]	V	NF.V.ABS	543	acl	_	
+545	3(disz)	3(disz)[one]	NU	NU	537	nummod	_	
+546	ud5	uzud[goat]	N	N	537	appos	_	
+547	niga	niga[fattened][-ø]	V	NF.V.ABS	546	acl	_	
+548	7(gesz2)	7(gesz)[sixty]	NU	NU	537	nummod	_	
+549	3(u)	3(u)[ten]	NU	NU	553	nummod	projectivity violation	
+550	1(disz)	1(disz)[one]	NU	NU	549	nummod	_	
+551	udu	udu[sheep]	N	N	537	appos	_	
+552	1(disz)	1(disz)[one]	NU	NU	537	nummod	_	
+553	u8	u[ewe]	N	N	537	appos	_	
+554	5(gesz2)	5(gesz)[sixty]	NU	NU	537	nummod	_	
+555	5(u)	5(u)[ten]	NU	NU	554	nummod	_	
+556	7(disz)	7(disz)[one][-sze]	NU	NU	554	nummod	_	
+557	masz2	masz[goat]	N	N	558	nmod	_	
+558	($	_[buck.goats]	N	N	537	appos	_	
+559	blank	_	_	_	558	_	heuristic: attach to last	
+560	space	_	_	_	559	_	heuristic: attach to last	
+561	$)	_	_	_	560	_	heuristic: attach to last	
+562	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+563	7(gesz2)	7(gesz)[sixty]	NU	NU	562	nummod	_	
+564	3(u)	3(u)[ten]	NU	NU	562	nummod	_	
+565	1(disz)	1(disz)[one]	NU	NU	562	nummod	_	
+566	kiszib3	kiszib[seal]	N	N	537	LOC	_	
+567	na-lu5	Nalu[1][-e]	PN	PN.ERG	566	GEN	_	
+568	2(disz)	2(disz)[one]	NU	NU	569	nummod	_	
+569	dusu2-nita2	_[jackasses]	PN	PN	537	appos	_	
+570	1(disz)	1(disz)[one]	NU	NU	569	nummod	_	
+571	dusu2-munus	_[jenny]	N	N	569	appos	_	
+572	($	_	_	_	571	_	heuristic: attach to last	
+573	blank	_	_	_	572	_	heuristic: attach to last	
+574	space	_	_	_	573	_	heuristic: attach to last	
+575	$)	_	_	_	574	_	heuristic: attach to last	
+576	3(disz)	3(disz)[one]	NU	NU	577	nummod	heuristic: NU premodifying	
+577	kiszib3	kiszib[seal]	N	N	569	LOC	_	
+578	szu-er3-ra	Szu'era[1][-e]	PN	PN	577	GEN	_	
+579	5(u)	5(u)[ten]	NU	NU	581	nummod	projectivity violation	
+580	3(disz)	3(disz)[one]	NU	NU	584	nummod	projectivity violation	
+581	gu4	gud[ox]	N	N	537	appos	_	
+582	niga	niga[fattened][-ø]	V	NF.V.ABS	581	acl	_	
+583	1(disz)	1(disz)[one]	NU	NU	581	nummod	_	
+584	ab2	ab[cow][-ø]	N	N	581	appos	_	
+585	niga	niga[fattened][-ø]	V	NF.V.ABS	584	acl	_	
+586	1(disz)	1(disz)[one]	NU	NU	581	nummod	_	
+587	gu4	gud[ox]	N	N	581	appos	_	
+588	($	_	_	_	587	_	heuristic: attach to last	
+589	blank	_	_	_	588	_	heuristic: attach to last	
+590	space	_	_	_	589	_	heuristic: attach to last	
+591	$)	_	_	_	590	_	heuristic: attach to last	
+592	5(u)	5(u)[ten]	NU	NU	0	nummod	_	
+593	5(disz)	5(disz)[one]	NU	NU	592	nummod	_	
+594	kiszib3	kiszib[seal]	N	N	581	LOC	_	
+595	ur-szu-ga-lam-ma	_[Ur-ugalama]	N	PN.GEN.ABS	594	GEN	_	
+596	1(u)	1(u)[ten]	NU	NU	598	nummod	projectivity violation	
+597	3(disz)	3(disz)[one]	NU	NU	601	nummod	projectivity violation	
+598	gu4	gud[ox]	N	N	537	appos	_	
+599	niga	niga[fattened][-ø]	V	NF.V.ABS	598	acl	_	
+600	4(disz)	4(disz)[one]	NU	NU	598	nummod	_	
+601	udu	udu[sheep]	N	N	598	appos	_	
+602	niga	niga[fattened][-ø]	V	NF.V.ABS	601	acl	_	
+603	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+604	4(u)	4(u)[ten]	NU	NU	603	nummod	_	
+605	la2	la[hang][-ø]	V	NF.V.ABS	607	acl	_	
+606	1(disz@t)	1(disz)[one]	NU	NU	605	nummod	_	
+607	udu	udu[sheep]	N	N	598	appos	_	
+608	($	_	_	_	607	_	heuristic: attach to last	
+609	blank	_	_	_	608	_	heuristic: attach to last	
+610	space	_	_	_	609	_	heuristic: attach to last	
+611	$)	_	_	_	610	_	heuristic: attach to last	
+612	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+613	5(u)	5(u)[ten]	NU	NU	612	nummod	_	
+614	6(disz)	6(disz)[one][-sze]	NU	NU	612	nummod	_	
+615	szu-la2-a	_	PN	PN	614	_	heuristic: attach to last	
+616	sila-a	_[on.street]	N	N.L1	598	LOC	_	
+617	SIG7-a	SIGa[1][-ra]	N	PN.DAT-H	598	appos	_	
+618	kiszib3	kiszib[seal]	N	N	598	LOC	_	
+619	be-li2-a-zu	Beli’azu[1][-e]	PN	PN.ERG	618	GEN	_	
+620	1(gesz2)	1(gesz)[sixty]	NU	NU	619	nummod	_	
+621	1(u)	1(u)[ten]	NU	NU	598	nummod	_	
+622	3(disz)	3(disz)[one]	NU	NU	626	nummod	projectivity violation	
+623	gu4	gud[ox]	N	N	598	appos	_	
+624	1(u)	1(u)[ten]	NU	NU	598	nummod	_	
+625	3(disz)	3(disz)[one]	NU	NU	630	nummod	projectivity violation	
+626	ab2	ab[cow][-ø]	N	N	598	appos	_	
+627	8(gesz2)	8(gesz2)[sixty]	NU	NU	598	nummod	_	
+628	4(u)	4(u)[ten]	NU	NU	633	nummod	projectivity violation	
+629	2(disz)	2(disz)[one]	NU	NU	628	nummod	_	
+630	udu	udu[sheep]	N	N	598	appos	_	
+631	3(u)	3(u)[ten]	NU	NU	598	nummod	_	
+632	2(disz)	2(disz)[one]	NU	NU	635	nummod	projectivity violation	
+633	masz2	masz[goat]	N	N	598	appos	_	
+634	4(u)	4(u)[ten]	NU	NU	598	nummod	_	
+635	ud5	uzud[goat]	N	N	598	appos	_	
+636	4(disz)	4(disz)[one]	NU	NU	598	nummod	_	
+637	masz-da3	maszda[gazelle][-ø]	N	N	598	appos	_	
+638	($	_	NU	NU	598	nummod	_	
+639	blank	_	_	_	638	_	heuristic: attach to last	
+640	space	_	_	_	639	_	heuristic: attach to last	
+641	$)	_	_	_	640	_	heuristic: attach to last	
+642	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+643	4(gesz2)	4(gesz)[sixty]	NU	NU	642	nummod	_	
+644	3(u)	3(u)[ten]	NU	NU	642	nummod	_	
+645	la2	la[hang][-ø]	V	NF.V.ABS	638	acl	_	
+646	1(disz@t)	1(disz)[one]	NU	NU	645	nummod	_	
+647	ib2-tak4	_[remainder.for]	N	N	598	appos	_	
+648	a-sza3-sze3	_[field]	N	N.TERM	647	TERM	_	
+649	szunigin	szunigin[total]	N	N	537	appos	_	
+650	2(gesz2)	2(gesz)[sixty]	NU	NU	649	nummod	_	
+651	2(u)	2(u)[ten]	NU	NU	650	nummod	_	
+652	7(disz)	7(disz)[one][-sze]	NU	NU	650	nummod	_	
+653	gu4	gud[ox]	N	N	649	appos	_	
+654	niga	niga[fattened][-ø]	V	NF.V.ABS	653	acl	_	
+655	szunigin	szunigin[total]	N	N	649	appos	_	
+656	1(disz)	1(disz)[one]	NU	NU	657	nummod	_	
+657	ab2	ab[cow][-ø]	N	N	649	appos	_	
+658	niga	niga[fattened][-ø]	V	NF.V.ABS	657	acl	_	
+659	szunigin	szunigin[total]	N	N	657	appos	_	
+660	2(gesz2)	2(gesz)[sixty]	NU	NU	661	nummod	_	
+661	gu4	gud[ox]	N	N	657	appos	_	
+662	szunigin	szunigin[total]	N	N	661	appos	_	
+663	2(u)	2(u)[ten]	NU	NU	665	nummod	_	
+664	4(disz)	4(disz)[one]	NU	NU	663	nummod	_	
+665	ab2	ab[cow][-ø]	N	N	661	appos	_	
+666	szunigin	szunigin[total]	N	N	665	appos	_	
+667	7(disz)	7(disz)[one][-sze]	NU	NU	668	nummod	_	
+668	szeg9-bar-nita2	_[deer.bucks]	PN	PN	665	appos	_	
+669	szunigin	szunigin[total]	N	N	668	appos	_	
+670	2(disz)	2(disz)[one]	NU	NU	671	nummod	_	
+671	szeg9-bar-munus	_[deer.does]	N	N.GEN.ABS	668	acl	_	
+672	szunigin	szunigin[total]	N	N	671	appos	_	
+673	1(disz)	1(disz)[one]	NU	NU	671	nummod	projectivity violation	
+674	{ansze}zi-zi-nita2	_[stallion]	PN	PN	672	appos	_	
+675	szunigin	szunigin[total]	N	N	671	appos	_	
+676	2(disz)	2(disz)[one]	NU	NU	671	nummod	projectivity violation	
+677	{ansze}zi-zi-munus	_[mares]	N	N	675	appos	_	
+678	szunigin	szunigin[total]	N	N	671	appos	_	
+679	1(u)	1(u)[ten]	NU	NU	671	nummod	projectivity violation	
+680	la2	la[hang][-ø]	V	NF.V.ABS	682	acl	_	
+681	1(disz@t)	1(disz)[one]	NU	NU	680	nummod	_	
+682	{ansze}kunga2-nita2	_[k-equids]	PN	PN	678	appos	_	
+683	szunigin	szunigin[total]	N	N	671	appos	_	
+684	5(disz)	5(disz)[one]	NU	NU	685	nummod	_	
+685	{ansze}kunga2-munus	_[female.k-equids]	N	N	683	appos	_	
+686	szunigin	szunigin[total]	N	N	685	appos	_	
+687	2(disz)	2(disz)[one]	NU	NU	688	nummod	_	
+688	dusu2-nita2	_[jackasses]	PN	PN	685	appos	_	
+689	szunigin	szunigin[total]	N	N	688	appos	_	
+690	1(disz)	1(disz)[one]	NU	NU	691	nummod	_	
+691	dusu2-munus	_[jenny]	N	N	688	appos	_	
+692	szunigin	szunigin[total]	N	N	691	appos	_	
+693	4(gesz2)	4(gesz)[sixty]	NU	NU	696	nummod	_	
+694	1(u)	1(u)[ten]	NU	NU	693	nummod	_	
+695	5(disz)	5(disz)[one]	NU	NU	693	nummod	_	
+696	udu	udu[sheep]	N	N	691	appos	_	
+697	niga	niga[fattened][-ø]	V	NF.V.ABS	696	acl	_	
+698	szunigin	szunigin[total]	N	N	696	appos	_	
+699	4(disz)	4(disz)[one]	NU	NU	700	nummod	_	
+700	u8	u[ewe]	N	N	696	appos	_	
+701	niga	niga[fattened][-ø]	V	NF.V.ABS	700	acl	_	
+702	szunigin	szunigin[total]	N	N	700	appos	_	
+703	4(disz)	4(disz)[one]	NU	NU	704	nummod	_	
+704	masz2	masz[goat]	N	N	700	appos	_	
+705	niga	niga[fattened][-ø]	V	NF.V.ABS	704	acl	_	
+706	szunigin	szunigin[total]	N	N	704	appos	_	
+707	5(disz)	5(disz)[one]	NU	NU	708	nummod	_	
+708	ud5	uzud[goat]	N	N	704	appos	_	
+709	niga	niga[fattened][-ø]	V	NF.V.ABS	708	acl	_	
+710	szunigin	szunigin[total]	N	N	708	appos	_	
+711	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	714	nummod	_	
+712	2(u)	2(u)[ten]	NU	NU	711	nummod	_	
+713	2(disz)	2(disz)[one]	NU	NU	711	nummod	_	
+714	udu	udu[sheep]	N	N	708	appos	_	
+715	szunigin	szunigin[total]	N	N	714	appos	_	
+716	5(u)	5(u)[ten]	NU	NU	718	nummod	_	
+717	6(disz)	6(disz)[one][-sze]	NU	NU	716	nummod	_	
+718	u8	u[ewe]	N	N	714	appos	_	
+719	szunigin	szunigin[total]	N	N	718	appos	_	
+720	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	723	nummod	_	
+721	9(gesz2)	9(gesz)[sixty]	NU	NU	720	nummod	_	
+722	2(disz)	2(disz)[one]	NU	NU	720	nummod	_	
+723	masz2	masz[goat]	N	N	718	appos	_	
+724	szunigin	szunigin[total]	N	N	723	appos	_	
+725	3(gesz2)	3(gesz)[sixty]	NU	NU	728	nummod	_	
+726	5(u)	5(u)[ten]	NU	NU	725	nummod	_	
+727	2(disz)	2(disz)[one]	NU	NU	725	nummod	_	
+728	ud5	uzud[goat]	N	N	723	appos	_	
+729	szunigin	szunigin[total]	N	N	728	appos	_	
+730	1(disz)	1(disz)[one]	NU	NU	731	nummod	_	
+731	dara4-nita2	_[male.mountain.goat]	PN	PN	728	appos	_	
+732	szunigin	szunigin[total]	N	N	731	appos	_	
+733	5(u)	5(u)[ten]	NU	NU	735	nummod	_	
+734	5(disz)	5(disz)[one]	NU	NU	733	nummod	_	
+735	masz-da3	maszda[gazelle][-ø]	N	N	731	appos	_	
+736	szunigin	szunigin[total]	N	N	735	appos	_	
+737	1(disz)	1(disz)[one]	NU	NU	738	nummod	_	
+738	az	_[bear]	N	N.GEN	735	appos	_	
+739	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+740	4(gesz2)	4(gesz)[sixty]	NU	NU	738	nummod	_	
+741	5(u)	5(u)[ten]	NU	NU	740	nummod	_	
+742	2(disz)	2(disz)[one]	NU	NU	740	nummod	_	
+743	gu4	gud[ox]	N	N	738	appos	_	
+744	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+745	1(u)	1(u)[ten]	NU	NU	738	nummod	_	
+746	la2	la[hang][-ø]	V	NF.V.ABS	748	acl	_	
+747	1(disz@t)	1(disz)[one]	NU	NU	746	nummod	_	
+748	szeg9-bar	Szegbar[1][-ra]	N	PN.DAT-H	738	appos	_	
+749	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+750	3(disz)	3(disz)[one]	NU	NU	738	nummod	_	
+751	{ansze}zi-zi	_[horses]	PN	PN	738	appos	_	
+752	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+753	1(u)	1(u)[ten]	NU	NU	738	nummod	_	
+754	4(disz)	4(disz)[one]	NU	NU	753	nummod	_	
+755	{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	738	appos	_	
+756	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+757	3(disz)	3(disz)[one]	NU	NU	738	nummod	_	
+758	dusu2	_[donkeys]	N	N	738	appos	_	
+759	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+760	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	738	nummod	_	
+761	8(gesz2)	8(gesz2)[sixty]	NU	NU	760	nummod	_	
+762	4(u)	4(u)[ten]	NU	NU	760	nummod	_	
+763	1(disz)	1(disz)[one]	NU	NU	760	nummod	_	
+764	udu	udu[sheep]	N	N	738	appos	_	
+765	masz2	masz[goat]	N	N	764	appos	_	
+766	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	764	acl	_	
+767	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	738	_	_	
+768	5(u)	5(u)[ten]	NU	NU	738	nummod	_	
+769	5(disz)	5(disz)[one]	NU	NU	773	nummod	_	
+770	masz-da3	maszda[gazelle][-ø]	N	N	769	_	heuristic: attach to last	
+771	nigin2-ba	_[altogether]	N	N.3-SG-NH-POSS.L1	770	_	heuristic: attach to last	
+772	1(disz)	1(disz)[one]	NU	NU	773	nummod	_	
+773	az	_[bear]	N	N.GEN	738	appos	_	
+774	($	_	_	_	773	_	heuristic: attach to last	
+775	blank	_	_	_	774	_	heuristic: attach to last	
+776	space	_	_	_	775	_	heuristic: attach to last	
+777	$)	_	_	_	776	_	heuristic: attach to last	
+778	1(szar2)	1(szar)[unit]	NU	N	0	nummod	_	
+779	4(gesz2)	4(gesz)[sixty]	NU	NU	778	nummod	_	
+780	5(u)	5(u)[ten]	NU	NU	778	nummod	_	
+781	8(disz)	8(disz)[one]	NU	NU	778	nummod	_	
+782	($	_	_	_	781	_	heuristic: attach to last	
+783	blank	_	_	_	782	_	heuristic: attach to last	
+784	space	_	_	_	783	_	heuristic: attach to last	
+785	$)	_	_	_	784	_	heuristic: attach to last	
+786	ki-be2	_	N	N.3-SG-NH-POSS.L3-NH	773	appos	_	
+787	gi4-a	_[restored]	V	V	773	acl	_	
+788	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	773	appos	_	
+789	iti	iti[month]	N	N	790	nmod	_	
+790	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	714	appos	_	
+791	mu	mu[year]	N	N	790	appos	_	
+792	{d}amar-{d}suen	Amarsuen[1]	RN	RN	791	appos	_	
+793	lugal-e	lugal[king]-e	N	N.ERG	795	ERG	_	
+794	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	795	ABS	_	
+795	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	792	acl	_
+	
+

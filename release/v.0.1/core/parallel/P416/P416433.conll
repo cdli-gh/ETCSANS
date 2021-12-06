@@ -1,0 +1,99 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416433.atf new_text=P416433
+# train/P416433.atf						#new_text=P416433
+# tr.en: kid of Lagip kid of Burmama lamb of lamb of Ilum-bani lamb of Szurimku lamb of Imer kid of Ea-malik kid of Tudari lamb of Erreum kid of Ab-il n of -ni lamb of Szelebum lamb of Dada soldier lamb of Abuza lamb of elli-Szulgi lambs of Hunum chief livestock manager lambs of Lugal-melam governor of Nippur lamb of Szu-Idim sheep lamb of Ur-Baba foreman of menials lambs of Watarum temple administrator the rd day delivery Abbasaga accepted month Festival of An year Enunugal of Inanna was hired in Uruk
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	masz2	masz[goat]	N	N	0	root	_	
+3	la-gi-ip	_[Lagip]	PN	PN.GEN.ABL	2	GEN	_	
+4	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+5	masz2	masz[goat]	N	N	2	appos	_	
+6	bur-ma-ma	Burmama[1]	PN	PN	5	GEN	_	
+7	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+8	sila4	sila[lamb]	N	N	2	appos	projectivity violation	
+9	...-bar-re	_[of]	PN	PN.ERG	7	GEN	_	
+10	1(disz)	1(disz)[one]	NU	NU	12	nummod	projectivity violation	
+11	sila4	sila[lamb]	N	N	2	appos	projectivity violation	
+12	dingir-ba-ni	_[Ilum-bani]	PN	PN	11	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+14	sila4	sila[lamb]	N	N	10	appos	_	
+15	szu-ri-im-ku	_[Szurimku]	PN	PN	14	GEN	_	
+16	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+17	sila4	sila[lamb]	N	N	14	appos	_	
+18	im-me-er	_[Imer]	N	N	17	GEN	_	
+19	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+20	masz2	masz[goat]	N	N	14	appos	_	
+21	e2-a-ma-lik	_[Ea-malik]	PN	PN	20	GEN	_	
+22	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+23	masz2	masz[goat]	N	N	14	appos	_	
+24	tu-da-ri	_[Tudari]	PN	PN	23	GEN	_	
+25	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+26	sila4	sila[lamb]	N	N	14	appos	_	
+27	er3-re-szum	Ereszum[1][-ak]	PN	PN.GEN	26	GEN	_	
+28	1(disz)	1(disz)[one]	NU	NU	29	nummod	heuristic: NU premodifying	
+29	masz2	masz[goat]	N	N	14	appos	_	
+30	a2-bi2-li2	_[Ab-il]	PN	PN	29	GEN	_	
+31	n	_(_)[_]	NU	NU	14	nummod	_	
+32	...-ni	_	PN	PN.GEN.ABS	14	appos	_	
+33	'.	_	_	_	14	_	_	
+34	1(disz)	1(disz)[one]	NU	NU	39	nummod	projectivity violation	
+35	sila4	sila[lamb]	N	N	14	appos	_	
+36	sze-le-bu-um	_[Szelebum]	PN	PN	35	GEN	_	
+37	'.	_	_	_	36	_	heuristic: attach to last	
+38	1(disz)	1(disz)[one]	NU	NU	44	nummod	projectivity violation	
+39	sila4	sila[lamb]	N	N	14	appos	_	
+40	da-da	Dada[1][-ak]	PN	PN	39	GEN	_	
+41	u3-kul	_[soldier]	PN	PN	39	appos	_	
+42	'.	_	_	_	41	_	_	
+43	1(disz)	1(disz)[one]	NU	NU	48	nummod	projectivity violation	
+44	sila4	sila[lamb]	N	N	41	appos	_	
+45	a-bu-za	_[Abuza]	N	N	44	GEN	_	
+46	'.	_	_	_	45	_	heuristic: attach to last	
+47	1(disz)	1(disz)[one]	NU	NU	52	nummod	projectivity violation	
+48	sila4	sila[lamb]	N	N	41	appos	_	
+49	s,e-li-{d}szul-gi	_[of.elli-Szulgi]	PN	PN	48	GEN	_	
+50	'.	_	_	_	49	_	heuristic: attach to last	
+51	2(disz)	2(disz)[one]	NU	NU	57	nummod	projectivity violation	
+52	sila4	sila[lamb]	N	N	41	appos	_	
+53	hu-un-nu-um	_[Hunum.chief]	PN	PN	52	GEN	_	
+54	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	41	appos	_	
+55	'.	_	_	_	54	_	heuristic: attach to last	
+56	2(disz)	2(disz)[one]	NU	NU	63	nummod	projectivity violation	
+57	sila4	sila[lamb]	N	N	41	appos	_	
+58	lugal-me-lam2	Lugalmelam[1]	PN	PN	57	GEN	_	
+59	ensi2	ensik[ruler]	N	N	41	appos	_	
+60	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	59	GEN	_	
+61	'.	_	_	_	60	_	_	
+62	1(disz)	1(disz)[one]	NU	NU	67	nummod	projectivity violation	
+63	sila4	sila[lamb]	N	N	60	appos	_	
+64	szu-{d}idim	_[Szu-Idim]	PN	PN	63	GEN	_	
+65	'.	_	_	_	64	_	heuristic: attach to last	
+66	2(disz)	2(disz)[one]	NU	NU	75	nummod	projectivity violation	
+67	udu	udu[sheep]	N	N	60	appos	_	
+68	1(disz)	1(disz)[one]	NU	NU	69	nummod	heuristic: NU premodifying	
+69	sila4	sila[lamb]	N	N	67	appos	_	
+70	ur-{d}ba-ba6	Urbaba[1]	PN	PN	69	GEN	_	
+71	ugula	ugula[overseer][-ø]	N	N	41	appos	_	
+72	ug3-IL2	uggaga[porter]	N	N	71	GEN	_	
+73	'.	_	_	_	72	_	heuristic: attach to last	
+74	2(disz)	2(disz)[one]	NU	NU	75	nummod	heuristic: NU premodifying	
+75	sila4	sila[lamb]	N	N	72	appos	_	
+76	wa-ta2-ru-um	Watarum[1]	PN	PN	75	GEN	_	
+77	sanga	sagga[temple_administrator]	N	N	14	appos	_	
+78	'.	_[the]	_	_	79	nmod	_	
+79	u4	ud[day]	N	N	14	appos	_	
+80	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	79	nummod	_	
+81	'.	_	_	_	80	_	heuristic: attach to last	
+82	mu-kux(DU)	mukur[delivery][-ø]	N	N	79	appos	_	
+83	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	84	ABS	_	
+84	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	79	acl	_	
+85	'.	_	_	_	87	GEN	_	
+86	iti	iti[month]	N	N	85	_	heuristic: attach to last	
+87	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	89	ABS	_	
+88	'.	_	_	_	87	_	heuristic: attach to last	
+89	mu	mu[year]	N	N	14	parataxis	_	
+90	en-unu6-gal	Enunugal[1]	PN	PN	93	ABS	_	
+91	{d}inanna	Inanna[1][-ak]	DN	DN	90	GEN	_	
+92	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	93	LOC	_	
+93	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	89	acl	_
+	
+

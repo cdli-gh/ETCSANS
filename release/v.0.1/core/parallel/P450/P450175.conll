@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: less workdays male laborers foreman Basa at barla of straight-canal stationed under seal of Ur-ee month Barley-at-the-harbor year after Amar-Suen king Ur-ee scribe son of Sae
+# train/P450175.atf new_text=P450175
+# train/P450175.atf						#new_text=P450175
+1	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+4	gurusz	gurusz[male]	N	N	0	root	_	
+5	u4	ud[day]	N	N	4	_	heuristic: after nominal head	
+6	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	7	nummod	heuristic: NU premodifying	
+7	ugula	ugula[overseer][-ø]	N	N	4	appos	_	
+8	ba-sa6	Basa[1][-ak]	PN	PN.GEN	7	appos	_	
+9	bar-la2	_[at]	N	N	11	LOC	projectivity violation	
+10	i7	id[river]	N	N	8	appos	_	
+11	si-sa2	_[barla.straight-canal]	V	V	8	acl	_	
+12	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	11	GEN	_	
+13	kiszib3	kiszib[seal]	N	N	8	LOC	_	
+14	ur-e11-e	Ure'e[1][-ak]	PN	PN	13	GEN	_	
+15	iti	iti[month]	N	N	16	nmod	_	
+16	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	8	appos	_	
+17	mu	mu[year]	N	N	16	_	_	
+18	us2-sa	us[follow]-a	V	NF.V.PT	17	acl	_	
+19	{d}amar-{d}suen	Amarsuen[1]	RN	RN	20	acl	_	
+20	lugal	lugal[king]	N	N	16	appos	_	
+21	ur-e11-e	Ure'e[1][-ak]	PN	PN	4	appos	_	
+22	dub-sar	dubsar[scribe]	N	N	21	appos	_	
+23	dumu	dumu[child]	N	N	22	appos	_	
+24	sa6-e2	_	PN	PN	23	appos	_
+	
+

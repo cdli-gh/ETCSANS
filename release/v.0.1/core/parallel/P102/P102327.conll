@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ox th day from Abbasaga Szu-Mama accepted month uea year Szaru was destroyed ox
+# train/P102327.atf						#new_text=P102327
+# train/P102327.atf new_text=P102327
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+5	ki	ki[place]	N	N	7	ABL	_	
+6	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	7	nmod	_	
+7	szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	2	ABL	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	7	acl	_	
+14	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+15	gu4	gud[ox]	N	N	2	appos	_
+	
+

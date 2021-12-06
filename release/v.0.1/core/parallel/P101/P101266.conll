@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P101266.atf
+# tr.en: ukim fine oil Adu the nubanda Lu-azida
+1	...	_[_]	PN	N	0	dep	_	
+2	x	_[_]	N	N	0	dep	detached for projectivity	
+3	...	_[_]	PN	N	0	dep	_	
+4	i3	i[oil]	N	N	8	nmod	projectivity violation	
+5	u2-ki-im	_[ukim]	N	N	0	root	_	
+6	...	_[_]	PN	N	5	dep	heuristic: after nominal head	
+7	i3-du10-ga	_[fine]	V	V	8	acl	_	
+8	a-du10	_[oil.Adu]	PN	PN	5	appos	_	
+9	nu-banda3	nubanda[overseer][-ø]	N	N	10	nmod	_	
+10	ni-zu-hu	_[the.nubanda]	PN	PN.GEN.ABS	8	appos	_	
+11	szu-ma-x	_	PN	PN	10	_	heuristic: attach to last	
+12	...-x-ga-ru-ti-im	_	PN	PN.GEN.ABS	11	_	heuristic: attach to last	
+13	...	_[_]	PN	N	12	dep	heuristic: attach to last	
+14	ti-u2-ga2	_	PN	PN	13	_	heuristic: attach to last	
+15	...	_[_]	PN	N	14	dep	heuristic: attach to last	
+16	lu2-a2-zi-da	_[Lu-azida]	PN	PN.GEN.ABS	5	appos	_
+	
+

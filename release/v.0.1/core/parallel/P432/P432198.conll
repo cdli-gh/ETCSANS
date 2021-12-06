@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Szullat and Hani his master Szulgi the mighty man king of Ur and king of Sumer and Akkad his temple he built for him For Szullat and Hani his master Szulgi the mighty man king of Ur and king of Sumer and Akkad his temple he built for him
+# train/P432198.atf new_text=P432198
+# train/P432198.atf						#new_text=P432198
+1	{d}su-ul-la-at	_[For.Szullat]	PN	PN	0	root	_	
+2	u3	u[and]	CNJ	CNJ	1	appos	_	
+3	{d}ha-ni-isz	_[Hani]	PN	PN	1	appos	_	
+

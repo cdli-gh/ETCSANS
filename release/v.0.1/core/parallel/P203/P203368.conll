@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203368.atf
+# tr.en: Basket-of-tablets long-tablets of Namani son of uwawa Guedina son of Ur-Utu and Sasaga are here year following Urbilum was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub-gid2-da	_[long-tablets]	N	N	11	ABS	_	
+3	nam-ha-ni	Namhani[1]	N	PN	2	GEN	_	
+4	dumu	dumu[child]	N	N	3	appos	_	
+5	hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	4	GEN	_	
+6	gu3-de2-a	Gude'a[1][-ra]	PN	PN	5	appos	_	
+7	dumu	dumu[child]	N	N	5	appos	_	
+8	ur-{d}utu	Urutu[1]	PN	PN	7	GEN	_	
+9	u3	u[and]	CNJ	CNJ	5	appos	_	
+10	sa6-sa6-ga	_[Sasaga]	PN	PN	5	appos	_	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+12	mu	mu[year]	N	N	13	_	_	
+13	us2-sa	us[follow]-a	V	NF.V.PT	15	acl	_	
+14	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	15	ABS	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	parataxis	_
+	
+

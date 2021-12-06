@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432329.atf new_text=P432329
+# tr.en: his beside Great Oval and Gate of Utu let him say to him The he built
+# train/P432329.atf						#new_text=P432329
+1	'.	SEGM	XPOSTAG	XPOSTAG	12	ERG	_	
+2	...	_[_]	PN	N	1	dep	heuristic: attach to last	
+3	x-ni	_[_]	PN	N.3-SG-H-POSS.X	1	appos	_	
+4	'.	_	_	_	3	_	heuristic: attach to last	
+5	za3	_	N	N	4	_	heuristic: attach to last	
+6	ka2	kan[gate]	N	N	7	LOC	_	
+7	eb-gal	_[Great.Oval]	PN	PN.GEN.ABL	1	LOC	_	
+8	'.	_[and]	N	N	7	appos	_	
+9	ka2	kan[gate]	N	N	7	appos	_	
+10	{d}utu	Utu[1][-ra]	DN	DN	9	GEN	_	
+11	'.	_	_	_	12	_	_	
+12	he2-na-be2	_[let.him.say.to.him]	V	V	0	root	_	
+13	'.	_	N	N	12	ABS	_	
+14	x-na-tu-ub-tum	_[The]	PN	PN.GEN.L1	13	appos	_	
+15	'.	_	_	_	13	_	heuristic: after nominal head	
+16	mu-un-du3	_[he.built]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	13	acl	_
+	
+

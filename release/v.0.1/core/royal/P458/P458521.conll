@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-girizal governor of Laga Ur-Lamma granary supervisor of Ninmarki is your servant
+1	lu2-giri17-zal	lu2-giri17-zal[1]	PN	PN	0	_	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	lagasz{ki}	lagasz{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	ur-{d}lamma	ur-{d}lamma[2]	PN	PN	7	ABS	_
+5	ka-guru7	ka-guru7[supervisor]	N	N	4	appos	_
+6	{d}nin-mar{ki}-ka	{d}nin-mar-ki[1]	DN	DN.GEN.ABS	5	GEN	_
+7	ARAD2-zu	{d}nin-mar-ki[1]+arad2[slave]	N	N.2-SG-POSS.ABS	2	parataxis	_
+

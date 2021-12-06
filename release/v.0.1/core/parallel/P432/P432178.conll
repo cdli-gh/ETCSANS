@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432178.atf
+# tr.en: For Ninmar his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her Munusgilsa temple of Girsu he built for her
+1	{d}nin-mar{ki}	_[For.Ninmar]	DN	DN	0	root	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	1	appos	_	
+3	{d}szul-gi	Szulgir[1]	RN	RN	2	appos	_	
+4	nita	nita[male]	N	N	5	nmod	_	
+5	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+6	lugal	lugal[king]	N	N	2	appos	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_	
+8	lugal	lugal[king]	N	N	6	appos	_	
+9	ki-en-gi	ki'engi[1]	GN	GN	8	GEN	_	
+10	ki-uri-ke4	_[and.and.Akkad]	GN	GN.GEN.ERG	6	appos	_	
+11	e2	e[house]	N	N	2	appos	_	
+12	munus	munus[woman]	N	N	11	_	heuristic: after nominal head	
+13	gil-sa	_[her.Munusgilsa]	N	TN	11	appos	_	
+14	gir2-su{ki}-ka-ni	_[of.Girsu]	PN	SN.GEN.3-SG-H-POSS.ABS	11	GEN	_	
+15	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_
+	
+

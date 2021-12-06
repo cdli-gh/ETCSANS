@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# dev/P111481.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	diri-ba	_	V	V	1	_	heuristic: after nominal head	
+3	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+4	apin-na	_	N	N	1	appos	_	
+5	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+6	hu-hu-nu-ri	_[xxx]	GN	GN	5	_	heuristic: attach to last	
+7	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	6	_	heuristic: attach to last	
+8	mu	mu[year]	N	N	7	_	heuristic: attach to last	
+9	en	en[priest]	N	N	8	_	heuristic: attach to last	
+10	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	9	_	heuristic: attach to last	
+11	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	10	_	heuristic: attach to last	
+12	u3	u[and]	CNJ	CNJ	18	nmod	_	
+13	mu	mu[year]	N	N	12	_	heuristic: attach to last	
+14	en	en[priest]	N	N	13	_	heuristic: attach to last	
+15	{d}nanna	Nanna[1][-ak]	DN	DN	14	_	heuristic: attach to last	
+16	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	18	nmod	_	
+17	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	16	_	heuristic: attach to last	
+18	mu	mu[year]	N	N	1	appos	_	
+19	3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	1	nummod	_
+	
+

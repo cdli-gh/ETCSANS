@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P319648.atf
+# tr.en: Basket-of-tablets long-tablets various ones are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	5	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	_	
+4	didli	didli[several][-ø][-ak]	V	NF.V.ABS	2	acl	_	
+5	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

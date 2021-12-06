@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: cows oxen ewes rams suckling lambs house of grain-fed sheep regular rations month kisiki of Ninazu year Kima and Hurti were destroyed oxen sheep
+# test/P470063.atf new_text=P470063
+# test/P470063.atf						#new_text=P470063
+1	2(u)	2(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	3(disz)	3(disz)[one]	NU	NU	5	nummod	projectivity violation	
+3	ab2	ab[cow][-ø]	N	N	0	root	_	
+4	4(disz)	4(disz)[one]	NU	NU	3	nummod	_	
+5	gu4	gud[ox]	N	N	3	appos	_	
+6	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	13	nummod	projectivity violation	
+7	3(u)	3(u)[ten]	NU	NU	6	nummod	_	
+8	2(disz)	2(disz)[one]	NU	NU	6	nummod	_	
+9	u8	u[ewe]	N	N	3	appos	_	
+10	1(gesz2)	1(gesz)[sixty]	NU	NU	3	nummod	projectivity violation	
+11	4(u)	4(u)[ten]	NU	NU	18	nummod	projectivity violation	
+12	5(disz)	5(disz)[one]	NU	NU	11	nummod	_	
+13	udu	udu[sheep]	N	N	9	appos	_	
+14	4(disz)	4(disz)[one]	NU	NU	18	nummod	_	
+15	sila4	sila[lamb]	N	N	18	nmod	_	
+16	ga	ga[milk]	N	N	18	nmod	_	
+17	x	_[_]	N	N	16	dep	heuristic: attach to last	
+18	e2-udu-niga	_[house.of.grain-fed.sheep]	PN	PN	3	appos	_	
+19	'.	_	N	N	3	appos	_	
+20	sa2-du11	sadug[offerings]	N	N	19	acl	_	
+21	...	_[_]	PN	N	19	dep	_	
+22	'.	_	_	_	19	_	_	
+23	iti	iti[month]	N	N	19	appos	_	
+24	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	19	appos	_	
+25	'.	_	_	_	19	_	_	
+26	mu	mu[year]	N	N	19	appos	_	
+27	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	19	appos	_	
+28	u3	u[and]	CNJ	CNJ	30	nmod	_	
+29	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	30	nmod	_	
+30	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_	
+31	2(u)	2(u)[ten]	NU	NU	3	nummod	projectivity violation	
+32	7(disz)	7(disz)[one][-sze]	NU	NU	31	nummod	_	
+33	gu4	gud[ox]	N	N	19	appos	_	
+34	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+35	2(gesz2)	2(gesz)[sixty]	NU	NU	34	nummod	_	
+36	2(u)	2(u)[ten]	NU	NU	34	nummod	_	
+37	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+38	udu	udu[sheep]	N	N	19	appos	_
+	
+

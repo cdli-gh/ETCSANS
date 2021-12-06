@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P205148.atf						#new_text=P205148
+# tr.en: Basket-of-tablets cows and oxen stationed from Girsu to Guabba are here year following en- of Eridu was hired
+# dev/P205148.atf new_text=P205148
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	ab2	ab[cow][-ø]	N	N	9	ABS	_	
+3	gu4	gud[ox]	N	N	2	appos	_	
+4	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	2	acl	_	
+5	i3-...	_	PN	PN.GEN.ABS	2	appos	_	
+6	ib2-da-...-ra	_	_	_	5	_	heuristic: attach to last	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+10	mu	mu[year]	N	N	11	_	_	
+11	us2-sa	us[follow]-a	V	NF.V.PT	9	parataxis	_	
+12	en	en[priest]	N	N	14	_	_	
+13	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	14	GEN	_	
+14	ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	11	parataxis	_
+	
+

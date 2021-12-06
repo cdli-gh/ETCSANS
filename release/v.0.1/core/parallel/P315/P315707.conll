@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of carpenters overseer Nig-Baba Dada scribe copies of storage house are here year chair of Enlil was fashioned
+# train/P315707.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	szitim-e-ne	_[carpenters]	PN	PN	2	GEN	_	
+4	nu-banda3	nubanda[overseer][-ø]	N	N	7	nmod	_	
+5	nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	7	nmod	_	
+6	...	_[_]	PN	N	5	dep	heuristic: attach to last	
+7	da-da	Dada[1][-ak]	PN	PN	2	appos	_	
+8	dub-sar	dubsar[scribe]	N	N	2	appos	_	
+9	gaba-ri	gabari[copy]	N	N	11	ABS	_	
+10	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	9	GEN	_	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	2	acl	_	
+12	mu	mu[year]	N	N	15	_	_	
+13	{gesz}gu-za	guza[chair]	N	N	15	ABS	_	
+14	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	13	GEN	_	
+15	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	11	parataxis	_
+	
+

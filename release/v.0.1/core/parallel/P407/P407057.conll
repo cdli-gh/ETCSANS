@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P407057.atf
+# tr.en: dur-jacks eme-jennies bucks does rams mountain-range ewes mountain-range st day from Abbasaga Lu-dingira accepted month Great-festival year Amar-Suen king Urbilum destroyed
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	dur3	_[dur-jacks]	N	N	0	root	_	
+3	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+4	eme6	_[eme-jennies]	N	N.ABS	2	appos	_	
+5	8(disz)	8(disz)[one]	NU	NU	2	nummod	_	
+6	szeg9-bar-nita2	_[bucks]	PN	PN	2	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	9	nummod	projectivity violation	
+8	3(disz)	3(disz)[one]	NU	NU	12	nummod	projectivity violation	
+9	szeg9-bar-munus	_[does]	N	N.GEN.ABS	2	appos	_	
+10	1(u)	1(u)[ten]	NU	NU	9	nummod	_	
+11	5(disz)	5(disz)[one]	NU	NU	10	nummod	_	
+12	udu	udu[sheep]	N	N	9	appos	_	
+13	hur-sag	_[mountain-range]	N	N	12	_	heuristic: attach to last	
+14	2(u)	2(u)[ten]	NU	NU	9	nummod	_	
+15	u8	u[ewe]	N	N	14	_	heuristic: attach to last	
+16	hur-sag	_[mountain-range]	N	N	9	appos	_	
+17	u4	ud[day]	N	N	9	nummod	_	
+18	2(u)	2(u)[ten]	NU	NU	9	nummod	_	
+19	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	18	nummod	_	
+20	ki	ki[place]	N	N	21	ABL	_	
+21	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	9	appos	_	
+22	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	23	nmod	_	
+23	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	21	acl	_	
+24	iti	iti[month]	N	N	25	_	_	
+25	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	26	acl	_	
+26	mu	mu[year]	N	N	21	appos	projectivity violation	
+27	{d}amar-{d}suen	Amarsuen[1]	RN	RN	26	appos	_	
+28	lugal-e	lugal[king]-e	N	N.ERG	27	appos	_	
+29	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	30	ABS	_	
+30	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	27	acl	_	
+31	1(gesz2)	1(gesz)[sixty]	NU	NU	32	nummod	heuristic: NU premodifying	
+32	6(disz)	6(disz)[one][-sze]	NU	NU	25	nummod	_
+	
+

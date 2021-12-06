@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekel silver labor of wintertime over two months from Ur-Damu did Ur-gagia one Lugal-egal and Ur-Sulpae receive month bara-zagar the rd day completed year Lullubum was destroyed
+# train/P121320.atf
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	gin2	gig[unit]	N	N	3	nmod	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	11	ABS	projectivity violation	
+4	a2	a[time]	N	N	3	appos	_	
+5	en-te	_[wintertime]	PN	PN	4	GEN	_	
+6	iti	iti[month]	N	N	3	LOC	_	
+7	min-na-sze3	_[over.two]	MN	MN.TERM	6	LOC	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	ur-{d}da-mu-ta	_[Ur-Damu]	PN	PN.GEN.ABL	3	ABL	_	
+10	1(disz)	1(disz)[one]	NU	NU	17	nummod	_	
+11	ur-ga2-gi4-a	_[did.Ur-gagia]	PN	PN	0	root	_	
+12	1(disz)	1(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+13	lugal-he2-gal2	Lugalhegal[1]	PN	PN	17	nmod	_	
+14	1(disz)	1(disz)[one]	NU	NU	17	nummod	_	
+15	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	17	nmod	_	
+16	szu	szu[hand][-e]	N	N.L3-NH	17	_	_	
+17	ba-ti-esz2	ba[-n]-teg[accept][-esz]	V	MID.3-SG-H-A.V.3-PL	11	acl	_	
+18	iti	iti[month]	N	N	17	parataxis	_	
+19	bara2-za3-gar	_[bara-zagar]	MN	MN	18	appos	_	
+20	u4	ud[day]	N	N	22	nmod	projectivity violation	
+21	3(disz)	3(disz)[one]	NU	NU	19	nummod	_	
+22	zal-la	zal[pass]-a	V	NF.V.PT	19	_	_	
+23	mu	mu[year]	N	N	19	appos	_	
+24	lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	25	ABS	_	
+25	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_
+	
+

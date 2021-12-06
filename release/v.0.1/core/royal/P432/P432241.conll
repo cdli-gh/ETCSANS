@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Meslamtaea his god Lunimgira for life of Szulgi dedicated	
+1	{d}mes-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	7	DAT	_
+2	dingir-a-ni	digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	lu2-nimgir-ke4	lu2-nigir[1]	PN	PN.ERG	7	ERG	_
+4	nam-ti	nam-til3[life]	N	N	7	TERM	_
+5	szul-gi-sze3	szul-gi[1]	RN	RN.GEN.TERM	4	GEN	_
+6	a	a[water]	N	N.ABS	7	ABS	_
+7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P111241.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+4	en-te	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+5	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+6	buru14	_[xxx]	N	N	1	_	heuristic: after nominal head	
+7	szabra-ne	_[xxx]	PN	PN	13	nmod	projectivity violation	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	13	acl	projectivity violation	
+9	mu	mu[year]	N	N	1	appos	_	
+10	{d}szu-{d}suen	Szusuen[1]	RN	RN	9	_	heuristic: attach to last	
+11	lugal	lugal[king]	N	N	10	_	heuristic: attach to last	
+12	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	11	_	heuristic: attach to last	
+13	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	1	appos	_	
+14	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+	
+

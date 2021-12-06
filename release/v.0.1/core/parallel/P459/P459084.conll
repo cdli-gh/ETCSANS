@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Dada say bundles of fire-reeds to Girini-isa let him give Szulgi strong man the king of Ur king of four corners Ur-Lisi governor of Umma is your servant
+# train/P459084.atf
+1	da-da	Dada[1][-ak]	PN	PN	2	LOC	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	4	nummod	_	
+4	sa	sa[bundle]	N	N	8	ABS	_	
+5	gi	gi[reed][-ø]	N	N	4	_	heuristic: attach to last	
+6	izi	_[fire-reeds]	N	N.3-SG-NH-POSS.ABS	4	GEN	_	
+7	giri3-ni-i3-sa6-ra	_[to.Girini-isa]	N	N	4	LOC	_	
+8	he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	2	acl	_	
+9	{d}szul-gi	Szulgir[1]	RN	RN	2	appos	_	
+10	nita	nita[male]	N	N	9	appos	_	
+11	kal-ga	kalag[strong]-a	V	NF.V.SUB	9	acl	_	
+12	lugal	lugal[king]	N	N	9	appos	_	
+13	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	12	GEN	_	
+14	lugal	lugal[king]	N	N	9	appos	_	
+15	an	An[1][-ra]	N	N	17	nummod	projectivity violation	
+16	ub-da	_	N	N	9	appos	projectivity violation	
+17	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	14	nummod	_	
+18	ur-{d}li9-si4	Urlisi[1]	PN	PN	21	ABS	_	
+19	ensi2	ensik[ruler]	N	N	18	appos	_	
+20	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	18	GEN	_	
+21	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	9	appos	_
+	
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: illu-Dagn governor of Simurrum Ilak-qir son of Alu chief administrator your servant
+1	s,e-lu-usz-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	si-mu-ru-um{ki}	si-mu-ru-um{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	i-la-ak-szu-qir	i-la-ak-szu-qir[1]	PN	PN	1	_	_
+5	dumu	dumu[child]	N	N	4	appos	_
+6	a-lu-a	a-lu[1]	PN	PN	4	GEN	_
+7	szabra	szabra[administrator]	N	NN5=GEN.ABS	4	appos	_
+8	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	4	appos	_
+

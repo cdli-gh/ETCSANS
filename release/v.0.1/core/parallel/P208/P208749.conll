@@ -1,0 +1,266 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P208749.atf
+# tr.en: bur iku iku field area harrowing time at iku its troops labor days iku field area of tug-sag work at iku its troops labor days month Flight buru bur ee iku field area harrowing times at ee its troops labor days bur iku harrowing times at ee field area its troops labor days labor of harrowing sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar acacia cut at sar its labor days at n sar its labor n days at n sar its labor days sar acacia at sar its labor days sar acacia at sar its labor days sar of hoeing at sar its labor days sar of pickaxing at sar its labor days sar of hoeing at sar its labor days sar at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days work of hirelings at sila sar of hoeing at sar its labor days sar of hoeing at sar its labor days labor of oxen drivers field work to be done field of Kamari foreman Basa under seal of Nimgir-ane Year Szarum was destroyed for nd time Nimgir-ane scribe son of Inim-Szara
+1	2(bur3)	2(bur)[unit]	NU	N	4	nummod	_	
+2	1(iku)	1(iku)[unit]	NU	N	1	nummod	_	
+3	1/2(iku)	1/2(iku)[unit]	NU	N	1	nummod	_	
+4	GAN2	gana[field]	N	N	0	root	_	
+5	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	4	acl	_	
+6	a-ra2	ara[times]	N	N	4	appos	_	
+7	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+8	4(iku)	4(iku)[unit]	NU	N	7	nummod	_	
+9	1/2(iku)	1/2(iku)[unit]	NU	N	7	nummod	_	
+10	GAN2-ta	gana[field]-ta	N	N.ABL	4	LOC	_	
+11	a2	a[time]	N	N	4	_	heuristic: after nominal head	
+12	erin2-na-bi	_[its.troops.labor]	N	N.GEN.ABS	4	appos	_	
+13	u4	ud[day]	N	N	4	appos	_	
+14	2(u)	2(u)[ten]	NU	NU	18	nummod	_	
+15	5(disz)	5(disz)[one]	NU	NU	14	nummod	_	
+16	1/2(iku)	1/2(iku)[unit]	NU	N	18	nummod	_	
+17	1/4(iku)	1/4(iku)[unit]	NU	N	16	nummod	_	
+18	GAN2	gana[field]	N	N	13	appos	_	
+19	tug2-gurx(|SZE.KIN|)	tuggur[plow][-a][-ak]	V	NF.V.PT.GEN	18	acl	_	
+20	1/4(iku)	1/4(iku)[unit]	NU	N	21	nummod	heuristic: NU premodifying	
+21	GAN2-ta	gana[field]-ta	N	N.ABL	18	appos	_	
+22	a2	a[time]	N	N	13	appos	projectivity violation	
+23	erin2-na-bi	_[its.troops.labor]	N	N.GEN.ABS	18	appos	_	
+24	u4	ud[day]	N	N	18	appos	_	
+25	3(disz)	3(disz)[one]	NU	NU	26	nummod	heuristic: NU premodifying	
+26	iti	iti[month]	N	N	13	appos	_	
+27	dal	Dal[1][-'a]	MN	MN.L1	13	appos	_	
+28	1(bur'u)	1(bur'u)[unit]	NU	N	13	nummod	_	
+29	1(bur3)	1(bur)[unit]	NU	N	28	nummod	_	
+30	1(esze3)	1(esze)[unit]	NU	N	28	nummod	_	
+31	3(iku)	3(iku)[unit]	NU	N	28	nummod	_	
+32	GAN2	gana[field]	N	N	13	appos	_	
+33	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	37	acl	_	
+34	a-ra2	ara[times]	N	N	33	_	heuristic: attach to last	
+35	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+36	1(esze3)	1(esze)[unit]	NU	N	35	nummod	_	
+37	GAN2-ta	gana[field]-ta	N	N.ABL	13	appos	_	
+38	a2	a[time]	N	N	37	_	heuristic: attach to last	
+39	erin2-na-bi	_[its.troops.labor]	N	N.GEN.ABS	13	appos	_	
+40	u4	ud[day]	N	N	13	appos	_	
+41	3(gesz2)	3(gesz)[sixty]	NU	NU	52	nummod	_	
+42	2(u)	2(u)[ten]	NU	NU	41	nummod	_	
+43	7(disz)	7(disz)[one][-sze]	NU	NU	41	nummod	_	
+44	3(bur3)	3(bur)[unit]	NU	N	52	nummod	_	
+45	2(iku)	2(iku)[unit]	NU	N	44	nummod	_	
+46	1/2(iku)	1/2(iku)[unit]	NU	N	44	nummod	_	
+47	GAN2	gana[field]	N	N	52	nmod	_	
+48	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	52	acl	_	
+49	a-ra2	ara[times]	N	N	48	_	heuristic: attach to last	
+50	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+51	1(esze3)	1(esze)[unit]	NU	N	50	nummod	_	
+52	GAN2-ta	gana[field]-ta	N	N.ABL	40	appos	_	
+53	a2	a[time]	N	N	52	appos	_	
+54	erin2-na-bi	_[its.troops.labor]	N	N.GEN.ABS	52	appos	_	
+55	u4	ud[day]	N	N	54	_	heuristic: attach to last	
+56	1(gesz2)	1(gesz)[sixty]	NU	NU	57	nummod	_	
+57	2(u)	2(u)[ten]	NU	NU	52	nummod	_	
+58	4(disz)	4(disz)[one]	NU	NU	57	nummod	_	
+59	2/3(disz)	2/3(disz)[one]	NU	NU	57	nummod	_	
+60	a2	a[time]	N	N	59	_	heuristic: attach to last	
+61	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	59	acl	_	
+62	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	61	nummod	_	
+63	9(gesz2)	9(gesz)[sixty]	NU	NU	66	nummod	_	
+64	3(u)	3(u)[ten]	NU	NU	63	nummod	_	
+65	3(disz)	3(disz)[one]	NU	NU	63	nummod	_	
+66	sar	sar[unit]	N	N	57	appos	_	
+67	al	al[hoeing]	N	N	66	GEN	_	
+68	6(disz)	6(disz)[one][-sze]	NU	NU	69	nummod	heuristic: NU premodifying	
+69	sar-ta	sar[unit]-ta	PN	N.ABL	66	LOC	_	
+70	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	66	appos	_	
+71	u4	ud[day]	N	N	57	appos	_	
+72	3(gesz2)	3(gesz)[sixty]	NU	NU	57	nummod	_	
+73	1(u)	1(u)[ten]	NU	NU	80	nummod	projectivity violation	
+74	5(disz)	5(disz)[one]	NU	NU	73	nummod	_	
+75	1/2(disz)	1/2(disz)[one]	NU	NU	73	nummod	_	
+76	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	57	nummod	_	
+77	2(gesz2)	2(gesz)[sixty]	NU	NU	57	nummod	_	
+78	4(u)	4(u)[ten]	NU	NU	57	nummod	_	
+79	5(disz)	5(disz)[one]	NU	NU	57	nummod	_	
+80	sar	sar[unit]	N	N	57	appos	_	
+81	al	al[hoeing]	N	N	80	GEN	_	
+82	3(u)	3(u)[ten]	NU	NU	83	nummod	heuristic: NU premodifying	
+83	sar-ta	sar[unit]-ta	PN	N.ABL	80	LOC	_	
+84	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+85	u4	ud[day]	N	N	84	appos	_	
+86	2(u)	2(u)[ten]	NU	NU	57	nummod	_	
+87	5(disz)	5(disz)[one]	NU	NU	93	nummod	_	
+88	1/2(disz)	1/2(disz)[one]	NU	NU	87	nummod	_	
+89	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	93	nummod	_	
+90	2(u)	2(u)[ten]	NU	NU	89	nummod	_	
+91	sar	sar[unit]	N	N	93	nmod	_	
+92	{u2}kiszi17	kiszig[acacia]	FN	N	93	nmod	_	
+93	ku5-ra2	kud[cut]-a	V	NF.V.PT	0	_	_	
+94	2(u)	2(u)[ten]	NU	NU	95	nummod	heuristic: NU premodifying	
+95	sar-ta	sar[unit]-ta	PN	N.ABL	93	LOC	_	
+96	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	93	appos	_	
+97	u4	ud[day]	N	N	96	appos	_	
+98	1(gesz2)	1(gesz)[sixty]	NU	NU	57	nummod	_	
+99	3(u)	3(u)[ten]	NU	NU	57	nummod	_	
+100	1(disz)	1(disz)[one]	NU	NU	57	nummod	projectivity violation	
+101	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	57	nummod	projectivity violation	
+102	...	_[_]	PN	N	101	dep	heuristic: attach to last	
+103	sar-ta	sar[unit]-ta	PN	N.ABL	99	appos	_	
+104	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	99	appos	_	
+105	u4	ud[day]	N	N	99	appos	_	
+106	...	_[_]	PN	N	105	dep	_	
+107	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+108	7(gesz2)	7(gesz)[sixty]	NU	NU	107	nummod	_	
+109	4(u)	4(u)[ten]	NU	NU	107	nummod	_	
+110	...	_[_]	PN	N	111	dep	_	
+111	sar-ta	sar[unit]-ta	PN	N.ABL	105	appos	_	
+112	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	105	appos	_	
+113	u4	ud[day]	N	N	105	appos	_	
+114	1(gesz2)	1(gesz)[sixty]	NU	NU	105	nummod	_	
+115	2(u)	2(u)[ten]	NU	NU	119	nummod	_	
+116	...	_[_]	PN	N	115	dep	heuristic: attach to last	
+117	4(gesz2)	4(gesz)[sixty]	NU	NU	0	nummod	_	
+118	3(u)	3(u)[ten]	NU	NU	117	nummod	_	
+119	sar	sar[unit]	N	N	105	appos	_	
+120	{u2}kiszi17	kiszig[acacia]	FN	N	105	appos	_	
+121	1(u)	1(u)[ten]	NU	NU	122	nummod	heuristic: NU premodifying	
+122	sar-ta	sar[unit]-ta	PN	N.ABL	120	LOC	_	
+123	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+124	u4	ud[day]	N	N	123	appos	_	
+125	2(u)	2(u)[ten]	NU	NU	57	nummod	_	
+126	7(disz)	7(disz)[one][-sze]	NU	NU	130	nummod	projectivity violation	
+127	1(gesz2)	1(gesz)[sixty]	NU	NU	57	nummod	_	
+128	3(disz)	3(disz)[one]	NU	NU	57	nummod	_	
+129	sar	sar[unit]	N	N	130	nmod	_	
+130	{u2}kiszi17	kiszig[acacia]	FN	N	57	appos	_	
+131	x	_[_]	N	N	130	dep	heuristic: attach to last	
+132	7(disz)	7(disz)[one][-sze]	NU	NU	133	nummod	heuristic: NU premodifying	
+133	sar-ta	sar[unit]-ta	PN	N.ABL	130	LOC	_	
+134	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+135	u4	ud[day]	N	N	134	appos	_	
+136	1(u)	1(u)[ten]	NU	NU	57	nummod	_	
+137	la2	la[hang][-ø]	V	NF.V.ABS	144	acl	projectivity violation	
+138	1(disz)	1(disz)[one]	NU	NU	137	nummod	_	
+139	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	57	nummod	_	
+140	2(gesz2)	2(gesz)[sixty]	NU	NU	57	nummod	_	
+141	2(u)	2(u)[ten]	NU	NU	57	nummod	_	
+142	2(disz)	2(disz)[one]	NU	NU	57	nummod	_	
+143	1/2(disz)	1/2(disz)[one]	NU	NU	57	nummod	_	
+144	sar	sar[unit]	N	N	57	appos	_	
+145	al	al[hoeing]	N	N	144	acl	_	
+146	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+147	5(disz)	5(disz)[one]	NU	NU	146	nummod	_	
+148	sar-ta	sar[unit]-ta	PN	N.ABL	145	LOC	_	
+149	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+150	u4	ud[day]	N	N	57	appos	_	
+151	4(u)	4(u)[ten]	NU	NU	57	nummod	_	
+152	9(disz)	9(disz)[one]	NU	NU	155	nummod	_	
+153	1/2(disz)	1/2(disz)[one]	NU	NU	152	nummod	_	
+154	2(u)	2(u)[ten]	NU	NU	155	nummod	_	
+155	sar	sar[unit]	N	N	57	appos	_	
+156	nig2-gul	_[pickaxing]	N	N	155	GEN	_	
+157	1(u)	1(u)[ten]	NU	NU	158	nummod	heuristic: NU premodifying	
+158	sar-ta	sar[unit]-ta	PN	N.ABL	155	LOC	_	
+159	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	155	appos	_	
+160	u4	ud[day]	N	N	159	appos	_	
+161	2(disz)	2(disz)[one]	NU	NU	57	nummod	_	
+162	7(gesz2)	7(gesz)[sixty]	NU	NU	57	nummod	_	
+163	7(disz)	7(disz)[one][-sze]	NU	NU	57	nummod	_	
+164	sar	sar[unit]	N	N	57	appos	_	
+165	al	al[hoeing]	N	N	164	acl	_	
+166	7(disz)	7(disz)[one][-sze]	NU	NU	167	nummod	heuristic: NU premodifying	
+167	sar-ta	sar[unit]-ta	PN	N.ABL	165	LOC	_	
+168	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+169	u4	ud[day]	N	N	57	appos	_	
+170	1(gesz2)	1(gesz)[sixty]	NU	NU	57	nummod	_	
+171	1(disz)	1(disz)[one]	NU	NU	176	nummod	_	
+172	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	171	nummod	_	
+173	2(u)	2(u)[ten]	NU	NU	171	nummod	_	
+174	8(disz)	8(disz)[one]	NU	NU	171	nummod	_	
+175	1/3(disz)	1/3(disz)[one]	NU	NU	171	nummod	_	
+176	sar	sar[unit]	N	N	57	appos	_	
+177	al	al[hoeing]	N	N	176	_	heuristic: attach to last	
+178	6(disz)	6(disz)[one][-sze]	NU	NU	0	nummod	_	
+179	1/2(disz)	1/2(disz)[one]	NU	NU	178	nummod	_	
+180	sar-ta	sar[unit]-ta	PN	N.ABL	176	LOC	_	
+181	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	176	appos	_	
+182	u4	ud[day]	N	N	57	appos	_	
+183	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+184	3(u)	3(u)[ten]	NU	NU	183	nummod	_	
+185	6(disz)	6(disz)[one][-sze]	NU	NU	57	nummod	_	
+186	2/3(disz)	2/3(disz)[one]	NU	NU	190	nummod	projectivity violation	
+187	3(u)	3(u)[ten]	NU	NU	57	nummod	_	
+188	8(disz)	8(disz)[one]	NU	NU	57	nummod	_	
+189	1/2(disz)	1/2(disz)[one]	NU	NU	57	nummod	_	
+190	sar	sar[unit]	N	N	57	appos	_	
+191	al	al[hoeing]	N	N	190	acl	_	
+192	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+193	1/2(disz)	1/2(disz)[one]	NU	NU	192	nummod	_	
+194	sar-ta	sar[unit]-ta	PN	N.ABL	191	LOC	_	
+195	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+196	u4	ud[day]	N	N	57	appos	_	
+197	7(disz)	7(disz)[one][-sze]	NU	NU	57	nummod	_	
+198	4(gesz2)	4(gesz)[sixty]	NU	NU	57	nummod	_	
+199	5(u)	5(u)[ten]	NU	NU	57	nummod	_	
+200	2(disz)	2(disz)[one]	NU	NU	57	nummod	_	
+201	1/2(disz)	1/2(disz)[one]	NU	NU	57	nummod	_	
+202	sar	sar[unit]	N	N	57	appos	_	
+203	al	al[hoeing]	N	N	202	acl	_	
+204	5(disz)	5(disz)[one]	NU	NU	205	nummod	heuristic: NU premodifying	
+205	sar-ta	sar[unit]-ta	PN	N.ABL	203	LOC	_	
+206	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+207	u4	ud[day]	N	N	57	appos	_	
+208	5(u)	5(u)[ten]	NU	NU	57	nummod	_	
+209	8(disz)	8(disz)[one]	NU	NU	212	nummod	projectivity violation	
+210	1/2(disz)	1/2(disz)[one]	NU	NU	209	nummod	_	
+211	8(disz)	8(disz)[one]	NU	NU	57	nummod	_	
+212	sar	sar[unit]	N	N	57	appos	_	
+213	al	al[hoeing]	N	N	212	acl	_	
+214	4(disz)	4(disz)[one]	NU	NU	215	nummod	heuristic: NU premodifying	
+215	sar-ta	sar[unit]-ta	PN	N.ABL	213	LOC	_	
+216	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+217	u4	ud[day]	N	N	57	appos	_	
+218	2(disz)	2(disz)[one]	NU	NU	57	nummod	_	
+219	a2	a[time]	N	N	57	appos	_	
+220	lu2	lu[person]	N	N	219	_	heuristic: attach to last	
+221	hun-ga2	hug[hire]-a	V	NF.V.PT	0	_	_	
+222	6(disz)	6(disz)[one][-sze]	NU	NU	226	nummod	projectivity violation	
+223	sila3-ta	sila[unit]-ta	N	N.ABL	221	LOC	_	
+224	2(u)	2(u)[ten]	NU	NU	226	nummod	_	
+225	5(disz)	5(disz)[one]	NU	NU	224	nummod	_	
+226	sar	sar[unit]	N	N	57	appos	_	
+227	al	al[hoeing]	N	N	226	acl	_	
+228	5(disz)	5(disz)[one]	NU	NU	229	nummod	heuristic: NU premodifying	
+229	sar-ta	sar[unit]-ta	PN	N.ABL	227	LOC	_	
+230	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	226	appos	_	
+231	u4	ud[day]	N	N	230	appos	_	
+232	5(disz)	5(disz)[one]	NU	NU	57	nummod	_	
+233	3(gesz2)	3(gesz)[sixty]	NU	NU	57	nummod	_	
+234	2(u)	2(u)[ten]	NU	NU	57	nummod	_	
+235	sar	sar[unit]	N	N	57	appos	_	
+236	al	al[hoeing]	N	N	235	acl	_	
+237	...	_[_]	PN	N	236	dep	heuristic: attach to last	
+238	2(u)	2(u)[ten]	NU	NU	239	nummod	heuristic: NU premodifying	
+239	sar-ta	sar[unit]-ta	PN	N.ABL	236	LOC	_	
+240	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	57	appos	_	
+241	u4	ud[day]	N	N	57	appos	_	
+242	1(u)	1(u)[ten]	NU	NU	57	nummod	_	
+243	a2	a[time]	N	N	57	appos	_	
+244	sza3-gu4-ka	_[oxen.drivers]	PN	PN	243	GEN	_	
+245	a-sza3-ge	aszag[field]-e	N	N.L3-NH	246	nmod	_	
+246	kin-ak	_[work.to.be.done]	N	N	57	appos	_	
+247	a-sza3	aszag[field]	N	N	246	ABS	_	
+248	ka-ma-ri2	Kamari[1][-ak][-'a]	FN	FN.GEN.L1	247	GEN	_	
+249	ugula	ugula[overseer][-ø]	N	N	57	appos	_	
+250	ba-sa6	Basa[1][-ak]	PN	PN.GEN	249	appos	_	
+251	kiszib3	kiszib[seal]	N	N	57	LOC	_	
+252	nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	251	GEN	_	
+253	mu	mu[year]	N	N	4	appos	_	
+254	a-ra2	ara[times]	N	N	257	DAT	_	
+255	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	257	nummod	_	
+256	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	257	ABS	_	
+257	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	acl	_	
+258	nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	257	appos	_	
+259	dub-sar	dubsar[scribe]	N	N	258	appos	_	
+260	dumu	dumu[child]	N	N	258	appos	_	
+261	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	260	GEN	_
+	
+

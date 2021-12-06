@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of Ur-mes son of Ur-nig in Nigin are here year Hari was destroyed
+# dev/P316855.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	9	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: attach to last	
+4	ur-mes	Urmes[1]	PN	PN	2	GEN	_	
+5	dumu	dumu[child]	N	N	2	appos	_	
+6	ur-nig2	_[Ur-nig]	PN	PN	5	GEN	_	
+7	sza3	szag[heart]	N	N	8	LOC	_	
+8	nigin6{ki}	_[Nigin]	SN	SN.GEN.GEN.TERM	2	LOC	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+10	mu	mu[year]	N	N	12	_	_	
+11	ha-ar-szi{ki}	Harszi[1]	SN	SN	12	_	_	
+12	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	9	parataxis	_
+	
+

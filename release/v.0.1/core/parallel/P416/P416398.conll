@@ -1,0 +1,137 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416398.atf						#new_text=P416398
+# tr.en: A dike from field Latur ninda long at one sar per its soil sar ninda long without ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil sar ninda long at sar per its soil ninda long at sar per its soil sar total sar soil work striking dike the dike at end of field facing Ema year en-priest of Inanna in Uruk was chosen by means of a goat
+# train/P416398.atf new_text=P416398
+1	e	eg[levee]	N	N	6	nummod	projectivity violation	
+2	a-sza3	aszag[field]	N	N	3	nmod	_	
+3	la2-tur-ta	_[A.dike.from.Latur]	FN	FN.GEN.ABL	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	13	nummod	projectivity violation	
+5	1/2(disz)	1/2(disz)[one]	NU	NU	15	nummod	projectivity violation	
+6	ninda	ninda[bread]	N	N	7	nmod	_	
+7	gid2	gid[length]	V	N	0	_	detached for projectivity	
+8	1(disz)	1(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	sar-ta	sar[unit]-ta	PN	N.ABL	7	LOC	_	
+10	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	7	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+12	1/2(disz)	1/2(disz)[one]	NU	NU	11	nummod	_	
+13	sar	sar[unit]	N	N	10	appos	_	
+14	6(disz)	6(disz)[one][-sze]	NU	NU	13	nummod	_	
+15	ninda	ninda[bread]	N	N	13	appos	_	
+16	gid2	gid[length]	V	N	15	acl	_	
+17	nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	16	_	_	
+18	3(disz)	3(disz)[one]	NU	NU	19	nummod	_	
+19	ninda	ninda[bread]	N	N	13	appos	projectivity violation	
+20	gid2	gid[length]	V	N	19	acl	_	
+21	2/3(disz)	2/3(disz)[one]	NU	NU	22	nummod	heuristic: NU premodifying	
+22	sar-ta	sar[unit]-ta	PN	N.ABL	20	LOC	_	
+23	sahar-bi	_[its]	N	N.3-SG-NH-POSS.ABS	25	nmod	_	
+24	2(disz)	2(disz)[one]	NU	NU	25	nummod	_	
+25	sar-am3	_[soil.sar]	PN	PN	18	appos	_	
+26	2(u)	2(u)[ten]	NU	NU	28	nummod	_	
+27	ninda	ninda[bread]	N	N	28	nmod	_	
+28	gid2	gid[length]	V	N	0	_	detached for projectivity	
+29	1/2(disz)	1/2(disz)[one]	NU	NU	30	nummod	heuristic: NU premodifying	
+30	sar-ta	sar[unit]-ta	PN	N.ABL	28	LOC	_	
+31	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	26	appos	_	
+32	1(u)	1(u)[ten]	NU	NU	33	nummod	_	
+33	sar	sar[unit]	N	N	31	appos	_	
+34	1(u)	1(u)[ten]	NU	NU	36	nummod	_	
+35	ninda	ninda[bread]	N	N	36	nmod	_	
+36	gid2	gid[length]	V	N	0	_	detached for projectivity	
+37	1(disz)	1(disz)[one]	NU	NU	38	nummod	heuristic: NU premodifying	
+38	sar-ta	sar[unit]-ta	PN	N.ABL	36	LOC	_	
+39	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	34	appos	_	
+40	1(u)	1(u)[ten]	NU	NU	41	nummod	_	
+41	sar	sar[unit]	N	N	39	appos	_	
+42	1(gesz2)	1(gesz)[sixty]	NU	NU	46	nummod	_	
+43	3(u)	3(u)[ten]	NU	NU	42	nummod	_	
+44	7(disz)	7(disz)[one][-sze]	NU	NU	42	nummod	_	
+45	ninda	ninda[bread]	N	N	46	nmod	_	
+46	gid2	gid[length]	V	N	0	_	detached for projectivity	
+47	1/2(disz)	1/2(disz)[one]	NU	NU	48	nummod	heuristic: NU premodifying	
+48	sar-ta	sar[unit]-ta	PN	N.ABL	46	LOC	_	
+49	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	42	appos	_	
+50	4(u)	4(u)[ten]	NU	NU	53	nummod	projectivity violation	
+51	8(disz)	8(disz)[one]	NU	NU	55	nummod	projectivity violation	
+52	1/2(disz)	1/2(disz)[one]	NU	NU	51	nummod	_	
+53	sar	sar[unit]	N	N	49	appos	_	
+54	3(disz)	3(disz)[one]	NU	NU	56	nummod	_	
+55	ninda	ninda[bread]	N	N	56	nmod	_	
+56	gid2	gid[length]	V	N	0	_	detached for projectivity	
+57	1(disz)	1(disz)[one]	NU	NU	58	nummod	heuristic: NU premodifying	
+58	sar-ta	sar[unit]-ta	PN	N.ABL	56	LOC	_	
+59	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	54	appos	_	
+60	3(disz)	3(disz)[one]	NU	NU	61	nummod	_	
+61	sar	sar[unit]	N	N	59	appos	_	
+62	2(u)	2(u)[ten]	NU	NU	64	nummod	_	
+63	ninda	ninda[bread]	N	N	64	nmod	_	
+64	gid2	gid[length]	V	N	0	_	detached for projectivity	
+65	1/3(disz)	1/3(disz)[one]	NU	NU	66	nummod	heuristic: NU premodifying	
+66	sar-ta	sar[unit]-ta	PN	N.ABL	64	LOC	_	
+67	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	62	appos	_	
+68	6(disz)	6(disz)[one][-sze]	NU	NU	70	nummod	projectivity violation	
+69	2/3(disz)	2/3(disz)[one]	NU	NU	73	nummod	projectivity violation	
+70	sar	sar[unit]	N	N	67	appos	_	
+71	1(u)	1(u)[ten]	NU	NU	74	nummod	_	
+72	5(disz)	5(disz)[one]	NU	NU	71	nummod	_	
+73	ninda	ninda[bread]	N	N	74	nmod	_	
+74	gid2	gid[length]	V	N	0	_	detached for projectivity	
+75	1/2(disz)	1/2(disz)[one]	NU	NU	76	nummod	heuristic: NU premodifying	
+76	sar-ta	sar[unit]-ta	PN	N.ABL	74	LOC	_	
+77	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	71	appos	_	
+78	7(disz)	7(disz)[one][-sze]	NU	NU	80	nummod	projectivity violation	
+79	1/2(disz)	1/2(disz)[one]	NU	NU	82	nummod	projectivity violation	
+80	sar	sar[unit]	N	N	77	appos	_	
+81	6(disz)	6(disz)[one][-sze]	NU	NU	83	nummod	_	
+82	ninda	ninda[bread]	N	N	83	nmod	_	
+83	gid2	gid[length]	V	N	0	_	detached for projectivity	
+84	1(disz)	1(disz)[one]	NU	NU	85	nummod	heuristic: NU premodifying	
+85	sar-ta	sar[unit]-ta	PN	N.ABL	83	LOC	_	
+86	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	81	appos	_	
+87	6(disz)	6(disz)[one][-sze]	NU	NU	88	nummod	_	
+88	sar	sar[unit]	N	N	86	appos	_	
+89	1(u)	1(u)[ten]	NU	NU	92	nummod	_	
+90	6(disz)	6(disz)[one][-sze]	NU	NU	89	nummod	_	
+91	ninda	ninda[bread]	N	N	92	nmod	_	
+92	gid2	gid[length]	V	N	0	_	detached for projectivity	
+93	1/2(disz)	1/2(disz)[one]	NU	NU	94	nummod	heuristic: NU premodifying	
+94	sar-ta	sar[unit]-ta	PN	N.ABL	92	LOC	_	
+95	sahar	sahar[earth][-ø]	N	N.GEN	89	appos	_	
+96	($	_	_	_	95	_	_	
+97	blank	_	_	_	95	_	_	
+98	space	_[its]	_	_	95	appos	_	
+99	$)	_	NU	NU	102	nummod	projectivity violation	
+100	1(u)	1(u)[ten]	NU	NU	104	nummod	_	
+101	4(disz)	4(disz)[one]	NU	NU	100	nummod	_	
+102	ninda	ninda[bread]	N	N	104	nmod	_	
+103	1/3(disz)	1/3(disz)[one]	NU	NU	104	nummod	heuristic: NU premodifying	
+104	sar-ta	sar[unit]-ta	PN	N.ABL	95	appos	projectivity violation	
+105	sahar-bi	_[its.soil]	N	N.3-SG-NH-POSS.ABS	100	appos	projectivity violation	
+106	4(disz)	4(disz)[one]	NU	NU	105	nummod	_	
+107	2/3(disz)	2/3(disz)[one]	NU	NU	115	nummod	projectivity violation	
+108	sar	sar[unit]	N	N	105	appos	projectivity violation	
+109	szunigin	szunigin[total]	N	N	108	_	heuristic: attach to last	
+110	1(gesz2)	1(gesz)[sixty]	NU	NU	105	nummod	projectivity violation	
+111	3(u)	3(u)[ten]	NU	NU	110	nummod	_	
+112	9(disz)	9(disz)[one]	NU	NU	110	nummod	_	
+113	5/6(disz)	5/6(disz)[one]	NU	NU	110	nummod	_	
+114	sar	sar[unit]	N	N	113	_	heuristic: attach to last	
+115	sahar	sahar[earth][-ø]	N	N.GEN	106	appos	_	
+116	kin	kig[work]	N	N	105	appos	_	
+117	e	eg[levee]	N	N	118	_	_	
+118	ra-a	ra[beat]-a	V	NF.V.PT	116	_	_	
+119	e	eg[levee]	N	N	120	nmod	_	
+120	sa-dur2-ra	sadurra[bottom]	N	N	118	appos	_	
+121	igi	igi[eye][-ø]	N	N	120	ABS	_	
+122	e2-mah	Emah[1][-sze]	FN	TN	120	GEN	_	
+123	mu	mu[year]	N	N	118	appos	_	
+124	en	en[priest]	N	N	128	ABS	_	
+125	{d}inanna	Inanna[1][-ak]	DN	DN	124	GEN	_	
+126	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	124	LOC	_	
+127	masz2-e	masz[goat]-e	N	N.L3-NH	128	_	_	
+128	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	123	acl	_	
+129	4(u@v)	_[means.a.goat.chosen]	NU	NU	128	nummod	_	
+130	8(disz@v)	8(disz)[one]	NU	NU	129	nummod	_	
+131	3(u)	3(u)[ten]	NU	NU	104	nummod	_
+	
+

@@ -1,0 +1,52 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: hide grain-fed sheep hide grain-fed goat sheep hides regular offerings from Adda-illat Anah-ili did receive Month An-festival year he erected great stele for them hide grain-fed sheep hide grain-fed goat sheep hides regular offerings from Adda-illat Anah-ili did receive In Garana Month An-festival year he erected great stele for Enlil and Ninlil
+# train/P322539.atf						#new_text=P322539
+# train/P322539.atf new_text=P322539
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	kusz	kusz[leather]	N	N	0	root	_	
+3	udu	udu[sheep]	N	N	2	appos	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	3	acl	_	
+5	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+6	kusz	kusz[leather]	N	N	2	acl	_	
+7	masz2	masz[goat]	N	N	6	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	kusz	kusz[leather]	N	N	6	appos	_	
+10	udu	udu[sheep]	N	N	9	appos	_	
+11	sa2-du11	sadug[offerings]	N	N	9	appos	_	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	9	ABL	_	
+14	a-na-ah-i3-li2	_[Anah-ili]	PN	PN	16	ABS	_	
+15	szu	szu[hand][-e]	N	N.L3-NH	16	_	_	
+16	ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	9	acl	_	
+17	iti	iti[month]	N	N	16	appos	_	
+18	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	19	acl	_	
+19	mu	mu[year]	N	N	17	appos	_	
+20	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	19	acl	_	
+21	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	20	acl	_	
+22	1(disz)	1(disz)[one]	NU	NU	23	nummod	_	
+23	kusz	kusz[leather]	N	N	2	acl	_	
+24	udu	udu[sheep]	N	N	23	appos	_	
+25	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+26	1(disz)	1(disz)[one]	NU	NU	27	nummod	_	
+27	kusz	kusz[leather]	N	N	23	acl	_	
+28	masz2	masz[goat]	N	N	27	appos	_	
+29	niga	niga[fattened][-ø]	V	NF.V.ABS	28	acl	_	
+30	kusz	kusz[leather]	N	N	27	appos	_	
+31	udu	udu[sheep]	N	N	30	appos	_	
+32	sa2-du11	sadug[offerings]	N	N	30	appos	_	
+33	ki	ki[place]	N	N	34	ABL	_	
+34	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	30	ABL	_	
+35	a-na-ah-i3-li2	_[Anah-ili]	PN	PN	37	ABS	_	
+36	szu	szu[hand][-e]	N	N.L3-NH	37	_	_	
+37	ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	30	acl	_	
+38	sza3	szag[heart]	N	N	39	_	_	
+39	gar-sza-an-na{ki}	_[In.Garana]	SN	SN.GEN	37	LOC	_	
+40	iti	iti[month]	N	N	39	appos	_	
+41	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	30	appos	_	
+42	mu	mu[year]	N	N	41	appos	_	
+43	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	30	acl	_	
+44	{d}en-lil2	Enlil[1]	DN	DN	43	DAT	_	
+45	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	44	appos	_	
+46	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	44	acl	_
+	
+

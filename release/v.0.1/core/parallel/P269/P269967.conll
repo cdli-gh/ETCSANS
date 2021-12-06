@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szara-zame servant of Szara
+# train/P269967.atf
+1	{d}szara2-za-me	Szarazame[1][-ak]	PN	PN.GEN	0	_	_	
+2	ARAD2	arad[slave]	N	N	0	root	_	
+3	{d}szara2	Szara[1][-ak]	DN	DN	2	GEN	_
+	
+

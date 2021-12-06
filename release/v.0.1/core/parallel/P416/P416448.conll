@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lamb for god Utu delivery governor of Szuruppak zabardab responsible official ox for Kitchen the nth day booked out month Akitu year high-priestess of Nanna by means of extispicy was chosen
+# train/P416448.atf new_text=P416448
+# train/P416448.atf						#new_text=P416448
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	{d}utu	Utu[1][-ra]	DN	DN	2	DAT	_	
+4	mu-kux(DU)	mukur[delivery][-ø]	N	N	3	appos	_	
+5	ensi2	ensik[ruler]	N	N	3	appos	_	
+6	szuruppak{ki}	_[Szuruppak]	SN	SN.GEN	5	GEN	_	
+7	zabar-dab5	zabardab[official][-e]	N	N	6	appos	_	
+8	maszkim	maszkim[administrator]	N	N.ABS	6	appos	_	
+9	1(disz)	1(disz)[one]	NU	NU	10	nummod	_	
+10	gu4	gud[ox]	N	N	2	appos	projectivity violation	
+11	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	9	TERM	_	
+12	u4	ud[day]	N	N	13	nmod	_	
+13	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+14	zi-ga	zig[expend]-a	V	NF.V.PT	13	acl	_	
+

@@ -1,0 +1,139 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: oxen grain-fed top grade oxen grain-fed Temples House-of-Day- the month day passed oxen grain-fed Inanna the month day passed oxen grain-fed top grade oxen grain-fed Temples House-of-Day- the month day passed in Nippur oxen grain-fed Inanna the month day passed oxen grain-fed Inanna the month day passed oxen grain-fed Inanna the month day passed oxen grain-fed Festival Boat-of-Heaven the zabardab was enforcer the month day passed in Uruk xxx ox grain-fed Annuntum ox grain-fed Ulmaitum Nane-GIRgal was enforcer the month day passed in Ur total oxen grain-fed top grade total oxen grain-fed bala of Namzitara governorn of Kutha did Beli-zu accept from Auni booked out month Aktu year Amar-Suen is king
+# train/P461534.atf						#new_text=P461534
+# train/P461534.atf new_text=P461534
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	sag-gu4	_[top.grade]	N	N	2	appos	_	
+5	4(disz)	4(disz)[one]	NU	NU	6	nummod	_	
+6	gu4	gud[ox]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	esz3-esz3	eszesz[festival]	PN	N	6	appos	_	
+9	e2-u4-7(disz)	E'u7[1][-sze]	NU	ON.TERM	2	nummod	_	
+10	iti	iti[month]	N	N	2	appos	_	
+11	u4	ud[day]	N	N	10	appos	_	
+12	5(disz)	5(disz)[one]	NU	NU	2	nummod	projectivity violation	
+13	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	10	acl	_	
+14	2(disz)	2(disz)[one]	NU	NU	16	nummod	projectivity violation	
+15	gu4	gud[ox]	N	N	2	appos	_	
+16	niga	niga[fattened][-ø]	V	NF.V.ABS	15	acl	_	
+17	{d}inanna	Inanna[1][-ak]	DN	DN	16	appos	_	
+18	iti	iti[month]	N	N	16	appos	_	
+19	u4	ud[day]	N	N	18	appos	_	
+20	1(u)	1(u)[ten]	NU	NU	16	nummod	_	
+21	2(disz)	2(disz)[one]	NU	NU	24	nummod	projectivity violation	
+22	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	16	appos	_	
+23	2(disz)	2(disz)[one]	NU	NU	24	nummod	_	
+24	gu4	gud[ox]	N	N	16	appos	_	
+25	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+26	sag-gu4	_[top.grade]	N	N	24	appos	_	
+27	1(u)	1(u)[ten]	NU	NU	24	nummod	_	
+28	la2	la[hang][-ø]	V	NF.V.ABS	27	_	_	
+29	1(disz@t)	1(disz)[one]	NU	NU	28	nummod	_	
+30	gu4	gud[ox]	N	N	24	appos	_	
+31	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+32	esz3-esz3	eszesz[festival]	PN	N	24	appos	_	
+33	e2-u4-1(u)	_[House-of-Day-]	NU	NU	24	nummod	_	
+34	5(disz)	5(disz)[one]	NU	NU	16	nummod	_	
+35	iti	iti[month]	N	N	16	appos	_	
+36	u4	ud[day]	N	N	35	appos	_	
+37	1(u)	1(u)[ten]	NU	NU	2	nummod	projectivity violation	
+38	3(disz)	3(disz)[one]	NU	NU	37	nummod	_	
+39	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	35	acl	_	
+40	sza3	szag[heart]	N	N	41	LOC	_	
+41	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	74	LOC	_	
+42	2(disz)	2(disz)[one]	NU	NU	43	nummod	_	
+43	gu4	gud[ox]	N	N	41	appos	_	
+44	niga	niga[fattened][-ø]	V	NF.V.ABS	43	acl	_	
+45	{d}inanna	Inanna[1][-ak]	DN	DN	43	appos	_	
+46	iti	iti[month]	N	N	43	appos	_	
+47	u4	ud[day]	N	N	46	appos	_	
+48	1(u)	1(u)[ten]	NU	NU	41	nummod	projectivity violation	
+49	4(disz)	4(disz)[one]	NU	NU	52	nummod	projectivity violation	
+50	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	43	acl	_	
+51	2(disz)	2(disz)[one]	NU	NU	52	nummod	_	
+52	gu4	gud[ox]	N	N	41	appos	_	
+53	niga	niga[fattened][-ø]	V	NF.V.ABS	52	acl	_	
+54	{d}inanna	Inanna[1][-ak]	DN	DN	52	appos	_	
+55	iti	iti[month]	N	N	52	appos	_	
+56	u4	ud[day]	N	N	55	appos	_	
+57	1(u)	1(u)[ten]	NU	NU	41	nummod	projectivity violation	
+58	5(disz)	5(disz)[one]	NU	NU	61	nummod	projectivity violation	
+59	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	52	acl	_	
+60	2(disz)	2(disz)[one]	NU	NU	61	nummod	_	
+61	gu4	gud[ox]	N	N	41	appos	_	
+62	niga	niga[fattened][-ø]	V	NF.V.ABS	61	acl	_	
+63	{d}inanna	Inanna[1][-ak]	DN	DN	61	appos	_	
+64	iti	iti[month]	N	N	61	appos	_	
+65	u4	ud[day]	N	N	64	appos	_	
+66	1(u)	1(u)[ten]	NU	NU	41	nummod	projectivity violation	
+67	7(disz)	7(disz)[one][-sze]	NU	NU	70	nummod	projectivity violation	
+68	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	61	acl	_	
+69	4(disz)	4(disz)[one]	NU	NU	41	nummod	_	
+70	gu4	gud[ox]	N	N	41	appos	_	
+71	niga	niga[fattened][-ø]	V	NF.V.ABS	70	acl	_	
+72	ezem-ma2-an-na	_[Festival.Boat-of-Heaven]	MN	MN.L1	70	appos	_	
+73	zabar-dab5	zabardab[official][-e]	N	N	74	ABS	_	
+74	maszkim	maszkim[administrator]	N	N.ABS	2	appos	_	
+75	iti	iti[month]	N	N	74	appos	_	
+76	u4	ud[day]	N	N	75	appos	_	
+77	2(u)	2(u)[ten]	NU	NU	74	nummod	projectivity violation	
+78	3(disz)	3(disz)[one]	NU	NU	77	nummod	_	
+79	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	75	acl	_	
+80	sza3	szag[heart]	N	N	81	LOC	_	
+81	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	74	appos	_	
+82	1(disz)	1(disz)[one]	NU	NU	88	nummod	projectivity violation	
+83	gu4	gud[ox]	N	N	74	appos	_	
+84	niga	niga[fattened][-ø]	V	NF.V.ABS	88	acl	projectivity violation	
+85	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	84	_	heuristic: attach to last	
+86	nu-banda3	nubanda[overseer][-ø]	N	N	85	_	heuristic: attach to last	
+87	1(disz)	1(disz)[one]	NU	NU	90	nummod	projectivity violation	
+88	gu4	gud[ox]	N	N	74	appos	_	
+89	niga	niga[fattened][-ø]	V	NF.V.ABS	88	acl	_	
+90	an-nu-ni-tum	Annunitum[1][-ra]	PN	PN.DAT-H	89	appos	_	
+91	1(disz)	1(disz)[one]	NU	NU	96	nummod	projectivity violation	
+92	gu4	gud[ox]	N	N	90	appos	_	
+93	niga	niga[fattened][-ø]	V	NF.V.ABS	96	acl	_	
+94	{d}ul-ma-szi-tum	Ulmaszitum[1][-ra]	PN	DN.DAT-H	96	_	_	
+95	{d}nansze-GIR2@g-gal	_[Nane-GIRgal]	PN	PN	96	ABS	_	
+96	maszkim	maszkim[administrator]	N	N.ABS	90	appos	_	
+97	iti	iti[month]	N	N	90	appos	_	
+98	u4	ud[day]	N	N	97	appos	_	
+99	3(u)	3(u)[ten]	NU	NU	90	nummod	projectivity violation	
+100	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	97	acl	_	
+101	sza3	szag[heart]	N	N	102	LOC	_	
+102	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	90	LOC	_	
+103	($	_	_	_	90	_	heuristic: after nominal head	
+104	blank	_	_	_	90	_	heuristic: after nominal head	
+105	space	_	_	_	90	_	heuristic: after nominal head	
+106	$)	_	_	_	90	_	heuristic: after nominal head	
+107	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+108	2(disz)	2(disz)[one]	NU	NU	107	nummod	_	
+109	szunigin	szunigin[total]	N	N	90	appos	_	
+110	4(disz)	4(disz)[one]	NU	NU	111	nummod	_	
+111	gu4	gud[ox]	N	N	109	appos	_	
+112	niga	niga[fattened][-ø]	V	NF.V.ABS	111	acl	_	
+113	sag-gu4	_[top.grade]	N	N	111	appos	_	
+114	szunigin	szunigin[total]	N	N	111	appos	_	
+115	2(u)	2(u)[ten]	NU	NU	117	nummod	_	
+116	8(disz)	8(disz)[one]	NU	NU	115	nummod	_	
+117	gu4	gud[ox]	N	N	111	appos	_	
+118	niga	niga[fattened][-ø]	V	NF.V.ABS	117	acl	_	
+119	szu-la2-a	_[bala]	PN	PN	117	appos	_	
+120	bala	bala[turn][-'a]	N	N.L1	121	_	_	
+121	nam-zi-tar-ra	_[Namzitara]	PN	PN	119	GEN	_	
+122	ensi2	ensik[ruler]	N	N	121	_	heuristic: attach to last	
+123	gu2-du8-a{ki}	_[governorn.Kutha]	SN	SN.GEN.ABS	121	appos	_	
+124	be-li2-a-zu	Beli’azu[1][-e]	PN	PN.ERG	125	_	_	
+125	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	117	acl	_	
+126	ki	ki[place]	N	N	127	ABL	_	
+127	a-hu-ni-ta	Ahuni[1][-ak]-ta	PN	PN.GEN.ABL	90	ABL	_	
+128	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	127	acl	_	
+129	iti	iti[month]	N	N	131	nmod	_	
+130	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	131	_	_	
+131	mu	mu[year]	N	N	90	appos	_	
+132	{d}amar-{d}suen	Amarsuen[1]	RN	RN	133	ABS	_	
+133	lugal	lugal[king]	N	N	131	appos	_
+	
+

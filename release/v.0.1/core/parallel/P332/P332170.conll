@@ -1,0 +1,50 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# dev/P332170.atf						#new_text=P332170
+# dev/P332170.atf new_text=P332170
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze-ba	szeba[ration]	N	N	1	_	heuristic: after nominal head	
+3	siki-ba	_	V	V	1	_	_	
+4	geme2	geme[female_worker]	N	N	1	_	heuristic: after nominal head	
+5	usz-bar	uszbar[weaver][-ak]	N	N	1	_	heuristic: after nominal head	
+6	ugula	ugula[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+7	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+8	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+9	ur-{d}lamma	Urlamma[1]	PN	PN	8	_	heuristic: attach to last	
+10	($	_	_	_	9	_	heuristic: attach to last	
+11	blank	_	_	_	10	_	heuristic: attach to last	
+12	space	_	_	_	11	_	heuristic: attach to last	
+13	$)	_	_	_	12	_	heuristic: attach to last	
+14	ba-ur5	_[xxx]	V	V	13	_	heuristic: attach to last	
+15	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+16	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	15	_	heuristic: attach to last	
+17	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+18	da-a-da	_[xxx]	PN	PN	17	_	heuristic: attach to last	
+19	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+20	lu2-hu-rim3{ki}	_[xxx]	PN	PN.GEN.GEN	19	_	heuristic: attach to last	
+21	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+22	lu2-{d}en-ki	_[xxx]	PN	PN	21	_	heuristic: attach to last	
+23	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+24	i3-zu	_[xxx]	PN	PN	23	_	heuristic: attach to last	
+25	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+26	lu2-{d}nisaba	_[xxx]	PN	PN.GEN	25	_	heuristic: attach to last	
+27	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+28	ur-nigar{gar}	Urnigar[1]	PN	PN	27	_	heuristic: attach to last	
+29	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+30	ur-{d}nin-gesz-zi-da	_[xxx]	PN	PN.GEN.ABS	29	_	heuristic: attach to last	
+31	szunigin	szunigin[total]	N	N	30	_	heuristic: attach to last	
+32	8(disz)	8(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+33	gurusz	gurusz[male]	N	N	32	_	heuristic: attach to last	
+34	u3	u[and]	CNJ	CNJ	33	_	heuristic: attach to last	
+35	dah-...	_[xxx]	PN	PN	40	nmod	_	
+36	x	_[_]	N	N	35	dep	heuristic: attach to last	
+37	sza3	szag[heart]	N	N	36	_	heuristic: attach to last	
+38	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	40	nmod	_	
+39	...	_[_]	PN	N	38	dep	heuristic: attach to last	
+40	mu	mu[year]	N	N	1	appos	_	
+41	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+42	x	_[_]	N	N	1	dep	_	
+43	x	_[_]	N	N	0	dep	_	
+44	...	_[_]	PN	N	0	dep	_
+	
+

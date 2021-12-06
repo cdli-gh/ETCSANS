@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P406532.atf
+# tr.en: gur barig barley royal barley of interest of dumudab of from depot of village Urli from Bazi Ur-Dumuzi received month Harvest year Urbilum was destroyed
+1	9(asz)	9(asz)[one]	NU	NU	3	nummod	_	
+2	4(barig)	4(bariga)[unit]	NU	N	1	nummod	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	gur	gur[unit]	N	N	3	appos	_	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	sze	sze[barley]	N	N	3	appos	_	
+7	ur5-ra	urra[loan]	N	N	10	GEN	projectivity violation	
+8	dumu	dumu[child]	N	N	3	appos	projectivity violation	
+9	dab5	_	V	V	8	_	heuristic: attach to last	
+10	u3-x	_[of.interest.of.dumudab.of]	PN	PN.DAT-H	6	GEN	_	
+11	i3-dub	idub[granary]	N	N	3	ABL	_	
+12	e2-duru5	eduru[village]	N	N	11	appos	_	
+13	ur-li-ka-ta	_[village.Urli]	GN	GN.ABL	11	GEN	_	
+14	ki	ki[place]	N	N	16	ABL	_	
+15	ba-zi-ta	_[Bazi]	PN	PN.GEN.DAT-H	16	nmod	_	
+16	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	11	ABL	_	
+17	szu	szu[hand][-e]	N	N.L3-NH	3	appos	projectivity violation	
+18	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	11	acl	_	
+19	iti	iti[month]	N	N	20	nmod	_	
+20	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	23	_	_	
+21	mu	mu[year]	N	N	23	date	_	
+22	ur-bi2-i3-lum{ki}	_[Urbilum]	GN	GN	23	ABS	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_
+	
+

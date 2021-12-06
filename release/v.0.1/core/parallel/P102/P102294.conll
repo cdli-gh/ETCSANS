@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: laborer workdays sheaves piled up foreman Lukalla under seal of Aaba month Bricks cast in moulds year after house of Puzri-Dagan was erected year after that Lu-Szara scribe son of Inim-Szara the chief surveyor Lu-Girizal scribe son of Dadu-mu
+# train/P102294.atf
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	_	heuristic: after nominal head	
+5	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	7	nummod	heuristic: NU premodifying	
+6	zar3	zar[sheaf]	N	N	7	_	_	
+7	tab-ba	tab[grasp]-a	V	NF.V.PT	3	acl	_	
+8	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+9	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	8	appos	_	
+10	kiszib3	kiszib[seal]	N	N	3	appos	_	
+11	a-ab-ba	_[Aaba]	PN	PN	10	GEN	_	
+12	iti	iti[month]	N	N	13	date	_	
+13	sig4-{gesz}i3-szub-ba-ga2-ra	_[Bricks.cast.in.moulds]	MN	MN.L1	3	parataxis	_	
+14	mu	mu[year]	N	N	13	date	_	
+15	us2-sa	us[follow]-a	V	NF.V.PT	14	acl	_	
+16	e2	e[house]	N	N	18	ABS	_	
+17	puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	16	GEN	_	
+18	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	13	acl	_	
+19	mu	mu[year]	N	N	13	appos	_	
+20	us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	19	acl	_	
+21	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	3	appos	_	
+22	dub-sar	dubsar[scribe]	N	N	21	appos	_	
+23	dumu	dumu[child]	N	N	21	appos	_	
+24	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	23	GEN	_	
+25	sa12-du5-ka	_[the.chief.surveyor]	PN	PN	23	appos	_	
+26	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	25	appos	_	
+27	dub-sar	dubsar[scribe]	N	N	26	appos	_	
+28	dumu	dumu[child]	N	N	26	appos	_	
+29	da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	28	GEN	_
+	
+

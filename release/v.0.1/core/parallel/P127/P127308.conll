@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127308.atf
+# tr.en: Basket-of-tablets xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	1	_	heuristic: after nominal head	
+3	ki	ki[place]	N	N	1	_	heuristic: after nominal head	
+4	gu-za-la2-e-ne-ta	_	PN	PN	1	appos	_	
+5	pisan	bisag[basket]	N	N	6	nmod	_	
+6	ab-ba-sa6-ga-sze3	_	PN	PN.GEN.TERM	1	appos	_	
+7	ba-a-szi-gur	_[xxx]	V	V	6	acl	_	
+8	giri3	giri[foot]	N	N	0	_	_	
+9	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	0	_	_	
+10	mu	mu[year]	N	N	0	_	_	
+11	gu-za	guza[chair][-ø]	N	N	0	_	_	
+12	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	0	_	_	
+13	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

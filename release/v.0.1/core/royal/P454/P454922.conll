@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Duga-zida scribe child of Nigurum cup-bearer of Szulgi	
+1	du11-ga-zi-da	dug4-ga-zid-da[3]	PN	PN	0	root	_
+2	dub-sar	dub-sar[scribe]	N	N	1	appos	_
+3	dumu	dumu[child]	N	N	1	appos	_
+4	nig2-u2-rum	nig2-u2-rum[1]	PN	PN.GEN	3	GEN	_
+5	sagi	sagi[cup-bearer]	N	N	1	appos	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	5	GEN	_
+

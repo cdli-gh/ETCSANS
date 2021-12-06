@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Lugal-azida speak bundles of reed to Zantirum bundles of reed to Ur-gugu- they are doormen- may he give them Amar-Suen strong man king of Ur king of four regions Ur-Lisi governor of Umma is your servant
+# train/P122724.atf
+1	lugal-a2-zi-da	Lugalazida[1]	PN	PN	2	_	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	3(gesz2)	3(gesz)[sixty]	NU	NU	4	nummod	heuristic: NU premodifying	
+4	sa	sa[bundle]	N	N	2	ABS	_	
+5	gi	gi[reed][-ø]	N	N	4	GEN	_	
+6	za-an-ti-ru-um	_[to.Zantirum]	PN	PN	4	LOC	_	
+7	2(gesz2)	2(gesz)[sixty]	NU	NU	8	nummod	heuristic: NU premodifying	
+8	sa	sa[bundle]	N	N	6	appos	_	
+9	gi	gi[reed][-ø]	N	N	8	GEN	_	
+10	ur-gu-gu	_[to.Ur-gugu-]	PN	PN.GEN.GEN	8	LOC	_	
+11	i3-du8-me	_[they.are.doormen-]	V	V	2	acl	_	
+12	he2-ne2-eb2-szum2-mu	_[may.he.give.them]	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	11	parataxis	_	
+13	{d}amar-{d}suen	Amarsuen[1]	RN	RN	12	appos	_	
+14	nita	nita[male]	N	N	13	appos	_	
+15	kal-ga	kalag[strong]-a	V	NF.V.SUB	13	acl	_	
+16	lugal	lugal[king]	N	N	13	appos	_	
+17	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	16	GEN	_	
+18	lugal	lugal[king]	N	N	13	appos	_	
+19	an	An[1][-ra]	N	N	21	nummod	projectivity violation	
+20	ub-da	_	N	N	13	appos	projectivity violation	
+21	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	18	nummod	_	
+22	ur-{d}li9-si4	Urlisi[1]	PN	PN	25	ABS	_	
+23	ensi2	ensik[ruler]	N	N	22	appos	_	
+24	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	23	GEN	_	
+25	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	13	parataxis	_
+	
+

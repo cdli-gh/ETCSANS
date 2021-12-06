@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For did Lu-Ningirsu the scribe child of Luba for life and for life of his wife and child dedicate it of this bowl My lady is its name
+# train/P471649.atf
+1	...	_[_]	PN	N	0	dep	_	
+2	...	_[_]	PN	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	8	_	_	
+6	dub-sar	dubsar[scribe]	N	N	8	nmod	_	
+7	dumu	dumu[child]	N	N	8	_	_	
+8	lu2-ba-ke4	_[child.Luba]	PN	PN.GEN.GEN.ABS	19	ABS	_	
+9	nam-ti-sze3	_[for.life]	N	N.3-SG-H-POSS.TERM	8	TERM	_	
+10	u3	u[and]	CNJ	CNJ	8	appos	_	
+11	nam-ti	namtil[life]	PN	N	8	appos	_	
+12	dam	dam[spouse]	N	N	11	GEN	_	
+13	dumu-na-sze3	_[his.and.child]	N	N.3-SG-H-POSS.GEN.GEN.TERM	12	appos	_	
+14	a	a[water][-ø]	N	N.ABS	11	acl	_	
+15	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	14	acl	_	
+16	bur-ba	_[of.this]	N	N.DEM2.GEN	17	GEN	_	
+17	nin-mu	_[bowl.My.lady]	PN	N.1-SG-POSS	8	GEN	_	
+18	igi-ni-da-a	_[bowl.My.lady]	PN	PN.GEN.L1	17	appos	_	
+19	mu-bi-im	_[is.its.name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	root	_
+	
+

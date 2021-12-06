@@ -1,0 +1,59 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P427604.atf
+# tr.en: piglet of month st day passed grain-fed sheep of month th day passed piglet of month th day passed grain-fed sheep of month th day passed grain-fed sheep of month th day passed rations of libation place of Szukabta out of Adad-tillati booked in Garana month Festival of Ninazu year Szu-Suen king of Ur house of Szara in Umma erected copy
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	szah2-ze2-da	_[piglet]	N	N	0	root	_	
+3	iti	iti[month]	N	N	2	GEN	_	
+4	u4	ud[day]	N	N	6	acl	projectivity violation	
+5	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+6	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	2	acl	_	
+7	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+8	udu	udu[sheep]	N	N	2	appos	_	
+9	niga	niga[fattened][-ø]	V	NF.V.ABS	8	acl	_	
+10	iti	iti[month]	N	N	8	GEN	_	
+11	u4	ud[day]	N	N	13	acl	projectivity violation	
+12	1(u)	1(u)[ten]	NU	NU	8	nummod	_	
+13	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	8	acl	_	
+14	1(disz)	1(disz)[one]	NU	NU	15	nummod	_	
+15	szah2-ze2-da	_[piglet]	N	N	8	appos	_	
+16	iti	iti[month]	N	N	15	GEN	_	
+17	u4	ud[day]	N	N	20	acl	projectivity violation	
+18	1(u)	1(u)[ten]	NU	NU	8	nummod	projectivity violation	
+19	5(disz)	5(disz)[one]	NU	NU	22	nummod	projectivity violation	
+20	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	15	acl	_	
+21	1(disz)	1(disz)[one]	NU	NU	22	nummod	_	
+22	udu	udu[sheep]	N	N	8	appos	_	
+23	niga	niga[fattened][-ø]	V	NF.V.ABS	22	acl	_	
+24	iti	iti[month]	N	N	22	GEN	_	
+25	u4	ud[day]	N	N	27	acl	projectivity violation	
+26	2(u)	2(u)[ten]	NU	NU	8	nummod	projectivity violation	
+27	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	22	acl	_	
+28	1(disz)	1(disz)[one]	NU	NU	29	nummod	_	
+29	udu	udu[sheep]	N	N	8	appos	_	
+30	niga	niga[fattened][-ø]	V	NF.V.ABS	29	acl	_	
+31	iti	iti[month]	N	N	29	GEN	_	
+32	u4	ud[day]	N	N	35	acl	projectivity violation	
+33	2(u)	2(u)[ten]	NU	NU	8	nummod	projectivity violation	
+34	8(disz)	8(disz)[one]	NU	NU	33	nummod	_	
+35	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	29	acl	_	
+36	sa2-du11	sadug[offerings]	N	N	8	appos	_	
+37	ki-a-nag	ki'anag[place_of_libations]	N	N	36	GEN	_	
+38	szu-kab-ta2	_[Szukabta]	PN	PN	37	GEN	_	
+39	ki	ki[place]	N	N	38	_	heuristic: attach to last	
+40	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	36	ABL	_	
+41	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	40	acl	_	
+42	sza3	szag[heart]	N	N	8	appos	_	
+43	gar-sza-an-na{ki}	_[in.Garana]	SN	SN.GEN	8	LOC	_	
+44	iti	iti[month]	N	N	45	nmod	_	
+45	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	8	appos	_	
+46	mu	mu[year]	N	N	8	appos	_	
+47	{d}szu-{d}suen	Szusuen[1]	RN	RN	8	appos	_	
+48	lugal	lugal[king]	N	N	47	appos	_	
+49	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	48	GEN	_	
+50	e2	e[house]	N	N	53	ABS	_	
+51	{d}szara2	Szara[1][-ak]	DN	DN	50	GEN	_	
+52	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	50	LOC	_	
+53	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	47	acl	_	
+54	gaba-ri	gabari[copy]	N	N	2	appos	_
+	
+

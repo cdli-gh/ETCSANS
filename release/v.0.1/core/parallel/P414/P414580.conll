@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P414580.atf						#new_text=P414580
+# tr.en: gur ban sila barley seed oxen feed and wages of day laborers out of Lu-gina booked sealed document of Ur-Suen Year after Simanum was destroyed	*RETOK*-1(asz)	_	_	_	_	1(asz)	1(asz)[one]	NU	NU	D
+# tr.en: gur ban sila barley seed oxen feed and wages of day laborers out of Lu-gina booked sealed document of Ur-Suen Year after Simanum was destroyed *RETOK*-1(asz) _ _ _ _ 1(asz) 1(asz)[one] NU NU D
+# train/P414580.atf new_text=P414580
+1	lu2	lu[person]	N	N	0	_	_	
+2	ki	ki[place]	N	N	0	_	_
+	
+

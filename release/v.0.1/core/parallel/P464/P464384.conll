@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P464384.atf
+# tr.en: bull calf suckling fat-tailed sheep grain-fed fine quality sheep grain-fed full-grown billy grain-fed lambs slaughtered th day from Au-wer Szulgi-irimu received month Festival of An year Szaru was destroyed ox sheep
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	root	_	
+3	gu4	gud[ox]	N	N	2	appos	_	
+4	ga	ga[milk]	N	N	2	appos	_	
+5	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+6	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	saga	saga[good][-ø]	V	NF.V.ABS	6	acl	_	
+9	2(disz)	2(disz)[one]	NU	NU	6	nummod	_	
+10	udu	udu[sheep]	N	N	6	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	10	acl	_	
+12	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+13	masz2-gal	maszgal[billy_goat]	N	N	6	appos	_	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	13	acl	_	
+15	4(disz)	4(disz)[one]	NU	NU	16	nummod	_	
+16	sila4	sila[lamb]	N	N	6	appos	_	
+17	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	16	acl	_	
+18	u4	ud[day]	N	N	17	date	_	
+19	1(u)	1(u)[ten]	NU	NU	17	nummod	_	
+20	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	19	nummod	_	
+21	ki	ki[place]	N	N	22	ABL	_	
+22	a-hu-we-er-ta	Ahuwer[1][-ak]-ta	PN	PN.GEN.ABL	17	ABL	_	
+23	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	25	ABS	_	
+24	szu	szu[hand][-e]	N	N.L3-NH	25	_	_	
+25	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	22	acl	_	
+26	iti	iti[month]	N	N	28	nmod	_	
+27	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	26	appos	_	
+28	mu	mu[year]	N	N	25	appos	_	
+29	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	28	appos	_	
+30	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	28	acl	_	
+31	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+32	gu4	gud[ox]	N	N	6	appos	_	
+33	8(disz)	8(disz)[one]	NU	NU	34	nummod	heuristic: NU premodifying	
+34	udu	udu[sheep]	N	N	32	appos	_
+	
+

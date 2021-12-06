@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P392634.atf
+# tr.en: gur ban sila of large bread booked out of Szu-nir from Gurzan under seal of governor month extra year Simanum was destroyed Szu-Suen strong king king of Ur king of heaven with its four corners Ayakalla governor of Umma your servant
+1	1(asz)	1(asz)[one]	NU	NU	5	nummod	projectivity violation	
+10	ba-hul	ki[place]	N	N	16	acl	_	
+11	{d}szu-{d}suen	_[Szu-Suen]	PN	PN.GEN.ABL	3	_	projectivity violation	
+12	5(ban2)	kiszib[seal]	NU	N	1	nummod	projectivity violation	
+13	lugal	ensik[ruler]	N	N	19	appos	projectivity violation	
+14	kal-ga	iti[month]	N	N	20	acl	_	
+15	lugal	diri[intercalary_month]	N	N	19	appos	projectivity violation	
+16	uri5{ki}-ma	mu[year]	N	N	22	GEN	_	
+17	lugal	Simanum[1][-ø]	GN	SN.ABS	19	appos	projectivity violation	
+18	an	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	27	acl	projectivity violation	
+19	ub-da	Szusuen[1]	RN	RN	24	GEN	_	
+2	ki	5(ban)[unit]	NU	N	11	nummod	_	
+20	limmu2-ba	lugal[king]	N	N	24	COM	_	
+21	a-a-kal-la	kalag[strong]-a	V	NF.V.SUB	19	_	projectivity violation	
+22	ensi2	lugal[king]	N	N	28	appos	_	
+23	5(disz)	Urim[1]-ak	NU	SN.GEN	2	nummod	projectivity violation	
+24	umma{ki}	lugal[king]	N	N	29	GEN	projectivity violation	
+25	ARAD2-zu	An[1][-ra]	N	N	28	appos	projectivity violation	
+26	sila3	_[sila]	N	N	3	appos	_	
+27	ninda	limmu[four]-bi-ak[-ø]	V	NF.V.3-SG-NH-POSS.GEN.ABS	4	acl	_	
+28	gal	Ayakala[1]	PN	PN	5	acl	_	
+29	gur	ensik[ruler]	N	N	3	appos	projectivity violation	
+3	gur4-za-an-ta	5(disz)[one]	NU	NU	3	nummod	projectivity violation	
+30	zi-ga	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	5	acl	_	
+31	szu-nir	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	8	ABL	_
+	
+4	kiszib3	sila[unit]	N	N	3	LOC	projectivity violation	
+5	ensi2	ninda[bread]	N	N	12	GEN	_	
+6	iti	gal[big][-ø]	V	NF.V.ABS	16	_	_	
+7	diri	gur[unit]	N	N	16	_	_	
+8	mu	zig[expend]-a	V	NF.V.PT	3	_	projectivity violation	
+9	si-ma-num2{ki}	szunir[emblem][-sze]	N	N	18	ABS	_	
+

@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P123695.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	1	appos	_	
+3	sze	sze[barley]	N	N	2	_	heuristic: attach to last	
+4	siki	siki[wool][-'a]	N	N	3	_	heuristic: attach to last	
+5	tug2	tug[textile]	N	N	4	_	heuristic: attach to last	
+6	i3	i[oil]	N	N	5	_	heuristic: attach to last	
+7	uruda	urud[copper][-ak]	N	N	6	_	heuristic: attach to last	
+8	u3	u[and]	CNJ	CNJ	7	_	heuristic: attach to last	
+9	a2	a[time]	N	N	8	_	heuristic: attach to last	
+10	nam-lu2-u18	_[xxx]	PN	PN	9	_	heuristic: attach to last	
+11	ki	ki[place]	N	N	10	_	heuristic: attach to last	
+12	lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	11	_	heuristic: attach to last	
+13	szabra	szabra[chief_administrator][-ak]	N	N	12	_	heuristic: attach to last	
+14	e2-amar-ra	_	TN	TN	13	_	heuristic: attach to last	
+15	e2-{d}szara2{ki}	_[xxx]	GN	GN	14	_	heuristic: attach to last	
+16	iti	iti[month]	N	N	15	_	heuristic: attach to last	
+17	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	16	_	heuristic: attach to last	
+18	mu	mu[year]	N	N	17	_	heuristic: attach to last	
+19	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	18	_	heuristic: attach to last	
+20	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	19	_	heuristic: attach to last	
+21	iti	iti[month]	N	N	20	_	heuristic: attach to last	
+22	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	21	_	heuristic: attach to last	
+23	mu	mu[year]	N	N	22	_	heuristic: attach to last	
+24	us2-sa	us[follow]-a	V	NF.V.PT	23	_	heuristic: attach to last	
+25	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	30	nmod	_	
+26	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	25	_	heuristic: attach to last	
+27	iti	iti[month]	N	N	30	nmod	_	
+28	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+29	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	28	nummod	_	
+30	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

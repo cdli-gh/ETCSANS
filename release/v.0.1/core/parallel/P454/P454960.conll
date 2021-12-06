@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454960.atf
+# tr.en: Egalesi scribe son of Lu-Szara chief surveyor
+1	e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	3	GEN	_	
+5	sa12-du5-ka	_[chief.surveyor]	PN	PN	4	appos	_
+	
+

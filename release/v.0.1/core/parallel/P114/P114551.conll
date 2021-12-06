@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborers shekel each from month GANma to month Oxen- its labor shekels silver male laborers shekel each from month Festival of Lisi to month Festival of Baba of months its labor shekels total mana shekels silver are debits therefrom shekels Ur-Enki shekels Bazi shekels Lu-Baba shekels less grains silver via Ur-Tira shekels silver agul silver Eki temple household manager of Ninmar shekels released total shekels silver deliveries the deficit less shekels account of Abbamu year after wall of land was erected
+# train/P114551.atf						#new_text=P114551
+# train/P114551.atf new_text=P114551
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	gin2-ta	gig[unit]-ta	N	N.ABL	3	appos	_	
+6	iti	iti[month]	N	N	3	ABL	_	
+7	GAN2-masz-ta	Ganmasz[1][-ak]-ta	MN	MN.GEN.ABL	6	ABL	_	
+

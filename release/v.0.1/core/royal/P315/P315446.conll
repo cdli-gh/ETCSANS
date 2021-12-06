@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi king of Urim who built Karkara	
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	appos	_
+4	lu2	lu2[person]	N	N	6	ABS	_
+5	karkar{ki}	karkara{ki}[1]	SN	SN.ABS	4	GEN	_
+6	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	2	amod	_
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P458570.atf
+# tr.en: Ur-Lisi governor of Umma Ur-amma scribe son of Nasilim is your servant
+1	ur-{d}li9-si4	Urlisi[1]	PN	PN	0	root	_	
+2	ensi2	ensik[ruler]	N	N	1	appos	_	
+3	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	2	GEN	_	
+4	ur-am3-ma	Uramma[1][-ak]	PN	PN	8	ABS	_	
+5	dub-sar	dubsar[scribe]	N	N	4	appos	_	
+6	dumu	dumu[child]	N	N	4	appos	_	
+7	na-silim	Nasilim[1][-ak][-ø]	PN	PN	6	GEN	_	
+8	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	1	appos	_
+	
+

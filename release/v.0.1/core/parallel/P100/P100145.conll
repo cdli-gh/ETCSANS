@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of porters foremen temple administrator of Ninmar year en of Nanna by goat was found
+# train/P100145.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	ug3-IL2	uggaga[porter]	N	N	2	GEN	_	
+4	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+5	sanga	sagga[temple_administrator]	N	N	3	appos	_	
+6	{d}nin-mar{ki}	_[Ninmar]	DN	DN	5	GEN	_	
+7	mu	mu[year]	N	N	6	appos	_	
+8	en	en[priest]	N	N	11	ABS	_	
+9	{d}nanna	Nanna[1][-ak]	DN	DN	8	GEN	_	
+10	masz-e	masz[goat]-e	N	N.L3-NH	8	ERG	_	
+11	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	2	acl	_
+	
+

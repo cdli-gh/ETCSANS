@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: talents mina shekels of wool from shepherd of Akalla of governor from new-house Gudada received year Szu-Suen king of Ur had great-barge built for Enlil and Ninlil
+# train/P424404.atf
+1	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+2	6(asz)	6(asz)[one]	NU	NU	1	nummod	_	
+3	gu2	gun[unit]	N	N	0	root	_	
+4	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+5	6(disz)	6(disz)[one][-sze]	NU	NU	4	nummod	_	
+6	5/6(disz)	5/6(disz)[one]	NU	NU	4	nummod	_	
+7	ma-na	mana[unit]	N	N	3	appos	_	
+8	7(disz)	7(disz)[one][-sze]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	gin2	gig[unit]	N	N	3	appos	_	
+10	siki	siki[wool][-'a]	N	N	9	GEN	_	
+11	ki	ki[place]	N	N	12	ABL	_	
+12	sipa	sipa[shepherd]	N	N	9	ABL	_	
+13	a-a-kal-la	Ayakala[1]	PN	PN	12	GEN	_	
+14	ensi2-ka	ensik[ruler]-ak	N	N.GEN	3	GEN	_	
+15	e2-gibil-ta	_[from.new-house]	N	N	3	ABL	_	
+16	gu-da-da	_[Gudada]	PN	PN	18	ABS	_	
+17	szu	szu[hand][-e]	N	N.L3-NH	18	_	_	
+18	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	3	acl	_	
+19	mu	mu[year]	N	N	18	date	_	
+20	{d}szu-{d}suen	Szusuen[1]	RN	RN	23	ERG	_	
+21	lugal	lugal[king]	N	N	20	appos	_	
+22	uri{ki}-ma	_[Ur]	GN	SN.GEN	21	GEN	_	
+23	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	3	acl	_	
+24	{d}en-lil2	Enlil[1]	DN	DN	26	DAT	_	
+25	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	24	appos	_	
+26	mu-ne2-dim2	_[great-barge.built]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	23	acl	_
+	
+

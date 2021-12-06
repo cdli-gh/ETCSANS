@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P129732.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	1	appos	_	
+3	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	1	_	heuristic: after nominal head	
+4	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+5	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+6	ki	ki[place]	N	N	1	_	heuristic: after nominal head	
+7	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+8	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+9	inim-{d}szara2-ta	_	PN	PN.GEN.ABL	1	_	heuristic: after nominal head	
+10	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+11	a2-ki-ti-ta	_[xxx]	MN	MN.GEN.ABL	1	_	heuristic: after nominal head	
+12	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+13	ezem-an-na-sze3	_[xxx]	MN	MN.TERM	19	nmod	projectivity violation	
+14	iti	iti[month]	N	N	19	nmod	projectivity violation	
+15	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	16	nummod	heuristic: NU premodifying	
+16	mu	mu[year]	N	N	1	appos	_	
+17	ha-ar-szi{ki}	Harszi[1]	SN	SN	16	_	heuristic: attach to last	
+18	u3	u[and]	CNJ	CNJ	17	_	heuristic: attach to last	
+19	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	1	appos	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

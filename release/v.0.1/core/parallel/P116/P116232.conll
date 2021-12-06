@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P116232.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2	gurum[inspection]	N	N	1	_	heuristic: after nominal head	
+3	ak	ak[excavate][-a][-ak]	V	NF.V.PT	1	_	_	
+4	sag-apin	_[xxx]	N	N	1	_	heuristic: after nominal head	
+5	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+6	szabra	szabra[chief_administrator][-ak]	N	N	1	_	heuristic: after nominal head	
+7	maszkim	maszkim[administrator]	N	N.ABS	1	_	heuristic: after nominal head	
+8	di-da	_[xxx]	N	N	1	_	heuristic: after nominal head	
+9	ra2-gaba	ragaba[rider]	N	N.ABS	1	_	heuristic: after nominal head	
+10	aga3-us2	aga'us[soldier]	N	N	1	_	heuristic: after nominal head	
+11	ma2-lah5	malah[sailor]	N	N	1	_	heuristic: after nominal head	
+12	ma2-gur8-ra	_[xxx]	N	N	1	_	heuristic: after nominal head	
+13	dub-sar	dubsar[scribe]	N	N	1	_	heuristic: after nominal head	
+14	gu-za-la2	guzala[throne_bearer]	N	N	1	_	heuristic: after nominal head	
+15	gu2-ne-sag	_[xxx]	N	N.ABL	1	_	heuristic: after nominal head	
+16	erin2	erin[people]	N	N	1	_	heuristic: after nominal head	
+17	ug3-IL2	uggaga[porter]	N	N	1	_	heuristic: after nominal head	
+18	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+19	{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	1	_	heuristic: after nominal head	
+20	sipa	sipa[shepherd]	N	N	1	_	heuristic: after nominal head	
+21	dur9{ur3}-ra	_[xxx]	N	N	1	_	heuristic: after nominal head	
+22	bur-sag	_	N	N	1	_	heuristic: after nominal head	
+23	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	27	nmod	projectivity violation	
+24	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	27	acl	projectivity violation	
+25	mu	mu[year]	N	N	1	appos	_	
+26	us2-sa	us[follow]-a	V	NF.V.PT	25	_	heuristic: attach to last	
+27	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	1	appos	_
+	
+

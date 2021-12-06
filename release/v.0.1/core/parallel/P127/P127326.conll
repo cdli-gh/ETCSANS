@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P127326.atf
+# tr.en: bear cub Ur-Suen kings son delivery month Festival of An year Simurrum and Lullubu for th time was destroyed rd day
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	_	_	
+3	az	_[bear.cub]	N	N.GEN	4	nmod	_	
+4	ur-{d}suen	Ursuen[1]	PN	PN	0	root	_	
+5	dumu-lugal	_[kings.son]	N	N	4	appos	_	
+6	mu-kux(DU)	mukur[delivery][-ø]	N	N	4	appos	_	
+7	iti	iti[month]	N	N	9	_	_	
+8	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	9	ABS	_	
+9	mu	mu[year]	N	N	4	appos	_	
+10	si-mu-ru-um	Simurum[1]	GN	SN	17	ABS	projectivity violation	
+11	u3	u[and]	CNJ	CNJ	10	appos	_	
+12	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	10	appos	_	
+13	a-ra2	ara[times]	N	N	10	DAT	_	
+14	1(u)	1(u)[ten]	NU	NU	9	nummod	_	
+15	la2	la[hang][-ø]	V	NF.V.ABS	14	_	_	
+16	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	15	nummod	_	
+17	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	9	acl	_	
+18	u4	ud[day]	N	N	9	appos	_	
+19	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+20	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_
+	
+

@@ -1,0 +1,70 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P392630.atf
+# tr.en: calf female gazelle on th day lamb and calf male gazelle st day lamb ox cows jackasses jennies extispicy nd day from Intaea sheep from Nalu therefrom sheep via Szu-il lambs calfs gazelles via Intake did Ur-mes accept cows donkeys did Enlila accept month Akiti year barge Dara-abzu was calked
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	root	_	
+3	masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	2	appos	_	
+4	u4	ud[day]	N	N	2	LOC	_	
+5	2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+6	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+7	sila4	sila[lamb]	N	N	2	appos	_	
+8	1(disz)	1(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	amar	amar[calf][-ak]	N	N	7	appos	_	
+10	masz-da3-nita2	maszdanita[male_gazelle]	N	N	7	appos	_	
+11	u4	ud[day]	N	N	7	appos	_	
+12	2(u)	2(u)[ten]	NU	NU	7	nummod	_	
+13	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	15	nummod	projectivity violation	
+14	1(disz)	1(disz)[one]	NU	NU	19	nummod	projectivity violation	
+15	sila4	sila[lamb]	N	N	7	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+17	gu4	gud[ox]	N	N	15	appos	_	
+18	7(disz)	7(disz)[one][-sze]	NU	NU	15	nummod	projectivity violation	
+19	ab2	ab[cow][-ø]	N	N	17	appos	_	
+20	1(u)	1(u)[ten]	NU	NU	15	nummod	_	
+21	la2	la[hang][-ø]	V	NF.V.ABS	25	acl	projectivity violation	
+22	1(disz@t)	1(disz)[one]	NU	NU	21	nummod	_	
+23	dusu2-nita2	_[jackasses]	PN	PN	15	appos	_	
+24	2(disz)	2(disz)[one]	NU	NU	15	nummod	_	
+25	dusu2-munus	_[jennies]	N	N	15	appos	_	
+26	szu-gid2	szugid[animal_designation][-ø]	N	N	15	appos	_	
+27	u4	ud[day]	N	N	15	appos	_	
+28	2(u)	2(u)[ten]	NU	NU	15	nummod	_	
+29	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	28	nummod	_	
+30	ki	ki[place]	N	N	31	ABL	_	
+31	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	15	ABL	_	
+32	5(disz)	5(disz)[one]	NU	NU	31	nummod	_	
+33	udu	udu[sheep]	N	N	31	appos	_	
+34	ki	ki[place]	N	N	35	ABL	_	
+35	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	33	ABL	_	
+36	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	31	appos	_	
+37	5(disz)	5(disz)[one]	NU	NU	31	nummod	_	
+38	udu	udu[sheep]	N	N	31	appos	_	
+39	sza3	szag[heart]	N	N	45	nummod	projectivity violation	
+40	x	_[_]	N	N	39	dep	heuristic: attach to last	
+41	mu	mu[year]	N	N	40	_	heuristic: attach to last	
+42	giri3	giri[foot]	N	N	43	via	_	
+43	szu-i3-li2	Szu'ili[1]	PN	PN	31	via	_	
+44	2(disz)	2(disz)[one]	NU	NU	45	nummod	_	
+45	sila4	sila[lamb]	N	N	31	appos	_	
+46	2(disz)	2(disz)[one]	NU	NU	47	nummod	heuristic: NU premodifying	
+47	amar	amar[calf][-ak]	N	N	45	appos	_	
+48	masz-da3	maszda[gazelle][-ø]	N	N	45	appos	_	
+49	giri3	giri[foot]	N	N	50	via	_	
+50	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	45	via	_	
+51	ur-mes	Urmes[1]	PN	PN	52	_	_	
+52	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	31	acl	_	
+53	8(disz)	8(disz)[one]	NU	NU	54	nummod	_	
+54	ab2	ab[cow][-ø]	N	N	59	ABS	_	
+55	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+56	1(disz)	1(disz)[one]	NU	NU	55	nummod	_	
+57	dusu2	_[donkeys]	N	N	54	appos	_	
+58	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	59	ABS	_	
+59	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	52	parataxis	_	
+60	iti	iti[month]	N	N	65	nmod	_	
+61	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	65	_	_	
+62	mu	mu[year]	N	N	65	_	_	
+63	ma2	ma[ship]	N	N	64	nmod	_	
+64	dara3-abzu	_[Dara-abzu]	PN	PN	65	ABS	_	
+65	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	31	acl	_
+	
+

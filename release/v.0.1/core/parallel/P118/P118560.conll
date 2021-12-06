@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P118560.atf
+# tr.en: gur barley Ka-tar barig Lu-Damu gur barig ban Baluga wages of hirelings at field Uub month Bricks th day passed
+1	1(asz)	1(asz)[one]	NU	NU	2	nummod	_	
+2	sze	sze[barley]	N	N	0	root	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	ka-tar	Katar[1][-ak]	PN	PN.GEN	2	appos	_	
+5	3(barig)	3(bariga)[unit]	NU	N	7	nummod	projectivity violation	
+6	3(ban2)	3(ban)[unit]	NU	N	4	nummod	_	
+7	lu2-{d}da-mu	Ludamu[1][-ra]	PN	PN.DAT-H	4	appos	_	
+8	1(asz)	1(asz)[one]	NU	NU	4	nummod	projectivity violation	
+9	1(barig)	1(bariga)[unit]	NU	N	8	nummod	_	
+10	3(ban2)	3(ban)[unit]	NU	N	8	nummod	_	
+11	gur	gur[unit]	N	N	7	appos	_	
+12	ba-lu5-ga	_[barig.ban.Baluga]	V	NF.V.PT	11	_	_	
+13	a2	a[time]	N	N	12	_	heuristic: attach to last	
+14	lu2	lu[person]	N	N	4	appos	_	
+15	hun-ga2	hug[hire]-a	V	NF.V.PT	0	_	detached for projectivity	
+16	a-sza3	aszag[field]	N	N	15	LOC	_	
+17	u2-hub2	_[at.Uub]	FN	FN	16	LOC	_	
+18	iti	iti[month]	N	N	19	nmod	_	
+19	sig4	szeg[brick]	N	N	4	appos	_	
+20	u4	ud[day]	N	N	23	nmod	projectivity violation	
+21	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+22	5(disz)	5(disz)[one]	NU	NU	21	nummod	_	
+23	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	0	_	detached for projectivity
+	
+

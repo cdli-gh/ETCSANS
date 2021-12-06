@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed for Amur-il messenger of Libanug-aba governor of Marhai via Lu-Damu messenger buck barley-fed for Guraya a man from Uru sheep barley-fed for Eum a man from Mari via Bilila messenger ARADmu responsible official of month day elapsed from Szulgi-ayamu booked out month Ubi feast year after throne of Enlil was fashioned small cattle
+# train/P416435.atf
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	a-mur-dingir	Amurdingir[1]	PN	PN	6	DAT	projectivity violation	
+5	lu2	lu[person]	N	N	2	appos	_	
+6	kin-gi4-a	kiggia[messenger]	N	N	2	DAT	_	
+7	li-ba-nu-ug-sza-ba-asz	_[of.Libanug-aba]	V	V	6	acl	_	
+8	ensi2	ensik[ruler]	N	N	2	appos	_	
+9	mar-ha-szi{ki}	Marhaszi[1][-ak][-ak]	SN	SN.GEN.GEN	8	GEN	_	
+10	giri3	giri[foot]	N	N	11	via	_	
+11	lu2-{d}da-mu	Ludamu[1][-ra]	PN	PN.DAT-H	2	via	_	
+12	sukkal	sukkal[secretary][-ak][-ra]	N	N	11	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	18	nummod	projectivity violation	
+14	masz2-gal	maszgal[billy_goat]	N	N	11	appos	_	
+15	niga	niga[fattened][-ø]	V	NF.V.ABS	14	acl	_	
+16	gu-ra-a	_[for.Guraya]	PN	PN.GEN	14	DAT	_	
+17	lu2	lu[person]	N	N	18	nmod	_	
+18	ur-szu{ki}	_[man.from.Uru]	SN	SN	16	appos	_	
+19	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+20	udu	udu[sheep]	N	N	18	appos	_	
+21	niga	niga[fattened][-ø]	V	NF.V.ABS	18	acl	_	
+22	e2-um	_[for]	PN	PN	18	DAT	_	
+23	lu2	lu[person]	N	N	18	appos	_	
+24	ma-ri2{ki}	_[from.Mari]	SN	SN.GEN.GEN.L1	23	ABL	_	
+25	giri3	giri[foot]	N	N	26	via	_	
+26	bi2-li2-a	_[Bilila]	PN	PN	18	via	_	
+27	sukkal	sukkal[secretary][-ak][-ra]	N	N	18	appos	_	
+28	ARAD2-mu	Aradmu[1]	PN	PN	11	appos	_	
+29	maszkim	maszkim[administrator]	N	N.ABS	28	appos	_	
+30	iti	iti[month]	N	N	11	GEN	_	
+31	u4	ud[day]	N	N	30	appos	_	
+32	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+33	6(disz)	6(disz)[one][-sze]	NU	NU	32	nummod	_	
+34	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	30	acl	_	
+35	ki	ki[place]	N	N	36	ABL	_	
+36	{d}szul-gi-a-a-mu-ta	_[Szulgi-ayamu]	PN	PN.GEN.GEN.ABL	11	ABL	_	
+37	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	36	acl	_	
+38	iti	iti[month]	N	N	39	nmod	_	
+39	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	2	appos	_	
+40	mu	mu[year]	N	N	39	_	_	
+41	us2-sa	us[follow]-a	V	NF.V.PT	40	acl	_	
+42	gu-za	guza[chair][-ø]	N	N	44	ABS	_	
+43	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	42	GEN	_	
+44	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	39	acl	_	
+45	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+46	udu	udu[sheep]	N	N	2	appos	_
+	
+

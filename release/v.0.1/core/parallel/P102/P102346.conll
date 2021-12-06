@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: calf-gazelles for Nanna delivery of Kuu Nanna-GIRgal was enforcer calf-gazelle to uzga-house delivery of abru-er Ur-Baba was enforcer lamb ugid offering for kitchen th day from Abbasaga booked out month Gazelle-feast year after Amar-Suen is king
+# train/P102346.atf new_text=P102346
+# train/P102346.atf						#new_text=P102346
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	_	_	
+32	4(disz)	4(disz)[one]	NU	NU	0	nummod	_
+	
+

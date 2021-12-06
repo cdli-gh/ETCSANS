@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P101235.atf new_text=P101235
+# train/P101235.atf						#new_text=P101235
+# tr.en: sila fine beer Ur-Nanna Lu-Eridu Du-il Ayakala Sz-engar Nannakam Ur-saga Azaza Il-bani sila beer sila bread each shekels onions shekels oil shekels alkali-plant each total ban sila fine beer total sila total ban sila bread total sila sila shekel shekels
+91	...	_[_]	PN	N	0	dep	_
+	
+

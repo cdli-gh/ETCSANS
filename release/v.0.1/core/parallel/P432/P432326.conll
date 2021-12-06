@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432326.atf new_text=P432326
+# tr.en: one quart beer ten	*RETOK*-...-gar	_	_	_	_	...-gar	_	PN	PN	Iabcde
+# train/P432326.atf						#new_text=P432326
+# tr.en: one quart beer ten *RETOK*-...-gar _ _ _ _ ...-gar _ PN PN Iabcde
+1	'.	_[_]	PN	N	4	_	_	
+2	1(disz)	1(disz)[one]	NU	NU	4	nummod	heuristic: NU premodifying	
+3	sila3	sila[unit]	N	N	4	nummod	_	
+4	kasz	kasz[beer]	N	N	0	root	_	
+5	...	_[_]	PN	N	4	dep	_	
+6	'.	_	N	N	4	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	9	nummod	heuristic: NU premodifying	
+8	x	_[_]	N	N	7	dep	heuristic: attach to last	
+9	...	_[_]	PN	N	6	dep	_
+	
+

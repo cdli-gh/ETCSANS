@@ -1,0 +1,62 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborers hirelings for barge punting the labor its fodder sila each for days its barley gur barig ban sila labor of hirelings barge of gur its labor sila per barge captain hireling his labor fodder sila per for days its barley barig ban sila foreman Nindam barley of field of Nina via Namma Monat Festival of Baba fodder barig sila
+# test/P113314.atf
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	0	root	_	
+3	hun-ga2	hug[hire]-a	V	NF.V.PT	2	acl	_	
+4	ma2	ma[ship]	N	N	5	nmod	_	
+5	gid2	gid[length]	V	N	2	acl	_	
+6	a2	a[time]	N	N	7	nmod	_	
+7	sza3-gal-bi	_[labor.its.fodder]	N	N.DEM2.ABS	2	appos	_	
+8	7(disz)	7(disz)[one][-sze]	NU	NU	9	nummod	_	
+9	sila3-ta	sila[unit]-ta	N	N.ABL	2	appos	_	
+10	6(disz)	6(disz)[one][-sze]	NU	NU	9	nummod	_	
+11	1/2(disz)	1/2(disz)[one]	NU	NU	10	nummod	_	
+12	u4-sze3	_[for.days]	N	N	9	DAT	_	
+13	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	9	appos	_	
+14	1(asz)	1(asz)[one]	NU	NU	19	nummod	_	
+15	2(barig)	2(bariga)[unit]	NU	N	14	nummod	_	
+16	3(ban2)	3(ban)[unit]	NU	N	14	nummod	_	
+17	2(disz)	2(disz)[one]	NU	NU	19	nummod	_	
+18	sila3	sila[unit]	N	N	17	appos	_	
+19	gur	gur[unit]	N	N	9	appos	_	
+20	a2	a[time]	N	N	19	appos	_	
+21	lu2	lu[person]	N	N	19	appos	projectivity violation	
+22	hun-ga2-kam	_[hirelings]	V	NF.V.PT.GEN	20	acl	_	
+23	1(disz)	1(disz)[one]	NU	NU	24	nummod	_	
+24	ma2	ma[ship]	N	N	19	appos	_	
+25	3(u)	3(u)[ten]	NU	NU	26	nummod	heuristic: NU premodifying	
+26	gur	gur[unit]	N	N	24	GEN	_	
+27	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	24	appos	_	
+28	6(disz)	6(disz)[one][-sze]	NU	NU	29	nummod	_	
+29	sila3-ta	sila[unit]-ta	N	N.ABL	24	appos	projectivity violation	
+30	1(disz)	1(disz)[one]	NU	NU	31	nummod	_	
+31	ma2-lah5	malah[sailor]	N	N	28	appos	_	
+32	hun-ga2	hug[hire]-a	V	NF.V.PT	31	_	heuristic: after nominal head	
+33	a2	a[time]	N	N	31	_	heuristic: after nominal head	
+34	sza3-gal-ni	_[his.labor.fodder]	N	N	31	appos	_	
+35	7(disz)	7(disz)[one][-sze]	NU	NU	36	nummod	heuristic: NU premodifying	
+36	sila3-ta	sila[unit]-ta	N	N.ABL	34	appos	_	
+37	u4	ud[day]	N	N	44	_	_	
+38	7(disz)-sze3	7(disz)[one]-sze	NU	NU.TERM	37	nummod	_	
+39	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	37	appos	_	
+40	1(barig)	1(bariga)[unit]	NU	N	37	nummod	_	
+41	3(ban2)	3(ban)[unit]	NU	N	40	nummod	_	
+42	5(disz)	5(disz)[one]	NU	NU	37	nummod	_	
+43	sila3	sila[unit]	N	N	42	appos	_	
+44	ugula	ugula[overseer][-ø]	N	N	36	LOC	_	
+45	nin-dam	_[Nindam]	PN	PN	53	nmod	_	
+46	sze	sze[barley]	N	N	45	appos	_	
+47	a-sza3	aszag[field]	N	N	46	GEN	_	
+48	nigin6{ki}	_[Nina]	SN	SN.GEN.GEN.TERM	47	GEN	_	
+49	giri3	giri[foot]	N	N	50	via	_	
+50	nam-mah	Nammah[1]	PN	PN	45	via	_	
+51	iti	iti[month]	N	N	45	appos	_	
+52	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	45	appos	_	
+53	sza3-gal	szaggal[food]	N	N	44	appos	_	
+54	1(asz)	1(asz)[one]	NU	NU	53	nummod	_	
+55	4(barig)	4(bariga)[unit]	NU	N	31	nummod	projectivity violation	
+56	7(disz)	7(disz)[one][-sze]	NU	NU	55	nummod	_	
+57	sila3	sila[unit]	N	N	54	appos	_
+	
+

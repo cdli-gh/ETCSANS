@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235696.atf
+# tr.en: grain-fed sheep kitchen on account of Gunda Hurtian when he came from Hurti Conveyer Itrak-ili messenger Szuru-kin general was guarantor The th day of month has passed Booked out of Szulgi-aamu nd great festival month year Enmahgalanna was installed as priestess of Nanna
+1	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	2	appos	_	
+5	mu	mu[year]	N	N	4	_	heuristic: after nominal head	
+6	gu-un-da	_[on.account]	PN	PN.ABS	4	LOC	_	
+7	lu2	lu[person]	N	N	6	_	heuristic: after nominal head	
+8	hu-ur5-ti{ki}-sze3	_[Gunda.Hurtian]	SN	SN.GEN.GEN.TERM	6	GEN	_	
+9	u4	ud[day]	N	N	8	appos	_	
+10	hu-ur5-ti{ki}-ta	_[when.he]	SN	SN	11	_	_	
+11	i3-im-gen-na-a	_[came.from.Hurti]	V	FIN.3-SG-H.DAT.V.3-SG-S.SUB.L1	8	acl	_	
+12	giri3	giri[foot]	N	N	8	_	heuristic: after nominal head	
+13	it-ra-ak-i3-li2	_[Conveyer.Itrak-ili]	PN	PN	8	appos	_	
+14	sukkal	sukkal[secretary][-ak][-ra]	N	N	15	nmod	_	
+15	szu-ru-usz-ki-in	_[Szuru-kin.guarantor]	PN	PN	13	parataxis	projectivity violation	
+16	szagina	szakkanak[governor][-ak]	N	N	14	appos	projectivity violation	
+17	maszkim	maszkim[administrator]	N	N.ABS	16	_	heuristic: attach to last	
+18	iti	iti[month]	N	N	19	GEN	_	
+19	u4	ud[day]	N	N	22	ABS	_	
+20	2(u)	2(u)[ten]	NU	NU	22	nummod	_	
+21	4(disz)	4(disz)[one]	NU	NU	20	nummod	_	
+22	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	15	acl	_	
+23	ki	ki[place]	N	N	24	_	_	
+24	{d}szul-gi-a-a-mu-ta	_[Booked.Szulgi-aamu]	PN	PN.GEN.GEN.ABL	22	appos	_	
+25	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	24	ABL	_	
+26	iti	iti[month]	N	N	29	nmod	projectivity violation	
+27	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	22	parataxis	_	
+28	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	29	nummod	heuristic: NU premodifying	
+29	mu	mu[year]	N	N	27	appos	_	
+30	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	34	ABS	_	
+31	en	en[priest]	N	N	34	LOC	_	
+32	{d}nanna	Nanna[1][-ak]	DN	DN	31	GEN	_	
+33	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	34	acl	_	
+34	2(disz)	2(disz)[one]	NU	NU	27	nummod	_
+	
+

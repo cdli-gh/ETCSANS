@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P315641.atf new_text=P315641
+# train/P315641.atf						#new_text=P315641
+# tr.en: Basket-of-tablets inspections
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	2	acl	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	0	root	_
+	
+

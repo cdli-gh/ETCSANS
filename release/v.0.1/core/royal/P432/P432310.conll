@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nanna his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters for his life dedicated to him
+1	{d}nanna	{d}nanna[1]	DN	DN	16	DAT	_
+2	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	16	ERG	_
+4	dingir	digir[deity]	N	N	3	appos	_
+5	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	3	appos	_
+11	an	_	_	_	10	_	_
+12	ub-da	an-ub-da[quarter]	N	N	10	appos	_
+13	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	12	nummod	_
+14	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	16	TERM	_
+15	a	a[water]	N	N.ABS	16	ABS	_
+16	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P318174.atf
+# tr.en: Basket-of-tablets inspection of troops fodder reed overseer year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	erin2	erin[people]	N	N	2	GEN	_	
+4	gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	2	appos	_	
+5	nu-banda3	nubanda[overseer][-ø]	N	N	2	appos	_	
+6	mu	mu[year]	N	N	2	appos	_
+	
+

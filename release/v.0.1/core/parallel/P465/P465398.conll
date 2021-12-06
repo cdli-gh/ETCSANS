@@ -1,0 +1,70 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P465398.atf						#new_text=P465398
+# tr.en: Maazum Pu Ebla Mari Tuttul Urke Muki -Adad -la Abarnum and land where cedars are cut together with it provinces the land of Subartu on shores of Upper Sea and Magan together with its provinces land on other side of Sea
+# train/P465398.atf new_text=P465398
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	nmod	_	
+2	ga2	ga[house]	N	N	0	root	_	
+3	x	_[_]	N	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	bu	bu[unknown]	_	_	0	_	_	
+7	...	_[_]	PN	N	0	dep	_	
+8	'.	_	PN	PN	0	root	_	
+9	ma-ha-zu-um{ki}	_	GN	GN	8	_	heuristic: after nominal head	
+10	...	_[_]	PN	N	8	dep	heuristic: after nominal head	
+11	'.	_	_	_	8	_	heuristic: after nominal head	
+12	pu-usz{ki}	_[Pu]	SN	SN.GEN.GEN.ABS	8	_	heuristic: after nominal head	
+13	...	_[_]	PN	N	8	dep	heuristic: after nominal head	
+14	'.	_	_	_	8	_	heuristic: after nominal head	
+15	x	_[_]	N	N	8	dep	_	
+16	x	_[_]	N	N	8	dep	heuristic: after nominal head	
+17	x	_[_]	N	N	8	dep	heuristic: after nominal head	
+18	x	_[_]	N	N	8	dep	heuristic: after nominal head	
+19	da	da[unknown]	N	N	8	_	heuristic: after nominal head	
+20	asz	_	N	N.3-SG-H-POSS.TERM	8	_	heuristic: after nominal head	
+21	gi	gi[reed][-ø]	N	N	8	_	heuristic: after nominal head	
+22	ku	_	V	V	8	_	heuristic: after nominal head	
+23	x	_[_]	N	N	8	dep	heuristic: after nominal head	
+24	(x)	_[_]	N	N	8	_	heuristic: after nominal head	
+25	'.	_	_	_	8	_	_	
+26	eb-la{ki}	_[Ebla]	SN	SN	8	appos	_	
+27	ma-ri2{ki}	_	SN	SN.GEN.GEN.L1	31	nmod	projectivity violation	
+28	tu-tu-ul{ki}	_[Mari]	SN	SN	26	appos	_	
+29	ma-x-(x)	_[Tuttul]	GN	GN	28	appos	_	
+30	'.	_	_	_	31	_	_	
+31	ur-gi4-isz{ki}	_[Urke]	GN	GN	8	appos	_	
+32	mu-x-gi4-isz	_[Muki]	V	V	31	acl	_	
+33	|EZENxX|-NI-{d}iszkur	_[-Adad]	PN	PN	31	appos	_	
+34	'.	_	_	_	31	_	_	
+35	x-x-la{ki}	_	GN	GN.GEN.L1	31	appos	_	
+36	a-bar-nu-um{ki}	_[Abarnum]	GN	GN	31	appos	_	
+37	'.	_	_	_	0	_	detached for projectivity	
+38	u3	u[and]	CNJ	CNJ	8	appos	projectivity violation	
+39	kur	kur[east]	N	N	8	appos	projectivity violation	
+40	{gesz}erin	eren[cedar]	N	N	39	acl	_	
+41	kur	kur[east]	N	N	40	_	heuristic: attach to last	
+42	ma-da	mada[land][-ak][-ø]	N	N	41	_	heuristic: attach to last	
+43	ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	8	appos	projectivity violation	
+44	'.	_[the]	_	_	45	nmod	_	
+45	kur	kur[east]	N	N	37	appos	_	
+46	szubur-ra	_[Subartu.on.shores]	AJ	AJ	45	GEN	_	
+47	gaba	gaba[frontier][-ak]	N	N	46	_	heuristic: attach to last	
+48	gaba	gaba[frontier][-ak]	N	N	47	_	heuristic: attach to last	
+49	a-ab-ba	_[Sea]	PN	PN	45	GEN	_	
+50	igi-nim-ma	_[Upper]	N	N	49	appos	_	
+51	x	_[_]	N	N	49	dep	_	
+52	x	_[_]	N	N	51	dep	heuristic: attach to last	
+53	'.	_	N	N	57	nmod	projectivity violation	
+54	u3	u[and]	CNJ	CNJ	49	appos	projectivity violation	
+55	ma2-gan{ki}	_[Magan.together]	GN	GN.ABS	49	appos	projectivity violation	
+56	ma-da	mada[land][-ak][-ø]	N	N	55	_	heuristic: attach to last	
+57	ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	45	COM	projectivity violation	
+58	kur	kur[east]	N	N	53	appos	_	
+59	x	_[_]	N	N	58	dep	heuristic: attach to last	
+60	...	_[_]	PN	N	59	dep	heuristic: attach to last	
+61	'.	_	N	N	62	GEN	_	
+62	bala-a-ri	_[on.other.side]	V	V	53	acl	projectivity violation	
+63	a-ab-ba	_[Sea]	PN	PN	61	appos	_	
+64	...	_[_]	PN	N	0	dep	_
+	
+

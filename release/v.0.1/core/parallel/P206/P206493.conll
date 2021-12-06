@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P206493.atf
+# tr.en: Basket-of-tablets reckoned accounts xxx of household of priestess of Baba are here xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	3	nmod	_	
+3	sza3-s,e	_[reckoned.xxx]	PN	PN	7	ccomp 	_	
+4	e2	e[house]	N	N	3	_	heuristic: attach to last	
+5	nin-dingir	_[household.of.priestess]	PN	N	3	GEN	_	
+6	{d}ba-ba6	_[Baba]	DN	DN	5	GEN	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	7	appos	_	
+9	x	_[_]	N	N	1	dep	heuristic: after nominal head	
+10	x	_[_]	N	N	1	dep	heuristic: after nominal head	
+11	x	_[_]	N	N	1	dep	heuristic: after nominal head	
+12	x-ta	_	PN	PN.GEN.ABL	1	_	heuristic: after nominal head	
+13	mu	mu[year]	N	N	1	appos	_	
+14	{d}amar-{d}suen	Amarsuen[1]	RN	RN	13	_	heuristic: after nominal head	
+15	lugal-e	lugal[king]-e	N	N.ERG	13	_	heuristic: after nominal head	
+16	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	13	appos	_	
+17	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	0	_	_
+	
+

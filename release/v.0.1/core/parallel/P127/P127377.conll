@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127377.atf
+# tr.en: fat-tailed ewe male suckling lambs suckling ewe lambs slaughtered rd day from Lu-dingira Ur-nigar received month Festival of An year Amar-Suen king
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	|U8+HUL2|	_[fat-tailed.ewe]	PN	PN	0	root	_	
+3	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+4	sila4	sila[lamb]	N	N	5	acl	_	
+5	ga	ga[milk]	N	N	2	appos	_	
+6	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+7	kir11	kir[female_lamb]	N	N	2	appos	_	
+8	ga	ga[milk]	N	N	7	appos	_	
+9	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	19	acl	_	
+10	u4	ud[day]	N	N	9	date	_	
+11	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+12	ki	ki[place]	N	N	16	ABL	projectivity violation	
+13	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	12	_	heuristic: attach to last	
+14	ur-nigar{gar}	Urnigar[1]	PN	PN	13	_	heuristic: attach to last	
+15	szu	szu[hand][-e]	N	N.L3-NH	9	appos	_	
+16	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	9	appos	_	
+17	iti	iti[month]	N	N	9	appos	_	
+18	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	17	appos	_	
+19	mu	mu[year]	N	N	2	appos	_	
+20	{d}amar-{d}suen	Amarsuen[1]	RN	RN	21	acl	_	
+21	lugal	lugal[king]	N	N	2	appos	_	
+22	6(disz)	6(disz)[one][-sze]	NU	NU	0	nummod	_
+	
+

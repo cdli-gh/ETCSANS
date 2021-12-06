@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of takers via Lu-Ningirsu are here year following Urbilum was destroyed
+# train/P203369.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub-gid2-da	_[long-tablets]	N	N	7	ABS	_	
+3	lu2	lu[person]	N	N	2	appos	_	
+4	i3-dab5-ke4-ne	_[takers]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+5	giri3	giri[foot]	N	N	6	via	_	
+6	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	2	via	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	9	_	_	
+9	us2-sa	us[follow]-a	V	NF.V.PT	11	acl	_	
+10	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	11	ABS	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

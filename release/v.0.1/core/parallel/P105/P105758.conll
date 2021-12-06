@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P105758.atf new_text=P105758
+# tr.en: Basket-of-tablets sheep of allocation from Girsu to Guabba are here year Szu-Suen king of Ur Urbilum destroyed
+# train/P105758.atf						#new_text=P105758
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	udu	udu[sheep]	N	N	10	ABS	_	
+3	szuku-ra	szukur[ration]-ak	N	N.GEN	2	GEN	_	
+4	x	_[_]	N	N	3	dep	_	
+5	x	_[_]	N	N	4	dep	heuristic: attach to last	
+6	x	_[_]	N	N	5	dep	heuristic: attach to last	
+7	x	_[_]	N	N	6	dep	heuristic: attach to last	
+10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+11	mu	mu[year]	N	N	16	_	_	
+12	{d}szu-{d}suen	Szusuen[1]	RN	RN	16	_	_	
+13	lugal	lugal[king]	N	N	12	appos	_	
+14	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	13	GEN	_	
+15	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	16	ABS	_	
+16	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	10	parataxis	_
+	
+

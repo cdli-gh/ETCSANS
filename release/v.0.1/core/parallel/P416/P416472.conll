@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416472.atf
+# tr.en: suckling lambs suckling female lamb newborns the th day inside Fattening House Lu-dingira accepted month ki-siki of Ninazu year throne of Enlil was fashioned
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	ga	ga[milk]	N	N	2	appos	_	
+4	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+5	kir11	kir[female_lamb]	N	N	2	appos	_	
+6	ga	ga[milk]	N	N	5	appos	_	
+7	u3-tu-da	_[newborns]	PN	PN	2	appos	_	
+8	u4	ud[day]	N	N	13	ABS	_	
+9	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	12	nummod	heuristic: NU premodifying	
+10	sza3	szag[heart]	N	N	9	_	heuristic: attach to last	
+11	na-gab2-tum-ma	_[inside.Fattening.House]	N	N.GEN.ABS	12	LOC	_	
+12	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	8	LOC	_	
+13	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+14	iti	iti[month]	N	N	13	appos	_	
+15	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	14	appos	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	{d}gu-za	guza[chair]	PN	N	20	ABS	_	
+18	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	17	GEN	_	
+19	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	20	acl	_	
+20	4(disz)	4(disz)[one]	NU	NU	15	nummod	_
+	
+

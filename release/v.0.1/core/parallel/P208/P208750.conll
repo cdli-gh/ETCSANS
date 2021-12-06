@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: its labor n days iku of tug-sag work harrowing times at iku field area its labor days bur of harrowing times at ee field area the troops labor days bur of harrowing times at ee field area the troops labor days bur ee iku of harrowing times at ee field area the troops labor days labor of harrowing sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of pickaxing at sar its labor days sar of pickaxing at sar its labor days sar of pickaxing at sar its labor days workers for days cleaning furrows of clumps of earth and debris inspection of Ur-gigir supervisor of leatherworkers The foreman Ur-gigir oxen overseer under seal of Szekalla Kamari field Year Szauru was destroyed Lugal-nig-lagar-e scribe son of Dada
+# train/P208750.atf new_text=P208750
+# train/P208750.atf						#new_text=P208750
+1	...	_[_]	PN	N	0	dep	_	
+2	x	_[_]	N	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+14	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+15	4(iku)	4(iku)[unit]	NU	N	14	nummod	_	
+16	1/2(iku)	1/2(iku)[unit]	NU	N	14	nummod	_	
+27	4(disz)	4(disz)[one]	NU	NU	0	nummod	_	
+28	1(esze3)	1(esze)[unit]	NU	N	27	nummod	_	
+38	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+39	1(esze3)	1(esze)[unit]	NU	N	38	nummod	_	
+53	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+54	1(esze3)	1(esze)[unit]	NU	N	53	nummod	_	
+116	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+117	5(disz)	5(disz)[one]	NU	NU	116	nummod	_	
+137	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+138	2(disz)	2(disz)[one]	NU	NU	137	nummod	_	
+

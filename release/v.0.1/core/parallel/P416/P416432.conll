@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: oxen barley-fed cows barley-fed oxen cows male mules n male equids as consignment from Nasa month Festival of An day elapsed year Hari and Kima were destroyed
+# test/P416432.atf						#new_text=P416432
+# test/P416432.atf new_text=P416432
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	5	nummod	_	
+2	2(u)	2(u)[ten]	NU	NU	1	nummod	_	
+3	la2	la[hang][-ø]	V	NF.V.ABS	1	_	_	
+4	1(disz@t)	1(disz)[one]	NU	NU	3	nummod	_	
+5	gu4	gud[ox]	N	N	0	root	_	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	5	_	heuristic: after nominal head	
+7	7(gesz2)	7(gesz)[sixty]	NU	NU	5	nummod	_	
+8	ab2	ab[cow][-ø]	N	N	5	_	heuristic: after nominal head	
+9	niga	niga[fattened][-ø]	V	NF.V.ABS	5	acl	_	
+10	5(gesz2)	5(gesz)[sixty]	NU	NU	12	nummod	projectivity violation	
+11	1(disz)	1(disz)[one]	NU	NU	16	nummod	projectivity violation	
+12	gu4	gud[ox]	N	N	5	appos	_	
+13	6(gesz2)	6(gesz)[sixty]	NU	NU	12	nummod	_	
+14	4(u)	4(u)[ten]	NU	NU	18	nummod	projectivity violation	
+15	7(disz)	7(disz)[one][-sze]	NU	NU	14	nummod	_	
+16	ab2	ab[cow][-ø]	N	N	12	appos	_	
+17	1(gesz2)	1(gesz)[sixty]	NU	NU	18	nummod	heuristic: NU premodifying	
+18	{ansze}kunga2-nita2	_[male.mules]	PN	PN	12	appos	_	
+19	n	_(_)[_]	NU	NU	12	nummod	_	
+20	2(disz)	2(disz)[one]	NU	NU	12	nummod	_	
+21	dusu2-nita2	_[male.equids]	PN	PN	12	appos	_	
+22	'.	_	_	_	21	_	heuristic: attach to last	
+23	szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	12	LOC	_	
+24	'.	_	_	_	23	_	heuristic: attach to last	
+25	ki	ki[place]	N	N	26	ABL	_	
+26	na-sa6	Nasa[1][-e]	PN	PN.ERG	12	ABL	_	
+27	'.	_	_	_	5	_	_	
+28	iti	iti[month]	N	N	30	nmod	_	
+29	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	30	ABS	_	
+30	u4	ud[day]	N	N	5	appos	_	
+31	3(u)	3(u)[ten]	NU	NU	32	nummod	heuristic: NU premodifying	
+32	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	30	acl	_	
+33	'.	_	_	_	5	_	_	
+34	mu	mu[year]	N	N	38	_	_	
+35	ha-ar-szi{ki}	Harszi[1]	SN	SN	38	_	_	
+36	u3	u[and]	CNJ	CNJ	38	nmod	_	
+37	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	38	nmod	_	
+38	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	5	acl	_
+	
+

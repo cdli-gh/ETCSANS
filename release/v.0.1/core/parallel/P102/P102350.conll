@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102350.atf
+# tr.en: sheep grass-fed for Enki big-workshop with Ayamu via Ee-anaba under seal Lugal-itida month Festival of An year high-priestess of Nanna at Gae was installed Szu-Suen strong man king of Ur king of four quarters scribe is your servant
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	33	ABS	_	
+3	u2	u[grass]	N	N	2	acl	_	
+4	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	2	DAT	_	
+5	gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	2	acl	_	
+6	gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	5	_	heuristic: attach to last	
+7	ki	ki[place]	N	N	6	_	heuristic: attach to last	
+8	a-a-mu	Ayamu[1][-ak]	PN	PN.GEN	5	COM	_	
+9	giri3	giri[foot]	N	N	10	via	_	
+10	e2-e-a-na-ba	_[Ee-anaba]	PN	PN	5	via	_	
+11	kiszib3	kiszib[seal]	N	N	12	LOC	_	
+12	lugal-iti-da	Lugalitida[1]	PN	PN	2	LOC	_	
+13	x	_[_]	N	N	2	dep	heuristic: after nominal head	
+14	x	_[_]	N	N	2	dep	heuristic: after nominal head	
+15	iti	iti[month]	N	N	17	nmod	_	
+16	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	17	ABS	_	
+17	mu	mu[year]	N	N	2	appos	_	
+18	en	en[priest]	N	N	21	ABS	_	
+19	{d}nanna	Nanna[1][-ak]	DN	DN	18	GEN	_	
+20	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	18	LOC	_	
+21	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	17	acl	_	
+22	{d}szu-{d}suen	Szusuen[1]	RN	RN	24	nmod	_	
+23	nita	nita[male]	N	N	24	_	_	
+24	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	_	_	
+25	lugal	lugal[king]	N	N	24	appos	_	
+26	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	25	GEN	_	
+27	lugal	lugal[king]	N	N	24	appos	_	
+28	an	An[1][-ra]	N	N	30	nummod	_	
+29	ub-da	_	N	N	28	_	heuristic: attach to last	
+30	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	27	nummod	_	
+31	...	_[_]	PN	N	30	dep	_	
+32	dub-sar	dubsar[scribe]	N	N	24	appos	_	
+33	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	0	root	_
+	
+

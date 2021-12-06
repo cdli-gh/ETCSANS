@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the strong manking king of Ur and king of four world quarters minas Nannas Established Sealed-items Storeroom he standardized for him																						
+1	lugal	_[_]	u	u	2	nmod	_
+2	kal-ga	kalag[strong]	V	NF.V.PT	0	root	_
+3	lugal	lugal[king]	N	N	2	appos	_
+4	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	3	GEN	_
+5	lugal	lugal[king]	N	N	2	appos	_
+6	an	_	_	_	5	_	_
+7	ub-da	an-ub-da[quarter]	N	N	5	appos	_
+8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	nummod	_
+9	2(disz)	_[_]	NU	n	8	nummod	_
+10	ma-na	ma-na[unit]	N	N.ABS	14	ABS	_
+11	e2-kiszib3-ba	e2-kiszib-ba-{d}nanna-a-gar-ra[1]	TN	TN.L1	14	LOC	_
+12	{d}nanna-a	_[Established]	V	V	13	amod	_
+13	gar-ra	_[Sealed-items.Storeroom]	PN	PN	8	appos	_
+14	mu-na-gi-in	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	2	acl	_
+

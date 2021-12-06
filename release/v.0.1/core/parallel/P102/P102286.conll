@@ -1,0 +1,137 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P102286.atf						#new_text=P102286
+# tr.en: gur under seal of gur barig sila under seal of Ur-Enunna gur barig ban under seal of Gutar gur barig ban sila barley ban wheat under seal of Lugalrani gur barig under seal of Ur-Damu barig under seal of Tirgu barig Lugal-gigire gur barig under seal of Ur-Gudena son of Ur-Suen gur city of Bura under seal of Lu-Nanna son of Lugal-ane nubanda gur barig ban under seal of Kugani son of Gudea barig under seal of Dada barig under seal of Lu-KA-ni son of Lugal-gue gur regular offerings of Zabala of long-headed under seal of Ur-Nungal gur sila under seal of Lugal-kuzu messenger under seal of Nanna-isa son of Ur-Hendursag total gur barig ban sila barley total barig ban wheat barley with interest cut available
+# test/P102286.atf new_text=P102286
+1	'.	SEGM	XPOSTAG	XPOSTAG	4	GEN	projectivity violation	
+2	8(asz)	8(asz)[one]	NU	NU	10	nummod	_	
+3	gur	gur[unit]	N	N	10	ERG	_	
+4	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+5	x-x-...	_[of]	PN	PN	4	dep	heuristic: attach to last	
+6	'.	_	_	_	10	_	_	
+7	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+8	4(asz)	4(asz)[one]	NU	NU	7	nummod	_	
+9	4(barig)	4(bariga)[unit]	NU	N	7	nummod	_	
+10	8(disz)	8(disz)[one]	NU	NU	7	nummod	_	
+11	sila3	sila[unit]	N	N	10	ABS	_	
+12	gur	gur[unit]	N	N	10	appos	_	
+13	'.	_	_	_	10	_	_	
+14	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+15	ur-e2-nun-na	Urenuna[1]	PN	PN	14	GEN	_	
+16	'.	_	NU	NU	31	nummod	projectivity violation	
+17	5(asz)	5(asz)[one]	NU	NU	0	nummod	_	
+18	1(barig)	1(bariga)[unit]	NU	N	17	nummod	_	
+19	5(ban2)	5(ban)[unit]	NU	N	20	nummod	_	
+20	gur	gur[unit]	N	N	10	appos	_	
+21	kiszib3	kiszib[seal]	N	N	20	LOC	_	
+22	gu2-tar	_[Gutar]	PN	PN.GEN	31	nmod	projectivity violation	
+23	'.	_	_	_	22	_	heuristic: attach to last	
+24	2(gesz2)	2(gesz)[sixty]	NU	NU	25	nummod	_	
+25	7(asz)	7(asz)[one]	NU	NU	35	nummod	projectivity violation	
+26	2(barig)	2(bariga)[unit]	NU	N	25	nummod	_	
+27	2(ban2)	2(ban)[unit]	NU	N	25	nummod	_	
+28	8(disz)	8(disz)[one]	NU	NU	31	nummod	_	
+29	sila3	sila[unit]	N	N	30	nmod	_	
+30	sze	sze[barley]	N	N	28	appos	_	
+31	gur	gur[unit]	N	N	21	GEN	_	
+32	'.	_	_	_	31	_	_	
+33	1(barig)	1(bariga)[unit]	NU	N	35	nummod	_	
+34	1(ban2)	1(ban)[unit]	NU	N	33	nummod	_	
+35	gig	gig[resin_type]	N	N	31	appos	_	
+36	'.	_	N	N	10	appos	projectivity violation	
+37	kiszib3	kiszib[seal]	N	N	20	LOC	projectivity violation	
+38	lugal-ra-ni	_[Lugalrani]	PN	PN.GEN.ERG	37	GEN	_	
+39	'.	_	_	_	38	_	heuristic: attach to last	
+40	n	_(_)[_]	NU	NU	47	nummod	projectivity violation	
+41	2(asz)	2(asz)[one]	NU	NU	43	nummod	heuristic: NU premodifying	
+42	1(barig)	1(bariga)[unit]	NU	N	43	nummod	_	
+43	gur	gur[unit]	N	N	36	appos	_	
+44	kiszib3	kiszib[seal]	N	N	36	LOC	_	
+45	ur-{d}da-mu	Urdamu[1]	PN	PN	44	GEN	_	
+46	'.	_	_	_	47	_	_	
+47	4(barig)	4(bariga)[unit]	NU	N	36	nummod	_	
+48	kiszib3	kiszib[seal]	N	N	47	LOC	_	
+49	tir-gu	_[Tirgu]	PN	PN	48	GEN	_	
+50	'.	_	_	_	47	_	heuristic: attach to head	
+51	2(barig)	2(bariga)[unit]	NU	N	47	nummod	_	
+52	lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	51	appos	_	
+53	'.	_	_	_	52	_	_	
+54	1(asz)	1(asz)[one]	NU	NU	62	nummod	projectivity violation	
+55	4(barig)	4(bariga)[unit]	NU	N	52	nummod	_	
+56	kiszib3	kiszib[seal]	N	N	52	LOC	_	
+57	ur-gu2-de3-e-na	_[Ur-Gudena]	PN	PN	56	GEN	_	
+58	dumu	dumu[child]	N	N	52	appos	_	
+59	ur-{d}suen	Ursuen[1]	PN	PN	58	GEN	_	
+60	'.	_	_	_	59	_	heuristic: attach to last	
+61	1(gesz2)	1(gesz)[sixty]	NU	NU	62	nummod	heuristic: NU premodifying	
+62	gur	gur[unit]	N	N	52	appos	_	
+63	iri	iri[city]	N	N	62	appos	_	
+64	bu3-ra{ki}	_[Bura]	GN	GN	63	GEN	_	
+65	'.	_	_	_	52	_	_	
+66	kiszib3	kiszib[seal]	N	N	52	LOC	_	
+67	lu2-{d}nanna	Lunanna[1]	PN	PN	66	GEN	_	
+68	dumu	dumu[child]	N	N	52	appos	_	
+69	lugal-an-ne2	_[Lugal-ane]	PN	PN.ABS	68	GEN	_	
+70	nu-banda3	nubanda[overseer][-ø]	N	N	69	appos	_	
+71	'.	_	_	_	75	_	_	
+72	4(asz)	4(asz)[one]	NU	NU	0	nummod	_	
+73	2(barig)	2(bariga)[unit]	NU	N	72	nummod	_	
+74	2(ban2)	2(ban)[unit]	NU	N	75	nummod	_	
+75	gur	gur[unit]	N	N	52	appos	_	
+76	'.	_	_	_	75	_	heuristic: attach to last	
+77	kiszib3	kiszib[seal]	N	N	75	LOC	_	
+78	ku3-ga-ni	Kugani[1]	PN	PN	77	GEN	_	
+79	dumu	dumu[child]	N	N	75	appos	_	
+80	gu3-de2-a	Gude'a[1][-ra]	PN	PN	79	GEN	_	
+81	2(barig)	2(bariga)[unit]	NU	N	52	nummod	_	
+82	kiszib3	kiszib[seal]	N	N	81	LOC	_	
+83	da-da	Dada[1][-ak]	PN	PN	82	GEN	_	
+84	2(barig)	2(bariga)[unit]	NU	N	52	nummod	_	
+85	kiszib3	kiszib[seal]	N	N	84	LOC	_	
+86	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	85	GEN	_	
+87	dumu	dumu[child]	N	N	85	appos	_	
+88	lugal-gu4-e	_[Lugal-gue]	PN	PN	87	GEN	_	
+89	2(u)	2(u)[ten]	NU	NU	93	nummod	projectivity violation	
+90	8(asz)	8(asz)[one]	NU	NU	89	nummod	_	
+91	gur	gur[unit]	N	N	52	appos	_	
+92	sa2-du11	sadug[offerings]	N	N	91	appos	_	
+93	zabala3{ki}	_[Zabala]	SN	SN.GEN	92	GEN	_	
+94	sag-bi	_[long-headed]	N	N.3-SG-NH-POSS.ABS	93	GEN	_	
+95	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	94	_	heuristic: attach to last	
+96	kiszib3	kiszib[seal]	N	N	91	LOC	_	
+97	ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	96	GEN	_	
+98	4(gesz2)	4(gesz)[sixty]	NU	NU	97	nummod	_	
+99	3(u)	3(u)[ten]	NU	NU	52	nummod	_	
+100	5(asz)	5(asz)[one]	NU	NU	99	nummod	_	
+101	9(disz)	9(disz)[one]	NU	NU	99	nummod	_	
+102	sila3	sila[unit]	N	N	52	appos	_	
+103	gur	gur[unit]	N	N	102	appos	_	
+104	kiszib3	kiszib[seal]	N	N	52	LOC	_	
+105	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	104	GEN	_	
+106	sukkal	sukkal[secretary][-ak][-ra]	N	N	104	appos	_	
+107	5(asz)	5(asz)[one]	NU	NU	106	nummod	_	
+108	gur	gur[unit]	N	N	106	_	heuristic: after nominal head	
+109	kiszib3	kiszib[seal]	N	N	106	LOC	_	
+110	{d}nanna-i3-sa6	_[Nanna-isa]	PN	PN	109	GEN	_	
+111	dumu	dumu[child]	N	N	109	appos	_	
+112	ur-{d}hendur-sag-ka	_[Ur-Hendursag]	PN	PN.GEN.GEN.L1	111	GEN	_	
+113	szunigin	szunigin[total]	N	N	106	appos	_	
+114	9(gesz2)	9(gesz)[sixty]	NU	NU	106	nummod	projectivity violation	
+115	5(u)	5(u)[ten]	NU	NU	114	nummod	_	
+116	6(asz)	6(asz)[one]	NU	NU	114	nummod	_	
+117	2(barig)	2(bariga)[unit]	NU	N	114	nummod	_	
+118	5(ban2)	5(ban)[unit]	NU	N	114	nummod	_	
+119	2(disz)	2(disz)[one]	NU	NU	122	nummod	_	
+120	sila3	sila[unit]	N	N	121	nmod	_	
+121	sze	sze[barley]	N	N	119	appos	_	
+122	gur	gur[unit]	N	N	113	appos	_	
+123	szunigin	szunigin[total]	N	N	106	appos	_	
+124	1(barig)	1(bariga)[unit]	NU	N	106	nummod	projectivity violation	
+125	1(ban2)	1(ban)[unit]	NU	N	126	nummod	_	
+126	gig	gig[resin_type]	N	N	123	appos	_	
+127	sze	sze[barley]	N	N	106	appos	_	
+128	ur5-ra	urra[loan]	N	N	129	_	_	
+129	ku5-a	_[with.interest.cut.available]	V	V	127	acl	_	
+130	gal2-la	gal[be]-a[-ø]	V	NF.V.PT	129	_	heuristic: attach to head	
+131	...	_[_]	PN	N	129	dep	_
+	
+

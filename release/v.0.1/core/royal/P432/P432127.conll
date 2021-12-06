@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man the king of Ur and king of Sumer and Akkad the man who temple of Nanna built he made an everlasting thing appear resplendently on sea coast in he restored long-distance trade to health and returned boats of Magan to his control	
+1	{d}nanna	{d}nanna[1]	DN	DN	16	DAT	_
+2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	lu2	lu2[person]	N	N	16	ABS	_
+14	e2	e2[house]	N	N	13	appos	_
+15	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	14	GEN	_
+16	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ERG	19	ERG	_
+17	nig2-ul-li2-a-ke4	nig2[thing]+ul-li2[distant]	V	NF.V.PT.GEN.L3-NH	19	amod	_
+18	pa	pa[branch]	N	N.ABS	19	ABS	_
+19	mu-na-e3	e3[leave]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+20	gaba	gaba[chest]	N	N	0	_	_
+21	a-ab-ka-ka	a-ab[sea]	N	N.GEN.L2-NH	20	GEN	_
+22	ki-sar-a	ki-saₓ(SAR)[platform]	N	N.L2-NH	24	LOC	_
+23	nam-ga-esz8	nam-ga-esz8[trade]	N	N.ABS	24	ABS	_
+24	bi2-silim	sa2[equal]	V	3-NH.L3.3-SG-H-A.V.3-SG-P	21	LOC	_
+25	ma2	ma2[ship]	N	N	28	ABS	_
+26	ma2-gan	ma2-gan[1]	GN	GN.ABS	25	GEN	_
+27	szu-na	szu[hand]	N	N.3-SG-H-POSS.L2-NH	28	LOC	_
+28	mu-ni-gi4	gi4[turn]	V	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-P	19	appos	_
+

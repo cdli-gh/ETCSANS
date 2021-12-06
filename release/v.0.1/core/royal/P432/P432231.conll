@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ninhursag his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad Ur-Agi the governor of Adab dedicated it to her
+1	{d}nin-hur-sag	{d}nin-hur-sag[1]	DN	DN	0	root	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	1	TERM	_
+4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	GEN	_
+5	nita	nita[male]	N	N	3	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	3	appos	_
+8	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_
+9	lugal	lugal[king]	N	N	3	appos	_
+10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_
+11	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	10	appos	_
+12	ur-{d}{asz}aszgi{gi4}	ur-{d}{asz}asz7-gi[1]	PN	PN	10	appos	_
+13	ensi2	_[the.governor]	N	N	10	appos	_
+14	adab{ki}	_[of.Adab]	PN	PN	13	GEN	_
+15	a	_[dedicated]	V	V	1	acl	_
+16	mu-na-ru	ur-{d}{asz}asz7-gi[1]	V	V	15	ABS	_
+

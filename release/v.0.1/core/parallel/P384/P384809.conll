@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: goats pastured goats fat-tailed ewes slaughtered via Ningirsuka-isa booked out month Barley transported year Szarum was destroyed
+# train/P384809.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	masz2	masz[goat]	N	N	0	root	_	
+3	masz2	masz[goat]	N	N	2	appos	_	
+4	<u2>-szim-ma	_[pastured]	N	N	3	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	6	nummod	_	
+6	u8	u[ewe]	N	N	2	appos	_	
+7	gukkal	gukkal[fat-tailed_sheep]	N	N	6	acl	_	
+8	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	6	acl	_	
+9	giri3	giri[foot]	N	N	10	via	_	
+10	{d}nin-gir2-su-ka-i3-sa6	_[Ningirsuka-isa]	PN	PN	2	appos	_	
+11	zi-ga	zig[expend]-a	V	NF.V.PT	10	acl	_	
+12	iti	iti[month]	N	N	13	_	_	
+13	sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	10	parataxis	_	
+14	mu	mu[year]	N	N	13	date	_	
+15	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	13	appos	_	
+16	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

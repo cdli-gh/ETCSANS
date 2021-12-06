@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful man Ugu scribe child of Ur-ugalama is your servant	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT.ABS	2	amod	_
+4	usz-mu	kalag[strong]+usz-gu10[1]	PN	PN	0	_	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	dumu	dumu[child]	N	N	4	appos	_
+7	ur-szu-ga-lam-ma	ur-szu-ga-lam-ma[1]	PN	PN.GEN.ABS	6	GEN	_
+8	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

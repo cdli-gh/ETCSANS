@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: workdays male laborers at threshing floor of Ninurra field stationed the foreman Szekala under seal of Ur-Szulpae year after Szu-Suen king Martu Wall erected Ur-Szulpae scribe son of Lugal-kugani
+# train/P392637.atf new_text=P392637
+# train/P392637.atf						#new_text=P392637
+3	u4	ud[day]	N	N	0	_	_	
+7	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	0	root	_	
+8	ugula	ugula[overseer][-ø]	N	N	7	appos	_	
+9	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	7	ERG	_	
+10	kiszib3	kiszib[seal]	N	N	19	_	_	
+11	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	10	GEN	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	us2-sa	us[follow]-a	V	NF.V.PT	12	acl	_	
+14	{d}szu-{d}suen	Szusuen[1]	RN	RN	12	appos	_	
+15	lugal-e	lugal[king]-e	N	N.ERG	14	appos	_	
+16	bad3	bad[wall]	N	N	10	appos	projectivity violation	
+17	mar-tu	Martu[1][-ø]	EN	EN.ABS	18	ABS	_	
+18	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	14	acl	_	
+19	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	9	appos	_	
+20	dub-sar	dubsar[scribe]	N	N	7	ABS	_	
+21	dumu	dumu[child]	N	N	20	appos	_	
+22	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	21	GEN	_
+	
+

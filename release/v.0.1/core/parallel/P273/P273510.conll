@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: fattened oxen Nanna in evening king enters When first day of month has passed From Ur-Szugalama booked out In Ur Month Szulgi festival Year en-priest of Eridu was installed oxen
+# test/P273510.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	3	ABS	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	9	parataxis	projectivity violation	
+4	{d}nanna	Nanna[1][-ak]	DN	DN	2	appos	projectivity violation	
+5	a2	a[time]	N	N	4	_	heuristic: attach to last	
+6	u4	ud[day]	N	N	8	nmod	projectivity violation	
+7	te-na	ten[cool]-a	V	NF.V.PT	3	LOC	_	
+8	lugal	lugal[king]	N	N	9	ABS	_	
+9	kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	0	root	_	
+10	iti	iti[month]	N	N	13	GEN	projectivity violation	
+11	u4	ud[day]	N	N	9	appos	_	
+12	1(disz)	1(disz)[one]	NU	NU	13	nummod	heuristic: NU premodifying	
+13	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	9	acl.ADV	_	
+14	ki	ki[place]	N	N	15	_	_	
+15	ur-szu-ga-lam-ma-ta	_[From.Ur-Szugalama]	PN	PN.GEN.GEN.ABL	9	ABL	_	
+16	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	15	acl	_	
+17	sza3	szag[heart]	N	N	18	LOC	_	
+18	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	16	LOC	_	
+19	iti	iti[month]	N	N	20	nmod	_	
+20	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	9	parataxis	_	
+21	mu	mu[year]	N	N	20	appos	_	
+22	en	en[priest]	N	N	24	ABS	_	
+23	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	22	GEN	_	
+24	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	21	acl	_	
+25	2(disz)	2(disz)[one]	NU	NU	9	nummod	projectivity violation	
+26	gu4	gud[ox]	N	N	24	appos	_
+	
+

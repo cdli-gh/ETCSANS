@@ -1,0 +1,98 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P384800.atf new_text=P384800
+# test/P384800.atf						#new_text=P384800
+# tr.en: n ewes female lambs rams suckling male lambs nanny goats billy goat usual female kid standard delivery available ram female kids under seal of Szara-amutum ewes rams nanny goats under seal of Giri-Szara-idab ewes female lambs shorn rams male lambs shorn nanny goats fallen under official seal Giri-Szara-idab total ewes female lambs total rams male lambs total nanny goats female kids total billy goat year Nanna of Karzida was brought into house
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	_	_	
+2	n	_(_)[_]	NU	NU	0	nummod	_	
+3	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+4	7(disz)	7(disz)[one][-sze]	NU	NU	3	nummod	_	
+5	u8	u[ewe]	N	N	2	appos	_	
+6	1(u)	1(u)[ten]	NU	NU	7	nummod	heuristic: NU premodifying	
+7	kir11	kir[female_lamb]	N	N	2	appos	_	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	2(u)	2(u)[ten]	NU	NU	18	nummod	projectivity violation	
+10	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+11	udu-nita2	udunita[ram]	N	N	2	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	13	nummod	heuristic: NU premodifying	
+13	sila4	sila[lamb]	N	N	2	appos	_	
+14	ga	ga[milk]	N	N	13	appos	_	
+15	'.	_	_	_	14	_	heuristic: attach to last	
+16	1(u)	1(u)[ten]	NU	NU	21	nummod	projectivity violation	
+17	3(disz)	3(disz)[one]	NU	NU	16	nummod	_	
+18	ud5	uzud[goat]	N	N	2	appos	_	
+19	'.	_	_	_	18	_	heuristic: attach to last	
+20	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+21	masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	2	appos	_	
+22	'.	_[usual]	V	V	24	acl	projectivity violation	
+23	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+24	{munus}asz2-gar3	aszgar[female_kid]	PN	N	2	appos	_	
+25	du	gin[quality_designation][-ø]	V	NF.V.ABS	2	acl	_	
+26	'.	_	_	_	2	_	_	
+27	mu-kux(DU)	mukur[delivery][-ø]	N	N	2	appos	_	
+28	'.	_	_	_	2	_	_	
+29	gub-ba-am3	_[available]	V	NF.V.PT.ABS.COP-3-SG	2	acl	_	
+30	'.	_	_	_	29	_	heuristic: attach to last	
+31	1(disz)	1(disz)[one]	NU	NU	35	nummod	projectivity violation	
+32	udu-nita2	udunita[ram]	N	N	2	appos	_	
+33	'.	_	_	_	32	_	_	
+34	7(disz)	7(disz)[one][-sze]	NU	NU	35	nummod	heuristic: NU premodifying	
+35	{munus}asz2-gar3	aszgar[female_kid]	PN	N	32	appos	_	
+36	'.	_	_	_	35	_	heuristic: attach to last	
+37	kiszib3	kiszib[seal]	N	N	32	LOC	_	
+38	{d}szara2-a-mu-tum2	_[Szara-amutum]	RN	RN	37	GEN	_	
+39	'.	_	_	_	38	_	heuristic: attach to last	
+40	8(disz)	8(disz)[one]	NU	NU	45	nummod	projectivity violation	
+41	u8	u[ewe]	N	N	32	appos	_	
+42	6(disz)	6(disz)[one][-sze]	NU	NU	43	nummod	heuristic: NU premodifying	
+43	udu-nita2	udunita[ram]	N	N	32	appos	_	
+44	3(disz)	3(disz)[one]	NU	NU	32	nummod	_	
+45	ud5	uzud[goat]	N	N	32	appos	_	
+46	kiszib3	kiszib[seal]	N	N	32	LOC	_	
+47	giri3-{d}szara2-i3-dab5	_[Giri-Szara-idab]	PN	PN	46	GEN	_	
+48	2(u)	2(u)[ten]	NU	NU	53	nummod	projectivity violation	
+49	4(disz)	4(disz)[one]	NU	NU	55	nummod	projectivity violation	
+50	u8	u[ewe]	N	N	2	appos	_	
+51	3(disz)	3(disz)[one]	NU	NU	52	nummod	heuristic: NU premodifying	
+52	kir11	kir[female_lamb]	N	N	50	appos	_	
+53	ur4	_[shorn]	V	V	50	acl	_	
+54	7(disz)	7(disz)[one][-sze]	NU	NU	53	nummod	_	
+55	udu-nita2	udunita[ram]	N	N	53	appos	_	
+56	6(disz)	6(disz)[one][-sze]	NU	NU	60	nummod	projectivity violation	
+57	sila4	sila[lamb]	N	N	53	appos	_	
+58	ur4	_[shorn]	V	V	53	appos	_	
+59	3(disz)	3(disz)[one]	NU	NU	53	nummod	_	
+60	ud5	uzud[goat]	N	N	53	appos	_	
+61	ri-ri-ga	deg[collect]-a	V	NF.V.PT	53	appos	_	
+62	kiszib3	kiszib[seal]	N	N	64	LOC	_	
+63	nam-sza3-tam	namszatam[administration]	N	N	64	acl	_	
+64	giri3-{d}szara2-i3-dab5	_[Giri-Szara-idab]	PN	PN	53	appos	_	
+65	szunigin	szunigin[total]	N	N	53	appos	_	
+66	1(gesz2)	1(gesz)[sixty]	NU	NU	53	nummod	projectivity violation	
+67	3(u)	3(u)[ten]	NU	NU	66	nummod	_	
+68	5(disz)	5(disz)[one]	NU	NU	66	nummod	_	
+69	u8	u[ewe]	N	N	65	appos	_	
+70	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+71	3(disz)	3(disz)[one]	NU	NU	70	nummod	_	
+72	kir11	kir[female_lamb]	N	N	69	appos	_	
+73	szunigin	szunigin[total]	N	N	53	appos	_	
+74	2(u)	2(u)[ten]	NU	NU	53	nummod	projectivity violation	
+75	8(disz)	8(disz)[one]	NU	NU	74	nummod	_	
+76	udu-nita2	udunita[ram]	N	N	73	appos	_	
+77	1(u)	1(u)[ten]	NU	NU	78	nummod	heuristic: NU premodifying	
+78	sila4	sila[lamb]	N	N	76	appos	_	
+79	szunigin	szunigin[total]	N	N	53	appos	_	
+80	1(u)	1(u)[ten]	NU	NU	53	nummod	projectivity violation	
+81	6(disz)	6(disz)[one][-sze]	NU	NU	80	nummod	_	
+82	ud5	uzud[goat]	N	N	79	appos	_	
+83	8(disz)	8(disz)[one]	NU	NU	84	nummod	heuristic: NU premodifying	
+84	{munus}asz2-gar3	aszgar[female_kid]	PN	N	82	appos	_	
+85	szunigin	szunigin[total]	N	N	53	appos	_	
+86	1(disz)	1(disz)[one]	NU	NU	53	nummod	projectivity violation	
+87	masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	85	appos	_	
+88	mu	mu[year]	N	N	53	appos	_	
+89	{d}nanna	Nanna[1][-ak]	DN	DN	91	ABS	_	
+90	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	89	GEN	_	
+91	e2-a	e[house][-ak]-'a	GN	N.L1	88	acl	_	
+92	ba-an-ku4	ba-n-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	91	acl	_
+	
+

@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273410.atf
+# tr.en: One lamb Enlil one lamb Ninlil delivery of zabardab one lamb Ninhursag one lamb Szulpae delivery of Kur-girinie he zabardab was responsible official one antelope Euzga delivery of Atu Ur-Szulgira was responsible official ne lamb Enlil delivery of Lugal-nirgal Issarik was responsible official one sheep and one nanny goat on third day year high priestess of Nanna was chosen via extispicy
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	sila4	sila[lamb]	N	N	3	nmod	_	
+3	{d}en-lil2	Enlil[1]	DN	DN	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+5	sila4	sila[lamb]	N	N	6	nmod	_	
+6	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	3	appos	_	
+7	mu-kux(DU)	mukur[delivery][-ø]	N	N	3	appos	_	
+8	zabar-dab5	zabardab[official][-e]	N	N	7	GEN	_	
+9	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+10	sila4	sila[lamb]	N	N	11	nmod	_	
+11	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	3	appos	_	
+12	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+13	sila4	sila[lamb]	N	N	14	nmod	_	
+14	{d}szul-pa-e3	_[one.Szulpae]	FN	FN	11	appos	_	
+15	mu-kux(DU)	mukur[delivery][-ø]	N	N	11	appos	_	
+16	kur-giri3-ni-<<ni>>-sze3	_[Kur-girinie]	PN	PN	15	GEN	_	
+17	zabar-dab5	zabardab[official][-e]	N	N	18	ABS	_	
+18	maszkim	maszkim[administrator]	N	N.ABS	3	parataxis	_	
+19	1(disz)	1(disz)[one]	NU	NU	21	nummod	_	
+20	masz-da3	maszda[gazelle][-ø]	N	N	21	nummod	_	
+21	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	3	appos	_	
+22	mu-kux(DU)	mukur[delivery][-ø]	N	N	21	appos	_	
+23	a-tu	Atu[1][-ak]	PN	PN	22	GEN	_	
+24	ur-{d}szul-gi-ra	_[Ur-Szulgira.was]	PN	PN	25	ABS	_	
+25	maszkim	maszkim[administrator]	N	N.ABS	3	parataxis	_	
+26	1(disz)	1(disz)[one]	NU	NU	28	nummod	_	
+27	sila4	sila[lamb]	N	N	28	nmod	_	
+28	{d}en-lil2	Enlil[1]	DN	DN	25	appos	_	
+29	mu-kux(DU)	mukur[delivery][-ø]	N	N	28	appos	_	
+30	lugal-nir-gal2	_[Lugal-nirgal]	PN	PN	29	GEN	_	
+31	i-za-ri2-iq	_[Issarik.was]	PN	PN.ERG	32	ABS	_	
+32	maszkim	maszkim[administrator]	N	N.ABS	25	parataxis	_	
+33	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+34	udu	udu[sheep]	N	N	25	appos	projectivity violation	
+35	1(disz)	1(disz)[one]	NU	NU	36	nummod	heuristic: NU premodifying	
+36	ud5	uzud[goat]	N	N	33	appos	projectivity violation	
+37	ba	ba[animal][-ak]	N	N.GEN	34	nummod	_	
+38	x	_[_]	N	N	37	dep	heuristic: attach to last	
+39	E2	_[and.one]	N	N	34	appos	_	
+40	u4	ud[day]	N	N	34	LOC	_	
+41	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	25	nummod	_	
+42	mu	mu[year]	N	N	25	appos	_	
+43	en	en[priest]	N	N	46	ABS	_	
+44	{d}nanna	Nanna[1][-ak]	DN	DN	43	GEN	_	
+45	masz-e	masz[goat]-e	N	N.L3-NH	46	_	_	
+46	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	42	acl	_
+	
+

@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the strong man the king of Ur Me-namnina the wife of Gani dedicated Of this bowl May My Lady Take Care of Me is its name	
+1	...	_	PN	PN	10	dep	_
+2	nita	_[man]	N	N	1	appos	_
+3	kal-ga	_[the.strong]	V	V	2	amod	_
+4	lugal	_[king]	_	_	1	appos	_
+5	uri5{ki}-ma-ka-sze3	ur[1]	PN	PN	4	GEN	_
+6	me-nam-nin-a	me-namnina[1]	PN	PN	10	ERG	_
+7	dam	_[wife]	N	N	6	appos	_
+8	ga-ni-ke4	gani[1]	PN	PN	7	GEN	_
+9	a	_[this]	_	_	10	ABS	_
+10	mu-ru	_[dedicated]	V	V	0	root	_
+11	bur-ba	_[Of.this.bowl]	N	N	15	GEN	_
+12	nin-mu	_[May.My.Lady]	PN	PN	14	ABS	_
+13	en3-mu	_[Me]	V	V	14	GEN	_
+14	he2-tar	_[Take.Care]	V	V	15	parataxis	_
+15	mu-bi	_[is.its.name]	N	N	10	parataxis	_
+

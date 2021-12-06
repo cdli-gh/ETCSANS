@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful king Ili-beli child of Hunum	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT.ABS	2	amod	_
+4	i3-li2-be-li2	i3-li2-be-li2[1]	PN	PN	1	appos	_
+5	dumu	dumu[child]	N	N	4	appos	_
+6	hu-un-um	hu-un-um[1]	PN	PN.GEN.ABS	5	GEN	_
+

@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ban sila porridge of malt mana fine quality beer bread barig ban sila barley sweet-wort for consumption from Szarakam under seal of governor month Dumuzi year Simanum was destroyed Sz-Suen strong king king of Ur king of four regions Ayakalla the governor of Umma is your servant
+# train/P480075.atf
+1	5(ban2)	5(ban)[unit]	NU	N	4	nummod	_	
+2	4(disz)	4(disz)[one]	NU	NU	1	nummod	_	
+3	sila3	sila[unit]	N	N	4	nmod	_	
+4	ba-ba	baba[porridge]	N	N	0	root	_	
+5	munu4	munu[malt]	N	N	4	GEN	_	
+6	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+7	6(disz)	6(disz)[one][-sze]	NU	NU	13	nummod	projectivity violation	
+8	ma-na	mana[unit]	N	N	9	nmod	_	
+9	bappir2	_[beer.bread]	N	N	4	appos	_	
+10	saga	saga[good][-ø]	V	NF.V.ABS	9	acl	_	
+11	1(barig)	1(bariga)[unit]	NU	N	9	nummod	_	
+12	3(ban2)	3(ban)[unit]	NU	N	13	nummod	_	
+13	sze	sze[barley]	N	N	4	appos	_	
+14	dida	dida[sweet_wort]	N	N	4	appos	_	
+15	gu7-sze3	_[sweet-wort.for.consumption]	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	4	acl	_	
+16	ki	ki[place]	N	N	17	ABL	_	
+17	{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+18	kiszib3	kiszib[seal]	N	N	4	LOC	_	
+19	ensi2-ka	ensik[ruler]-ak	N	N.GEN	18	GEN	_	
+20	iti	iti[month]	N	N	21	nmod	_	
+21	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	4	appos	_	
+22	mu	mu[year]	N	N	21	appos	_	
+23	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	24	ABS	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	21	acl	_	
+25	{d}szu-{d}suen	Szusuen[1]	RN	RN	26	nmod	_	
+26	lugal	lugal[king]	N	N	21	appos	_	
+27	kal-ga	kalag[strong]-a	V	NF.V.SUB	26	acl	_	
+28	lugal	lugal[king]	N	N	26	appos	_	
+29	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	28	GEN	_	
+30	lugal	lugal[king]	N	N	26	appos	_	
+31	an	An[1][-ra]	N	N	33	nummod	projectivity violation	
+32	ub-da	_	N	N	21	appos	projectivity violation	
+33	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	30	nummod	_	
+34	a-a-kal-la	Ayakala[1]	PN	PN	37	ABS	_	
+35	ensi2	ensik[ruler]	N	N	34	appos	_	
+36	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	35	GEN	_	
+37	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	21	parataxis	_
+	
+

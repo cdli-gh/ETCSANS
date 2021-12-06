@@ -1,0 +1,95 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ninda length cubits average width cubits depth per ninda sar work involved sar per worker shekels the labor workdays disbursement per workerday sila the barley gur barig ban sila they are hired men ninda length cubits width cubits depth work involved sar shekels they are gantu pis wall construction drawn long in orchard of Baba-inim-sisa of Garum responsible Ur-Baba son of household manager Lugal-musuda and Lugal-baba son of Ur-Lamma the year Ibbi-Suen is king
+# dev/P107220.atf
+1	3(gesz2)	3(gesz)[sixty]	NU	NU	9	nummod	_	
+2	1(u)	1(u)[ten]	NU	NU	1	nummod	_	
+3	9(disz)	9(disz)[one]	NU	NU	1	nummod	_	
+4	ninda	ninda[bread]	N	N	0	root	_	
+5	gid2	gid[length]	V	N	4	_	_	
+6	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+7	1/2(disz)	1/2(disz)[one]	NU	NU	6	nummod	_	
+8	kusz3	kusz[unit]	N	N	4	appos	_	
+9	dagal	dagal[wide][-ø]	V	NF.V.ABS	8	_	_	
+10	i3-hi	_[average]	N	N	9	acl	_	
+11	4(disz)	4(disz)[one]	NU	NU	12	nummod	heuristic: NU premodifying	
+12	kusz3	kusz[unit]	N	N	9	appos	_	
+13	sukud	_[depth]	V	V	12	_	_	
+14	1(disz)	1(disz)[one]	NU	NU	17	nummod	_	
+15	ninda-na	_[per.ninda]	N	N.ABL	17	LOC	_	
+16	1/2(disz)	1/2(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+17	sar-ta	sar[unit]-ta	PN	N.ABL	9	LOC	_	
+18	kin-bi	_[work.involved]	N	N	17	appos	_	
+19	1(gesz2)	1(gesz)[sixty]	NU	NU	18	nummod	_	
+20	3(u)	3(u)[ten]	NU	NU	9	nummod	_	
+21	9(disz)	9(disz)[one]	NU	NU	20	nummod	_	
+22	1/2(disz)	1/2(disz)[one]	NU	NU	20	nummod	_	
+23	sar	sar[unit]	N	N	9	appos	_	
+24	gurusz	gurusz[male]	N	N	31	_	_	
+25	1(disz)-e	_	NU	NU	0	nummod	_	
+26	3(disz)	3(disz)[one]	NU	NU	25	nummod	_	
+27	2/3(disz)	2/3(disz)[one]	NU	NU	25	nummod	_	
+28	gin2	gig[unit]	N	N	31	_	_	
+29	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+30	5(disz)	5(disz)[one]	NU	NU	29	nummod	_	
+31	sze-ta	sze[barley]-ta	N	N.ABL	9	LOC	_	
+32	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	33	nmod	_	
+33	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	31	nummod	_	
+34	6(gesz2)	6(gesz)[sixty]	NU	NU	33	nummod	_	
+35	3(u)	3(u)[ten]	NU	NU	33	nummod	_	
+36	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+37	gurusz	gurusz[male]	N	N	33	appos	_	
+38	u4	ud[day]	N	N	31	_	heuristic: after nominal head	
+39	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	40	nummod	heuristic: NU premodifying	
+40	gurusz	gurusz[male]	N	N	31	appos	_	
+41	1(disz)-e	_	NU	NU	42	nummod	heuristic: NU premodifying	
+42	a2-ni	_[disbursement.per.workerday]	N	N	31	appos	_	
+43	6(disz)	6(disz)[one][-sze]	NU	NU	44	nummod	heuristic: NU premodifying	
+44	sila3-ta	sila[unit]-ta	N	N.ABL	31	appos	_	
+45	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	31	appos	_	
+46	3(u)	3(u)[ten]	NU	NU	31	nummod	projectivity violation	
+47	1(asz)	1(asz)[one]	NU	NU	46	nummod	_	
+48	4(barig)	4(bariga)[unit]	NU	N	46	nummod	_	
+49	1(ban2)	1(ban)[unit]	NU	N	46	nummod	_	
+50	2(disz)	2(disz)[one]	NU	NU	52	nummod	_	
+51	sila3	sila[unit]	N	N	50	appos	_	
+52	gur	gur[unit]	N	N	45	appos	_	
+53	lu2	lu[person]	N	N	57	nummod	projectivity violation	
+54	hun-ga2-me	_[they.are.hired.men]	V	NF.V.PT.DAT-H	31	acl	_	
+55	1(disz)	1(disz)[one]	NU	NU	57	nummod	_	
+56	1/2(disz)	1/2(disz)[one]	NU	NU	55	nummod	_	
+57	ninda	ninda[bread]	N	N	54	appos	_	
+58	gid2	gid[length]	V	N	57	_	_	
+59	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+60	1/2(disz)	1/2(disz)[one]	NU	NU	59	nummod	_	
+61	kusz3	kusz[unit]	N	N	57	appos	_	
+62	dagal	dagal[wide][-ø]	V	NF.V.ABS	61	_	_	
+63	4(disz)	4(disz)[one]	NU	NU	64	nummod	heuristic: NU premodifying	
+64	kusz3	kusz[unit]	N	N	57	appos	_	
+65	sukud	_[depth]	V	V	64	_	_	
+66	kin-bi	_[work.involved]	N	N	57	appos	_	
+67	2/3(disz)	2/3(disz)[one]	NU	NU	57	nummod	projectivity violation	
+68	sar	sar[unit]	N	N	66	appos	_	
+69	5(disz)	5(disz)[one]	NU	NU	70	nummod	heuristic: NU premodifying	
+70	gin2	gig[unit]	N	N	68	appos	_	
+71	gan-tusz-me	_[they.are.gantu]	N	N.ABS.COP-3-PL	57	appos	_	
+72	im	im[clay][-ø]	N	N	73	_	_	
+73	du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	71	acl	_	
+74	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	73	_	_	
+75	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	73	LOC	_	
+76	{d}ba-ba6-inim-si-sa2-a	_[Baba-inim-sisa]	PN	PN	75	GEN	_	
+77	sza3	szag[heart]	N	N	78	_	_	
+78	gar-szum{ki}-ka	_[of.Garum]	GN	GN	71	GEN	_	
+79	giri3	giri[foot]	N	N	78	appos	_	
+80	ur-{d}ba-ba6	Urbaba[1]	PN	PN	79	appos	_	
+81	dumu	dumu[child]	N	N	80	appos	_	
+82	szabra-e2	_[household.manager]	PN	N	81	GEN	_	
+83	lugal-mu-su-da	_[Lugal-musuda]	PN	PN.ERG	82	appos	_	
+84	u3	u[and]	CNJ	CNJ	82	appos	_	
+85	lugal-{d}ba-ba6	_[Lugal-baba]	PN	PN	86	acl	_	
+86	dumu	dumu[child]	N	N	82	appos	_	
+87	ur-{d}lamma	Urlamma[1]	PN	PN	86	GEN	_	
+88	mu	mu[year]	N	N	80	appos	_	
+89	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	90	ABS	_	
+90	lugal	lugal[king]	N	N	88	appos	_
+	
+

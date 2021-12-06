@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416443.atf
+# tr.en: sheep grass-fed bucks grass-fed lambs kids slaughtered th day from Ur-kununa Szulgi-irimu received via Nanna-maba and Lu-alim month Festival of An year Szu-Suen king of Ur house of Szara in Umma erected small cattle
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	u2	u[grass]	N	N	2	_	heuristic: after nominal head	
+4	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+5	masz2-gal	maszgal[billy_goat]	N	N	2	_	heuristic: after nominal head	
+6	u2	u[grass]	N	N	2	acl	_	
+7	8(disz)	8(disz)[one]	NU	NU	8	nummod	_	
+8	sila4	sila[lamb]	N	N	18	ABS	projectivity violation	
+9	2(disz)	2(disz)[one]	NU	NU	8	nummod	_	
+10	masz2	masz[goat]	N	N	8	appos	_	
+11	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	8	acl	_	
+12	u4	ud[day]	N	N	8	appos	_	
+13	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	8	nummod	_	
+14	ki	ki[place]	N	N	16	ABL	_	
+15	ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	16	nmod	_	
+16	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	8	ABL	_	
+17	szu	szu[hand][-e]	N	N.L3-NH	2	appos	_	
+18	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+19	giri3	giri[foot]	N	N	20	via	_	
+20	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	2	via	_	
+21	u3	u[and]	CNJ	CNJ	20	appos	_	
+22	lu2-sza-lim	Luszalim[1]	PN	PN	20	appos	_	
+23	iti	iti[month]	N	N	25	_	_	
+24	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	25	ABS	_	
+25	mu	mu[year]	N	N	2	parataxis	_	
+26	{d}szu-{d}suen	Szusuen[1]	RN	RN	25	appos	_	
+27	lugal	lugal[king]	N	N	26	appos	_	
+28	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	27	GEN	_	
+29	e2	e[house]	N	N	32	ABS	_	
+30	{d}szara2	Szara[1][-ak]	DN	DN	29	GEN	_	
+31	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	29	LOC	_	
+32	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	26	acl	_	
+33	2(u)	2(u)[ten]	NU	NU	2	nummod	projectivity violation	
+34	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+35	udu	udu[sheep]	N	N	25	appos	_
+	
+

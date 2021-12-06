@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Lu-Szulgi speak ram did Ur-Ikur receive to Ur-endursag in his barley may he release
+# train/P131033.atf
+1	lu2-{d}szul-gi-ra	_[To.Lu-Szulgi]	PN	PN	2	_	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	udu	udu[sheep]	N	N	6	_	_	
+5	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	6	_	_	
+6	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+7	ur-{d}hendur-sag-ra	_[to.Ur-endursag]	PN	PN	10	LOC	projectivity violation	
+8	sze-na	_[in.his]	N	N	7	LOC	_	
+9	szu	szu[hand][-e]	N	N.L3-NH	2	appos	_	
+10	ha-mu-na-a-ba-re	_[barley.may.he.release]	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	2	acl	_
+	
+

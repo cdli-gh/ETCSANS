@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: millstone of high-quality black basalt Lugal-itida millstone of black basalt Akalla leatherworker millstone Umu millstone Akadani millstone Szara-zame from Adu the sealed tablet of Ur-Numushda Year after king Szu-Suen erected Amorite wall
+# dev/P345966.atf
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	kikken	_[millstone]	N	N.GEN	0	root	_	
+3	a2-da-bar	_[high-quality.black.basalt]	N	N	5	acl	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	_	heuristic: attach to last	
+5	lugal-iti-da	Lugalitida[1]	PN	PN	2	GEN	_	
+6	1(disz)	1(disz)[one]	NU	NU	7	nummod	heuristic: NU premodifying	
+7	kikken	_[millstone]	N	N.GEN	5	appos	_	
+8	a2-da-bar	_[black.basalt]	N	N	9	acl	_	
+9	a-kal-la	Akala[1]	PN	PN	5	GEN	_	
+10	aszgab	aszgab[leatherworker]	N	N	2	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+12	kikken	_[millstone]	N	N.GEN	13	nmod	_	
+13	usz-mu	Uszmu[1]	PN	PN	31	ERG	projectivity violation	
+14	x	_[_]	N	N	13	dep	heuristic: attach to last	
+15	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+16	kikken	_[millstone]	N	N.GEN	17	nmod	_	
+17	a-ka3-da-ni	_[Akadani]	PN	PN	13	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+19	kikken	_[millstone]	N	N.GEN	20	nmod	_	
+20	{d}szara2-za-me	Szarazame[1][-ak]	PN	PN.GEN	13	appos	_	
+21	ki	ki[place]	N	N	22	ABL	_	
+22	a-du-ta	_[Adu]	PN	PN.GEN.ABL	13	ABL	_	
+23	kiszib3	kiszib[seal]	N	N	13	appos	_	
+24	ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	13	appos	_	
+25	mu	mu[year]	N	N	24	_	heuristic: attach to last	
+26	us2-sa	us[follow]-a	V	NF.V.PT	25	_	heuristic: attach to last	
+27	{d}szu-{d}suen	Szusuen[1]	RN	RN	31	ERG	projectivity violation	
+28	lugal-e	lugal[king]-e	N	N.ERG	27	appos	_	
+29	bad3	bad[wall]	N	N	2	appos	_	
+30	mar-tu	Martu[1][-ø]	EN	EN.ABS	31	ABS	_	
+31	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	2	acl	_
+	
+

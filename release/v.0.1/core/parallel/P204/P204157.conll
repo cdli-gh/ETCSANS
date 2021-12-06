@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets fields barley chief household administrator of Ninmar Ur-Nane son of governor are here year Amar-Suen is king
+# train/P204157.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	GAN2	gana[field]	N	N	1	_	heuristic: after nominal head	
+3	sze	sze[barley]	N	N	5	nmod	projectivity violation	
+4	sanga	sagga[temple_administrator]	N	N	5	nmod	_	
+5	{d}nin-mar{ki}	_[fields.Ninmar]	DN	DN	9	ABS	projectivity violation	
+6	ur-{d}nansze	Urnansze[1]	PN	PN	4	appos	_	
+7	dumu	dumu[child]	N	N	4	appos	_	
+8	ensi2	ensik[ruler]	N	N	7	GEN	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+10	mu	mu[year]	N	N	12	_	_	
+11	{d}amar-{d}suen	Amarsuen[1]	RN	RN	12	ABS	_	
+12	lugal	lugal[king]	N	N	9	parataxis	_
+	
+

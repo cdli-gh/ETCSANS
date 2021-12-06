@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P340577.atf
+# tr.en: Basket-of-tablets Barakara are here year chair of Enlil was fashioned
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	bar-ra-kar-ra	_[Barakara]	N	N.GEN	3	ABS	_	
+3	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	acl	_	
+4	mu	mu[year]	N	N	3	appos	_	
+5	{gesz}gu-za	guza[chair]	N	N	7	ABS	_	
+6	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	5	GEN	_	
+7	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	4	acl	_
+	
+

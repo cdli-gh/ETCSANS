@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the mighty king king of Ur and king of four world quarters the son of Aa the governor of Pus your servant	
+1	...	_	_	_	0	dep	_
+2	lugal	lugal[king]	N	N	0	_	_
+3	kal-ga	urim5{ki}[1]	SN	SN.GEN	2	appos	_
+4	lugal	lugal[king]	N	N	2	appos	_
+5	uri5{ki}-ma	_[Ur]	N	N	4	GEN	_
+6	lugal	_	_	_	4	_	_
+7	an	_[and.king.world]	N	N	4	appos	_
+8	ub-da	an-ub-da[quarter]	N	N	4	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	...	_[four.quarters]	N	N	4	dep	_
+11	dumu	dumu[child]	N	N	0	appos	_
+12	a-hu-a	a-hu-a[1]	PN	PN	11	appos	_
+13	ensi2	ensi2[ruler]	N	N	12	appos	_
+14	pu-us2{ki}-ka	pu-usz{ki}[1]	SN	SN.GEN.GEN.ABS	13	GEN	_
+15	ARAD2-zu	pu-usz{ki}[1]+arad2[slave]	N	N.2-SG-POSS.ABS	11	appos	_
+

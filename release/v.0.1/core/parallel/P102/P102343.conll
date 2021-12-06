@@ -1,0 +1,58 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102343.atf						#new_text=P102343
+# tr.en: lamb governor of Kish lamb Burmama female kid grain-fed governor of Nippur lamb governor of Adab oxen ox breeder speckled ox billy goats of PI-bi-il Amorite lamb Ur-Gula nubanda calf-gazelle Ea-il nanny goats billy goats full-grown breeders ellu-Dagan delivery month Akitu year Simurrum and Lullubum for th time were destroyed th day
+# train/P102343.atf new_text=P102343
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	ensi2	ensik[ruler]	N	N	2	appos	_	
+4	kisz{ki}	_[Kish]	SN	SN.GEN.ABS	3	GEN	_	
+5	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+6	sila4	sila[lamb]	N	N	2	appos	_	
+7	bur-ma-ma	Burmama[1]	PN	PN	6	appos	_	
+8	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+9	{munus}asz2-gar3	aszgar[female_kid]	PN	N	6	appos	_	
+10	niga	niga[fattened][-ø]	V	NF.V.ABS	9	acl	_	
+11	ensi2	ensik[ruler]	N	N	9	appos	_	
+12	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	11	GEN	_	
+13	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+14	sila4	sila[lamb]	N	N	9	appos	_	
+15	ensi2	ensik[ruler]	N	N	14	appos	_	
+16	adab{ki}	_[Adab]	SN	SN.GEN.ABS	15	GEN	_	
+17	2(disz)	2(disz)[one]	NU	NU	18	nummod	_	
+18	gu4	gud[ox]	N	N	14	appos	_	
+19	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+20	gu4	gud[ox]	N	N	18	appos	_	
+21	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	18	appos	_	
+22	gun3-a	gunu[speckled]-a[-ø]	V	NF.V.SUB	18	acl	_	
+23	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+24	gu4	gud[ox]	N	N	18	appos	_	
+25	x-a	_[_]	DN	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	29	nmod	_	
+26	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+27	la2	la[hang][-ø]	V	NF.V.ABS	26	_	_	
+28	1(disz)	1(disz)[one]	NU	NU	27	nummod	_	
+29	masz2	masz[goat]	N	N	18	appos	_	
+30	PI-bi2-il	_[of.PI-bi-il]	PN	PN	18	GEN	_	
+31	mar-tu	Martu[1][-ø]	EN	EN.ABS	30	appos	_	
+32	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+33	sila4	sila[lamb]	N	N	14	appos	_	
+34	ur-gu-la	_[Ur-Gula]	PN	PN	33	appos	_	
+35	nu-banda3	nubanda[overseer][-ø]	N	N	33	appos	_	
+36	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+37	amar	amar[calf][-ak]	N	N	42	nummod	projectivity violation	
+38	masz-da3	maszda[gazelle][-ø]	N	N	14	appos	_	
+39	e2-a-i3-li2	E’a’ili[1][-e]	PN	PN.ERG	38	appos	_	
+40	1(gesz2)	1(gesz)[sixty]	NU	NU	42	nummod	projectivity violation	
+41	6(disz)	6(disz)[one][-sze]	NU	NU	44	nummod	projectivity violation	
+42	ud5	uzud[goat]	N	N	14	appos	_	
+43	4(disz)	4(disz)[one]	NU	NU	42	nummod	_	
+44	masz2-gal	maszgal[billy_goat]	N	N	42	appos	_	
+45	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	42	appos	_	
+46	s,e-lu-usz-{d}da-gan	_[ellu-Dagan]	PN	PN	47	acl	_	
+47	mu-kux(DU)	mukur[delivery][-ø]	N	N	42	appos	_	
+55	1(u)	1(u)[ten]	NU	NU	2	nummod	projectivity violation	
+56	la2	la[hang][-ø]	V	NF.V.ABS	55	_	_	
+57	1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	56	nummod	_	
+59	u4	ud[day]	N	N	2	appos	_	
+60	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	2	nummod	_
+	
+

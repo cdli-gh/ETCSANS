@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna firstborn child of Enlil his master Ur-Namma lord of Unug king of Urim king of Sumer and Akkad built and restored E-temen-ni-guru his beloved temple	
+1	{d}nanna	{d}nanna[1]	DN	DN	18	DAT	_
+2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	18	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	en	en[lord]	N	N	5	appos	_
+9	unu{ki}-ga	unug{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	appos	_
+12	lugal	lugal[king]	N	N	5	GEN	_
+13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_
+14	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	13	appos	_
+15	e2-temen-ni2-gur3	e2-temen-ni2-guru3[1]	TN	TN	18	ABS	_
+16	e2	e2[house]	N	N	17	ABS	_
+17	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	15	amod	_
+18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+19	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	20	LOC	_
+20	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	18	appos	_
+

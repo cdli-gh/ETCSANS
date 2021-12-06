@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416469.atf
+# tr.en: sheep nanny goat male lamb female lamb suckling lamb slaughtered the th day from Nalu Ur-nigar received month Piglet feast year Kima was destroyed
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	ud5	uzud[goat]	N	N	2	appos	_	
+5	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+6	sila4	sila[lamb]	N	N	2	appos	_	
+7	2(disz)	2(disz)[one]	NU	NU	8	nummod	_	
+8	kir11	kir[female_lamb]	N	N	2	appos	_	
+9	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+10	sila4	sila[lamb]	N	N	8	appos	_	
+11	ga	ga[milk]	N	N	10	appos	_	
+12	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	8	acl	_	
+13	u4	ud[day]	N	N	8	appos	_	
+14	1(u)	1(u)[ten]	NU	NU	8	nummod	_	
+15	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	14	nummod	_	
+16	ki	ki[place]	N	N	15	_	heuristic: attach to last	
+17	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	20	ABS	projectivity violation	
+18	ur-nigar{gar}	Urnigar[1]	PN	PN	17	_	heuristic: attach to last	
+19	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+20	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	8	acl	_	
+21	iti	iti[month]	N	N	22	nmod	_	
+22	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	25	_	_	
+23	mu	mu[year]	N	N	25	_	_	
+24	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	25	_	_	
+25	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

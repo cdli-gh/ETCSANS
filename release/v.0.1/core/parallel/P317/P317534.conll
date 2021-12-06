@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets grain by troops received troops plowmen those of oxen and troops of Girsu are here year Szu-Suen king of Ur Great-Stele for Enlil and Ninlil erected
+# train/P317534.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	4	ABS	_	
+3	erin2-e	erin[people]-e	N	N.ERG	2	ERG	_	
+4	szu-ti-a	_[troops.received]	PN	PN	1	acl	_	
+5	erin2	erin[people]	N	N	4	appos	_	
+6	engar	engar[farmer]	N	N	4	appos	_	
+7	sza3-gu4	szagu[ox-driver]	PN	N	4	appos	_	
+8	u3	u[and]	CNJ	CNJ	4	appos	_	
+9	erin2	erin[people]	N	N	11	ABS	_	
+10	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	9	GEN	_	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	4	acl	_	
+12	mu	mu[year]	N	N	4	appos	_	
+13	{d}szu-{d}suen	Szusuen[1]	RN	RN	19	ABS	_	
+14	lugal	lugal[king]	N	N	13	appos	_	
+15	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	14	GEN	_	
+16	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	13	appos	_	
+17	{d}en-lil2	Enlil[1]	DN	DN	16	DAT	_	
+18	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	17	appos	_	
+19	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	12	acl	_
+	
+

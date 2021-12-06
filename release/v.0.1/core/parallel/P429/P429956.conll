@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Abbasaga scribe son of Nasa fattener
+# train/P429956.atf
+1	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	na-sa6	Nasa[1][-e]	PN	PN.ERG	3	GEN	_	
+5	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	4	appos	_
+	
+

@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127544.atf
+# tr.en: cow seed of wild bull third year lamb slaughtered th day from Zubaga did Szulgi-irimu receive month Piglet-feast year Lord of Nanna in Karzida installed ox sheep
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	ab2	ab[cow][-ø]	N	N	0	root	_	
+3	a	a[water][-ø]	N	N.ABS	8	nummod	projectivity violation	
+4	am	am[bull][-ø]	N	N	2	appos	_	
+5	mu	mu[year]	N	N	2	appos	_	
+6	3(asz)	3(asz)[one]	NU	NU	7	nummod	heuristic: NU premodifying	
+7	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+8	sila4	sila[lamb]	N	N	2	appos	_	
+9	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+10	u4	ud[day]	N	N	9	date	_	
+11	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+12	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	11	nummod	_	
+13	ki	ki[place]	N	N	14	ABL	_	
+14	zu-ba-ga-ta	Zubaga[1][-ak]-ta	PN	PN.GEN.ABL	17	ABL	projectivity violation	
+15	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	14	_	heuristic: attach to last	
+16	szu	szu[hand][-e]	N	N.L3-NH	2	appos	_	
+17	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+18	iti	iti[month]	N	N	19	nmod	_	
+19	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	2	appos	_	
+20	mu	mu[year]	N	N	24	_	_	
+21	en	en[priest]	N	N	24	ABS	_	
+22	{d}nanna	Nanna[1][-ak]	DN	DN	21	GEN	_	
+23	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	21	LOC	_	
+24	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	19	acl	_	
+25	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+26	gu4	gud[ox]	N	N	19	appos	_	
+27	1(disz)	1(disz)[one]	NU	NU	28	nummod	heuristic: NU premodifying	
+28	udu	udu[sheep]	N	N	19	appos	_
+	
+

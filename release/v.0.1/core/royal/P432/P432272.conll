@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna of Karzida his master Amar-Suena whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the true god of his country king of Ur and king of four world quarters since from ancient times in Karzida the Gipar had not been built nor had an en-priestess been made to live therein Amar-Suena beloved son of Nanna for Nanna whom he loves in Karzida the Gipar he built and En-aga-zi-ana his beloved en-priestess he made enter therein Amar-Suena shall prolong life	
+1	{d}nanna	{d}nanna[1]	DN	DN	8	DAT	_
+2	kar-zi-da	kar-zid-da[1]	SN	SN.GEN	1	GEN	_
+3	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+4	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	8	LOC	_
+5	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	4	appos	_
+6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	ERG	_
+7	mu	mu[name]	N	N.ABS	8	ABS	_
+8	pa3-da	pad3[find]	V	NF.V.PT	25	ERG	_
+9	sag-us2	sag-us2[constant]	V	NF.V	8	appos	_
+10	e2	e2[house]	N	N	9	GEN	_
+11	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	10	GEN	_
+12	dingir	digir[deity]	N	N	8	appos	_
+13	zi	digir[deity]+zid[right]	V	NF.V	12	amod	_
+14	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	12	GEN	_
+15	lugal	lugal[king]	N	N	8	appos	_
+16	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	15	GEN	_
+17	lugal	lugal[king]	N	N	8	appos	_
+18	an	_	_	_	17	_	_
+19	ub-da	an-ub-da[quarter]	N	N	17	appos	_
+20	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	19	nummod	_
+21	u4	ud[sun]	N	N	25	ABL	_
+22	ul-li2-a-ta	ul-li2[distant]	V	NF.V.PT.ABL	21	amod	_
+23	kar-zi-da-a	kar-zid-da[1]	SN	SN.L1	25	LOC	_
+24	ge6-par4	kar-zid-da[1]+gi6-par4[cloister]	N	N.ABS	25	ABS	_
+25	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	27	ABS	_
+26	en	en[priest]	N	N.ABS	25	appos	_
+27	nu-un-ti-am3	til3[live]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	33	ERG	_
+28	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	27	appos	_
+29	dumu	dumu[child]	N	N	30	ABS	_
+30	ki-ag2	ki[place]+ag2[measure]	V	NF.V	28	amod	_
+31	{d}nanna-ke4	{d}nanna[1]	DN	DN.GEN.ERG	30	appos	_
+32	{d}nanna	{d}nanna[1]	DN	DN	33	ABS	_
+33	ki-ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	36	DAT	_
+34	kar-zi-da-a	kar-zid-da[1]	SN	SN.L1	36	LOC	_
+35	ge6-par4	gi6-par4[cloister]	N	N.ABS	36	ABS	_
+36	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+37	en-aga-zi-an-na	en-aga-zid-an-na[1]	PN	PN	40	ABS	_
+38	en	en[priest]	N	N	39	ABS	_
+39	ki-ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	37	amod	_
+40	mu-un-na-ni-in-ku4	kur9[enter]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	35	acl	_
+41	{d}amar-{d}suen-ke4	{d}amar-{d}suen[1]	RN	RN.GEN.ERG	43	GEN.ERG	_
+42	nam-ti	nam-til3[life]	N	N.ABS	43	ABS	_
+43	ib2-su3-re6	su3[distant]	V	FIN.3-SG-NH-P.V.3-SG-A	35	acl	_
+

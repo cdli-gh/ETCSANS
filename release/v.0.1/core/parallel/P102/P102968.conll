@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102968.atf						#new_text=P102968
+# train/P102968.atf new_text=P102968
+# tr.en: sheep Szimagi buck goats th day from Abbasaga En-dingirmu accepted month Szu-ea year Enma-gal-ana lord of Nanna was installed
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	4	nummod	projectivity violation	
+2	2(u)	2(u)[ten]	NU	NU	6	nummod	projectivity violation	
+3	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+4	udu	udu[sheep]	N	N	0	root	_	
+5	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+6	masz2-gal	maszgal[billy_goat]	N	N	4	appos	_	
+7	szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	6	appos	_	
+8	u4	ud[day]	N	N	4	appos	_	
+9	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+10	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+11	ki	ki[place]	N	N	12	ABL	_	
+12	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+13	en-dingir-mu	Endingirmu[1][-ak]	PN	PN	14	_	_	
+14	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	12	acl	_	
+15	iti	iti[month]	N	N	16	nmod	_	
+16	szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	4	appos	_	
+17	mu	mu[year]	N	N	22	_	_	
+18	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	22	_	_	
+19	en	en[priest]	N	N	22	ABS	_	
+20	{d}nanna	Nanna[1][-ak]	DN	DN	19	GEN	_	
+21	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	22	acl	_	
+22	1(gesz2)	1(gesz)[sixty]	NU	NU	16	nummod	_	
+23	4(u)	4(u)[ten]	NU	NU	26	nummod	heuristic: NU premodifying	
+24	5(disz)	5(disz)[one]	NU	NU	16	nummod	_
+	
+

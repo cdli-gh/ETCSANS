@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szekala Ur-Gigir son of Guzzani Lu-Szara son of Lugal-itida son of NI-x-ari Guzzani son of Nin-Urda SIG-a Lu-Alamu x x Seized runaways in prison residing month House-month- st day of has passed year Szu-Suen king erected big-stela Atu scribe Son of Nigar-kidu The police chief
+# train/P101581.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	ur-{gesz}gigir	Urgigir[1]	PN	PN	2	appos	_	
+5	dumu	dumu[child]	N	N	2	appos	_	
+6	{gesz}guzza-ni-me	_[of.Guzzani]	N	N.3-SG-H-POSS.ABS.COP-3-PL	5	GEN	_	
+7	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+8	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	6	appos	_	
+9	dumu	dumu[child]	N	N	6	appos	_	
+10	lugal-iti-da	Lugalitida[1]	PN	PN	9	GEN	_	
+11	dumu	dumu[child]	N	N	6	appos	_	
+12	i3-x-sza-ri2	_[NI-x-ari]	PN	PN	11	GEN	_	
+13	1(disz)	1(disz)[one]	NU	NU	16	nummod	projectivity violation	
+14	{gesz}guzza-ni	_[Guzzani]	PN	PN.GEN	6	appos	_	
+15	dumu	dumu[child]	N	N	6	appos	_	
+16	{d}nin-ur4-da	_[Nin-Urda]	DN	DN.GEN	15	GEN	_	
+17	SIG7-a	SIGa[1][-ra]	N	PN.DAT-H	16	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	19	nummod	heuristic: NU premodifying	
+19	lu2-{d}alamusz	_[Lu-Alamu]	PN	PN.GEN.DAT-H	16	appos	_	
+20	bar-ra	bar[outside]-ak	V	N.GEN	16	acl	_	
+21	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	20	_	heuristic: attach to last	
+22	lu2	lu[person]	N	N	16	appos	_	
+23	zah3	zah[disappear][-a]	V	NF.V.PT	2	_	heuristic: after nominal head	
+24	dab5-ba	dab[seize]-a	V	N	2	_	heuristic: after nominal head	
+25	x-x	_[_]	PN	N.2-SG-POSS.ABS	2	dep	heuristic: after nominal head	
+26	en-nu-ga2	_[in.prison]	N	N.GEN	27	LOC	_	
+27	ti-la	til[complete]-a[-sze]	PN	NF.V.PT.TERM	2	LOC	_	
+28	iti	iti[month]	N	N	29	_	_	
+29	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	2	nummod	_	
+30	...	_[_]	PN	N	29	dep	heuristic: attach to last	
+31	u4	ud[day]	N	N	29	appos	_	
+32	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+33	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	32	nummod	_	
+34	ba-ra-zal	_[has.passed]	V	MID.V.3-SG-S.SUB	29	acl	_	
+35	mu	mu[year]	N	N	34	appos	_	
+36	{d}szu-{d}suen	Szusuen[1]	RN	RN	35	appos	_	
+37	lugal-e	lugal[king]-e	N	N.ERG	36	appos	_	
+38	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	39	acl	_	
+39	in-du3	_[big-stela]	V	FIN.3-SG-H-A.V.3-SG-P	36	acl	_	
+40	a-tu	Atu[1][-ak]	PN	PN	2	appos	_	
+41	dub-sar	dubsar[scribe]	N	N	40	appos	_	
+42	dumu	dumu[child]	N	N	40	appos	_	
+43	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	40	appos	_	
+44	gal5-la2-gal	_[The.police.chief]	N	N	40	appos	_
+	
+

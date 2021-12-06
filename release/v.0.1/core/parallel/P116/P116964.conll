@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P116964.atf
+# tr.en: gur barig barley royal for barley ration of new year from millhouse the assistant herder did Nin-Nagsuka receive month Flight year following lord of Eridu was installed
+1	1(asz)	1(asz)[one]	NU	NU	5	nummod	_	
+2	3(barig)	3(bariga)[unit]	NU	N	1	nummod	_	
+3	sze	sze[barley]	N	N	5	nmod	_	
+4	gur	gur[unit]	N	N	5	nmod	_	
+5	lugal	lugal[king]	N	N	0	root	_	
+6	sze-ba	szeba[ration]	N	N	5	appos	_	
+7	za3-mu-ka-sze3	_[for.barley.ration.new.year]	N	N.GEN.TERM	5	TERM	_	
+8	e2-kikken-ta	_[from.millhouse]	TN	TN	5	ABL	_	
+9	gab2-us2	gabus[shepherd_helper]	N	N	5	appos	_	
+10	a-ri-a	aria[disease]	PN	N	5	appos	_	
+11	{d}nin-nag-su-ka-ke4	_[did.Nin-Nagsuka]	DN	DN.GEN.GEN.ERG	5	_	heuristic: after nominal head	
+12	szu	szu[hand][-e]	N	N.L3-NH	5	appos	_	
+13	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	5	acl	_	
+14	iti	iti[month]	N	N	15	nmod	_	
+15	dal	Dal[1][-'a]	MN	MN.L1	5	appos	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	us2-sa	us[follow]-a	V	NF.V.PT	20	acl	_	
+18	en	en[priest]	N	N	20	ABS	_	
+19	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	18	GEN	_	
+20	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	16	acl	_
+	
+

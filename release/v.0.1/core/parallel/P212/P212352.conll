@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P212352.atf
+# tr.en: grass sheep from Szulgi-ili did Ur-kununa accept Month big festival year house of Szara in Umma was erected Duga scribe son of Lu-Ningirsu herdsman of Nakabtum
+1	2(u)	2(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	8	nummod	_	
+3	udu	udu[sheep]	N	N	8	ERG	_	
+4	u2	u[grass]	N	N	3	appos	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	{d}szul-gi-i3-li2-ta	Szulgirili[1][-ak]-ta	PN	PN.GEN.ABL	8	ABL	_	
+7	ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	8	_	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+10	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	8	ABS	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	e2	e[house]	N	N	15	ABS	_	
+13	{d}szara2	Szara[1][-ak]	DN	DN	12	GEN	_	
+14	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	12	LOC	_	
+15	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	10	acl	_	
+16	du11-ga	dug[irrigate]-a	V	PN	10	_	_	
+17	dub-sar	dubsar[scribe]	N	N	16	appos	_	
+18	dumu	dumu[child]	N	N	16	appos	_	
+19	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	18	GEN	_	
+20	sipa	sipa[shepherd]	N	N	16	appos	_	
+21	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	20	GEN	_
+	
+

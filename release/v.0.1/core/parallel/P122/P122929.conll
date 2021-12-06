@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P122929.atf						#new_text=P122929
+# train/P122929.atf new_text=P122929
+# tr.en: sar shekels finished house and lot as its exchange value shekels of silver did Lu-alim son of Dada household administrator to Lu-bala-saga son of Szekala Enlilda and Lugal-HAR his children and Geme-Enlila his wife give in exchange for it Ninurta big-governor of Enlil
+1	3(disz)	3(disz)[one]	NU	NU	34	nummod	_	
+10	kislah	_[lot]	N	N	7	appos	_	
+11	nig2-sa10-bi	_[as.its.exchange.value]	N	N.3-SG-H-POSS	30	LOC	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	8(disz)	8(disz)[one]	NU	NU	12	nummod	_	
+14	gin2	gig[unit]	N	N	11	appos	_	
+15	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	16	_	heuristic: NU premodifying	
+16	ku3-babbar-sze3	_[silver]	N	N.TERM	14	GEN	_	
+17	lu2-sza-lim	Luszalim[1]	PN	PN	30	_	_	
+18	dumu	dumu[child]	N	N	30	nmod	_	
+19	da-da	Dada[1][-ak]	PN	PN	18	GEN	_	
+2	2/3(disz)	2/3(disz)[one]	NU	NU	1	nummod	_	
+20	sanga-ke4	_[household.administrator]	N	N	19	appos	_	
+21	lu2-bala-sa6-ga	_[to.Lu-bala-saga]	PN	PN	30	LOC	_	
+22	dumu	dumu[child]	N	N	21	appos	_	
+23	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	22	GEN	_	
+24	{d}en-lil2-da	_[Enlilda]	DN	DN	23	appos	_	
+25	lugal-HAR	_[and.Lugal-HAR.his]	PN	PN	23	appos	_	
+26	dumu-ni-me	dumu[son]-ani[-ø]-mesz	N	N.3-SG-H-POSS.ABS.COP-3-PL	21	appos	_	
+27	u3	u[and]	CNJ	CNJ	21	appos	_	
+28	geme2-{d}en-lil2-la2	Geme’enlilla[1][-ra]	PN	PN.DAT-H	21	appos	_	
+29	dam-ni-ir	_[his.wife]	N	N.3-SG-H-POSS.ABS	28	appos	_	
+3	sar	sar[unit]	N	N	5	nmod	_	
+30	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V	FIN.3-SG-H.TERM.3-SG-H-A.V.3-SG-P.SUB	34	parataxis	_	
+31	{d}nin-urta	Ninurta[1][-ra]	DN	DN	30	appos	_	
+32	ensi2-gal	_[big-governor]	FN	FN	31	appos	_	
+33	{d}en-lil2	Enlil[1]	DN	DN	32	GEN	_
+	
+4	4(disz)	4(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	gin2	gig[unit]	N	N	6	ABS	_	
+6	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	34	nummod	_	
+7	e2	e[house]	N	N	6	acl	_	
+8	du3-a	du[build]-a	V	NF.V.PT	7	_	heuristic: after nominal head	
+9	u3	u[and]	CNJ	CNJ	7	appos	_	
+

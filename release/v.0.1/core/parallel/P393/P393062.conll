@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep Szimakian breeder grass-fed Ribagada from delivery on rd day out of Intaea was booked via Nur-Suen scribe month festival of Szu-Suen year Szu-Suen king of Ur destroyed land of Zabali sheep
+# train/P393062.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	14	ABS	_	
+3	szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	2	appos	_	
+4	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	2	appos	_	
+5	u2	u[grass]	N	N	2	appos	_	
+6	ri-ba-ga-da	_[Ribagada]	PN	PN	2	appos	_	
+7	sza3	szag[heart]	N	N	2	appos	_	
+8	mu-kux(DU)-ra-ta	_[from.delivery]	N	N	2	ABL	_	
+9	u4	ud[day]	N	N	2	LOC	_	
+10	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+11	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	10	nummod	_	
+12	ki	ki[place]	N	N	14	_	_	
+13	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	14	_	_	
+14	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	0	root	_	
+15	giri3	giri[foot]	N	N	16	via	_	
+16	nu-ur2-{d}suen	_[Nur-Suen]	PN	PN	14	via	_	
+17	dub-sar	dubsar[scribe]	N	N	16	appos	_	
+18	iti	iti[month]	N	N	14	appos	_	
+19	ezem-{d}szu-{d}suen	_[festival.Szu-Suen]	MN	MN	18	appos	_	
+20	mu	mu[year]	N	N	19	appos	_	
+21	{d}szu-{d}suen	Szusuen[1]	RN	RN	26	ERG	_	
+22	lugal	lugal[king]	N	N	21	appos	_	
+23	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	22	GEN	_	
+24	ma-da	mada[land][-ak][-ø]	N	N	26	ABS	_	
+25	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	24	GEN	_	
+26	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	19	acl	_	
+27	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+28	udu	udu[sheep]	N	N	14	ABS	_
+	
+

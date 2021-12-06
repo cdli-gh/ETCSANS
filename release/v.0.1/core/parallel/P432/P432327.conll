@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P432327.atf new_text=P432327
+# test/P432327.atf						#new_text=P432327
+# tr.en: quarts
+1	'.	SEGM	XPOSTAG	XPOSTAG	4	_	_	
+2	...	_[_]	PN	N	4	dep	heuristic: attach to head	
+3	2(disz)	2(disz)[one]	NU	NU	4	nummod	heuristic: NU premodifying	
+4	sila3	sila[unit]	N	N	0	root	_
+	
+

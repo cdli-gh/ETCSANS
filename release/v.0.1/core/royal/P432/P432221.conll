@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nane his mistress Szulgi the mighty man king of Ur	
+1	{d}nansze	{d}nansze[1]	DN	DN	0	root	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	szul-gi	szul-gi[1]	RN	RN	2	appos	_
+4	nita	nita[male]	N	N	1	_	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	4	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+

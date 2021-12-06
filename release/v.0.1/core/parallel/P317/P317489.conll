@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P317489.atf						#new_text=P317489
+# tr.en: Basket-of-tablets accounts of grain of requisitioners from Girsu to Guabba from month to month are here year was destroyed
+# train/P317489.atf new_text=P317489
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	19	_	_	
+8	'.	_	_	_	1	_	_	
+11	'.	_	_	_	1	_	heuristic: after nominal head	
+12	iti	iti[month]	N	N	15	LOC	_	
+13	...-sze3	_[to]	PN	PN.GEN.TERM	12	LOC	_	
+14	'.	_	_	_	13	_	heuristic: attach to last	
+15	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	acl	_	
+16	'.	_	_	_	19	_	_	
+17	mu	mu[year]	N	N	19	_	_	
+18	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	19	_	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	root	_
+	
+

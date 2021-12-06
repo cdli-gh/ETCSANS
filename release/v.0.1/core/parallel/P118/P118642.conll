@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur barley under seal of Katarni boatman gur under seal of Ur-gigir son of Aribi gur n sila flour under seal of Ur-lugalbanda gur barig ban ban emmer from Lugalezem chief household manager gur barig ban sila Lanimu total gur barig ban sila barley total barig ban emmer total barig flour The sealed documents will be returned under seal of Ikalla son of Hedam
+# train/P118642.atf new_text=P118642
+# train/P118642.atf						#new_text=P118642
+2	sze	sze[barley]	N	N	0	root	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+29	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+30	5(asz)	5(asz)[one]	NU	NU	29	nummod	_	
+31	2(barig)	2(bariga)[unit]	NU	N	29	nummod	_	
+32	5(ban2)	5(ban)[unit]	NU	N	29	nummod	_	
+

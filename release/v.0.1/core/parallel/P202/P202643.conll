@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P202643.atf
+# tr.en: Basket-of-tablets accounts long-tablets long-tablets of silo manager and scribes of flour year Simurum for rd time was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	dub	dub[tablet]	N	N	2	appos	_	
+4	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	_	
+5	dub	dub[tablet]	N	N	2	appos	_	
+6	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	5	_	heuristic: attach to last	
+7	ka-guru7	kaguruk[supervisor][-e]	PN	N	5	GEN	_	
+8	u3	u[and]	CNJ	CNJ	2	appos	_	
+9	dub-sar	dubsar[scribe]	N	N	2	appos	_	
+10	zi3-da-ke4-ne	_[scribes.flour]	N	N.GEN.GEN.PL	2	appos	_	
+11	mu	mu[year]	N	N	2	appos	_	
+12	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	15	ABS	projectivity violation	
+13	a-ra2	ara[times]	N	N	12	DAT	_	
+14	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	1	nummod	projectivity violation	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P127343.atf
+# tr.en: grain-fed top ox oxen grain-fed oxen e-e-festival House-th-day of month days elapsed from Auni Nasa received month Piglet-feast year after Urbilum was destroyed
+1	2(disz)	2(disz)[one]	NU	NU	6	nummod	projectivity violation	
+2	gu4	gud[ox]	N	N	1	_	heuristic: attach to last	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	0	root	_	
+4	sag-gu4	_[top.ox]	N	N	6	acl	_	
+5	4(disz)	4(disz)[one]	NU	NU	6	nummod	_	
+6	gu4	gud[ox]	N	N	3	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	_	_	
+8	esz3-esz3	eszesz[festival]	PN	N	9	acl	_	
+9	e2-u4-7(disz)	E'u7[1][-sze]	NU	ON.TERM	6	nummod	_	
+10	iti	iti[month]	N	N	6	GEN	_	
+11	u4	ud[day]	N	N	13	nmod	projectivity violation	
+12	5(disz)	5(disz)[one]	NU	NU	3	nummod	projectivity violation	
+13	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	10	acl	_	
+14	ki	ki[place]	N	N	16	ABL	_	
+15	a-hu-ni-ta	Ahuni[1][-ak]-ta	PN	PN.GEN.ABL	16	nmod	_	
+16	na-sa6	Nasa[1][-e]	PN	PN.ERG	3	ABL	_	
+17	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	16	acl	_	
+18	iti	iti[month]	N	N	19	nmod	_	
+19	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	3	appos	_	
+20	mu	mu[year]	N	N	19	_	_	
+21	us2-sa	us[follow]-a	V	NF.V.PT	20	acl	_	
+22	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	23	ABS	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_
+	
+

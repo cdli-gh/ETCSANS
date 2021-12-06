@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ninlil his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life and life of Ninturturmu his beloved daughter he dedicated A person who this inscription shall erase may my mistress Ninlil curse him
+1	{d}nin-lil2	{d}nin-lil2[1]	DN	DN	18	DAT	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	szul-gi	szul-gi[1]	RN	RN	18	ERG	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_
+10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_
+11	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	18	TERM	_
+12	u3	u3[and]	CNJ	CNJ	11	cc	_
+13	nam-ti	nam-til3[life]	N	N	11	conj	_
+14	nin-tur-tur-mu	nin-|TUR.TUR|-ŋu₁₀[1]	PN	PN	18	GEN.TERM	_
+15	dumu	dumu[child]	N	N	16	ABS	_
+16	ki-ag2-ga2-na-sze3	ag2[measure]	V	NF.V.3-SG-H-POSS.GEN.TERM	14	amod	_
+17	a	a[water]	N	N.ABS	18	ABS	_
+18	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+19	lu2	lu2[person]	N	N	22	LOC	_
+20	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	19	appos	_
+21	szu	szu[hand]	N	N.ABS	22	ABS	_
+22	bi2-ib2-ur3-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_
+23	nin-mu	nin[lady]	N	N.1-SG-POSS	26	ERG	_
+24	{d}nin-lil2-ke4	{d}nin-lil2[1]	DN	DN.ERG	23	appos	_
+25	nam	nam[fate]	N	N.ABS	26	ABS	_
+26	ha-ba-da-ku5-re6	ku5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-SG-A	0	_	_
+

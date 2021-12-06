@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the son of the governor of Nippur for his life dedicated to himher	
+1	dumu	dumu[child]	N	N	9	ERG	_
+2	x	_	_	_	3	dep	_
+3	x-da-x	x-x-da-x-x[1]	PN	PN	1	appos	_
+4	x	x-x-da-x-x[1]	_	_	3	dep	_
+5	ensi2	ensi2[ruler]	N	N	3	appos	_
+6	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	5	GEN	_
+7	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	9	TERM	_
+8	a	a[water]	N	N.ABS	9	ABS	_
+9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

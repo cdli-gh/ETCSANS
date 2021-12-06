@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets fresh barley via Ur-Ningal son of Erinda and Lu-dingira son of Lu-Baba are here year Amar-Suen is king
+# test/P204151.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	14	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	_	
+4	sze	sze[barley]	N	N	2	appos	_	
+5	gibil	gibil[new][-ø]	V	NF.V.ABS	4	acl	_	
+6	giri3	giri[foot]	N	N	7	via	_	
+7	ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	2	via	_	
+8	dumu	dumu[child]	N	N	7	appos	_	
+9	erin-da	Erinda[1][-ak][-ak]	N	PN.ABS	8	GEN	_	
+10	u3	u[and]	CNJ	CNJ	7	appos	_	
+11	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	7	appos	_	
+12	dumu	dumu[child]	N	N	7	appos	_	
+13	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	12	GEN	_	
+14	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+15	mu	mu[year]	N	N	17	_	_	
+16	{d}amar-{d}suen	Amarsuen[1]	RN	RN	17	ABS	_	
+17	lugal	lugal[king]	N	N	14	parataxis	_
+	
+

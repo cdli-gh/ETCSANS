@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Habaluge governor of Adab Amar-uba scribe is your servant	
+1	ha-ba-lu5-ge2	ha-ba-lu5-ge2[1]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	adab{ki}	adab{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	amar-szuba3	amar-szuba3[1]	PN	PN	6	ABS	_
+5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_
+6	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

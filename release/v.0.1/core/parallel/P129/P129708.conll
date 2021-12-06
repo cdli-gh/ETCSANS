@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P129708.atf
+# tr.en: mana shekels less grains silver remainder of account against ubidam trade agent exists it is to be repaid via Ki-tulu scribe and Sipa-inimgina year For rd time Simuurrum was destroyed
+1	2(disz)	2(disz)[one]	NU	NU	10	nummod	projectivity violation	
+2	1/2(disz)	1/2(disz)[one]	NU	NU	1	nummod	_	
+3	ma-na	mana[unit]	N	N	0	root	_	
+4	4(disz)	4(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	gin2	gig[unit]	N	N	3	appos	_	
+6	la2	la[hang][-ø]	V	NF.V.ABS	10	acl	_	
+7	1(u)	1(u)[ten]	NU	NU	6	nummod	_	
+8	5(disz)	5(disz)[one]	NU	NU	7	nummod	_	
+9	sze	sze[barley]	N	N	10	nmod	_	
+10	ku3-babbar	kugbabbar[silver]	N	N	15	ABS	_	
+11	si-i3-tum	situm[balance]	N	N	10	appos	_	
+12	nig2-ka9-ak	nigSZID[account]	N	N	11	GEN	_	
+13	hu-bi2-dam	_[against.ubidam]	PN	PN.GEN	10	LOC	_	
+14	dam-gar3	damgar[merchant][-ak]	N	N	10	appos	_	
+15	in-da-gal2	i-n-da-gal[be][-ø]	V	FIN.3-SG-H.COM.V.3-SG-S	5	acl	_	
+16	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	3	parataxis	_	
+17	giri3	giri[foot]	N	N	18	via	_	
+18	ki-tusz-lu2	Kituszlu[1][-ra]	PN	PN.DAT-H	27	via	projectivity violation	
+19	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+20	u3	u[and]	CNJ	CNJ	19	appos	_	
+21	sipa-inim-gi-na	_[Sipa-inimgina]	PN	PN	19	appos	_	
+22	mu	mu[year]	N	N	0	_	detached for projectivity	
+23	us2-sa	us[follow]-a	V	NF.V.PT	22	_	heuristic: attach to last	
+24	a-ra2	ara[times]	N	N	22	appos	_	
+25	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	3	nummod	projectivity violation	
+26	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	27	ABS	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	acl	_
+	
+

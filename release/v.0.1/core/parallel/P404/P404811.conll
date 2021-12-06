@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P404811.atf
+# tr.en: wooden yokes covered leather bridles covered leather its weight mana whips on their necks rein drinking extra oxen implements from Akalla leather worker under seal of Daagi month Sowing year Szu-Suen is king Daagi the scribe
+1	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+2	{gesz}{szu}szudulx(|URxMIN|)	_[wooden.yokes.covered.leather]	N	N	0	root	_	
+3	kusz	kusz[leather]	N	N	6	nummod	projectivity violation	
+4	si-ga	sig[load]-a	N	NF.V.PT	3	_	heuristic: attach to last	
+5	6(disz)	6(disz)[one][-sze]	NU	NU	8	nummod	projectivity violation	
+6	ad-tab	_[bridles.covered]	N	N	2	parataxis	_	
+7	kusz	kusz[leather]	N	N	6	_	heuristic: attach to last	
+8	si-ga	sig[load]-a	N	NF.V.PT	6	ABS	_	
+9	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	8	appos	_	
+10	3(disz)	3(disz)[one]	NU	NU	2	nummod	projectivity violation	
+11	ma-na	mana[unit]	N	N	8	appos	_	
+12	2(disz)	2(disz)[one]	NU	NU	13	nummod	_	
+13	{kusz}usan3	_[whips.on]	N	N.ABS	2	parataxis	_	
+14	gu2-ba	gu[neck]-bi-'a	N	N.3-SG-NH-POSS.L1	13	LOC	_	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+16	{kusz}sag-kesz2	_[rein]	N	N	13	appos	_	
+17	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+18	{kusz}nag	_[drinking]	N	N	16	appos	_	
+19	gu4	gud[ox]	N	N	16	appos	_	
+20	diri	diri[intercalary_month]	N	N	19	acl	_	
+21	szu-du7-a	szudu[complete]-a[-ø]	N	NF.V.PT.ABS	19	appos	_	
+22	ki	ki[place]	N	N	23	ABL	_	
+23	a-kal-la	Akala[1]	PN	PN	19	ABL	_	
+24	aszgab-ta	aszgab[leatherworker][-ak]-ta	N	N.GEN.ABL	23	appos	_	
+25	kiszib3	kiszib[seal]	N	N	19	LOC	_	
+26	da-a-gi4	Dayagi[1][-ak]	PN	PN	25	GEN	_	
+27	iti	iti[month]	N	N	28	nmod	_	
+28	szu-numun	Szunumun[1][-'a]	MN	MN.L1	31	_	_	
+29	mu	mu[year]	N	N	31	_	_	
+30	{d}szu-{d}suen	Szusuen[1]	RN	RN	31	ABS	_	
+31	lugal	lugal[king]	N	N	16	appos	_	
+32	da-a-gi4	Dayagi[1][-ak]	PN	PN	2	ABS	_	
+33	dub-sar	dubsar[scribe]	N	N	32	appos	_
+	
+

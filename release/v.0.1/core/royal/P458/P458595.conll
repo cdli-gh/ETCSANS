@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful king king of Urim Ili-iar child of is your servant
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_
+6	lugal	_	_	_	1	_	_
+7	an	_	_	_	1	_	_
+8	ub-da	_	_	_	1	_	_
+9	limmu2-ba	_	_	_	1	_	_
+10	i3-li2-i-szar	i3-li2-i-szar[1]	PN	PN	14	ABS	_
+11	lu2-...	_[_]	u	u	10	_	_
+12	dumu	dumu[child]	N	N	10	appos	_
+13	...	_[_]	u	u	12	dep	_
+14	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

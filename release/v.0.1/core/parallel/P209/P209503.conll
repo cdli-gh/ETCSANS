@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P209503.atf new_text=P209503
+# tr.en: workmen for days the labor days at water stationed the field Amar-kii the field Center the field Royal waterway water poured intake of out-waterway cut off from intake of out-waterway to field Amar-kii leveled foreman via under seal of Egalesi year following Szu-Suen king Martu wall erected
+# dev/P209503.atf						#new_text=P209503
+1	8(disz)	8(disz)[one]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	18	ERG	_	
+3	u4	ud[day]	N	N	2	DAT	_	
+4	4(u)-sze3	_	NU	NU.GEN.COP-3-SG.TERM	5	nummod	heuristic: NU premodifying	
+5	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	2	appos	_	
+6	u4	ud[day]	N	N	5	appos	_	
+7	5(gesz2)	5(gesz)[sixty]	NU	NU	2	nummod	_	
+8	2(u)	2(u)[ten]	NU	NU	7	nummod	_	
+9	a-da	_[at.water]	PN	PN	2	LOC	_	
+10	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	9	acl	_	
+11	a-sza3	aszag[field]	N	N	12	_	_	
+12	amar-{gesz}kiszi17	_[the.Amar-kii]	FN	FN	14	_	_	
+13	a-sza3	aszag[field]	N	N	14	_	_	
+14	muru13	Muru[1]	FN	FN	2	appos	_	
+15	a-sza3	aszag[field]	N	N	2	appos	_	
+16	i7	id[river]	N	N	15	appos	_	
+17	lugal-ka	_[Royal.waterway]	DN	N.GEN.GEN.ABS	15	appos	_	
+18	a-de2-a	_[water.poured]	N	N	0	root	_	
+19	ka	kag[mouth]	N	N	18	_	heuristic: attach to last	
+20	i7	id[river]	N	N	19	_	heuristic: attach to last	
+21	e3-ka	_[intake.out-waterway.off]	WN	WN	18	ABS	_	
+22	ku5-ra2	kud[cut]-a	V	NF.V.PT	21	acl	_	
+23	ka	kag[mouth]	N	N	22	_	heuristic: attach to last	
+24	i7	id[river]	N	N	23	_	heuristic: attach to last	
+25	e3-ta	_[from.intake.out-waterway]	V	NF.V.PT.GEN.GEN.ABL	21	acl	_	
+26	a-sza3	aszag[field]	N	N	25	acl	_	
+27	amar-{gesz}kiszi17	_[to]	FN	FN	26	_	_	
+28	x-da-sze3	_[Amar-kii]	PN	PN.GEN.TERM	26	appos	_	
+29	szu-ur3-ra	_[leveled]	N	N	26	acl	_	
+30	ugula	ugula[overseer][-ø]	N	N	26	appos	_	
+31	...	_[_]	PN	N	30	dep	heuristic: attach to last	
+32	x	_[_]	N	N	31	dep	heuristic: attach to last	
+33	giri3	giri[foot]	N	N	34	via	_	
+34	...	_[_]	PN	N	26	dep	_	
+35	kiszib3	kiszib[seal]	N	N	26	LOC	_	
+36	e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	35	GEN	_	
+37	mu	mu[year]	N	N	26	appos	_	
+38	us2-sa	us[follow]-a	V	NF.V.PT	37	acl	_	
+39	{d}szu-{d}suen	Szusuen[1]	RN	RN	21	appos	_	
+40	lugal-e	lugal[king]-e	N	N.ERG	39	appos	_	
+41	bad3	bad[wall]	N	N	18	appos	projectivity violation	
+42	mar-tu	Martu[1][-ø]	EN	EN.ABS	43	ABS	_	
+43	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	39	acl	_
+	
+

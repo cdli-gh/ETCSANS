@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P202598.atf						#new_text=P202598
+# train/P202598.atf new_text=P202598
+# tr.en: Basket-of-tablets the chief house administrators are here year was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	e2	e[house]	N	N	0	_	_	
+3	x	_[_]	N	N	0	dep	_	
+4	GA2	_	FN	FN	0	_	_	
+5	ga	ga[milk]	N	N	0	_	_	
+

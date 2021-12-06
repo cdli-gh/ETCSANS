@@ -1,0 +1,55 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P345961.atf
+# tr.en: sila of high-quality beer sila of bread shekels of oil shekels of naga fish bundle of onions Inim-Inanna ban of bread as provisions for smiths via Inim-Inanna sila of beer sila of bread shekels of oil shekels of naga fish bundle of onions via Dada it is on th day Month Festival of Szulgi
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	sila3	sila[unit]	N	N	0	root	_	
+3	kasz	kasz[beer]	N	N	2	GEN	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	3(disz)	3(disz)[one]	NU	NU	9	nummod	projectivity violation	
+6	sila3	sila[unit]	N	N	2	appos	_	
+7	ninda	ninda[bread]	N	N	6	GEN	_	
+8	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+9	gin2	gig[unit]	N	N	2	appos	_	
+10	i3	i[oil]	N	N	9	GEN	_	
+11	2(disz)	2(disz)[one]	NU	NU	15	nummod	projectivity violation	
+12	gin2	gig[unit]	N	N	2	appos	_	
+13	naga	naga[potash]	N	N	12	GEN	_	
+14	1(disz)	1(disz)[one]	NU	NU	15	nummod	heuristic: NU premodifying	
+15	ku6	kud[fish]	N	N	2	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+17	sa	sa[bundle]	N	N	2	appos	_	
+18	szum2	szum[garlic]	N	N	19	nmod	_	
+19	inim-{d}inanna	Iniminanna[1]	PN	PN	17	GEN	_	
+20	4(ban2)	4(ban)[unit]	NU	N	2	nummod	_	
+21	ninda	ninda[bread]	N	N	20	GEN	_	
+22	sza3-gal	szaggal[food]	N	N	23	DAT	_	
+23	simug-e-ne	_[as.provisions.smiths]	N	N	20	LOC	_	
+24	giri3	giri[foot]	N	N	25	via	_	
+25	inim-{d}inanna	Iniminanna[1]	PN	PN	20	via	_	
+26	5(disz)	5(disz)[one]	NU	NU	27	nummod	_	
+27	sila3	sila[unit]	N	N	20	appos	_	
+28	kasz	kasz[beer]	N	N	27	GEN	_	
+29	5(disz)	5(disz)[one]	NU	NU	33	nummod	projectivity violation	
+30	sila3	sila[unit]	N	N	27	appos	_	
+31	ninda	ninda[bread]	N	N	30	GEN	_	
+32	2(disz)	2(disz)[one]	NU	NU	27	nummod	_	
+33	gin2	gig[unit]	N	N	27	appos	_	
+34	i3	i[oil]	N	N	33	GEN	_	
+35	2(disz)	2(disz)[one]	NU	NU	39	nummod	projectivity violation	
+36	gin2	gig[unit]	N	N	27	appos	_	
+37	naga	naga[potash]	N	N	36	GEN	_	
+38	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying	
+39	ku6	kud[fish]	N	N	27	appos	_	
+40	1(disz)	1(disz)[one]	NU	NU	41	nummod	heuristic: NU premodifying	
+41	sa	sa[bundle]	N	N	27	appos	_	
+42	szum2	szum[garlic]	N	N	41	GEN	_	
+43	giri3	giri[foot]	N	N	44	via	_	
+44	da-da	Dada[1][-ak]	PN	PN	41	via	_	
+45	u4	ud[day]	N	N	2	parataxis	_	
+46	2(u)	2(u)[ten]	NU	NU	45	nummod	_	
+47	la2	la[hang][-ø]	V	NF.V.ABS	46	_	_	
+48	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	47	nummod	_	
+49	iti	iti[month]	N	N	45	appos	_	
+50	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	45	appos	_
+	
+

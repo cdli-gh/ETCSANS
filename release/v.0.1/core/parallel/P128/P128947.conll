@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx
+# train/P128947.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	{gi}pisan	bisag[basket]	N	N	1	appos	_	
+3	lu2-banda3{da}	Lubanda[1]	PN	PN	1	appos	_
+	
+

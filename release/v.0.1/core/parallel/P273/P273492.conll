@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: skin sheep From Szesaga via Szarrum-il messenger under seal of Ur-Ee Year silver-throne of Enlil was fashioned Ur-Ee the scribe son of Ur-Nigar
+# train/P273492.atf new_text=P273492
+# train/P273492.atf						#new_text=P273492
+14	giri3	giri[foot]	N	N	15	via	_	
+15	szar-ru-um-i3(GAG)-li2(GAG)	_[Szarrum-il]	NU	NU	0	nummod	_	
+16	lu2	lu[person]	N	N	0	_	_	
+18	bur	_	N	N	0	root	_	
+19	ku3	kug[silver]	N	N	18	appos	_	
+20	mu-kux(DU)	mukur[delivery][-ø]	N	N	18	appos	projectivity violation	
+21	A	_	_	_	20	_	heuristic: attach to last	
+22	x	_[_]	N	N	22	dep	heuristic: attach to last	
+23	kiszib3	kiszib[seal]	N	N	16	LOC	projectivity violation	
+24	ur-e11-e	Ure'e[1][-ak]	PN	PN	24	GEN	_	
+25	mu	mu[year]	N	N	24	appos	_	
+26	ku3	kug[silver]	N	N	19	appos	_	
+27	gu-za	guza[chair][-ø]	N	N	30	ABS	_	
+28	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	28	GEN	_	
+29	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	19	acl	_	
+

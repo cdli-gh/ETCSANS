@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur barig barley royal from depot of Tulta gur barig ban from depot of Ur-nigar loan barley of worktrooper ploughmen ox-drivers and oxen managers did Ur-Mama recieve Inanna from depot of Urub year throne of Enlil was fashioned
+# train/P102278.atf
+1	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+2	2(asz)	2(asz)[one]	NU	NU	1	nummod	_	
+3	2(barig)	2(bariga)[unit]	NU	N	4	nummod	_	
+4	sze	sze[barley]	N	N	0	root	_	
+5	gur	gur[unit]	N	N	4	appos	_	
+6	lugal	lugal[king]	N	N	4	appos	_	
+7	i3-dub	idub[granary]	N	N	4	ABL	_	
+8	tul2-ta-ta	_[Tulta]	V	V	7	acl	_	
+9	1(asz)	1(asz)[one]	NU	NU	12	nummod	_	
+10	4(barig)	4(bariga)[unit]	NU	N	9	nummod	_	
+11	5(ban2)	5(ban)[unit]	NU	N	12	nummod	_	
+12	gur	gur[unit]	N	N	4	appos	_	
+13	i3-dub	idub[granary]	N	N	12	ABL	_	
+14	ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	13	GEN	_	
+15	sze	sze[barley]	N	N	0	_	detached for projectivity	
+16	ur5-ra	urra[loan]	N	N	15	appos	_	
+17	erin2	erin[people]	N	N	16	_	heuristic: attach to last	
+18	engar	engar[farmer]	N	N	15	appos	_	
+19	sza3-gu4	szagu[ox-driver]	PN	N	15	appos	_	
+20	u3	u[and]	CNJ	CNJ	15	appos	_	
+21	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	15	appos	_	
+22	ur-ma-ma-ke4	_[did.Ur-Mama]	PN	PN.GEN.ERG	4	_	heuristic: after nominal head	
+23	szu	szu[hand][-e]	N	N.L3-NH	27	nmod	projectivity violation	
+24	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	4	acl	_	
+25	mu	mu[year]	N	N	24	_	heuristic: attach to last	
+26	sanga	sagga[temple_administrator]	N	N	25	_	heuristic: attach to last	
+27	{d}inanna	Inanna[1][-ak]	DN	DN	24	appos	_	
+28	i3-dub	idub[granary]	N	N	27	ABL	_	
+29	uru11{ki}-ta	_[Urub]	SN	SN.GEN.ABL	28	GEN	_	
+30	mu	mu[year]	N	N	4	appos	_	
+31	gu-za	guza[chair][-ø]	N	N	33	ABS	_	
+32	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	31	GEN	_	
+33	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	30	acl	_
+	
+

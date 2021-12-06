@@ -1,0 +1,58 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sila fine beer sila bread shekels oil shekels alkali plant fish bundle onions for Lu-Nanna sila beer sila bread shekels oil shekels alkali-plant fish bundle onions for Ur-Nanna ban bread ban common beer sila sesame oil provisions for messengers via Ur-Nanna st day month Bricks cast in moulds
+# train/P101257.atf
+1	5(disz)	5(disz)[one]	NU	NU	3	nummod	_	
+2	sila3	sila[unit]	N	N	3	nmod	_	
+3	kasz	kasz[beer]	N	N	0	root	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	10	nummod	projectivity violation	
+6	sila3	sila[unit]	N	N	7	nmod	_	
+7	ninda	ninda[bread]	N	N	3	appos	_	
+8	2(disz)	2(disz)[one]	NU	NU	3	nummod	_	
+9	gin2	gig[unit]	N	N	10	nmod	_	
+10	i3	i[oil]	N	N	3	appos	_	
+11	2(disz)	2(disz)[one]	NU	NU	15	nummod	projectivity violation	
+12	gin2	gig[unit]	N	N	13	nmod	_	
+13	naga	naga[potash]	N	N	3	appos	_	
+14	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+15	ku6	kud[fish]	N	N	3	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	18	nummod	heuristic: NU premodifying	
+17	sa	sa[bundle]	N	N	18	nmod	_	
+18	szum2	szum[garlic]	N	N	3	appos	_	
+19	lu2-{d}nanna	Lunanna[1]	PN	PN	3	DAT	_	
+20	5(disz)	5(disz)[one]	NU	NU	22	nummod	_	
+21	sila3	sila[unit]	N	N	22	nmod	_	
+22	kasz	kasz[beer]	N	N	3	appos	_	
+23	3(disz)	3(disz)[one]	NU	NU	28	nummod	projectivity violation	
+24	sila3	sila[unit]	N	N	25	nmod	_	
+25	ninda	ninda[bread]	N	N	22	appos	_	
+26	2(disz)	2(disz)[one]	NU	NU	22	nummod	_	
+27	gin2	gig[unit]	N	N	28	nmod	_	
+28	i3	i[oil]	N	N	22	appos	_	
+29	2(disz)	2(disz)[one]	NU	NU	22	nummod	_	
+30	gin2	gig[unit]	N	N	31	nmod	_	
+31	naga	naga[potash]	N	N	22	acl	_	
+32	1(disz)	1(disz)[one]	NU	NU	22	nummod	_	
+33	ku6	kud[fish]	N	N	22	appos	_	
+34	1(disz)	1(disz)[one]	NU	NU	36	nummod	heuristic: NU premodifying	
+35	sa	sa[bundle]	N	N	36	nmod	_	
+36	szum2	szum[garlic]	N	N	22	appos	_	
+37	ur-{d}nanna	_[for.Ur-Nanna]	PN	PN	22	DAT	_	
+38	3(ban2)	3(ban)[unit]	NU	N	39	nummod	_	
+39	ninda	ninda[bread]	N	N	3	appos	_	
+40	3(ban2)	3(ban)[unit]	NU	N	41	nummod	_	
+41	kasz	kasz[beer]	N	N	39	appos	_	
+42	du	gin[quality_designation][-ø]	V	NF.V.ABS	41	acl	_	
+43	1/2(disz)	1/2(disz)[one]	NU	NU	39	nummod	_	
+44	sila3	sila[unit]	N	N	45	nmod	_	
+45	i3-gesz	igesz[oil]	V	N	39	acl	_	
+46	sza3-gal	szaggal[food]	N	N	47	DAT	_	
+47	kas4-e-ne	_[provisions.messengers]	N	N.PL	39	appos	_	
+48	giri3	giri[foot]	N	N	49	via	_	
+49	ur-{d}nanna	_[Ur-Nanna]	PN	PN	39	via	_	
+50	u4	ud[day]	N	N	53	date	_	
+51	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	50	nummod	_	
+52	iti	iti[month]	N	N	50	appos	_	
+53	sig4-{gesz}i3-szub-ba-gar	Sigiszubbagar[1][-'a]	MN	MN.L1	3	parataxis	_
+	
+

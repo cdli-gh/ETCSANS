@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ARAD-Nanna general of Szimagi and lands of Karda
+# train/P472746.atf
+1	ARAD2-{d}nanna	Aradnanna[1]	PN	PN	0	root	_	
+2	szagina	szakkanak[governor][-ak]	N	N	1	acl	_	
+3	szimaszgi{ki}	_[Szimagi]	GN	GN	0	root	_	
+4	u3	u[and]	CNJ	CNJ	3	appos	_	
+5	ma-da	mada[land][-ak][-ø]	N	N	3	appos	_	
+6	kar-da{ki}-ka	_[Karda]	SN	GN.GEN	0	root	_
+	
+

@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters because of great love of Sin Ur to widen he decided Therefore to make country secure and to make lower and upper countries bow down a great wall through whose loop-holes not a hand can enter like a verdant mountain range he made encircle his city In foundations for its foundation deposits he sought out places Of that wall Ibbi-Sin Is Canal inspector of Princeliness is its name	
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	13	ERG	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	1	appos	_
+9	an	_	_	_	8	_	_
+10	ub-da	an-ub-da[quarter]	N	N	8	appos	_
+11	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	10	nummod	_
+12	nam-gal	nam[fate]	N	N	13	ABS	_
+13	ki-ag2	ag2[measure]	V	NF.V	16	COM	_
+14	{d}suen-na-da	{d}suen[1]	DN	DN.GEN.COM	13	GEN	_
+15	uri5{ki}	urim5{ki}[1]	SN	SN.ABS	16	ABS	_
+16	dagal-e-de3	dagal[wide]	V	NF.V.PF.DAT-NH	18	DAT	_
+17	sa	sa2[advice]	N	N.ABS	18	ABS	_
+18	im-ma-szi-gar	gar[place]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	0	_	_
+19	ur5-ta	ur5[he]	IP	IP.ABL	20	_	_
+20	kalam	kalam[land]	N	N.ABS	21	ABS	_
+21	gi-ne2	gen6[establish]	V	NF.V.PF	23	ABS	_
+22	sig-nim	sig[weak]	V	NF.V	21	appos	_
+23	GAM-e-de3	gurum[bend]	V	NF.V.PF.DAT-NH	28	DAT	_
+24	bad3	bad3[wall]	N	N	28	LOC	_
+25	gal	gal[big]	V	NF.V	24	amod	_
+26	za-pa-ag2-ba	za-pa-ag2[breath]	N	N.3-SG-NH-POSS.L1	24	appos	_
+27	szu	szu[hand]	N	N.ABS	28	ABS	_
+28	nu-ku4-ku4	ku4-ku4[enter]	V	NEG.NF.V.PF.PF.ABS	32	ABS	_
+29	hur-sag	hur-sag[mountain]	N	N	32	EQU	_
+30	sig7-ga-gin7	sig7[green]	V	NF.V.PT.EQU	29	amod	_
+31	iri{ki}-ni	iri{ki}[city]	N	N.3-SG-H-POSS.L3-NH	32	LOC	_
+32	im-mi-dab6	dab6[go.around]	V	FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_
+33	urua	uru18[root]	N	N.L1	36	LOC	_
+34	temen-be2	temen[foundation]	N	N.3-SG-NH-POSS.DAT-NH	36	DAT	_
+35	ki	ki[place]	N	N.ABS	36	ABS	_
+36	in-ma-ni-pa3	pad3[find]	V	3-NH.DAT.3-SG-H-A.pad.3-SG-P	0	_	_
+37	bad3-ba	bad3[wall]	N	N.DEM2.GEN	1	GEN	_
+38	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN.ABS	37	GEN	_
+39	gu2-gal	gu2-gal[inspector]	N	N	0	_	_
+40	nam-nun-na	nam-nun[magnificence]	N	N.GEN.ABS	39	GEN	_
+41	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	1	parataxis	_
+

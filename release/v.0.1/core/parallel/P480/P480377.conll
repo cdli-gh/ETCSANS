@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480377.atf new_text=P480377
+# train/P480377.atf						#new_text=P480377
+# tr.en: sheep barley-fed big-billy barley-fed Szimagian to kitchen because of runners ARADgu is enforcer of month th day has passed in Uruk booked out from Lu-dingira month ubi feast year Kima and urti were destroyed sheep
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	_	heuristic: after nominal head	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+30	5(disz)	5(disz)[one]	NU	NU	2	nummod	projectivity violation	
+

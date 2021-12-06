@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Annuntum his spouse Sz-Sin the beloved of Enlil the king whom Enlil as beloved in his heart did choose the strong king king of Ur and king of four world quarters her temple he built for her	
+1	an-nu-ni-tum	an-nu-ni-tum[1]	DN	DN	4	DAT	_
+2	dam-a-ni-ir	dam[spouse]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	4	ABS	_
+4	ki-ag2	ki[place]+ag2[measure]	V	NF.V	8	ERG	_
+5	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	4	appos	_
+7	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	6	appos	_
+8	ki-ag2	ag2[measure]	V	NF.V	10	LOC	_
+9	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	appos	_
+10	in-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+11	lugal	lugal[king]	N	N	20	ERG	_
+12	kal-ga	kalag[strong]	V	NF.V.PT	11	amod	_
+13	lugal	lugal[king]	N	N	11	appos	_
+14	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_
+15	lugal	lugal[king]	N	N	11	appos	_
+16	an	_	_	_	15	_	_
+17	ub-da	an-ub-da[quarter]	N	N	15	appos	_
+18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	nummod	_
+19	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	20	ABS	_
+20	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

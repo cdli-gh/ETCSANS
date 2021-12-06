@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432224.atf
+# tr.en: Szulgi the mighty king of Ur and king of world quarters the four
+1	...	_[_]	PN	N	0	dep	_	
+2	x	_[_]	N	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+4	...	_[_]	PN	N	0	dep	_	
+5	NE	ne[unknown]	MN	MN	0	_	_	
+6	IGI	_	_	_	0	_	_	
+7	{d}szul-gi	Szulgir[1]	RN	RN	0	root	_	
+8	da-num2	_[the.mighty]	PN	PN	15	nmod	_	
+9	_lugal_	lugal[king]	N	N	15	_	_	
+10	uri5{ki}	Urim[1][-ak]	SN	SN.GEN	9	GEN	_	
+11	u3	u[and]	CNJ	CNJ	10	appos	_	
+12	_lugal_	lugal[king]	N	N	10	appos	_	
+13	ki-ib-ra-tim	_[world.quarters]	N	N	10	GEN	_	
+14	ar-ba-im	_[the.four]	PN	PN	15	nmod	_	
+15	...	_[_]	PN	N	7	dep	_	
+16	x	_[_]	N	N	0	dep	_
+	
+

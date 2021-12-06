@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432175.atf						#new_text=P432175
+# tr.en: For Nane the lady of boundary marker his mistress Szulgi the mighty man king of Ur her Temple Established by Brothers he built for her
+# train/P432175.atf new_text=P432175
+1	{d}nansze	Nansze[1]	DN	DN	0	root	_	
+

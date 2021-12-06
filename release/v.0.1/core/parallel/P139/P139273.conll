@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P139273.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	...-tum	_	PN	PN.GEN.ABL	1	appos	_	
+3	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+4	GAN	_	PN	PN	1	_	heuristic: after nominal head	
+5	...-ra	_	PN	PN	1	_	heuristic: after nominal head	
+6	gesz	gesz[tree]	N	N	1	_	heuristic: after nominal head	
+7	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+8	du3-gesz	_[xxx]	V	V	7	_	heuristic: attach to last	
+9	...-la	_[xxx]	PN	PN	8	_	heuristic: attach to last	
+10	...	_[_]	PN	N	9	dep	heuristic: attach to last	
+11	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	10	_	heuristic: attach to last	
+12	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	11	_	heuristic: attach to last	
+13	iti	iti[month]	N	N	12	_	heuristic: attach to last	
+14	ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	MN.ABL	13	_	heuristic: attach to last	
+15	iti	iti[month]	N	N	14	_	heuristic: attach to last	
+16	ezem-{d}me-ki-gal2-sze3	Ezemmekigal[1]-sze	MN	MN.TERM	15	_	heuristic: attach to last	
+17	iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	16	_	heuristic: attach to last	
+18	5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	31	nummod	heuristic: NU premodifying	
+19	mu	mu[year]	N	N	18	_	heuristic: attach to last	
+20	{d}szul-gi	Szulgir[1]	RN	RN	19	_	heuristic: attach to last	
+21	nita	nita[male]	N	N	20	_	heuristic: attach to last	
+22	kal-ga	kalag[strong]-a	V	NF.V.SUB	21	_	heuristic: attach to last	
+23	lugal	lugal[king]	N	N	22	_	heuristic: attach to last	
+24	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	23	_	heuristic: attach to last	
+25	lugal	lugal[king]	N	N	24	_	heuristic: attach to last	
+26	an	An[1][-ra]	N	N	25	_	heuristic: attach to last	
+27	ub-da	_	N	N	26	_	heuristic: attach to last	
+28	limmu2-ba-ke4	_[xxx]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	31	nummod	_	
+29	bad3	bad[wall]	N	N	28	_	heuristic: attach to last	
+30	ma-da	mada[land][-ak][-ø]	N	N	31	nmod	_	
+31	mu-du3-a	mu[-n]-du[-ø]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	1	_	_
+	
+

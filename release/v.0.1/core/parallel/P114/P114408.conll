@@ -1,0 +1,54 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P114408.atf
+# tr.en: gur barig barley barig emmer seized grain field Baba-tursu via Lugal-Nigine Ur-Suana received in Girsu year after Stele gur barig barley royal barig emmer seized grain field Baba-tursu via Lugal-Nigine under seal of Ur-Suana in Girsu year after Sz-Suen king of Ur Great Stele for Enlil and Ninlil erected Ur-Suana the scribe son Lu-Gebare
+1	2(asz)	2(asz)[one]	NU	NU	6	nummod	_	
+2	1(barig)	1(bariga)[unit]	NU	N	1	nummod	_	
+3	sze	sze[barley]	N	N	6	nmod	_	
+4	gur	gur[unit]	N	N	6	nmod	_	
+5	2(barig)	2(bariga)[unit]	NU	N	6	nummod	_	
+6	ziz2	ziz[emmer]	N	N	0	root	_	
+7	sze	sze[barley]	N	N	8	ABS	_	
+8	dab5-ba	dab[seize]-a	V	N	6	acl	projectivity violation	
+9	a-sza3	aszag[field]	N	N	7	ABS	projectivity violation	
+10	{d}ba-ba6-tur3-su3	_[Baba-tursu]	FN	FN	9	appos	_	
+11	giri3	giri[foot]	N	N	12	via	_	
+12	lugal-nigin6{ki}-sze3	_[Lugal-Nigine]	PN	PN	8	via	_	
+13	ur-{d}su4-an-na	Ursu'anak[1][-ra]	PN	PN.DAT-H	12	appos	_	
+14	szu	szu[hand][-e]	N	N.L3-NH	13	_	heuristic: attach to last	
+15	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	12	acl	_	
+16	sza3	szag[heart]	N	N	17	LOC	_	
+17	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	15	LOC	_	
+18	mu-us2-sa	_[year.after]	V	VEN.3-SG-H-A.V.3-SG-P.ABS	6	_	_	
+19	na-ru2-a	narua[stele]	PN	N	18	appos	_	
+20	2(asz)	2(asz)[one]	NU	NU	24	nummod	projectivity violation	
+21	1(barig)	1(bariga)[unit]	NU	N	22	nummod	_	
+22	sze	sze[barley]	N	N	23	_	_	
+23	gur	gur[unit]	N	N	18	appos	_	
+24	lugal	lugal[king]	N	N	28	ERG	projectivity violation	
+25	2(barig)	2(bariga)[unit]	NU	N	26	nummod	_	
+26	ziz2	ziz[emmer]	N	N	24	appos	_	
+27	sze	sze[barley]	N	N	28	ABS	_	
+28	dab5-ba	dab[seize]-a	V	N	18	acl	projectivity violation	
+29	a-sza3	aszag[field]	N	N	27	ABS	projectivity violation	
+30	{d}ba-ba6-tur3-su3	_[Baba-tursu]	FN	FN	29	appos	_	
+31	giri3	giri[foot]	N	N	32	via	_	
+32	lugal-nigin6{ki}-sze3	_[Lugal-Nigine]	PN	PN	28	via	_	
+33	kiszib3	kiszib[seal]	N	N	28	LOC	_	
+34	ur-{d}su4-an-na	Ursu'anak[1][-ra]	PN	PN.DAT-H	33	appos	_	
+35	sza3	szag[heart]	N	N	36	LOC	_	
+36	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	18	LOC	_	
+37	mu	mu[year]	N	N	45	_	_	
+38	us2-sa	us[follow]-a	V	NF.V.PT	45	_	_	
+39	{d}szu-{d}suen!	Szusuen[1]	RN	RN	45	ABS	_	
+40	lugal	lugal[king]	N	N	39	appos	_	
+41	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	40	GEN	_	
+42	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	39	appos	_	
+43	{d}en-lil2	Enlil[1]	DN	DN	42	DAT	_	
+44	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	43	appos	_	
+45	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	18	parataxis	_	
+46	ur-{d}su4-an-na	Ursu'anak[1][-ra]	PN	PN.DAT-H	18	appos	_	
+47	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+48	dumu	dumu[child]	N	N	49	nmod	_	
+49	lu2-{d}gesz-bar-e3	_[Lu-Gebare]	PN	PN	18	appos	_
+	
+

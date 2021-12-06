@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets chambers of cows of stall and plow-oxen year chair was fashioned
+# train/P100766.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	1	appos	_	
+3	ab2	ab[cow][-ø]	N	N	2	GEN	_	
+4	e2-tur3	etur[stall]	N	N	3	GEN	_	
+5	u3	u[and]	CNJ	CNJ	2	appos	_	
+6	gu4-{gesz}apin	gudapin[plow_ox][-ak][-ak]	N	N.GEN.GEN	2	appos	_	
+7	mu	mu[year]	N	N	2	appos	_	
+8	gu-za	guza[chair][-ø]	N	N	9	ABS	_	
+9	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts deficits year Urbilum was destroyed
+# train/P318281.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	4	nmod	_	
+3	x	_[_]	N	N	4	dep	_	
+4	si-i3-tum	situm[balance]	N	N	1	appos	_	
+5	mu	mu[year]	N	N	4	appos	_	
+6	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	7	ABS	_	
+7	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	acl	_
+	
+

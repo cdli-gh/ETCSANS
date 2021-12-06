@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416404.atf
+# tr.en: gur barig of barley minas shekels grains of silver delivery with Adda-kalla
+1	5(u)	5(u)[ten]	NU	NU	5	nummod	projectivity violation	
+2	5(asz)	5(asz)[one]	NU	NU	9	nummod	projectivity violation	
+3	2(barig)	2(bariga)[unit]	NU	N	5	nummod	_	
+4	sze	sze[barley]	N	N	3	GEN	_	
+5	gur	gur[unit]	N	N	0	root	_	
+6	1(u)	1(u)[ten]	NU	NU	16	nummod	projectivity violation	
+7	3(disz)	3(disz)[one]	NU	NU	6	nummod	_	
+8	1/2(disz)	1/2(disz)[one]	NU	NU	6	nummod	_	
+9	ma-na	mana[unit]	N	N	5	appos	_	
+10	8(disz)	8(disz)[one]	NU	NU	0	nummod	_	
+11	2/3(disz)	2/3(disz)[one]	NU	NU	10	nummod	_	
+12	gin2	gig[unit]	N	N	9	appos	_	
+13	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+14	5(disz)	5(disz)[one]	NU	NU	13	nummod	_	
+15	sze	sze[barley]	N	N	12	appos	_	
+16	ku3-babbar	kugbabbar[silver]	N	N	15	GEN	_	
+17	mu-kux(DU)	mukur[delivery][-ø]	N	N	16	appos	_	
+18	ki	ki[place]	N	N	19	COM	_	
+19	ad-da-kal-la	Addakala[1][-ra]	PN	PN	16	COM	_
+	
+

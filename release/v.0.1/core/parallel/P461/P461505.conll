@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: barig ration barley New Year from mill did Ninurada receive from month Dumuzi year Urbilum was destroyed
+# train/P461505.atf
+1	2(barig)	2(bariga)[unit]	NU	N	2	nummod	_	
+2	sze-ba	szeba[ration]	N	N	0	root	_	
+3	za3-mu	Zamu[1][-ak]	PN	N	2	appos	_	
+4	e2-kikken-ta	_[from.mill]	TN	TN	2	ABL	projectivity violation	
+5	{d}nin-ur4-ra-da	_[did.Ninurada]	PN	PN	3	root	heuristic: after nominal head	
+6	szu	szu[hand][-e]	N	N.L3-NH	5	_	heuristic: attach to last	
+7	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	3	root	heuristic: after nominal head	
+8	iti	iti[month]	N	N	2	appos	projectivity violation	
+9	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	8	ABL	_	
+10	mu	mu[year]	N	N	3	appos	_	
+11	ur-bi2-i3-lum{ki}	_[Urbilum]	GN	GN	3	ABS	_	
+12	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_
+	
+

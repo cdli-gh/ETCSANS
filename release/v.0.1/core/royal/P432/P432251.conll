@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Szara trusted one of An beloved son of Inanna his master for life of Szulgi the mighty man king of Ur and king of four world quarters Lu-Nanna the son of Sz-Erra the merchant	
+1	{d}szara2	{d}szara2[1]	DN	DN	0	_	_
+2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_
+3	an-na	an[1]	DN	DN.GEN	1	appos	_
+4	dumu	dumu[child]	N	N	5	ABS	_
+5	ki-ag2	ag2[measure]	V	NF.V	1	amod	_
+6	{d}inanna	{d}inana[1]	DN	DN.GEN	5	GEN	_
+7	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	5	appos	_
+8	nam-ti	nam-til3[life]	N	N	2	TERM	_
+9	{d}szul-gi	{d}szul-gi[1]	RN	RN	8	GEN	_
+10	nita	nita[male]	N	N	8	appos	_
+11	kal-ga	kalag[strong]	V	NF.V.PT	10	amod	_
+12	lugal	lugal[king]	N	N	8	appos	_
+13	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	12	GEN	_
+14	lugal	lugal[king]	N	N	12	GEN	_
+15	an	_	_	_	14	_	_
+16	ub-da	an-ub-da[quarter]	N	N	14	appos	_
+17	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	16	nummod	_
+18	lu2-{d}nanna	lu2-{d}nanna[2]	PN	PN	17	appos	_
+19	dumu	dumu[child]	N	N	18	appos	_
+20	szu-er3-ra	szu-er3-ra[1]	PN	PN	18	appos	_
+21	dam-gar3-ke4	dam-gar3[merchant]	N	N.GEN.ERG	20	appos	_
+22	x	_[_]	u	u	0	dep	_
+23	...	_[_]	u	u	0	dep	_
+

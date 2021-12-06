@@ -1,0 +1,57 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets barley delivered Ur-Lamma governor year Karar for rd time was destroyed year Anan year following Anan year Nanna of Karzida year Wall of lands year house of Puzri-Dagan barley delivered cities th set barley delivered year Szarum was destroyed barley year house of Puzri-Dagan barley delivered year following house of Puzri-Dagan labor of hirelings field of Duge of Ur
+# train/P104756.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	1	appos	_	
+3	de6-a	de[bring]-a	V	NF.V.PT	2	acl	_	
+4	ur-{d}lamma	Urlamma[1]	PN	PN	2	appos	_	
+5	ensi2	ensik[ruler]	N	N	4	appos	_	
+6	mu	mu[year]	N	N	4	appos	_	
+7	kar2-har	_	GN	GN	10	_	_	
+8	a-ra2	ara[times]	N	N	10	DAT	_	
+9	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	10	nummod	_	
+10	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_	
+11	mu	mu[year]	N	N	10	date	_	
+12	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	10	acl	_	
+13	mu	mu[year]	N	N	12	date	_	
+14	us2-sa	us[follow]-a	V	NF.V.PT	15	acl	_	
+15	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	13	acl	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	{d}nanna	Nanna[1][-ak]	DN	DN	15	appos	_	
+18	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	17	GEN	_	
+19	mu	mu[year]	N	N	15	appos	_	
+20	bad3	bad[wall]	N	N	15	appos	_	
+21	ma-da	mada[land][-ak][-ø]	N	N	20	GEN	_	
+22	mu	mu[year]	N	N	15	appos	_	
+23	e2	e[house]	N	N	15	appos	_	
+24	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	23	GEN	_	
+25	sze	sze[barley]	N	N	15	appos	_	
+26	de6-a	de[bring]-a	V	NF.V.PT	25	acl	_	
+27	iri	iri[city]	N	N	30	nmod	projectivity violation	
+28	igi	igi[eye][-ø]	N	N	30	acl	projectivity violation	
+29	6(disz)	6(disz)[one][-sze]	NU	NU	15	nummod	_	
+30	gar-ra	_[set]	V	V	15	acl	_	
+31	sze	sze[barley]	N	N	15	appos	_	
+32	de6-a	de[bring]-a	V	NF.V.PT	31	acl	_	
+33	gur-gi	_[year]	V	V	15	acl	_	
+34	mu	mu[year]	N	N	36	_	_	
+35	sza-asz-ru-um	_	N	N	36	_	_	
+36	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_	
+37	nig2-du12-du12	_[barley]	N	N	36	appos	_	
+38	sze	sze[barley]	N	N	37	_	heuristic: after nominal head	
+39	mu	mu[year]	N	N	37	appos	_	
+40	e2	e[house]	N	N	37	appos	_	
+41	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	40	GEN	_	
+42	sze	sze[barley]	N	N	40	appos	_	
+43	de6-a	de[bring]-a	V	NF.V.PT	42	acl	_	
+44	mu	mu[year]	N	N	45	nmod	_	
+45	us2-sa	us[follow]-a	V	NF.V.PT	40	acl	_	
+46	e2	e[house]	N	N	40	appos	_	
+47	puzur4-isz-da-gan	_[Puzri-Dagan]	SN	SN.ABS	46	GEN	_	
+48	a2	a[time]	N	N	40	appos	_	
+49	hun-ga2	hug[hire]-a	V	NF.V.PT	48	acl	_	
+50	a-sza3	aszag[field]	N	N	40	appos	_	
+51	du6-ge6	_[of.Duge]	FN	FN	50	GEN	_	
+52	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	51	GEN	_
+	
+

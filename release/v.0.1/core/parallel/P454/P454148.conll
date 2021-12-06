@@ -1,0 +1,76 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur ban sila barley prebend of Kuku gur ban sila prebend of Era-bani gur ban sila prebend of Adalal gur ban sila barley prebend of Ur-Dumuzi gur barig sila barley prebend of Il-bani gur barig ban sila barley of those not receiving barley did Sz-Lisi receive field SIG gi year Ibbi-Sin king of Ur Simurum did destroy Sz-Lisi son of rider
+# train/P454148.atf						#new_text=P454148
+# train/P454148.atf new_text=P454148
+1	2(asz)	2(asz)[one]	NU	NU	6	nummod	_	
+2	3(ban2)	3(ban)[unit]	NU	N	1	nummod	_	
+3	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+4	sila3	sila[unit]	N	N	5	nmod	_	
+5	sze	sze[barley]	N	N	6	_	_	
+6	gur	gur[unit]	N	N	0	root	_	
+7	szuku	szukur[prebend_land]	N	N	6	appos	_	
+8	ku-ku	_[Kuku]	V	V	7	acl	_	
+9	2(asz)	2(asz)[one]	NU	NU	13	nummod	_	
+10	3(ban2)	3(ban)[unit]	NU	N	9	nummod	_	
+11	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+12	sila3	sila[unit]	N	N	11	appos	_	
+13	gur	gur[unit]	N	N	6	appos	_	
+14	szuku	szukur[prebend_land]	N	N	13	appos	_	
+15	er3-ra-ba-ni	Erabani[1]	PN	PN	14	GEN	_	
+16	3(asz)	3(asz)[one]	NU	NU	20	nummod	_	
+17	1(ban2)	1(ban)[unit]	NU	N	16	nummod	_	
+18	8(disz)	8(disz)[one]	NU	NU	20	nummod	_	
+19	sila3	sila[unit]	N	N	18	appos	_	
+20	gur	gur[unit]	N	N	13	appos	_	
+21	szuku	szukur[prebend_land]	N	N	20	appos	_	
+22	a-da-lal3	Adalal[1][-ra]	N	PN	21	GEN	_	
+23	1(asz)	1(asz)[one]	NU	NU	25	nummod	_	
+24	1(ban2)	1(ban)[unit]	NU	N	23	nummod	_	
+25	5(disz)	5(disz)[one]	NU	NU	20	nummod	_	
+26	sila3	sila[unit]	N	N	27	nmod	_	
+27	gur	gur[unit]	N	N	25	appos	_	
+28	szuku	szukur[prebend_land]	N	N	25	appos	_	
+29	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	28	GEN	_	
+30	1(asz)	1(asz)[one]	NU	NU	25	nummod	_	
+31	3(barig)	3(bariga)[unit]	NU	N	25	nummod	_	
+32	2(disz)	2(disz)[one]	NU	NU	25	nummod	_	
+33	1/2(disz)	1/2(disz)[one]	NU	NU	25	nummod	projectivity violation	
+34	sila3	sila[unit]	N	N	32	appos	_	
+35	szuku	szukur[prebend_land]	N	N	32	appos	_	
+36	dingir-ba-ni	_[Il-bani]	PN	PN	35	GEN	_	
+37	a.	_	_	_	36	_	heuristic: attach to last	
+38	($	_	_	_	37	_	heuristic: attach to last	
+39	blank	_	_	_	38	_	heuristic: attach to last	
+40	space	_	_	_	39	_	heuristic: attach to last	
+41	$)	_[gur]	N	N	0	_	_	
+42	9(asz)	9(asz)[one]	NU	NU	0	nummod	_	
+43	4(barig)	4(bariga)[unit]	NU	N	42	nummod	_	
+44	3(ban2)	3(ban)[unit]	NU	N	42	nummod	_	
+45	7(disz)	7(disz)[one][-sze]	NU	NU	41	nummod	_	
+46	sila3	sila[unit]	N	N	47	nmod	_	
+47	gur	gur[unit]	N	N	45	appos	_	
+48	b.	_[of]	N	N	52	GEN	_	
+49	($	_	_	_	48	_	heuristic: attach to last	
+50	blank	_	_	_	49	_	heuristic: attach to last	
+51	space	_	_	_	50	_	heuristic: attach to last	
+52	$)	_[those]	_	_	41	GEN	_	
+53	sze	sze[barley]	N	N	54	ABS	_	
+54	nu-dab5-me	_[not.receiving]	V	NEG.NF.V.PT.ABS.COP-3-PL	52	acl	_	
+55	szu-{d}li9-si4	_[did.Sz-Lisi]	PN	PN	57	_	_	
+56	szu	szu[hand][-e]	N	N.L3-NH	57	_	_	
+57	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	32	acl	_	
+58	a-sza3	aszag[field]	N	N	59	nmod	_	
+59	SIG7-x-x-bu-gi4	_[SIG]	FN	FN	57	appos	_	
+60	mu	mu[year]	N	N	57	appos	_	
+61	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	60	appos	_	
+62	lugal	lugal[king]	N	N	61	appos	_	
+63	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	62	GEN	_	
+64	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	65	ABS	_	
+65	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	61	acl	_	
+66	szu-{d}li9-si4	_[Sz-Lisi]	PN	PN	6	appos	_	
+67	dumu	dumu[child]	N	N	66	appos	_	
+68	{d}lamma-kal	_[of]	PN	PN.DAT-H	67	GEN	_	
+69	ra2-gaba	ragaba[rider]	N	N.ABS	67	appos	_	
+70	x	_[_]	N	N	67	dep	_
+	
+

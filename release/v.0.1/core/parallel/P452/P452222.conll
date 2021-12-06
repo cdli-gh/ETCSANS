@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P452222.atf
+# tr.en: sheep th day from Abbasaga Taatal took month Akiti year Szaru was destroyed
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	8	ABS	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+5	ki	ki[place]	N	N	7	ABL	_	
+6	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	7	nmod	_	
+7	tah-sza-tal	_[Taatal]	PN	PN	2	ABL	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+9	iti	iti[month]	N	N	11	nmod	_	
+10	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	9	appos	_	
+11	mu	mu[year]	N	N	8	appos	_	
+12	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	11	appos	_	
+13	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

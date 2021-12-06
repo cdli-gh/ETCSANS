@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-duga the scribe son of Duga
+# test/P455521.atf
+1	lu2-du10-ga	Luduga[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	du11-ga	dug[irrigate]-a	V	PN	3	acl	_
+	
+

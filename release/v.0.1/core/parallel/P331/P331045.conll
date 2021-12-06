@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P331045.atf
+# tr.en: Basket-of-tablets dikes of Kisumun and Gidua
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e	eg[levee]	N	N	1	appos	_	
+3	ki-sumun	_[dikes.Kisumun]	N	N	1	appos	_	
+4	u3	u[and]	CNJ	CNJ	3	appos	_	
+5	gi-du3-a	_[Gidua]	PN	PN	3	appos	_
+	
+

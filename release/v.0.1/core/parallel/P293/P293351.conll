@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: carcases sheep on account of soldiers foreman Dukra from Turaya did Humu receive via Sz-Itar son of Ea-rabi in Nimzium month Festival-of-Szulgi year Szaru was destroyed
+# train/P293351.atf
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	ad6	_[carcases]	N	N	0	root	_	
+3	udu	udu[sheep]	N	N	2	appos	_	
+4	mu	mu[year]	N	N	5	_	_	
+5	aga3-us2-e-ne	_[on.account.soldiers]	N	N.PL	2	LOC	_	
+6	ugula	ugula[overseer][-ø]	N	N	5	appos	_	
+7	du-uk-ra	_[Dukra]	V	V	6	_	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	tu-ra-a	_[Turaya]	PN	PN.GEN	12	ABL	_	
+10	hu-um-s,u	_[did.Humu]	PN	PN	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+13	giri3	giri[foot]	N	N	14	via	_	
+14	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	12	via	_	
+15	dumu	dumu[child]	N	N	14	appos	_	
+16	e2-a-ra-bi2	_[Ea-rabi]	PN	PN	15	GEN	_	
+17	sza3	szag[heart]	N	N	18	LOC	_	
+18	nim-zi-um{ki}	_[Nimzium]	GN	GN	14	LOC	_	
+19	iti	iti[month]	N	N	20	nmod	_	
+20	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	14	appos	_	
+21	mu	mu[year]	N	N	20	appos	_	
+22	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	14	appos	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_
+	
+

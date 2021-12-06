@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ningal his mother Szulgi the god of his country king of Ur and king of four world quarters for his life he dedicated it to her
+1	{d}nin-gal	{d}nin-gal[1]	DN	DN	14	DAT	_
+2	ama-ni-ir	ama[mother]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN	14	ERG	_
+4	dingir	digir[deity]	N	N	3	appos	_
+5	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	an	_	_	_	8	_	_
+10	ub-da	an-ub-da[quarter]	N	N	8	appos	_
+11	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	10	nummod	_
+12	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	14	TERM	_
+13	a	a[water]	N	N.ABS	14	ABS	_
+14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

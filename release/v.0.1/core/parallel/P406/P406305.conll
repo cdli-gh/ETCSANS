@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P406305.atf
+# tr.en: gur barley royal fodder of sheep from Lukalla under seal of Lu-melam via Amar-uba year Szarum was destroyed Lu-melam scribe son of
+1	5(asz)	5(asz)[one]	NU	NU	2	nummod	_	
+2	sze	sze[barley]	N	N	0	root	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	lugal	lugal[king]	N	N	2	appos	_	
+5	sza3-gal	szaggal[food]	N	N	2	appos	_	
+6	udu	udu[sheep]	N	N	5	GEN	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+9	kiszib3	kiszib[seal]	N	N	2	LOC	_	
+10	lu2-me-lam2	_[Lu-melam]	PN	PN.GEN.ABL	9	GEN	_	
+11	giri3	giri[foot]	N	N	12	via	_	
+12	amar-szuba3	_[Amar-uba]	PN	PN	2	appos	_	
+13	mu	mu[year]	N	N	15	_	_	
+14	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	15	_	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	12	acl	_	
+16	lu2-me-lam2	_[Lu-melam]	PN	PN.GEN.ABL	2	appos	_	
+17	dub-sar	dubsar[scribe]	N	N	16	appos	_	
+18	dumu	dumu[child]	N	N	16	appos	_	
+19	x-x-x	_[1]	PN	PN	18	dep	_
+	
+

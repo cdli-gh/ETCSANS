@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Nigurum living in prison from month Lisi of year when lofty stela was erected to month Dumuzi of year when Madazabali was destroyed Overseer Lu-ku- Sealed document of Atu Atu scribe Son of Nigar-kidu The police chief
+# train/P273518.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	nig2-u2-rum	Nigurum[1][-e]	N	PN	0	root	_	
+3	en-nu-ga2	_[in.prison]	N	N.GEN	4	LOC	_	
+4	ti-la	til[complete]-a[-sze]	PN	NF.V.PT.TERM	2	acl	_	
+5	iti	iti[month]	N	N	2	ABL	_	
+6	{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	5	ABL	_	
+7	mu	mu[year]	N	N	5	GEN	_	
+8	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	5	acl	_	
+9	ba-du3-ta	ba-du[build][-ø]-ta	V	MID.V.3-SG-S.ABL	8	acl	_	
+10	iti	iti[month]	N	N	8	appos	_	
+11	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	10	LOC	_	
+12	mu	mu[year]	N	N	10	GEN	_	
+13	ma-da	mada[land][-ak][-ø]	N	N	17	_	_	
+14	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	15	_	_	
+15	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	17	acl	_	
+16	ugula	ugula[overseer][-ø]	N	N	17	_	_	
+17	lu2-ku3-...	_[Overseer.Lu-ku-]	PN	PN.GEN	10	appos	_	
+18	kiszib3	kiszib[seal]	N	N	19	_	_	
+19	a-tu	Atu[1][-ak]	PN	PN	17	appos	_	
+20	a-tu	Atu[1][-ak]	PN	PN	19	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	19	appos	_	
+22	dumu	dumu[child]	N	N	19	appos	_	
+23	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	19	appos	_	
+24	gal5-la2-gal	_[The.police.chief]	N	N	19	appos	_
+	
+

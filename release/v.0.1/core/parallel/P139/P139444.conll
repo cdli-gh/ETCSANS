@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets
+# test/P139444.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_
+	
+

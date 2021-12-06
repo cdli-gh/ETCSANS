@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborer days at reservoir of field Duimdua stationed foreman Alinisu booked out month Nigega year high-priestess of Eridu was installed
+# train/P315385.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	4	nummod	_	
+2	5(u)	5(u)[ten]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	4	acl	_	
+4	u4	ud[day]	N	N	0	root	_	
+5	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	kun-zi-da	kunzida[weir]	N	N	1	appos	_	
+7	a-sza3	aszag[field]	N	N	8	nmod	_	
+8	du6-im-du8-a-ka	_[Duimdua]	FN	FN	6	GEN	_	
+9	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	8	acl	_	
+10	ugula	ugula[overseer][-ø]	N	N	6	appos	_	
+11	a-li2-ni-su	_[Alinisu]	PN	PN	10	appos	_	
+12	zi-ga	zig[expend]-a	V	NF.V.PT	11	acl	_	
+13	iti	iti[month]	N	N	14	nmod	_	
+14	nig2-e-ga	_[Nigega]	PN	PN	11	appos	_	
+15	mu	mu[year]	N	N	14	appos	_	
+16	en	en[priest]	N	N	18	ABS	_	
+17	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	16	GEN	_	
+18	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	14	acl	_
+	
+

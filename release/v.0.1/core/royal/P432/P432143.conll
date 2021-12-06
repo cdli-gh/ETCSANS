@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+1	{d}inanna	{d}inana[1]	DN	DN	12	DAT	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	ur-{d}namma	ur-{d}namma[1]	RN	RN	12	ERG	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_
+10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_
+11	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	12	ABS	_
+12	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

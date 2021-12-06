@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P140124.atf						#new_text=P140124
+# train/P140124.atf new_text=P140124
+# tr.en: Basket-of-tablets clay in house and clay singles enquiries labor troops of bala are here year following Shu-Suen king of Ur Amorrite-Wall muriq-tidnim erected
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	im	im[clay][-ø]	N	N	11	ABS	_	
+9	erin2	erin[people]	N	N	2	appos	projectivity violation	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+12	mu	mu[year]	N	N	13	_	_	
+13	us2-sa	us[follow]-a	V	NF.V.PT	11	parataxis	_	
+14	{d}szu-{d}suen	Szusuen[1]	RN	RN	13	appos	_	
+15	lugal	lugal[king]	N	N	14	appos	_	
+16	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	15	GEN	_	
+17	bad3	bad[wall]	N	N	14	appos	_	
+18	mar-tu	Martu[1][-ø]	EN	EN.ABS	14	appos	_	
+19	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	20	ABS	_	
+20	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	14	acl	_
+	
+

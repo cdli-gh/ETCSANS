@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Puzur-Sin farmer of Tarm-Uram
+1	puzur4-{d}suen	puzur4-{d}suen[1]	PN	PN.ABS	0	root	_
+2	engar	engar[farmer]	N	N	0	_	_
+3	da-ra-am-uri5{ki}	ta2-ra-am-urim5{ki}[1]	PN	Taramurim.GEN.ABS	2	appos	_
+

@@ -1,0 +1,100 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102302.atf						#new_text=P102302
+# tr.en: gur barley of GANgu-fields gur prebend Ur-Ninki foreman Ur-Baba gur foreman Daaga gur gur emmer foreman Szara-kam gur GANgu-fields gur prebend of Habalu foreman Egal-esi field Nagabtum threshing floor Nagabtum gur foreman Szara-kam gur foreman Egal-esi field Abu gur foreman Egal-esi field Gold-Mound gur field Nagabtum gur field Abu gur field Gold-Mound foreman Daaga gur field Gold-Mound n gur field Abu Gold-Mound
+# train/P102302.atf new_text=P102302
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	n	_(_)[_]	NU	NU	0	_	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	gur	gur[unit]	N	N	3	appos	_	
+5	GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	3	GEN	_	
+6	9(asz)	9(asz)[one]	NU	NU	3	nummod	_	
+7	gur	gur[unit]	N	N	8	nmod	_	
+8	szuku	szukur[prebend_land]	N	N	3	appos	_	
+9	ur-{d}nin-ki	_[Ur-Ninki]	PN	PN	8	appos	_	
+10	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+11	ur-{d}ba-ba6	Urbaba[1]	PN	PN	10	appos	_	
+12	2(gesz2)	2(gesz)[sixty]	NU	NU	11	nummod	_	
+13	2(u)	2(u)[ten]	NU	NU	12	nummod	_	
+14	gur	gur[unit]	N	N	11	appos	_	
+15	ugula	ugula[overseer][-ø]	N	N	11	appos	_	
+16	da-a-ga	_[Daaga]	PN	PN	20	nummod	projectivity violation	
+17	2(gesz2)	2(gesz)[sixty]	NU	NU	20	nummod	heuristic: NU premodifying; projectivity violation	
+18	2(u)	2(u)[ten]	NU	NU	20	nummod	projectivity violation	
+19	5(asz)	5(asz)[one]	NU	NU	22	nummod	projectivity violation	
+20	gur	gur[unit]	N	N	11	appos	_	
+21	1(u)	1(u)[ten]	NU	NU	29	nummod	projectivity violation	
+22	ziz2	ziz[emmer]	N	N	20	appos	_	
+23	gur	gur[unit]	N	N	22	appos	_	
+24	ugula	ugula[overseer][-ø]	N	N	23	_	heuristic: attach to last	
+25	{d}szara2-kam	Szarakam[1]	PN	PN	24	_	heuristic: attach to last	
+26	1(gesz2)	1(gesz)[sixty]	NU	NU	11	nummod	_	
+27	4(u)	4(u)[ten]	NU	NU	32	nummod	projectivity violation	
+28	gur	gur[unit]	N	N	27	_	heuristic: attach to last	
+29	GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	11	appos	_	
+30	1(disz)	1(disz)[one]	NU	NU	32	nummod	heuristic: NU premodifying; projectivity violation	
+31	8(asz)	8(asz)[one]	NU	NU	34	nummod	projectivity violation	
+32	gur	gur[unit]	N	N	11	appos	_	
+33	szuku	szukur[prebend_land]	N	N	32	appos	_	
+34	ha-ba-lu5	_[Habalu]	PN	PN	33	GEN	_	
+35	ugula	ugula[overseer][-ø]	N	N	34	appos	_	
+36	e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	11	appos	_	
+37	a-sza3	aszag[field]	N	N	38	nmod	_	
+38	na-ga-ab-tum	nakabtum[stockyard][-'a]	FN	N.L1	36	appos	_	
+39	ki-su7	kisur[threshing_floor]	N	N	40	acl	_	
+40	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	36	appos	_	
+41	4(u)	4(u)[ten]	NU	NU	44	nummod	projectivity violation	
+42	gur	gur[unit]	N	N	36	appos	_	
+43	ugula	ugula[overseer][-ø]	N	N	42	appos	_	
+44	{d}szara2-kam	Szarakam[1]	PN	PN	36	appos	_	
+45	4(u)	4(u)[ten]	NU	NU	48	nummod	projectivity violation	
+46	gur	gur[unit]	N	N	44	appos	_	
+47	ugula	ugula[overseer][-ø]	N	N	44	appos	_	
+48	e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	44	appos	_	
+49	a-sza3	aszag[field]	N	N	50	nmod	_	
+50	a-bu3	_[Abu]	FN	FN.GEN.TERM	48	appos	_	
+51	2(gesz2)	2(gesz)[sixty]	NU	NU	55	nummod	projectivity violation	
+52	2(u)	2(u)[ten]	NU	NU	51	nummod	_	
+53	gur	gur[unit]	N	N	48	appos	_	
+54	ugula	ugula[overseer][-ø]	N	N	53	appos	_	
+55	e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	48	appos	_	
+56	a-sza3	aszag[field]	N	N	57	nmod	_	
+57	du6-ku3-sig17	_[Gold-Mound]	N	N	55	appos	_	
+58	1(gesz2)	1(gesz)[sixty]	NU	NU	55	nummod	_	
+59	2(u)	2(u)[ten]	NU	NU	65	nummod	projectivity violation	
+60	5(asz)	5(asz)[one]	NU	NU	59	nummod	_	
+61	gur	gur[unit]	N	N	55	appos	_	
+62	a-sza3	aszag[field]	N	N	63	nmod	_	
+63	na-ga-ab-tum	nakabtum[stockyard][-'a]	FN	N.L1	61	appos	_	
+64	3(u)	3(u)[ten]	NU	NU	55	nummod	_	
+65	gur	gur[unit]	N	N	55	appos	_	
+66	a-sza3	aszag[field]	N	N	67	nmod	_	
+67	a-bu3	_[Abu]	FN	FN.GEN.TERM	65	appos	_	
+68	($	_	_	_	55	_	_	
+69	blank	_	_	_	68	_	heuristic: attach to last	
+70	space	_	_	_	69	_	heuristic: attach to last	
+71	$)	_	_	_	70	_	heuristic: attach to last	
+72	gur	gur[unit]	N	N	55	appos	_	
+73	a-sza3	aszag[field]	N	N	74	nmod	_	
+74	du6-ku3-sig17	_[Gold-Mound]	N	N	72	appos	_	
+75	ugula	ugula[overseer][-ø]	N	N	55	appos	_	
+76	da-a-ga	_[Daaga]	PN	PN	75	appos	_	
+77	n	_(_)[_]	NU	NU	79	_	heuristic: NU premodifying	
+78	1(u)	1(u)[ten]	NU	NU	79	nummod	heuristic: NU premodifying	
+79	gur	gur[unit]	N	N	76	appos	_	
+80	a-sza3	aszag[field]	N	N	81	nmod	_	
+81	du6-ku3-sig17	_[Gold-Mound]	N	N	79	appos	_	
+82	n	_(_)[_]	NU	NU	79	nummod	_	
+83	gur	gur[unit]	N	N	79	appos	_	
+84	a-sza3	aszag[field]	N	N	85	nmod	_	
+85	a-bu3	_[Abu]	FN	FN.GEN.TERM	83	appos	_	
+86	...-ba	_	PN	PN.ERG	48	root	heuristic: after nominal head	
+87	x	_[_]	N	N	48	dep	heuristic: after nominal head	
+88	...	_[_]	PN	N	48	dep	heuristic: after nominal head	
+89	...	_[_]	PN	N	48	dep	heuristic: after nominal head	
+90	sahar	sahar[earth][-ø]	N	N.GEN	48	_	heuristic: after nominal head	
+91	um	_	PN	PN	48	appos	_	
+92	...	_[_]	PN	N	0	dep	detached for projectivity	
+93	...-x-ka	_	PN	PN	0	_	_	
+94	du6-ku3-sig17	_[Gold-Mound]	N	N	0	_	_
+	
+

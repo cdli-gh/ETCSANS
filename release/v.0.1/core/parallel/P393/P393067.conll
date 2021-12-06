@@ -1,0 +1,72 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P393067.atf
+# tr.en: n garment guz-za good quality garment double-threaded good quality garment outer-cover good quality units of outer-cover garments gu-e garments gu-e regular quality less garments guz-zaf regular quality one garment soft garments of garments native aktum garments Elamite garments bar-si gu-e linens good quality linens a-ga-du linens head from galla-gal Dingira received month Festival of first-fruits
+1	n	_(_)[_]	NU	NU	3	nummod	_	
+2	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+3	tug2	tug[textile]	N	N	0	root	_	
+4	guz-za	guz[tufted]-a	V	NF.V.PT	3	acl	_	
+5	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+6	1(disz)	1(disz)[one]	NU	NU	7	nummod	_	
+7	tug2	tug[textile]	N	N	3	appos	_	
+8	tab-ba	tab[grasp]-a	V	NF.V.PT	7	acl	_	
+9	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	_	
+10	1(disz)	1(disz)[one]	NU	NU	7	nummod	_	
+11	tug2	tug[textile]	N	N	7	appos	_	
+12	bar-dul5	_[outer-cover.good]	N	N	7	appos	_	
+13	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	_	
+14	3(disz)	3(disz)[one]	NU	NU	17	nummod	projectivity violation	
+15	tug2	tug[textile]	N	N	7	appos	projectivity violation	
+16	bar-dul5	_[outer-cover]	N	N	14	acl	_	
+17	gu2-tar	_[units]	PN	PN.GEN	7	appos	_	
+18	5(disz)	5(disz)[one]	NU	NU	19	nummod	_	
+19	tug2	tug[textile]	N	N	7	appos	projectivity violation	
+20	gu2-e3	_[gu-e]	N	N	18	acl	_	
+21	...	_[_]	PN	N	20	dep	heuristic: attach to last	
+22	5(disz)	5(disz)[one]	NU	NU	23	nummod	heuristic: NU premodifying	
+23	tug2	tug[textile]	N	N	18	appos	_	
+24	gu2-e3	_[gu-e.quality]	N	N	18	appos	_	
+25	du	gin[quality_designation][-ø]	V	NF.V.ABS	18	acl	_	
+26	2(u)	2(u)[ten]	NU	NU	18	nummod	_	
+27	la2	la[hang][-ø]	V	NF.V.ABS	29	acl	_	
+28	3(disz@t)	3(disz)[one]	NU	NU	27	nummod	_	
+29	tug2	tug[textile]	N	N	18	appos	_	
+30	guz-za	guz[tufted]-a	V	NF.V.PT	18	acl	_	
+31	du	gin[quality_designation][-ø]	V	NF.V.ABS	30	_	heuristic: attach to last	
+32	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+33	tug2	tug[textile]	N	N	36	nummod	projectivity violation	
+34	ha-bu-um	_[one.garment.soft]	PN	PN	18	appos	_	
+35	4(disz)	4(disz)[one]	NU	NU	36	nummod	_	
+36	tug2	tug[textile]	N	N	18	appos	_	
+37	x	_[_]	N	N	36	dep	heuristic: attach to last	
+38	x	_[_]	N	N	37	dep	heuristic: attach to last	
+39	gal	gal[big][-ø]	V	NF.V.ABS	41	acl	projectivity violation	
+40	6(disz)	6(disz)[one][-sze]	NU	NU	18	nummod	_	
+41	tug2	tug[textile]	N	N	18	appos	_	
+42	aktum	_[native.aktum]	N	N	18	appos	_	
+43	gi	gi[reed][-ø]	N	N	45	nummod	projectivity violation	
+44	7(disz)	7(disz)[one][-sze]	NU	NU	18	nummod	_	
+45	tug2	tug[textile]	N	N	18	appos	_	
+46	elam	Elam[1][-ak]	EN	GN.GEN	18	appos	_	
+47	5(disz)	5(disz)[one]	NU	NU	18	nummod	_	
+48	tug2	tug[textile]	N	N	52	nummod	projectivity violation	
+49	bar-si	_[garments.bar-si]	N	N	18	appos	_	
+50	gu2-e3	_[gu-e]	N	N	18	appos	_	
+51	6(disz)	6(disz)[one][-sze]	NU	NU	18	nummod	_	
+52	gada	gada[flax]	N	N	18	appos	_	
+53	gal	gal[big][-ø]	V	NF.V.ABS	54	acl	_	
+54	saga	saga[good][-ø]	V	NF.V.ABS	18	acl	_	
+55	8(disz)	8(disz)[one]	NU	NU	18	nummod	_	
+56	gada	gada[flax]	N	N	18	appos	_	
+57	sza3-ga-du3	_[a-ga-du]	N	N	18	appos	_	
+58	3(disz)	3(disz)[one]	NU	NU	18	nummod	_	
+59	gada	gada[flax]	N	N	18	appos	_	
+60	sag	sag[head]	N	N	18	appos	_	
+61	ki	ki[place]	N	N	63	ABL	_	
+62	gal5-la2-gal-ta	_[galla-gal]	PN	PN	63	acl	_	
+63	dingir-ra-ke4	_[Dingira]	PN	PN.GEN	18	ABL	_	
+64	szu	szu[hand][-e]	N	N.L3-NH	3	appos	projectivity violation	
+65	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	63	acl	_	
+66	iti	iti[month]	N	N	67	nmod	_	
+67	ezem-nesag	_[Festival.of.first-fruits]	PN	PN	3	appos	_
+	
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Suen military governor of Unug and Der Maum is your servant	
+1	ur-{d}suen	ur-{d}suen[1]	PN	PN	0	root	_
+2	szagina	szagina[general]	N	N	1	appos	_
+3	unu{ki}-ga	unug{ki}[1]	SN	SN.GEN	2	GEN	_
+4	u3	u3[and]	CNJ	CNJ	3	appos	_
+5	|BAD3.AN|{ki}	|BAD₃.AN.KI|[1]	SN	SN.GEN.ABS	3	appos	_
+6	ma-szum	ma-szum[1]	PN	PN.ABS	7	ABS	_
+7	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

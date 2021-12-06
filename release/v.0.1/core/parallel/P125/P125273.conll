@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P125273.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	mu-kux(DU)	mukur[delivery][-ø]	N	N	1	appos	_	
+3	sza3-bi	szag[heart]-bi[-ta]	N	N.3-SG-NH-POSS.ABL	1	_	heuristic: after nominal head	
+4	su-ga	sug[repay]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+5	{d}szara2	Szara[1][-ak]	DN	DN	1	_	heuristic: after nominal head	
+6	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	1	_	heuristic: after nominal head	
+7	giri3	giri[foot]	N	N	1	_	heuristic: after nominal head	
+8	lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	1	_	heuristic: after nominal head	
+9	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+10	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+11	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	10	nummod	_	
+12	iti	iti[month]	N	N	18	nmod	projectivity violation	
+13	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	12	_	heuristic: attach to last	
+14	iti	iti[month]	N	N	13	_	heuristic: attach to last	
+15	pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	18	nmod	projectivity violation	
+16	mu	mu[year]	N	N	1	appos	_	
+17	en	en[priest]	N	N	16	_	heuristic: attach to last	
+18	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	1	appos	_	
+19	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

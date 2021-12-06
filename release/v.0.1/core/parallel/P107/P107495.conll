@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P107495.atf
+# tr.en: Basket-of-tablets accounts of Abbamu via Atu
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	2	GEN	_	
+4	giri3	giri[foot]	N	N	5	via	_	
+5	a-tu	Atu[1][-ak]	PN	PN	2	via	_
+	
+

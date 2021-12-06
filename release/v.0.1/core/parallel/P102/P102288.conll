@@ -1,0 +1,126 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102288.atf
+# tr.en: sila of beer sila of bread shekels of onions shekels of oil shekels of alkali-plant Zuludua sila of beer sila of bread shekels of onions shekels of oil shekels of alkali-plant Baza sila of beer sila of bread shekels of onions shekels of oil shekels of alkali-plant Lugal-kuzu ban of beer ban sila of bread shekels of onions shekels of oil shekels of alkali-plant Szu-Itar sila of beer sila of bread shekels of onions shekels of oil shekels of alkali-plant Ma sila of beer sila of bread shekels of onions shekels of oil shekels of alkali-plant Ubarum total ban sila of beer ban sila of bread sila of onions total shekels of oil shekels of alkali-plant month Harvest the th day year unuri was destroyed
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	sila3	sila[unit]	N	N	0	root	_	
+3	kasz	kasz[beer]	N	N	2	GEN	_	
+4	5(disz)	5(disz)[one]	NU	NU	11	nummod	projectivity violation	
+5	sila3	sila[unit]	N	N	2	appos	_	
+6	ninda	ninda[bread]	N	N	5	GEN	_	
+7	5(disz)	5(disz)[one]	NU	NU	8	nummod	heuristic: NU premodifying	
+8	gin2	gig[unit]	N	N	2	appos	_	
+9	szum2	szum[garlic]	N	N	8	GEN	_	
+10	3(disz)	3(disz)[one]	NU	NU	15	nummod	projectivity violation	
+11	gin2	gig[unit]	N	N	2	appos	_	
+12	i3	i[oil]	N	N	11	GEN	_	
+13	2(disz)	2(disz)[one]	NU	NU	14	nummod	heuristic: NU premodifying	
+14	gin2	gig[unit]	N	N	2	appos	_	
+15	naga	naga[potash]	N	N	14	appos	_	
+16	zu-lu2-du5-a	_[Zuludua]	PN	PN	15	appos	_	
+17	5(disz)	5(disz)[one]	NU	NU	18	nummod	_	
+18	sila3	sila[unit]	N	N	15	appos	_	
+19	kasz	kasz[beer]	N	N	18	GEN	_	
+20	5(disz)	5(disz)[one]	NU	NU	26	nummod	projectivity violation	
+21	sila3	sila[unit]	N	N	18	appos	_	
+22	ninda	ninda[bread]	N	N	21	GEN	_	
+23	5(disz)	5(disz)[one]	NU	NU	24	nummod	heuristic: NU premodifying	
+24	gin2	gig[unit]	N	N	18	appos	_	
+25	3(disz)	3(disz)[one]	NU	NU	32	nummod	projectivity violation	
+26	gin2	gig[unit]	N	N	18	appos	_	
+27	i3	i[oil]	N	N	26	GEN	_	
+28	2(disz)	2(disz)[one]	NU	NU	29	nummod	heuristic: NU premodifying	
+29	gin2	gig[unit]	N	N	18	appos	_	
+30	naga	naga[potash]	N	N	32	acl	_	
+31	ba-za	_[Baza]	PN	PN	32	nmod	_	
+32	lu2	lu[person]	N	N	29	GEN	_	
+33	sag	sag[head]	N	N	15	appos	_	
+34	5(disz)	5(disz)[one]	NU	NU	35	nummod	_	
+35	sila3	sila[unit]	N	N	15	appos	_	
+36	kasz	kasz[beer]	N	N	35	GEN	_	
+37	5(disz)	5(disz)[one]	NU	NU	43	nummod	projectivity violation	
+38	sila3	sila[unit]	N	N	35	appos	_	
+39	ninda	ninda[bread]	N	N	38	GEN	_	
+40	5(disz)	5(disz)[one]	NU	NU	41	nummod	heuristic: NU premodifying	
+41	gin2	gig[unit]	N	N	35	appos	_	
+42	3(disz)	3(disz)[one]	NU	NU	47	nummod	projectivity violation	
+43	gin2	gig[unit]	N	N	35	appos	_	
+44	i3	i[oil]	N	N	43	GEN	_	
+45	2(disz)	2(disz)[one]	NU	NU	46	nummod	heuristic: NU premodifying	
+46	gin2	gig[unit]	N	N	35	appos	_	
+47	naga	naga[potash]	N	N	46	appos	_	
+48	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	47	appos	_	
+49	1(ban2)	1(ban)[unit]	NU	N	47	nummod	_	
+50	kasz	kasz[beer]	N	N	49	GEN	_	
+51	1(ban2)	1(ban)[unit]	NU	N	49	nummod	_	
+52	ninda	ninda[bread]	N	N	51	GEN	_	
+53	5(disz)	5(disz)[one]	NU	NU	49	nummod	_	
+54	gin2	gig[unit]	N	N	49	appos	_	
+55	szum2	szum[garlic]	N	N	54	GEN	_	
+56	3(disz)	3(disz)[one]	NU	NU	61	nummod	projectivity violation	
+57	gin2	gig[unit]	N	N	49	appos	_	
+58	i3	i[oil]	N	N	57	GEN	_	
+59	2(disz)	2(disz)[one]	NU	NU	60	nummod	heuristic: NU premodifying	
+60	gin2	gig[unit]	N	N	49	appos	_	
+61	naga	naga[potash]	N	N	121	_	_	
+62	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	61	appos	_	
+63	5(disz)	5(disz)[one]	NU	NU	64	nummod	_	
+64	sila3	sila[unit]	N	N	61	appos	_	
+65	kasz	kasz[beer]	N	N	64	GEN	_	
+66	5(disz)	5(disz)[one]	NU	NU	72	nummod	projectivity violation	
+67	sila3	sila[unit]	N	N	64	appos	_	
+68	ninda	ninda[bread]	N	N	67	GEN	_	
+69	5(disz)	5(disz)[one]	NU	NU	70	nummod	heuristic: NU premodifying	
+70	gin2	gig[unit]	N	N	64	appos	_	
+71	3(disz)	3(disz)[one]	NU	NU	76	nummod	projectivity violation	
+72	gin2	gig[unit]	N	N	64	appos	_	
+73	i3	i[oil]	N	N	72	GEN	_	
+74	2(disz)	2(disz)[one]	NU	NU	76	nummod	projectivity violation	
+75	gin2	gig[unit]	N	N	64	appos	_	
+76	naga	naga[potash]	N	N	105	acl	_	
+77	ma-asz2	_[Ma]	PN	PN.GEN.ABS	79	nummod	_	
+78	3(disz)	3(disz)[one]	NU	NU	79	nummod	_	
+79	sila3	sila[unit]	N	N	76	appos	_	
+80	kasz	kasz[beer]	N	N	79	GEN	_	
+81	2(disz)	2(disz)[one]	NU	NU	87	nummod	projectivity violation	
+82	sila3	sila[unit]	N	N	79	appos	_	
+83	ninda	ninda[bread]	N	N	82	GEN	_	
+84	5(disz)	5(disz)[one]	NU	NU	85	nummod	heuristic: NU premodifying	
+85	gin2	gig[unit]	N	N	79	appos	_	
+86	3(disz)	3(disz)[one]	NU	NU	91	nummod	projectivity violation	
+87	gin2	gig[unit]	N	N	79	appos	_	
+88	i3	i[oil]	N	N	87	GEN	_	
+89	2(disz)	2(disz)[one]	NU	NU	90	nummod	heuristic: NU premodifying	
+90	gin2	gig[unit]	N	N	79	appos	_	
+91	naga	naga[potash]	N	N	90	GEN	_	
+92	u-bar-um	_[Ubarum]	PN	PN.GEN.ABL	91	appos	_	
+93	szunigin	szunigin[total]	N	N	76	appos	_	
+94	3(ban2)	3(ban)[unit]	NU	N	76	nummod	projectivity violation	
+95	3(disz)	3(disz)[one]	NU	NU	93	nummod	_	
+96	sila3	sila[unit]	N	N	95	appos	_	
+97	kasz	kasz[beer]	N	N	96	GEN	_	
+98	3(ban2)	3(ban)[unit]	NU	N	99	nummod	heuristic: NU premodifying	
+99	2(disz)	2(disz)[one]	NU	NU	95	nummod	_	
+100	sila3	sila[unit]	N	N	99	appos	_	
+101	ninda	ninda[bread]	N	N	100	GEN	_	
+102	1/2(disz)	1/2(disz)[one]	NU	NU	103	nummod	heuristic: NU premodifying	
+103	sila3	sila[unit]	N	N	95	appos	_	
+104	szum2	szum[garlic]	N	N	103	GEN	_	
+105	szunigin	szunigin[total]	N	N	75	GEN	_	
+106	1(u)	1(u)[ten]	NU	NU	61	nummod	_	
+107	8(disz)	8(disz)[one]	NU	NU	106	nummod	_	
+108	gin2	gig[unit]	N	N	61	appos	_	
+109	i3	i[oil]	N	N	108	GEN	_	
+110	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+111	2(disz)	2(disz)[one]	NU	NU	110	nummod	_	
+112	gin2	gig[unit]	N	N	108	appos	_	
+113	naga	naga[potash]	N	N	112	GEN	_	
+114	iti	iti[month]	N	N	115	nmod	_	
+115	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	61	appos	_	
+116	u4	ud[day]	N	N	115	appos	_	
+117	2(u)	2(u)[ten]	NU	NU	61	nummod	_	
+118	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	117	nummod	_	
+119	mu	mu[year]	N	N	121	_	_	
+120	hu-hu!-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	121	ABS	_	
+121	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	60	acl	_
+	
+

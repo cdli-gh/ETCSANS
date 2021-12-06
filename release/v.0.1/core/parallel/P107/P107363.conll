@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107363.atf
+# tr.en: Basket-of-tablets credits royal and debits of barley oxen sheep oill wool silver copper and extras debts silver inlayed year are here year following Kima was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	20	ABS	_	
+2	zi-ga	zig[expend]-a	V	NF.V.PT	3	acl	_	
+3	lugal	lugal[king]	N	N	1	appos	_	
+4	u3	u[and]	CNJ	CNJ	3	appos	_	
+5	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	3	appos	_	
+6	sze	sze[barley]	N	N	3	GEN	_	
+7	gu4	gud[ox]	N	N	6	appos	_	
+8	udu	udu[sheep]	N	N	6	appos	_	
+9	i3	i[oil]	N	N	6	appos	_	
+10	siki	siki[wool][-'a]	N	N	6	appos	_	
+11	ku3	kug[silver]	N	N	6	appos	_	
+12	uruda	urud[copper][-ak]	N	N	6	appos	_	
+13	u3	u[and]	CNJ	CNJ	6	appos	_	
+14	diri	diri[intercalary_month]	N	N	6	appos	_	
+15	la2-ia3	la'u[arrears]	N	N	6	appos	_	
+16	ku3	kug[silver]	N	N	6	ABS	_	
+17	ga2-ra	_[inlayed.extras]	V	V	6	acl	_	
+18	mu	mu[year]	N	N	6	appos	_	
+19	1(disz)-a-kam	_	NU	NU.GEN.COP-3-SG	1	nummod	_	
+20	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	0	root	_	
+21	mu	mu[year]	N	N	22	_	_	
+22	us2-sa	us[follow]-a	V	NF.V.PT	24	acl	_	
+23	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	24	_	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	20	parataxis	_
+	
+

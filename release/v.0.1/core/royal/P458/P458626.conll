@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	root	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	N	N	8	mwe	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	8	nummod	_
+10	lugal	lugal[king]	N	N	1	appos	_
+11	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	10	GEN	_
+12	{d}nanna-kam	{d}nanna-kam[1]	PN	PN	14	ABS	_
+13	dub-sar	dub-sar[scribe]	N	N.ABS	12	appos	_
+14	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	acl	_
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-girizal governor of Laga Lu-urub scribe child of Ur-Ninbarag is your servant
+1	lu2-giri17-zal	lu2-giri17-zal[1]	PN	PN	0	_	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	lagasz{ki}	lagasz{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	lu2-uru11{ki}	lu2-urub{ki}[1]	PN	PN	8	ABS	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	dumu	dumu[child]	N	N	4	appos	_
+7	ur-{d}nin-bara2	ur-{d}nin-barag[1]	PN	PN.GEN.ABS	6	GEN	_
+8	ARAD2-zu	ur-{d}nin-barag[1]+arad2[slave]	N	N.2-SG-POSS.ABS	2	parataxis	_
+

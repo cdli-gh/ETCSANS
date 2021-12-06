@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P498296.atf
+# tr.en: To Inanna his mistress for life of Szulgi the mighty man the king of Ur did azi overseer his servant dedicate
+1	{d}inanna	Inanna[1][-ak]	DN	DN	13	LOC	_	
+2	nin-a-ni-ir	_[his.mistress]	PN	N.3-SG-H-POSS.DAT-H	13	ABS	_	
+3	nam-ti	namtil[life]	PN	N	13	DAT	_	
+4	{d}szul-gi	Szulgir[1]	RN	RN	3	GEN	_	
+5	nita	nita[male]	N	N	6	nmod	_	
+6	kal-ga	kalag[strong]-a	V	NF.V.SUB	13	ABS	_	
+7	lugal	lugal[king]	N	N	6	appos	_	
+8	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	7	GEN	_	
+9	ha-zi	_[did.azi]	N	PN	13	_	_	
+10	nu-banda3	nubanda[overseer][-ø]	N	N	13	nmod	_	
+11	ARAD2-da-ne2	_[his.servant]	PN	N.3-SG-H-POSS.ERG	13	nmod	_	
+12	a	a[water][-ø]	N	N.ABS	13	_	_	
+13	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+	
+

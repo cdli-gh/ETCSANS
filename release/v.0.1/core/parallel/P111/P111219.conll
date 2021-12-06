@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111219.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	di	did[lawsuit]	N	N	1	_	heuristic: after nominal head	
+3	til-la	til[complete]-a	V	NF.V.PT	1	_	_	
+4	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	heuristic: after nominal head	
+5	ARAD2-{d}nanna	Aradnanna[1]	PN	PN	1	_	heuristic: after nominal head	
+6	sukkal-mah	_[xxx]	PN	N	1	_	heuristic: after nominal head	
+7	ensi2	ensik[ruler]	N	N	1	_	heuristic: after nominal head	
+8	giri3	giri[foot]	N	N	1	_	heuristic: after nominal head	
+9	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	1	_	heuristic: after nominal head	
+10	lu2-eb-gal	Lu'ebgal[1]	PN	PN	1	_	heuristic: after nominal head	
+11	ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	1	_	heuristic: after nominal head	
+12	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+13	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	25	nmod	projectivity violation	
+14	mu	mu[year]	N	N	25	nmod	projectivity violation	
+15	bad3	bad[wall]	N	N	14	_	heuristic: attach to last	
+16	mar-tu	Martu[1][-ø]	EN	EN.ABS	15	_	heuristic: attach to last	
+17	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	16	_	heuristic: attach to last	
+18	u3	u[and]	CNJ	CNJ	17	_	heuristic: attach to last	
+19	mu	mu[year]	N	N	1	appos	_	
+20	us2-sa	us[follow]-a	V	NF.V.PT	19	_	heuristic: attach to last	
+21	{d}szu-{d}suen	Szusuen[1]	RN	RN	20	_	heuristic: attach to last	
+22	lugal-e	lugal[king]-e	N	N.ERG	21	_	heuristic: attach to last	
+23	bad3	bad[wall]	N	N	22	_	heuristic: attach to last	
+24	mar-tu	Martu[1][-ø]	EN	EN.ABS	23	_	heuristic: attach to last	
+25	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

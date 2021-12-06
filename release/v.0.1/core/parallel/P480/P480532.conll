@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: verified mina Lu-Ninubur
+# train/P480532.atf
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	ma-na	mana[unit]	N	N	4	nmod	_	
+3	gi-na	gina[dues]	PN	N	4	acl	_	
+4	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	0	root	_
+	
+

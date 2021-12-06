@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Enlil the king of all lands his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Ekur his beloved temple he built for him	
+1	{d}en-lil2	{d}en-lil2[1]	DN	DN	16	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kur-kur-ra	kur-kur[mountain]	N	N-RDP.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	e2-kur	e2-kur[1]	TN	TN	16	ABS	_
+14	e2	e2[house]	N	N	15	ABS	_
+15	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	13	amod	_
+16	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

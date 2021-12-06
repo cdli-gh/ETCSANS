@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+1	da-da	da-da[3]	PN	PN	11	ERG	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	szuruppak{ki}	szuruppak{ki}[1]	SN	SN.GEN	2	GEN	_
+4	ha-la-ad-da	ha-la-ad-da[1]	PN	PN	1	appos	_
+5	ensi2	ensi2[ruler]	N	N	1	appos	_
+6	szuruppak{ki}	szuruppak{ki}[1]	SN	SN.GEN	5	GEN	_
+7	dumu-ni	dumu[child]	N	N.3-SG-H-POSS.ERG	1	appos	_
+8	ad-us2	ad-us2[plank]	N	N.ABS	11	ABS	_
+9	abul	abul[gate]	N	N	11	LOC	_
+10	{d}sud3-da-ke4	{d}sud3[1]	DN	DN.GEN.L3-NH	9	GEN	_
+11	bi2-in-us2	us2[follow]	V	3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_
+

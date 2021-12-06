@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: oxen cow rams ewes lamb nanny goats ugid for Kitchen th day from Abbasaga booked out month Grand Festival year King Amar-Sin Urbilum destroyed
+# train/P416420.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	7	nummod	projectivity violation	
+4	ab2	ab[cow][-ø]	N	N	2	appos	_	
+5	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+6	5(disz)	5(disz)[one]	NU	NU	12	nummod	projectivity violation	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+9	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+10	u8	u[ewe]	N	N	2	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+12	sila4	sila[lamb]	N	N	2	appos	_	
+13	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+14	ud5	uzud[goat]	N	N	2	appos	_	
+15	szu-gid2	szugid[animal_designation][-ø]	N	N	2	appos	_	
+16	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	17	TERM	_	
+17	u4	ud[day]	N	N	15	TERM	_	
+18	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+19	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	18	nummod	_	
+20	ki	ki[place]	N	N	21	ABL	_	
+21	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+22	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	21	acl	_	
+23	iti	iti[month]	N	N	24	nmod	_	
+24	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	2	appos	_	
+25	mu	mu[year]	N	N	24	appos	_	
+26	{d}amar-{d}suen	Amarsuen[1]	RN	RN	28	nmod	_	
+27	lugal-e	lugal[king]-e	N	N.ERG	28	nmod	_	
+28	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	29	ABS	_	
+29	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	24	acl	_	
+30	4(u)	4(u)[ten]	NU	NU	0	nummod	_	
+31	3(disz)	3(disz)[one]	NU	NU	30	nummod	_
+	
+

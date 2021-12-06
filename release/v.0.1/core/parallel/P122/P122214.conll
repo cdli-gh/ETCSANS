@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P122214.atf
+# tr.en: Guugu slave of Ur-Nungal fled he was captured and presented By royal name When a nd time I flee may I be destroyed he said Lugal-azida Aba-Enlil-gin Iddi are judges son of Nippur year Amar Suen is king
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	gu-u2-gu	_[Guugu]	PN	PN	0	root	_	
+3	ARAD2	arad[slave]	N	N	2	appos	_	
+4	ur-{d}nun-gal-ka	_[Ur-Nungal]	PN	PN.GEN.GEN	3	GEN	_	
+5	ba-an-da-zah3	_[fled]	V	V	0	root	_	
+6	mu-dab5	_[he.was.captured]	V	V	5	parataxis	_	
+7	igi-ni	_[and]	N	N	6	appos	_	
+8	in-gar	_[presented]	V	FIN.3-SG-H.COM.V.3-SG-S	6	appos	_	
+9	mu	mu[year]	N	N	6	_	heuristic: attach to head	
+10	lugal	lugal[king]	N	N	12	acl	_	
+11	u4	ud[day]	N	N	10	_	heuristic: after nominal	
+12	a-ra2	ara[times]	N	N	16	_	_	
+13	2(disz)-ka	_	NU	NU.GEN.COP-3-SG	14	nummod	heuristic: NU premodifying	
+14	i3-zah3-de3-na	_[I.flee]	PN	PN.GEN	12	acl	_	
+15	ga-hul	_[may.I.be]	N	N	12	_	_	
+16	bi2-in-du11	b-i-n-dug[speak][-ø]	PN	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	6	parataxis	_	
+17	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+18	lugal-a2-zi-da	Lugalazida[1]	PN	PN	23	ABS	_	
+19	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+20	a-ba-{d}en-lil2-gin7	_[Aba-Enlil-gin]	PN	PN	18	appos	_	
+21	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+22	i-di3	_[Iddi]	PN	PN	18	appos	_	
+23	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	16	appos	_	
+24	dumu	dumu[child]	N	N	23	appos	_	
+25	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	24	GEN	_	
+26	mu	mu[year]	N	N	28	_	_	
+27	{d}amar-{d}suen	Amarsuen[1]	RN	RN	28	ABS	_	
+28	lugal	lugal[king]	N	N	23	parataxis	_
+	
+

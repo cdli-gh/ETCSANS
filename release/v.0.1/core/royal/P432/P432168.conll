@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad the Mountain House his beloved house he built	
+1	szul-gi	szul-gi[1]	RN	RN	13	ERG	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_
+8	ki-uri-ke4	ki-uri[1]+e2-hur-sag[1]	GN	GN.GEN.ERG	7	appos	_
+9	e2	e2[house]	N	N	12	ABS	_
+10	hur-sag	_[Mountain.House]	PN	PN	1	appos	_
+11	e2	ki[place]	N	N.ABS	9	appos	_
+12	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	13	amod	_
+13	mu-du3	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborers at shekels each the silver shekels they are plant oil workers of temple household manager of Dumuzi instead of Namu will to abazizi be repaid year high-priestess of Nanna through extispicy was named
+# train/P131532.atf
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	0	root	_	
+3	3(disz)	3(disz)[one]	NU	NU	4	nummod	_	
+4	gin2-ta	gig[unit]-ta	N	N.ABL	2	LOC	_	
+5	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	2	appos	_	
+6	9(disz)	9(disz)[one]	NU	NU	7	nummod	_	
+7	gin2	gig[unit]	N	N	2	appos	_	
+8	lu2	lu[person]	N	N	9	_	_	
+9	gesz-i3	geszi[sesame]	N	N	7	appos	_	
+10	sanga	sagga[temple_administrator]	N	N	9	GEN	_	
+11	{d}dumu-zi-me	_[Dumuzi]	DN	DN	10	GEN	_	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	na-mu-sze3	_[instead.Namu]	PN	PN.GEN.TERM	9	appos	_	
+14	ha-ba-zi-zi	_[will.to.abazizi]	PN	PN	15	_	_	
+15	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	9	appos	_	
+16	mu	mu[year]	N	N	7	appos	_	
+17	en	en[priest]	N	N	19	ABS	_	
+18	{d}nanna	Nanna[1][-ak]	DN	DN	17	GEN	_	
+19	masz2-e	masz[goat]-e	N	N.L3-NH	16	acl	projectivity violation	
+20	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	17	acl	_
+	
+

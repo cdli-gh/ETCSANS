@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P361740.atf
+# tr.en: gur barig ban emmer royal gur barig ban wheat royal from Lu-igimae under seal of Ur-Lamma son Ur-Baba depot of field Aratia-Nin-dar-a month Festival of Szulgi year Simurum and Lullubum for th time were destroyed Ur-Lamma scribe son Ur-Baba
+1	5(asz)	5(asz)[one]	NU	NU	4	nummod	projectivity violation	
+2	3(barig)	3(bariga)[unit]	NU	N	13	nummod	projectivity violation	
+3	5(ban2)	5(ban)[unit]	NU	N	4	nummod	_	
+4	ziz2	ziz[emmer]	N	N	5	_	_	
+5	gur	gur[unit]	N	N	0	root	_	
+6	lugal	lugal[king]	N	N	4	appos	projectivity violation	
+7	3(u)	3(u)[ten]	NU	NU	4	nummod	projectivity violation	
+8	2(asz)	2(asz)[one]	NU	NU	7	nummod	_	
+9	4(barig)	4(bariga)[unit]	NU	N	7	nummod	_	
+10	1(ban2)	1(ban)[unit]	NU	N	7	nummod	_	
+11	...	_[_]	PN	N	12	dep	_	
+12	gig	gig[resin_type]	N	N	13	_	_	
+13	gur	gur[unit]	N	N	4	appos	projectivity violation	
+14	lugal	lugal[king]	N	N	4	appos	projectivity violation	
+15	ki	ki[place]	N	N	16	ABL	_	
+16	lu2-{d}igi-ma-sze3-ta	_[Lu-igimae]	PN	PN.GEN.ABL	4	ABL	projectivity violation	
+17	kiszib3	kiszib[seal]	N	N	4	LOC	projectivity violation	
+18	ur-{d}lamma	Urlamma[1]	PN	PN	17	GEN	_	
+19	dumu	dumu[child]	N	N	20	nmod	_	
+20	ur-{d}ba-ba6	Urbaba[1]	PN	PN	4	appos	projectivity violation	
+21	i3-dub	idub[granary]	N	N	4	appos	projectivity violation	
+22	a-sza3	aszag[field]	N	N	23	nmod	_	
+23	ar-sza-ti-a-{d}nin-dar-a-ta	_[Aratia-Nin-dar-a]	PN	PN.GEN.ABL	21	GEN	_	
+24	iti	iti[month]	N	N	25	nmod	_	
+25	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	0	_	detached for projectivity	
+26	mu	mu[year]	N	N	27	nmod	_	
+27	si-mu-ur4-um{ki}	_[Simurum]	GN	GN	34	ABS	projectivity violation	
+28	u3	u[and]	CNJ	CNJ	27	appos	_	
+29	lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	27	appos	_	
+30	a-ra2	ara[times]	N	N	27	DAT	_	
+31	1(u)	1(u)[ten]	NU	NU	5	nummod	_	
+32	la2	la[hang][-ø]	V	NF.V.ABS	31	_	_	
+33	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	32	nummod	_	
+34	ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	5	acl	_	
+35	ur-{d}lamma	Urlamma[1]	PN	PN	5	appos	_	
+36	dub-sar	dubsar[scribe]	N	N	35	appos	_	
+37	dumu	dumu[child]	N	N	38	nmod	_	
+38	ur-{d}ba-ba6	Urbaba[1]	PN	PN	35	appos	_
+	
+

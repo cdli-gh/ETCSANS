@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P470064.atf
+# tr.en: gur barley regular offering for Szara from Gu-edina from Egalesi did ala receive from month Harvest to month First-fruit offering year after Szaru was destroyed ala son of Lugal-ema brewer of Szara
+1	9(asz)	9(asz)[one]	NU	NU	0	nummod	_	
+2	sze	sze[barley]	N	N	6	nmod	_	
+3	gur	gur[unit]	N	N	6	nmod	_	
+4	sa2-du11	sadug[offerings]	N	N	6	acl	_	
+5	{d}szara2	Szara[1][-ak]	DN	DN	6	nmod	_	
+6	szu-palil2	_[offering.for]	PN	PN	12	ABS	_	
+7	gu2-edin-na-ta	_[from.Gu-edina]	PN	PN	6	ABL	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	e2-gal-e-si-<ta>	_[Egalesi]	PN	PN.GEN.ABL	7	ABL	_	
+10	ha-la	Hala[1][-ra]	PN	PN.DAT-H	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+13	iti	iti[month]	N	N	12	ABL	_	
+14	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	13	ABL	_	
+15	iti	iti[month]	N	N	13	LOC	_	
+16	nesag-sze3	nesag[first_fruit_offering]-sze	MN	N.TERM	15	LOC	_	
+17	mu	mu[year]	N	N	13	appos	_	
+18	us2-sa	us[follow]-a	V	NF.V.PT	17	acl	_	
+19	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	13	appos	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	acl	_	
+21	ha-la	Hala[1][-ra]	PN	PN.DAT-H	12	appos	_	
+22	dumu	dumu[child]	N	N	12	appos	_	
+23	lugal-e2-mah	_[Lugal-ema]	PN	PN	22	GEN	_	
+24	lu2	lu[person]	N	N	12	appos	_	
+25	lunga	lungak[brewer][-ak]	N	N.GEN	12	appos	_	
+26	{d}szara2	Szara[1][-ak]	DN	DN	25	GEN	_
+	
+

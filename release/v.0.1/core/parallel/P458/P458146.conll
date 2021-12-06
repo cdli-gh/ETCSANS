@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P458146.atf
+# tr.en: Ur-Urbartab son of Lugal-azida gudu of Ema
+1	ur-{d}ur3-bar-tab	_[Ur-Urbartab]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	lugal-a2-zi-da	Lugalazida[1]	PN	PN	2	GEN	_	
+4	gudu4	gudug[priest]	N	N	1	appos	_	
+5	e2-mah	Emah[1][-sze]	FN	TN	4	appos	_
+	
+

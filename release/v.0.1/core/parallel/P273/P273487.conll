@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ewes billy goats nanny goats kitchen on th day Booked out from Ur-kununa Month Szulgi festival Year after Kima was destroyed
+# train/P273487.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	u8	u[ewe]	N	N	0	root	_	
+3	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+4	masz2	masz[goat]	N	N	2	appos	_	
+5	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+6	1(disz)	1(disz)[one]	NU	NU	8	nummod	projectivity violation	
+7	ud5	uzud[goat]	N	N	2	appos	_	
+8	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	2	appos	_	
+9	u4	ud[day]	N	N	2	LOC	_	
+10	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+11	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	10	nummod	_	
+12	zi-ga	zig[expend]-a	V	NF.V.PT	2	acl	_	
+13	ki	ki[place]	N	N	14	ABL	_	
+14	ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	12	ABL	_	
+15	iti	iti[month]	N	N	16	nmod	_	
+16	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	12	parataxis	_	
+17	mu	mu[year]	N	N	20	_	_	
+18	us2-sa	us[follow]-a	V	NF.V.PT	20	_	_	
+19	ki-masz2	_	GN	GN	20	_	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	acl	_
+	
+

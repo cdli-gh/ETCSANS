@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets wet tablets are here
+# train/P107131.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	im	im[clay][-ø]	N	N	4	ABS	_	
+3	duru5	_[wet]	V	V	2	acl	_	
+4	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	acl	_
+	
+

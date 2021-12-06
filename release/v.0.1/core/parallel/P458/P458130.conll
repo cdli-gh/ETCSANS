@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P458130.atf new_text=P458130
+# tr.en: Ur-Szulpae son of Ur-Itaran man of fat-sheep
+# train/P458130.atf						#new_text=P458130
+1	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	8	appos	_	
+2	dumu	dumu[child]	N	N	8	appos	_	
+3	ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	2	GEN	_	
+4	lu2	lu[person]	N	N	3	appos	_	
+5	udu	udu[sheep]	N	N	8	_	_	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	4	acl	_
+	
+

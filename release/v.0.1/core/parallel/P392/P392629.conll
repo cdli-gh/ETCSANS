@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P392629.atf
+# tr.en: The debit royal gur of barley remaining debit of account by Abani-sege to be repaid month Harvest year Amar-Suen is king The debit royal gur of barley remaining debit of account by Abani-sege to be repaid month Harvest year Amar-Suen is king Aba-isege son of
+1	la2-ia3	la'u[arrears]	N	N	0	root	_	
+2	5(asz)	5(asz)[one]	NU	NU	4	nummod	_	
+3	sze	sze[barley]	N	N	4	GEN	_	
+4	gur	gur[unit]	N	N	1	appos	_	
+5	lugal	lugal[king]	N	N	4	appos	_	
+6	si-i3-tum	situm[balance]	N	N	4	appos	_	
+7	nig2-ka9-ak	nigSZID[account]	N	N	6	GEN	_	
+8	a-ba-ni-se3-ge-e	_[by.Abani-sege]	DET	DET	4	ERG	_	
+9	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	8	acl	_	
+10	iti	iti[month]	N	N	11	nmod	_	
+11	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	14	_	_	
+12	mu	mu[year]	N	N	14	_	_	
+13	{d}amar-{d}suen	Amarsuen[1]	RN	RN	14	ABS	_	
+14	lugal	lugal[king]	N	N	1	appos	_	
+15	la2-ia3	la'u[arrears]	N	N	18	nmod	projectivity violation	
+16	5(asz)	5(asz)[one]	NU	NU	17	nummod	_	
+17	sze	sze[barley]	N	N	18	_	_	
+18	gur	gur[unit]	N	N	1	appos	projectivity violation	
+19	lugal	lugal[king]	N	N	18	appos	_	
+20	si-i3-tum	situm[balance]	N	N	17	appos	_	
+21	nig2-ka9-ak	nigSZID[account]	N	N	17	GEN	_	
+22	a-ba-i3-se3-ge-e	_[by.Abani-sege]	DET	DET	17	ERG	_	
+23	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	22	acl	_	
+24	iti	iti[month]	N	N	17	appos	_	
+25	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	17	appos	_	
+26	mu	mu[year]	N	N	17	appos	_	
+27	{d}amar-{d}suen	Amarsuen[1]	RN	RN	26	ABS	_	
+28	lugal	lugal[king]	N	N	26	appos	_	
+29	a-ba-i3-se3-ge-e	_[Aba-isege]	DET	DET	30	acl	_	
+30	dumu	dumu[child]	N	N	17	appos	_	
+31	szi-x-...	_[of]	PN	PN	30	GEN	_	
+32	x	_[_]	N	N	0	dep	_	
+33	tag-x	_	PN	PN	32	appos	_
+	
+

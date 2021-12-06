@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P134738.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	szabra	szabra[chief_administrator][-ak]	N	N	1	_	heuristic: after nominal head	
+3	ib2-dab5	_	V	V	1	_	_	
+4	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+5	lugal	lugal[king]	N	N	1	_	heuristic: after nominal head	
+6	kuruszda-e	_[xxx]	N	N.3-SG-H-POSS.DAT-H	1	_	heuristic: after nominal head	
+7	ib2-dab5	_	V	V	1	_	heuristic: after nominal head	
+8	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+9	{kusz}du10-gan-na	duggan[leather_bag]-ak[-'a]	N	N.GEN.L1	1	_	heuristic: after nominal head	
+10	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+11	lugal-iti-da	Lugalitida[1]	PN	PN	1	_	heuristic: after nominal head	
+12	ki	ki[place]	N	N	1	_	heuristic: after nominal head	
+13	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	1	_	heuristic: after nominal head	
+14	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	1	_	heuristic: after nominal head	
+15	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+16	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	MN.ABL	1	_	heuristic: after nominal head	
+17	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+18	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	23	nmod	projectivity violation	
+19	iti	iti[month]	N	N	23	nmod	projectivity violation	
+20	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+21	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	mu	mu[year]	N	N	1	appos	_	
+23	hu-uh2-<nu>-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	1	appos	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Inanna his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad
+1	{d}inanna	_[To.Inanna]	PN	PN	0	root	_
+2	nin-a-ni	_[his.mistress]	N	N	1	root	_
+3	szul-gi	szul-gi[1]	RN	RN	2	appos	_
+4	nita-kal-ga	nita[male]+kalag[strong]	V	NF.V.PT	3	amod	_
+5	lugal	lugal[king]	N	N	3	appos	_
+6	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_
+7	lugal	lugal[king]	N	N	3	appos	_
+8	ki-en-gi	ki-en-gi[1]	GN	GN	7	GEN	_
+9	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	8	appos	_
+

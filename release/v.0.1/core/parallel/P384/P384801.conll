@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384801.atf
+# tr.en: royal gur of seed grain gur barig to sealed warehouse
+1	5(u)	5(u)[ten]	NU	NU	4	nummod	projectivity violation	
+2	7(asz)	7(asz)[one]	NU	NU	11	nummod	projectivity violation	
+3	sze	sze[barley]	N	N	4	GEN	_	
+4	gur	gur[unit]	N	N	0	root	_	
+5	lugal	lugal[king]	N	N	4	appos	_	
+6	numun	numun[seed]	N	N	3	appos	projectivity violation	
+7	5(gesz2)	5(gesz)[sixty]	NU	NU	3	nummod	projectivity violation	
+8	5(u)	5(u)[ten]	NU	NU	4	nummod	_	
+9	5(asz)	5(asz)[one]	NU	NU	8	nummod	_	
+10	3(barig)	3(bariga)[unit]	NU	N	8	nummod	_	
+11	gur	gur[unit]	N	N	4	appos	_	
+12	e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	4	LOC	_
+	
+

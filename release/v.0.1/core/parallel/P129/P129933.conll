@@ -1,0 +1,50 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P129933.atf						#new_text=P129933
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P129933.atf new_text=P129933
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+3	didli	didli[several][-ø][-ak]	V	NF.V.ABS	1	_	_	
+4	sze-ba	szeba[ration]	N	N	1	_	heuristic: after nominal head	
+5	siki-ba	_	V	V	1	_	heuristic: after nominal head	
+6	geme2	geme[female_worker]	N	N	1	_	heuristic: after nominal head	
+7	usz-bar	uszbar[weaver][-ak]	N	N	1	_	heuristic: after nominal head	
+8	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+9	ab-ba-gu-la	_[xxx]	PN	PN	8	_	heuristic: attach to last	
+10	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+11	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	10	_	heuristic: attach to last	
+12	dumu	dumu[child]	N	N	11	_	heuristic: attach to last	
+13	ur-{d}lamma	Urlamma[1]	PN	PN	12	_	heuristic: attach to last	
+14	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+15	ad-da	Adda[1]	PN	PN	14	_	heuristic: attach to last	
+16	dumu	dumu[child]	N	N	15	_	heuristic: attach to last	
+17	da-a-da	_[xxx]	PN	PN	16	_	heuristic: attach to last	
+18	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+19	lugal-ab-ba	_[xxx]	PN	PN	18	_	heuristic: attach to last	
+20	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+21	ur-sze-il2-la	_[xxx]	PN	PN	20	_	heuristic: attach to last	
+22	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+23	ad-da	Adda[1]	PN	PN	22	_	heuristic: attach to last	
+24	dumu	dumu[child]	N	N	23	_	heuristic: attach to last	
+25	e2-me-lam2	_[xxx]	PN	PN	24	_	heuristic: attach to last	
+26	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+27	i3-zu	_[xxx]	PN	PN	26	_	heuristic: attach to last	
+28	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+29	giri3-ni-i3-sa6	Girini'isa[1]	PN	PN	28	_	heuristic: attach to last	
+30	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+31	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	30	_	heuristic: attach to last	
+32	1(disz)	1(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying; projectivity violation	
+33	da-a-da	_[xxx]	PN	PN	32	_	heuristic: attach to last	
+34	u3	u[and]	CNJ	CNJ	33	_	heuristic: attach to last	
+35	nigin-ba	_[xxx]	N	N.DEM2.GEN	34	_	heuristic: attach to last	
+36	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	41	acl	projectivity violation	
+37	sza3	szag[heart]	N	N	36	_	heuristic: attach to last	
+38	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	41	nmod	projectivity violation	
+39	mu	mu[year]	N	N	1	appos	_	
+40	en	en[priest]	N	N	39	_	heuristic: attach to last	
+41	{d}inanna	Inanna[1][-ak]	DN	DN	1	appos	_	
+42	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	0	_	_	
+43	masz2-e	masz[goat]-e	N	N.L3-NH	0	_	_	
+44	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	0	_	_
+	
+

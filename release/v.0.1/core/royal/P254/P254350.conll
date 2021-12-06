@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ningirsu powerful warrior of Enlil his master Ur-Ninsumuna governor of Laga dedicated this for his well-being name of this bowl is May my master prolong my life																						
+1	{d}nin-gir2-su	_[To.Ningirsu]	PN	PN	11	LOC	_
+2	ur-sag	_[warrior]	N	N	1	appos	_
+3	kal-ga	_[powerful]	V	V	2	amod	_
+4	{d}en-lil2-la2	_[of.Enlil]	PN	PN	2	GEN	_
+5	lugal-a-ni	_[his.master]	N	N	1	appos	_
+6	ur-{d}nin-sun2	ur-ninsumuna[1]	PN	PN	11	ERG	_
+7	ensi2	_[governor]	N	N	6	appos	_
+8	lagasz{ki}-ke4	lagasz[1]	PN	PN	7	GEN	_
+9	nam-ti-la-ni-sze3	_[for.his.life]	N	N	5	ABS	_
+10	a	_[this]	N	N	11	ABS	_
+11	mu-na-ru	_[dedicated]	V	V	0	root	_
+12	bur-ba	_[this.bowl]	N	N	16	GEN	_
+13	lugal-mu	_[my.master]	V	V	15	ABS	_
+14	nam-ti-mu	_[well-being]	V	V	15	DAT	_
+15	he2-su3-re	_[prolong.my]	V	V	16	parataxis	_
+16	mu-bi	_[name]	N	N	11	parataxis	_
+

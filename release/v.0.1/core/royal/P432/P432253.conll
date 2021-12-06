@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi the god of his country king of Ur and king of four world quarters	
+1	nam-ti	nam-til3[life]	N	N	0	root	_
+2	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	GEN	_
+3	dingir	digir[deity]	N	N	2	GEN	_
+4	kalam-ma-na-ka-sze3	kalam[land]	N	N.3-SG-H-POSS.GEN.GEN.TERM	3	GEN	_
+5	lugal	lugal[king]	N	N	3	appos	_
+6	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_
+7	lugal	lugal[king]	N	N	5	appos	_
+8	an	_	_	_	7	_	_
+9	ub-da	an-ub-da[quarter]	N	N	7	appos	_
+10	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	9	nummod	_
+11	x	_[_]	u	u	12	dep	_
+12	x	_[_]	u	u	3	dep	_
+13	x	_[_]	u	u	12	dep	_
+14	x	_[_]	u	u	0	dep	_
+15	...	_[_]	u	u	0	dep	_
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454490.atf
+# tr.en: Akalla scribe son of Ur-nigar cattle manager
+1	a-kal-la	Akala[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	ur-nigar{gar}	Urnigar[1]	PN	PN	5	acl	_	
+5	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	3	GEN	_
+	
+

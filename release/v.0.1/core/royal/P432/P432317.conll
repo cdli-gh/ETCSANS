@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: king of Ur and king of four world quarters hisher beloved temple he built for himher
+1	lugal	lugal[king]	N	N	7	ERG	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_
+5	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	4	appos	_
+6	e2-gal	e2-gal[palace]	N	N	7	ABS	_
+7	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	8	ABS	_
+8	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

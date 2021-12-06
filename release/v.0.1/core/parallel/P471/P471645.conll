@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborers for workdays at builder-house stationed at -house stationed foreman Ukkene via Lu-girizal under seal of Biduga year Kima was destroyed
+# train/P471645.atf						#new_text=P471645
+# train/P471645.atf new_text=P471645
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	DAT	_	
+5	5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	e2-szitim	_[at.builder-house]	FN	FN	3	LOC	_	
+7	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	6	acl	_	
+10	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+11	ukken-ne2	_[Ukkene]	PN	PN	16	nmod	_	
+12	giri3	giri[foot]	N	N	13	via	_	
+13	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	16	via	_	
+14	kiszib3	kiszib[seal]	N	N	16	LOC	_	
+15	bi2-du11-ga	Biduga[1][-ak]	PN	PN.GEN	14	GEN	_	
+16	mu	mu[year]	N	N	10	appos	_	
+17	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	16	appos	_	
+18	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	16	acl	_
+	
+

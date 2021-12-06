@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102357.atf
+# tr.en: female lamb grain-fed slaughtered th day from En-dingirmu Szulgi-irimu recieved month uea year unuri was destroyed
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	kir11	kir[female_lamb]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+5	u4	ud[day]	N	N	4	date	_	
+6	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+7	la2	la[hang][-ø]	V	NF.V.ABS	6	_	_	
+8	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	7	nummod	_	
+9	ki	ki[place]	N	N	10	ABL	_	
+10	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+11	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	10	appos	_	
+12	szu	szu[hand][-e]	N	N.L3-NH	4	appos	projectivity violation	
+13	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	11	acl	_	
+14	iti	iti[month]	N	N	4	appos	_	
+15	szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	14	appos	_	
+16	mu	mu[year]	N	N	14	appos	_	
+17	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	18	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_
+	
+

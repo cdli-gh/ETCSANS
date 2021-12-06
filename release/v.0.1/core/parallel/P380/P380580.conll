@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur barley by royal measure its interest shekels of silver too little did Ur-Lamma brewer of Nane receive It is barley on loan harvest will remit debt it is to be replaced month Harvest year after Princess
+# train/P380580.atf
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	6(asz)	6(asz)[one]	NU	NU	1	nummod	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	gur	gur[unit]	N	N	3	appos	_	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	masz-bi	_[its.interest]	N	N.3-SG-NH-POSS.ABS	3	appos	_	
+7	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+8	1/2(disz)	1/2(disz)[one]	NU	NU	7	nummod	_	
+9	gin2	gig[unit]	N	N	17	_	_	
+10	ku3-babbar	kugbabbar[silver]	N	N	9	GEN	_	
+11	ba-la2	_[too.little]	V	V	9	acl	_	
+12	ur-{d}lamma	Urlamma[1]	PN	PN	17	_	_	
+13	lu2	lu[person]	N	N	17	_	_	
+14	lunga	lungak[brewer][-ak]	N	N.GEN	17	nmod	_	
+15	{d}nansze	Nansze[1]	DN	DN	14	GEN	_	
+16	szu	szu[hand][-e]	N	N.L3-NH	17	_	_	
+17	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	3	acl	_	
+18	sze	sze[barley]	N	N	17	parataxis	_	
+19	ur5-ra-kam	_[It.is.on.loan]	DET	DET	18	ABS	_	
+20	buru14	_[harvest]	N	N	21	ERG	_	
+21	ama-bi	_[will.remit]	N	N	18	parataxis	_	
+22	gi4-gi4	_[debt]	V	V	21	acl	_	
+23	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	17	parataxis	_	
+24	iti	iti[month]	N	N	25	nmod	_	
+25	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	17	parataxis	_	
+26	mu	mu[year]	N	N	25	appos	_	
+27	dumu-lugal	_[Princess]	N	N	25	appos	projectivity violation	
+28	us2-sa	us[follow]-a	V	NF.V.PT	26	acl	_
+	
+

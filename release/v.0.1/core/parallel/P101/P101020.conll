@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P101020.atf						#new_text=P101020
+# train/P101020.atf new_text=P101020
+# tr.en: bundles of reed bundles of reed Saarkiti bundles of reed bundles of reed Habru nubanda Niridagal month Festival of Ninazu
+1	5(gesz2)	5(gesz)[sixty]	NU	NU	3	nummod	projectivity violation	
+2	sa	sa[bundle]	N	N	0	root	_	
+3	gi	gi[reed][-ø]	N	N	2	GEN	_	
+4	bu-ra-an-hu-uh2-ra-an	_	PN	PN	3	GEN	_	
+5	1(gesz2)	1(gesz)[sixty]	NU	NU	9	nummod	projectivity violation	
+6	2(u)	2(u)[ten]	NU	NU	5	nummod	_	
+7	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+8	sa	sa[bundle]	N	N	2	appos	_	
+9	gi	gi[reed][-ø]	N	N	8	GEN	_	
+10	sahar-ki-ti	_[Saarkiti]	PN	PN	9	appos	_	
+11	1(u)	1(u)[ten]	NU	NU	13	nummod	projectivity violation	
+12	sa	sa[bundle]	N	N	2	appos	_	
+13	gi	gi[reed][-ø]	N	N	12	GEN	_	
+14	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+15	dam	dam[spouse]	N	N	2	appos	_	
+16	3(u)	3(u)[ten]	NU	NU	24	nummod	projectivity violation	
+17	sa	sa[bundle]	N	N	2	appos	_	
+18	gi	gi[reed][-ø]	N	N	17	GEN	_	
+19	szu	szu[hand][-e]	N	N.L3-NH	24	nmod	_	
+20	ba	ba[animal][-ak]	N	N.GEN	19	_	heuristic: attach to last	
+21	ur	_	PN	N	20	_	heuristic: attach to last	
+22	ha-ab-ru	_[Habru]	PN	PN	24	nmod	_	
+23	nu-banda3	nubanda[overseer][-ø]	N	N	24	nmod	_	
+24	nir-i3-da-gal2	Niridagal[1][-e]	AJ	PN.ERG	17	appos	_	
+25	iti	iti[month]	N	N	26	nmod	_	
+26	ezem-{d}nin--zu	_[Festival.Ninazu]	MN	MN	2	appos	_
+	
+

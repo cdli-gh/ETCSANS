@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273525.atf
+# tr.en: sheep with fleece slaughtered from Kugani under seal of Lukalla month mine year Enunugal en-priest of Inanna was installed Lukalla scribe son of Ur-Ee cattle manager
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	bar-gal2	bargal[fleeced_sheep]	N	N	2	COM	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	3	acl	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ku3-ga-ni-ta	_[Kugani]	PN	PN	3	ABL	_	
+7	kiszib3	kiszib[seal]	N	N	3	LOC	_	
+8	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	7	GEN	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+10	min-esz3	Minesz[1][-'a]	MN	MN.L1	2	appos	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	en-unu6-gal	Enunugal[1]	PN	PN	15	ABS	_	
+13	en	en[priest]	N	N	12	appos	_	
+14	{d}inanna	Inanna[1][-ak]	DN	DN	13	GEN	_	
+15	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	10	acl	_	
+16	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	10	ERG	_	
+17	dub-sar	dubsar[scribe]	N	N	16	appos	_	
+18	dumu	dumu[child]	N	N	16	appos	_	
+19	ur-e11-e	Ure'e[1][-ak]	PN	PN	18	GEN	_	
+20	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	10	ABS	_
+	
+

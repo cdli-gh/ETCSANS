@@ -1,0 +1,160 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ox-hides grain-fed sheep-hides lamb-hides regular offerings of Szara of Umma ox-hide grain-fed sheep-hides grain-fed sheep-hides regular offerings of Szara of KIAN sheep-hides grain-fed lamb-hides royal sacrifice ox-hide grain-fed sheep-hides grain-fed sheep-hides in regular offerings billy goat-hides regular offerings additional of Szulgi sheep-hides lamb-hides for Ninura sheep-hides lamb-hides Ebgal sheep-hide lamb-hides Enlil sheep-hides Nane of Umma sheep-hide for Gula sheep-hides -hides for Innana of Zabala Nin-ilduma and Kusig-banda sheep-hides for governor of sheep-hides -hides for Ee sheep-hides -hides for Da-Laga sheep-hides lamb-hides for Enki and USzkalimmu sheep-hides lamb-hides for Dumuzi of double-city regular offerings of gods year after wall was erected
+# train/P102359.atf
+1	1(u)	1(u)[ten]	NU	NU	5	nummod	projectivity violation	
+2	1(disz)	1(disz)[one]	NU	NU	10	nummod	projectivity violation	
+3	kusz	kusz[leather]	N	N	0	root	_	
+4	gu4	gud[ox]	N	N	3	_	heuristic: after nominal head	
+5	niga	niga[fattened][-ø]	V	NF.V.ABS	3	_	_	
+6	7(gesz2)	7(gesz)[sixty]	NU	NU	5	nummod	_	
+7	3(u)	3(u)[ten]	NU	NU	14	nummod	projectivity violation	
+8	la2	la[hang][-ø]	V	NF.V.ABS	7	_	_	
+9	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+10	kusz	kusz[leather]	N	N	5	appos	_	
+11	udu	udu[sheep]	N	N	10	_	heuristic: attach to last	
+12	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+13	kusz	kusz[leather]	N	N	14	_	heuristic: attach to head	
+14	sila4	sila[lamb]	N	N	5	appos	_	
+15	sa2-du11	sadug[offerings]	N	N	5	appos	_	
+16	{d}szara2	Szara[1][-ak]	DN	DN	15	GEN	_	
+17	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	16	GEN	_	
+18	1(disz)	1(disz)[one]	NU	NU	19	nummod	_	
+19	kusz	kusz[leather]	N	N	5	appos	_	
+20	gu4	gud[ox]	N	N	28	nummod	projectivity violation	
+21	niga	niga[fattened][-ø]	V	NF.V.ABS	20	_	heuristic: attach to last	
+22	2(disz)	2(disz)[one]	NU	NU	23	nummod	heuristic: NU premodifying	
+23	kusz	kusz[leather]	N	N	19	appos	_	
+24	udu	udu[sheep]	N	N	23	_	heuristic: attach to last	
+25	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	_	
+26	3(u)	3(u)[ten]	NU	NU	19	nummod	_	
+27	7(disz)	7(disz)[one][-sze]	NU	NU	26	nummod	_	
+28	kusz	kusz[leather]	N	N	19	appos	_	
+29	udu	udu[sheep]	N	N	19	appos	_	
+30	sa2-du11	sadug[offerings]	N	N	19	appos	_	
+31	{d}szara2	Szara[1][-ak]	DN	DN	30	GEN	_	
+32	|KI.AN|{ki}	Ki'an[1][-ak][-ra]	SN	SN.GEN.DAT-H	31	GEN	_	
+33	4(u)	4(u)[ten]	NU	NU	35	nummod	_	
+34	7(disz)	7(disz)[one][-sze]	NU	NU	33	nummod	_	
+35	kusz	kusz[leather]	N	N	5	appos	_	
+36	udu	udu[sheep]	N	N	35	_	heuristic: after nominal head	
+37	niga	niga[fattened][-ø]	V	NF.V.ABS	35	acl	_	
+38	3(u)	3(u)[ten]	NU	NU	40	nummod	heuristic: NU premodifying	
+39	kusz	kusz[leather]	N	N	38	_	heuristic: attach to last	
+40	sila4	sila[lamb]	N	N	35	appos	_	
+41	nig2-{gesz}tag-ga	nigtaga[sacrifice]	N	N	35	appos	_	
+42	lugal	lugal[king]	N	N	35	appos	_	
+43	1(disz)	1(disz)[one]	NU	NU	44	nummod	_	
+44	kusz	kusz[leather]	N	N	35	appos	_	
+45	gu4	gud[ox]	N	N	50	nummod	projectivity violation	
+46	niga	niga[fattened][-ø]	V	NF.V.ABS	44	acl	_	
+47	1(gesz2)	1(gesz)[sixty]	NU	NU	44	nummod	_	
+48	la2	la[hang][-ø]	V	NF.V.ABS	55	acl	projectivity violation	
+49	2(disz)	2(disz)[one]	NU	NU	48	nummod	_	
+50	kusz	kusz[leather]	N	N	44	appos	_	
+51	udu	udu[sheep]	N	N	50	_	heuristic: attach to last	
+52	niga	niga[fattened][-ø]	V	NF.V.ABS	44	acl	_	
+53	3(u)	3(u)[ten]	NU	NU	44	nummod	_	
+54	2(disz)	2(disz)[one]	NU	NU	53	nummod	_	
+55	kusz	kusz[leather]	N	N	44	appos	_	
+56	udu	udu[sheep]	N	N	55	_	heuristic: attach to last	
+57	sza3	szag[heart]	N	N	58	LOC	_	
+58	sa2-du11	sadug[offerings]	N	N	44	LOC	_	
+59	(x)	_[_]	N	N	58	appos	_	
+60	1(u)	1(u)[ten]	NU	NU	63	nummod	_	
+61	2(disz)	2(disz)[one]	NU	NU	60	nummod	_	
+62	kusz	kusz[leather]	N	N	61	_	heuristic: attach to last	
+63	masz2	masz[goat]	N	N	59	appos	_	
+64	sa2-du11	sadug[offerings]	N	N	63	appos	_	
+65	dah-ha	_[additional]	PN	PN	63	acl	_	
+66	{d}szul-gi	Szulgir[1]	RN	RN	63	GEN	_	
+67	5(u)	5(u)[ten]	NU	NU	72	nummod	_	
+68	kusz	kusz[leather]	N	N	67	_	heuristic: attach to last	
+69	udu	udu[sheep]	N	N	68	_	heuristic: attach to last	
+70	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+71	1(disz)	1(disz)[one]	NU	NU	70	nummod	_	
+72	kusz	kusz[leather]	N	N	59	appos	_	
+73	sila4	sila[lamb]	N	N	72	appos	_	
+74	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	72	DAT	_	
+75	1(u)	1(u)[ten]	NU	NU	79	nummod	_	
+76	kusz	kusz[leather]	N	N	75	_	heuristic: attach to last	
+77	udu	udu[sheep]	N	N	76	_	heuristic: attach to last	
+78	7(disz)	7(disz)[one][-sze]	NU	NU	79	nummod	_	
+79	kusz	kusz[leather]	N	N	59	appos	_	
+80	sila4	sila[lamb]	N	N	79	appos	_	
+81	{d}eb-gal	_	DN	DN	79	appos	_	
+82	1(u)	1(u)[ten]	NU	NU	86	nummod	_	
+83	kusz	kusz[leather]	N	N	82	_	heuristic: attach to last	
+84	udu	udu[sheep]	N	N	83	_	heuristic: attach to last	
+85	8(disz)	8(disz)[one]	NU	NU	86	nummod	_	
+86	kusz	kusz[leather]	N	N	79	appos	_	
+87	sila4	sila[lamb]	N	N	86	appos	_	
+88	{d}en-lil2	Enlil[1]	DN	DN	35	appos	_	
+89	1(disz)	1(disz)[one]	NU	NU	92	nummod	projectivity violation	
+90	kusz	kusz[leather]	N	N	35	appos	_	
+91	udu	udu[sheep]	N	N	95	nummod	projectivity violation	
+92	{d}nansze	Nansze[1]	DN	DN	90	ABS	_	
+93	<umma>{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	92	GEN	_	
+94	1(disz)	1(disz)[one]	NU	NU	92	nummod	_	
+95	kusz	kusz[leather]	N	N	92	appos	_	
+96	udu	udu[sheep]	N	N	101	nummod	projectivity violation	
+97	{d}gu-la	Gula[1][-ak][-ra]	DN	DN	95	DAT	_	
+98	(x)	_[_]	N	N	97	_	heuristic: attach to last	
+99	3(u)	3(u)[ten]	NU	NU	101	nummod	_	
+100	1(disz)	1(disz)[one]	NU	NU	99	nummod	_	
+101	kusz	kusz[leather]	N	N	92	appos	_	
+102	udu	udu[sheep]	N	N	101	_	heuristic: attach to last	
+103	2(u)	2(u)[ten]	NU	NU	104	nummod	heuristic: NU premodifying	
+104	kusz	kusz[leather]	N	N	101	appos	_	
+105	x	_[_]	N	N	104	dep	heuristic: attach to last	
+106	{d}inanna	Inanna[1][-ak]	DN	DN	92	appos	projectivity violation	
+107	zabala{ki}	_[for.Innana]	SN	SN.GEN.L1	101	DAT	_	
+108	{d}nin-ildu3-ma	Ninilduma[1][-ak]	DN	PN.GEN	107	GEN	_	
+109	u3	u[and]	CNJ	CNJ	108	appos	_	
+110	{d}ku3-sig17-banda3{da}	_[Kusig-banda]	PN	PN	108	appos	_	
+111	3(disz)	3(disz)[one]	NU	NU	114	nummod	projectivity violation	
+112	kusz	kusz[leather]	N	N	92	appos	_	
+113	udu	udu[sheep]	N	N	114	DAT	_	
+114	ensi2	ensik[ruler]	N	N	112	DAT	_	
+115	x	_[_]	N	N	114	dep	heuristic: attach to last	
+116	...	_[_]	PN	N	118	dep	_	
+117	6(disz)	6(disz)[one][-sze]	NU	NU	118	nummod	heuristic: NU premodifying	
+118	kusz	kusz[leather]	N	N	92	appos	_	
+119	udu	udu[sheep]	N	N	118	_	heuristic: after nominal head	
+120	4(disz)	4(disz)[one]	NU	NU	121	nummod	heuristic: NU premodifying	
+121	kusz	kusz[leather]	N	N	118	appos	_	
+122	...	_[_]	PN	N	118	dep	heuristic: after nominal head	
+123	{d}e11-e	_[for.Ee]	PN	PN	124	DAT	_	
+124	x	_[_]	N	N	118	dep	_	
+125	x	_[_]	N	N	124	dep	_	
+126	4(disz)	4(disz)[one]	NU	NU	127	nummod	_	
+127	kusz	kusz[leather]	N	N	124	appos	_	
+128	udu	udu[sheep]	N	N	127	_	heuristic: attach to last	
+129	2(disz)	2(disz)[one]	NU	NU	130	nummod	heuristic: NU premodifying	
+130	kusz	kusz[leather]	N	N	127	appos	_	
+131	x	_[_]	N	N	130	dep	heuristic: attach to last	
+132	{d}da-lagasz{ki}	_[for.Da-Laga]	DN	DN	127	DAT	_	
+133	8(disz)	8(disz)[one]	NU	NU	137	nummod	_	
+134	kusz	kusz[leather]	N	N	133	_	heuristic: attach to last	
+135	udu	udu[sheep]	N	N	134	_	heuristic: attach to last	
+136	4(disz)	4(disz)[one]	NU	NU	137	nummod	heuristic: NU premodifying	
+137	kusz	kusz[leather]	N	N	124	appos	_	
+138	sila4	sila[lamb]	N	N	137	appos	_	
+139	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	137	DAT	_	
+140	u3	u[and]	CNJ	CNJ	139	appos	_	
+141	{d}USZ-ka-limmu5	_[USzkalimmu]	PN	PN	139	appos	_	
+142	4(disz)	4(disz)[one]	NU	NU	146	nummod	_	
+143	kusz	kusz[leather]	N	N	142	_	heuristic: attach to last	
+144	udu	udu[sheep]	N	N	143	_	heuristic: attach to last	
+145	2(disz)	2(disz)[one]	NU	NU	146	nummod	heuristic: NU premodifying	
+146	kusz	kusz[leather]	N	N	124	appos	_	
+147	sila4	sila[lamb]	N	N	146	appos	_	
+148	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	146	DAT	_	
+149	iri-min	_[for.double-city]	N	N	148	DAT	_	
+150	sa2-du11	sadug[offerings]	N	N	124	appos	_	
+151	dingir-e-ne	_[gods]	DN	DN	150	GEN	_	
+152	mu	mu[year]	N	N	124	appos	_	
+153	us2-sa	us[follow]-a	V	NF.V.PT	152	acl	_	
+154	bad3	bad[wall]	N	N	155	ABS	_	
+155	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	152	acl	_
+	
+

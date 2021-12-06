@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P482085.atf new_text=P482085
+# tr.en: Atta-uu shepherd of Inuinak son of sister of Silaa the house of Narunte built for his life
+# train/P482085.atf						#new_text=P482085
+1	ad-da-hu-szu	_[Atta-uu]	PN	PN	0	_	_	
+2	sipa	sipa[shepherd]	N	N	0	root	_	
+3	{d}inszuszinak	_[Inuinak]	DN	DN	2	GEN	_	
+4	dumu	dumu[child]	N	N	0	root	_	
+5	nin9	_[sister]	N	N	4	GEN	_	
+6	si-il-ha-ha	_	V	V	5	_	heuristic: after nominal head	
+7	e2	e[house]	N	N	5	_	heuristic: after nominal head	
+8	{d}na-ru-te	_[the.house.Narunte]	DN	DN	5	appos	_	
+9	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	0	root	_	
+10	nam-ti-la-ni-sze3	_[for.his.life]	N	N.3-SG-H-POSS.TERM	0	TERM	_
+	
+

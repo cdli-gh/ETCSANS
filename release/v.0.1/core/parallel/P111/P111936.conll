@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: mina of bronze its loss shekels its tin shekels its cleaned copper mina shekels its cleaned copper loss shekels grains its arsenic shekel grains
+# train/P111936.atf new_text=P111936
+# train/P111936.atf						#new_text=P111936
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	ma-na	mana[unit]	N	N	0	root	_	
+3	zabar	zabar[bright][-ø][-ø]	N	N	2	GEN	_	
+5	4(disz)	4(disz)[one]	NU	NU	6	nummod	_	
+6	gin2	gig[unit]	N	N	2	appos	_	
+7	nagga-bi	_[its.tin]	N	N.ABS	6	appos	_	
+8	8(disz)	8(disz)[one]	NU	NU	9	nummod	_	
+9	gin2	gig[unit]	N	N	6	appos	_	
+10	uruda	urud[copper][-ak]	N	N	9	appos	_	
+11	luh-ha-bi	_[its.cleaned]	V	V	10	acl	_	
+12	5/6(disz)	5/6(disz)[one]	NU	NU	13	nummod	_	
+13	ma-na	mana[unit]	N	N	9	appos	_	
+14	6(disz)	6(disz)[one][-sze]	NU	NU	15	nummod	heuristic: NU premodifying	
+15	gin2	gig[unit]	N	N	13	appos	_	
+16	bi2-gu7	_[loss]	V	V	13	acl	_	
+17	uruda	urud[copper][-ak]	N	N	16	appos	_	
+18	luh-ha-bi	_[its.cleaned]	V	V	16	appos	_	
+19	7(disz)	7(disz)[one][-sze]	NU	NU	21	nummod	_	
+20	1/3(disz)	1/3(disz)[one]	NU	NU	19	nummod	_	
+21	gin2	gig[unit]	N	N	13	appos	_	
+22	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+23	4(disz)	4(disz)[one]	NU	NU	22	nummod	_	
+24	sze	sze[barley]	N	N	21	appos	_	
+25	su3-he2-bi	_[its.arsenic]	N	N.ABS	21	appos	_	
+26	1/2(disz)	1/2(disz)[one]	NU	NU	2	nummod	projectivity violation	
+27	gin2	gig[unit]	N	N	13	appos	_	
+28	6(disz)	6(disz)[one][-sze]	NU	NU	29	nummod	heuristic: NU premodifying	
+29	sze	sze[barley]	N	N	27	appos	_
+	
+

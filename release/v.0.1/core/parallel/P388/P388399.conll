@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P388399.atf
+# tr.en: laborers foreman Lu-dingira laborers foreman Lugal-girizal laborers foreman Lu-saga laborers foreman Lu-Daya laborers foreman Ur-gigir laborers foreman Lugal-magure laborers laborers sick foreman Lugal-mumag are stationed within bala month Lisi year Szarum was destroyed
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+5	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	3	appos	_	
+6	3(disz)	3(disz)[one]	NU	NU	9	nummod	projectivity violation	
+7	gurusz	gurusz[male]	N	N	5	appos	_	
+8	ugula	ugula[overseer][-ø]	N	N	5	appos	_	
+9	lugal-giri17-zal	_[Lugal-girizal]	PN	PN	5	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	13	nummod	projectivity violation	
+11	gurusz	gurusz[male]	N	N	9	appos	_	
+12	ugula	ugula[overseer][-ø]	N	N	9	appos	_	
+13	lu2-saga	Lusaga[1][-e]	PN	PN.ERG	9	appos	_	
+14	1(u)	1(u)[ten]	NU	NU	18	nummod	projectivity violation	
+15	2(disz)	2(disz)[one]	NU	NU	21	nummod	projectivity violation	
+16	gurusz	gurusz[male]	N	N	13	appos	_	
+17	ugula	ugula[overseer][-ø]	N	N	13	appos	_	
+18	lu2-{d}da-ia3	_[Lu-Daya]	PN	PN	17	appos	_	
+19	1(u)	1(u)[ten]	NU	NU	23	nummod	projectivity violation	
+20	6(disz)	6(disz)[one][-sze]	NU	NU	26	nummod	projectivity violation	
+21	gurusz	gurusz[male]	N	N	18	appos	_	
+22	ugula	ugula[overseer][-ø]	N	N	18	appos	_	
+23	ur-{gesz}gigir	Urgigir[1]	PN	PN	22	appos	_	
+24	1(u)	1(u)[ten]	NU	NU	28	nummod	projectivity violation	
+25	1(disz)	1(disz)[one]	NU	NU	31	nummod	projectivity violation	
+26	gurusz	gurusz[male]	N	N	23	appos	_	
+27	ugula	ugula[overseer][-ø]	N	N	23	appos	_	
+28	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	37	ABS	_	
+29	1(u)	1(u)[ten]	NU	NU	31	nummod	_	
+30	7(disz)	7(disz)[one][-sze]	NU	NU	29	nummod	_	
+31	gurusz	gurusz[male]	N	N	28	appos	_	
+32	3(disz)	3(disz)[one]	NU	NU	33	nummod	heuristic: NU premodifying	
+33	gurusz	gurusz[male]	N	N	31	appos	_	
+34	tu-ra	tur[young][-a]	V	NF.V.PT	31	acl	_	
+35	ugula	ugula[overseer][-ø]	N	N	31	appos	_	
+36	lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	28	appos	_	
+37	gub-ba-am3	_[are.stationed]	V	NF.V.PT.ABS.COP-3-SG	23	acl	_	
+38	sza3	szag[heart]	N	N	39	LOC	_	
+39	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	37	LOC	_	
+40	iti	iti[month]	N	N	37	appos	_	
+41	{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	40	appos	_	
+42	mu	mu[year]	N	N	40	appos	_	
+43	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	40	appos	_	
+44	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	40	acl	_
+	
+

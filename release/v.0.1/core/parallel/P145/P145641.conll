@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145641.atf
+# tr.en: To Bazi speak To Ur-Nansze DAB-worker of Lu-Narua the nose-rope he shall not attach
+1	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	2	LOC	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	ur-{d}nansze	Urnansze[1]	PN	PN	6	_	_	
+4	dumu	dumu[child]	N	N	6	_	_	
+5	dab5	_	V	V	6	_	_	
+6	lu2-{d}na-ru2-a-ka-ra	_[Ur-Nansze.DAB-worker.Lu-Narua]	PN	PN	2	acl	_	
+7	esz2-giri17-sze3	_[the.nose-rope]	N	N.3-SG-H-POSS.TERM	6	appos	_	
+8	na-ba-du3	nan-ba[-e]-du[hold][-ed][-ø]	PN	MOD.MID.L2.V.PF.3-SG-S	7	acl	_
+	
+

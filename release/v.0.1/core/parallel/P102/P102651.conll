@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102651.atf
+# tr.en: Basket-of-tablets treasure split USzkalimmu Ninhursag-ebsig Silver harp USzkalimmu Szulgi Szara-gegigal Ninura Silver harp Ninura Nin-egal Ninsigarana Lugal-kur-elam Nin-ee Nin-Nagsu Nin-Da-Lagash Nin-tulsag Getinana Lugalbarabe
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gil-sa	_[treasure]	N	TN	3	nmod	_	
+3	si-il-la	_[split]	V	V	1	_	_	
+4	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+5	{d}USZ-ka-limmu2	Uszkalimmu[1][-ak]	PN	DN.GEN	3	appos	_	
+6	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+7	{d}nin-hur-sag-eb-sig!	_[Ninhursag-ebsig]	PN	PN	5	appos	_	
+8	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+9	balag-ku3	_[Silver.harp]	N	N	5	appos	_	
+10	{d}USZ-ka-limmu2	Uszkalimmu[1][-ak]	PN	DN.GEN	9	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+12	{d}szul-gi	Szulgir[1]	RN	RN	9	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+14	{d}szara2-gesz-gi-gal	_[Szara-gegigal]	PN	PN.GEN.L1	12	appos	_	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+16	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	14	appos	_	
+17	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+18	balag-ku3	_[Silver.harp]	N	N	16	appos	_	
+19	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	18	appos	_	
+20	2(disz)	2(disz)[one]	NU	NU	21	nummod	_	
+21	{d}nin-e2-gal	Ninegal[1][-ra]	DN	DN.DAT-H	18	appos	_	
+22	1(disz)	1(disz)[one]	NU	NU	23	nummod	_	
+23	{d}nin-si-gar-an-na	_[Ninsigarana]	PN	PN	27	_	_	
+24	1(disz)	1(disz)[one]	NU	NU	23	nummod	_	
+25	{d}lugal-kur2-elam	_[Lugal-kur-elam]	DN	DN.GEN.DAT-H	23	appos	_	
+26	1(disz)	1(disz)[one]	NU	NU	27	nummod	_	
+27	{d}nin-e11-e	_[Nin-ee]	DN	DN	21	appos	_	
+28	1(disz)	1(disz)[one]	NU	NU	29	nummod	_	
+29	{d}nin-nag-su{ki}	_[Nin-Nagsu]	DN	DN	27	appos	projectivity violation	
+30	1(disz)	1(disz)[one]	NU	NU	31	nummod	_	
+31	{d}nin-da-lagasz{ki}	_[Nin-Da-Lagash]	PN	PN	28	appos	_	
+32	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+33	{d}nin-tul2-sag	_[Nin-tulsag]	PN	PN	31	appos	_	
+34	1(disz)	1(disz)[one]	NU	NU	28	nummod	projectivity violation	
+35	{d}gesztin-an-na-lugal-ba-ra-ab-e3	_[Getinana.Lugalbarabe]	PN	PN	31	appos	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273414.atf
+# tr.en: One neck garment from Ikalla in place of Agu under seal of Ayakala month Six-month-house year high-priest of Inanna of Uruk was chosen by extispicy Ayakala scribe son of Ermu
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	tug2	tug[textile]	N	N	0	root	_	
+3	gu2-na	gun[tax]-ak[-ø]	N	N.GEN	2	nummod	_	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	i3-kal-la-ta	Ikala[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+6	mu	mu[year]	N	N	2	appos	_	
+7	a-gu-sze3	_[in.place.Agu]	PN	PN.GEN.TERM	2	LOC	_	
+8	kiszib3	kiszib[seal]	N	N	2	LOC	_	
+9	a-a-kal-la	Ayakala[1]	PN	PN	8	GEN	_	
+10	iti	iti[month]	N	N	11	nmod	_	
+11	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	2	nummod	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	en	en[priest]	N	N	17	ABS	_	
+14	{d}inanna	Inanna[1][-ak]	DN	DN	13	GEN	_	
+15	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	14	GEN	_	
+16	masz2-e	masz[goat]-e	N	N.L3-NH	17	_	_	
+17	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	12	acl	_	
+18	a-a-kal-la	Ayakala[1]	PN	PN	2	appos	_	
+19	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+20	dumu	dumu[child]	N	N	18	appos	_	
+21	er2-mu	_[of.Ermu]	PN	PN	20	GEN	_
+	
+

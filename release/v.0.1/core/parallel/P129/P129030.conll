@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P129030.atf
+# tr.en: laborers foreman Lu-dingira laborers foreman Lugal-girizal laborers foreman Lu-saga laborers foreman Lu-Daya laborers foreman Lugal-magure laborers laborers sick foreman Lugal-mumag laborers foreman Ur-gigir are stationed
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+5	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	3	appos	_	
+6	3(disz)	3(disz)[one]	NU	NU	9	nummod	projectivity violation	
+7	gurusz	gurusz[male]	N	N	5	appos	_	
+8	ugula	ugula[overseer][-ø]	N	N	5	appos	_	
+9	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	5	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	13	nummod	projectivity violation	
+11	gurusz	gurusz[male]	N	N	9	appos	_	
+12	ugula	ugula[overseer][-ø]	N	N	9	appos	_	
+13	lu2-saga	Lusaga[1][-e]	PN	PN.ERG	36	ABS	_	
+14	1(u)	1(u)[ten]	NU	NU	17	nummod	projectivity violation	
+15	2(disz)	2(disz)[one]	NU	NU	20	nummod	projectivity violation	
+16	gurusz	gurusz[male]	N	N	13	appos	_	
+17	lu2-{d}da-ia3	_[foreman.Lu-Daya]	PN	PN	13	appos	_	
+18	1(u)	1(u)[ten]	NU	NU	22	nummod	projectivity violation	
+19	1(disz)	1(disz)[one]	NU	NU	25	nummod	projectivity violation	
+20	gurusz	gurusz[male]	N	N	17	appos	_	
+21	ugula	ugula[overseer][-ø]	N	N	17	appos	_	
+22	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	21	appos	_	
+23	1(u)	1(u)[ten]	NU	NU	25	nummod	_	
+24	7(disz)	7(disz)[one][-sze]	NU	NU	23	nummod	_	
+25	gurusz	gurusz[male]	N	N	22	appos	_	
+26	3(disz)	3(disz)[one]	NU	NU	27	nummod	heuristic: NU premodifying	
+27	gurusz	gurusz[male]	N	N	25	appos	_	
+28	tu-ra	tur[young][-a]	V	NF.V.PT	25	acl	_	
+29	ugula	ugula[overseer][-ø]	N	N	25	appos	_	
+30	lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	22	appos	_	
+31	1(u)	1(u)[ten]	NU	NU	13	nummod	projectivity violation	
+32	6(disz)	6(disz)[one][-sze]	NU	NU	31	nummod	_	
+33	gurusz	gurusz[male]	N	N	30	appos	_	
+34	ugula	ugula[overseer][-ø]	N	N	30	appos	_	
+35	ur-{gesz}gigir	Urgigir[1]	PN	PN	17	appos	_	
+36	gub-ba-am3	_[are.stationed]	V	NF.V.PT.ABS.COP-3-SG	9	acl	_
+	
+

@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P416407.atf
+# tr.en: gur barig of dabin-flour royal wage of laborer at sila its laborers workdays wages of hirelings from Ur-saga Szu-Edar received month Festival of Mekigal year Szaru was destroyed
+1	1(asz)	1(asz)[one]	NU	NU	4	nummod	projectivity violation	
+2	3(barig)	3(bariga)[unit]	NU	N	3	nummod	_	
+3	dabin	dabin[semolina]	N	N	1	GEN	_	
+4	gur	gur[unit]	N	N	0	root	_	
+5	lugal	lugal[king]	N	N	3	appos	projectivity violation	
+6	a2	a[time]	N	N	3	appos	projectivity violation	
+7	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+8	gurusz	gurusz[male]	N	N	6	GEN	_	
+9	5(disz)	5(disz)[one]	NU	NU	10	nummod	heuristic: NU premodifying	
+10	sila3-ta	sila[unit]-ta	N	N.ABL	6	LOC	_	
+11	gurusz-bi	gurusz[male]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	12	nmod	_	
+12	1(gesz2)	1(gesz)[sixty]	NU	NU	3	nummod	projectivity violation	
+13	3(u)	3(u)[ten]	NU	NU	15	nummod	_	
+14	6(disz)	6(disz)[one][-sze]	NU	NU	13	nummod	_	
+15	u4	ud[day]	N	N	4	appos	_	
+16	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	19	nummod	heuristic: NU premodifying	
+17	a2	a[time]	N	N	16	_	heuristic: attach to last	
+18	lu2	lu[person]	N	N	17	_	heuristic: attach to last	
+19	hun-ga	_[wages.hirelings]	V	NF.V.PT.GEN	0	_	_	
+20	ki	ki[place]	N	N	22	ABL	_	
+21	ur-sa6-ga-ta	_[Ur-saga]	PN	PN.GEN.ABL	22	acl	_	
+22	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	19	ABL	_	
+23	szu	szu[hand][-e]	N	N.L3-NH	4	appos	projectivity violation	
+24	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	22	acl	_	
+25	iti	iti[month]	N	N	27	_	_	
+26	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	27	_	_	
+27	mu	mu[year]	N	N	4	appos	_	
+28	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	27	appos	_	
+29	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	27	acl	_
+	
+

@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432122.atf new_text=P432122
+# train/P432122.atf						#new_text=P432122
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man the lord of Uruk king of Ur and king of Sumer and Akkad the House With a Foundation Clad in Fearsomeness his beloved temple he built and restored for him
+1	{d}nanna	Nanna[1][-ak]	DN	DN	0	root	_	
+

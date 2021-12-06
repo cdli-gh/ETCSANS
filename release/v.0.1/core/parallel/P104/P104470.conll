@@ -1,0 +1,78 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P104470.atf new_text=P104470
+# tr.en: oxen grain-fed rams Ku-Szara governor of Iim-Szulgi ox grain-fed rams Nisaba-andul chief household administrator unsealed by order of Szarakam from Abba-saga booked out under seal of Lu-bine by Szarakam to be transported month Festival-of-Szulgi year lord of Nanna was installed oxen grain-fed rams Ku-Szara governor of Iim-Szulgi ox grain-fed rams Nisaba-andul chief household administrator unsealed by order of Szarakam from Abba-saga booked out under seal of Lu-bine by Szarakam to be transported month Festival-of-Szulgi year lord of Nanna was installed Lu-dingira scribe son of Ur-saga
+# train/P104470.atf						#new_text=P104470
+1	2(disz)	2(disz)[one]	NU	NU	3	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	2(u)	2(u)[ten]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	udu	udu[sheep]	N	N	3	appos	_	
+6	ku3-{d}szara2	_[Ku-Szara]	PN	PN	3	appos	_	
+7	ensi2	ensik[ruler]	N	N	3	appos	_	
+8	i-szim-{d}szul-gi	_[of.Iim-Szulgi]	PN	PN	7	GEN	_	
+9	1(disz)	1(disz)[one]	NU	NU	10	nummod	_	
+10	gu4	gud[ox]	N	N	3	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	10	acl	_	
+12	1(u)	1(u)[ten]	NU	NU	13	nummod	heuristic: NU premodifying	
+13	udu	udu[sheep]	N	N	10	appos	_	
+14	{d}nisaba-an-dul3	_[Nisaba-andul.chief]	PN	PN	10	appos	_	
+15	szabra	szabra[chief_administrator][-ak]	N	N	16	nmod	_	
+16	szu	szu[hand][-e]	N	N.L3-NH	10	appos	_	
+17	la2-a	la[entrust]-a[-ø]	V	NF.V.PT	10	root	heuristic: after nominal head	
+18	kiszib3	kiszib[seal]	N	N	10	_	heuristic: after nominal head	
+19	nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	10	_	heuristic: after nominal head	
+20	inim	inim[word]	N	N	21	ERG	_	
+21	{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	51	ERG	projectivity violation	
+22	ki	ki[place]	N	N	23	ABL	_	
+23	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	51	ABL	projectivity violation	
+24	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	23	acl	_	
+25	kiszib3	kiszib[seal]	N	N	51	LOC	projectivity violation	
+26	lu2-bi-ne	_[Lu-bine]	PN	PN	25	GEN	_	
+27	{d}szara2-kam-e	_[by.Szarakam]	DN	DN	10	appos	_	
+28	tum3-dam	_[to.be.transported]	V	V	27	acl	_	
+29	iti	iti[month]	N	N	30	nmod	_	
+30	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	10	appos	_	
+31	mu	mu[year]	N	N	30	appos	_	
+32	en	en[priest]	N	N	34	ABS	_	
+33	{d}nanna	Nanna[1][-ak]	DN	DN	32	GEN	_	
+34	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	31	acl	_	
+35	2(disz)	2(disz)[one]	NU	NU	36	nummod	_	
+36	gu4	gud[ox]	N	N	34	ABS	_	
+37	niga	niga[fattened][-ø]	V	NF.V.ABS	36	acl	_	
+38	2(u)	2(u)[ten]	NU	NU	44	nummod	projectivity violation	
+39	udu	udu[sheep]	N	N	36	appos	_	
+40	ku3-{d}szara2	_[Ku-Szara]	PN	PN	36	appos	_	
+41	ensi2	ensik[ruler]	N	N	36	appos	_	
+42	i-szim-{d}szul-gi{ki}	_[Iim-Szulgi]	SN	SN	41	GEN	_	
+43	1(disz)	1(disz)[one]	NU	NU	44	nummod	heuristic: NU premodifying	
+44	gu4	gud[ox]	N	N	36	appos	_	
+45	niga	niga[fattened][-ø]	V	NF.V.ABS	44	acl	_	
+46	1(u)	1(u)[ten]	NU	NU	47	nummod	heuristic: NU premodifying	
+47	udu	udu[sheep]	N	N	44	appos	_	
+48	{d}nisaba-an-dul3	_[Nisaba-andul.chief]	PN	PN	44	appos	_	
+49	szabra	szabra[chief_administrator][-ak]	N	N	50	nmod	_	
+50	szu	szu[hand][-e]	N	N.L3-NH	44	appos	_	
+51	la2-a	la[entrust]-a[-ø]	V	NF.V.PT	0	_	_	
+52	kiszib3	kiszib[seal]	N	N	44	appos	heuristic: after nominal head	
+53	nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	44	acl	heuristic: after nominal head	
+54	inim	inim[word]	N	N	56	ERG	_	
+55	{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	0	ERG	_	
+56	ki	ki[place]	N	N	58	ABL	_	
+57	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	0	ABL	_	
+58	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	58	acl	_	
+59	kiszib3	kiszib[seal]	N	N	0	LOC	_	
+60	lu2-bi-ne	_[Lu-bine]	PN	PN	60	GEN	_	
+61	{d}szara2-kam-e	_[by.Szarakam]	DN	DN	44	appos	_	
+62	tum3-dam	_[to.be.transported]	V	V	62	acl	_	
+63	iti	iti[month]	N	N	65	nmod	_	
+64	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	44	appos	_	
+65	mu	mu[year]	N	N	65	appos	_	
+66	en	en[priest]	N	N	69	ABS	_	
+67	{d}nanna	Nanna[1][-ak]	DN	DN	67	GEN	_	
+68	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	66	acl	_	
+69	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	69	appos	_	
+70	dub-sar	dubsar[scribe]	N	N	70	appos	_	
+71	dumu	dumu[child]	N	N	70	appos	_	
+72	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	72	GEN	_
+	
+

@@ -1,0 +1,47 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P361739.atf new_text=P361739
+# dev/P361739.atf						#new_text=P361739
+# tr.en: gur barig sila shekels various pulses shekels coriander sila cumin sila shekels e-zibtum spice its bala pulse sila shekels sila shekels roughly crushed small pulses its bala pulse sila sila shekels crushed cumins its bala cumin sila shekels cumin e-zibtum spice crushed coriander its bala coriander sila shekels coriander ban sila shekels crushed sumac its bala sumac ban sila shekels shekels sumac sila shekels salt mana brick salt shekels e -zibtum spice its bala cumins sila barig ban sila crushed coriander its bala coriander barig ban sila barig ban sila crushed sumac its bala sumac barig ban gur barig ban sila salt sila cress seed regular provisions cut inof Ur total gur barig ban sila shekels various pulses total gur barig sila x of cumin total gur n ban sila shekels coriander total gur barig barig ban of e-zibtum spice barig sila cumins ban of cress seed barig sila ku-mul spice regular provisions king and booked-outs additional inof Nippur barig ban sila ground big pulses barig ban sila roughly crushed small pulses barig sila big pulses flour barig ban sila big pulses ban sila crushed cumin barig ban sila crushed coriander barig ban sila crushed sumac gur barig ban sila salt ban sila cress seed regular provisions inof Ur royal withdrawal total big pulses total barig ban sila crushed cumin its bala cumin barig ban sila total barig cumin total gur barig sila crushed coriander its bala coriander gur barig sila total gur coriander total gur barig ban sila shekels crushed sumac its bala sumac gur barig ban sila shekels total gur sumac total barig ban of e-zibtum spice total barig sila u-kur spice total ban sila cress seed total gur barig ban sila salt surplus cumin at ban each surplus ban sila e-zibtum spice at ban each surplus barig ban sila shekels salt at gur each its pulses gur barig ban sila shekels the surplus deficit having consumed deficit barig ban sila various pulses barig ban sila shekels coriander gur barig sila shekels sumac ban sila u-kur spice ban sila shekels cress seed sila shekels ku-mul spice ban sila zizibinum spice mana brick salt it is deficit account of spices Ur-Igalim from month Harvest to extra month Harvest it is months
+2	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+20	6(disz)	6(disz)[one][-sze]	NU	NU	0	nummod	_	
+21	5/6(disz)	5/6(disz)[one]	NU	NU	20	nummod	_	
+42	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+43	1/2(disz)	1/2(disz)[one]	NU	NU	42	nummod	_	
+47	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+48	6(disz)	6(disz)[one][-sze]	NU	NU	47	nummod	_	
+80	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+81	7(disz)	7(disz)[one][-sze]	NU	NU	80	nummod	_	
+160	4(asz)	4(asz)[one]	NU	NU	0	nummod	_	
+161	1(barig)	1(bariga)[unit]	NU	N	160	nummod	_	
+302	4(barig)	4(bariga)[unit]	NU	N	0	nummod	_	
+303	5(ban2)	5(ban)[unit]	NU	N	302	nummod	_	
+304	6(disz)	6(disz)[one][-sze]	NU	NU	302	nummod	_	
+312	4(barig)	4(bariga)[unit]	NU	N	0	nummod	_	
+313	5(ban2)	5(ban)[unit]	NU	N	312	nummod	_	
+314	6(disz)	6(disz)[one][-sze]	NU	NU	312	nummod	_	
+323	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+324	1(barig)	1(bariga)[unit]	NU	N	323	nummod	_	
+325	6(disz)	6(disz)[one][-sze]	NU	NU	323	nummod	_	
+334	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+335	1(barig)	1(bariga)[unit]	NU	N	334	nummod	_	
+336	6(disz)	6(disz)[one][-sze]	NU	NU	334	nummod	_	
+346	4(asz)	4(asz)[one]	NU	NU	0	nummod	_	
+347	3(barig)	3(bariga)[unit]	NU	N	346	nummod	_	
+348	2(ban2)	2(ban)[unit]	NU	N	346	nummod	_	
+359	9(asz)	9(asz)[one]	NU	NU	0	nummod	_	
+360	1(barig)	1(bariga)[unit]	NU	N	359	nummod	_	
+361	5(ban2)	5(ban)[unit]	NU	N	359	nummod	_	
+362	6(disz)	6(disz)[one][-sze]	NU	NU	359	nummod	_	
+392	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+393	9(asz)	9(asz)[one]	NU	NU	392	nummod	_	
+394	1(barig)	1(bariga)[unit]	NU	N	392	nummod	_	
+395	4(ban2)	4(ban)[unit]	NU	N	392	nummod	_	
+408	5(ban2)	5(ban)[unit]	NU	N	0	nummod	_	
+409	8(disz)	8(disz)[one]	NU	NU	408	nummod	_	
+416	3(barig)	3(bariga)[unit]	NU	N	0	nummod	_	
+417	4(ban2)	4(ban)[unit]	NU	N	416	nummod	_	
+428	5(asz)	5(asz)[one]	NU	NU	0	nummod	_	
+429	1(barig)	1(bariga)[unit]	NU	N	428	nummod	_	
+430	4(ban2)	4(ban)[unit]	NU	N	428	nummod	_	
+431	8(disz)	8(disz)[one]	NU	NU	428	nummod	_	
+

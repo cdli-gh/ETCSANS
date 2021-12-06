@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P320228.atf
+# tr.en: gur ban barley royal as a barley loan from UrNI Ur-nigar has received under seal of Atu month Amar-ayasi year Urbilum was destroyed
+1	2(asz)	2(asz)[one]	NU	NU	0	nummod	_	
+2	4(ban2)	4(ban)[unit]	NU	N	3	nummod	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	gur	gur[unit]	N	N	3	appos	_	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	sze	sze[barley]	N	N	7	nmod	_	
+7	ur5-ra-sze3	_[as.a.loan]	DET	DET	5	LOC	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	ur-NI-ta	_[UrNI]	PN	PN.GEN.ABL	7	ABL	_	
+10	ur-nigar	Urnigar[1][-ak]	PN	PN.GEN	12	ABS	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	3	acl	_	
+13	kiszib3	kiszib[seal]	N	N	3	appos	_	
+14	a-tu	Atu[1][-ak]	PN	PN	13	GEN	_	
+15	iti	iti[month]	N	N	16	_	_	
+16	amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	3	appos	_	
+17	mu	mu[year]	N	N	16	appos	_	
+18	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	19	ABS	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_
+	
+

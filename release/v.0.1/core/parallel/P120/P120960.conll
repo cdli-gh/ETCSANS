@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekels silver labor of Ur-dukuga in one year from PAu did Ur-dukuga recieve if for day he does not work that ban barley for each will be weighed out the royal name he invoked PAda Ur-Tummal chief surveyor Szekalla son of Dudu are witnesses from month NENEgar th day completed year Simurrum was destroyed
+# train/P120960.atf
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	gin2	gig[unit]	N	N	3	nmod	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	11	ERG	_	
+4	a2	a[time]	N	N	3	appos	_	
+5	ur-du6-ku3-ga-x	_[of.Ur-dukuga]	PN	PN	4	GEN	_	
+6	mu	mu[year]	N	N	3	_	heuristic: after nominal head	
+7	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	3	nummod	_	
+8	an-na-DU	_[in.one.year]	PN	PN.GEN.ABL	3	LOC	_	
+9	ki	ki[place]	N	N	10	ABL	_	
+10	PA-u2-ta	_[PAu]	PN	PN	3	ABL	_	
+11	ur-du6-ku3-ga-ke4	_[did.Ur-dukuga]	PN	PN	0	root	_	
+12	szu	szu[hand][-e]	N	N.L3-NH	11	appos	_	
+13	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	11	acl	_	
+14	tukum-bi	tukumbi[if]	CNJ	CNJ	17	_	_	
+15	u4	ud[day]	N	N	17	DAT	_	
+16	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	17	nummod	_	
+17	ga2-la	_[he.work]	N	N.2-SG-POSS.ABS	11	parataxis	_	
+18	in-dag	_[does.not]	V	V	17	acl	_	
+19	sze	sze[barley]	N	N	21	ABS	projectivity violation	
+20	3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	17	nummod	_	
+21	ag2-e-da	_[that.ban.for.each.will.be.weighed.out]	V	NF.V.F.ABS.COP-3-SG	17	acl	projectivity violation	
+22	mu	mu[year]	N	N	23	_	_	
+23	lugal-bi	_[the.royal.name.he.invoked]	N	N	20	appos	_	
+24	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	26	acl	_	
+25	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+26	PA-da	_[PAda]	PN	PN	34	ABS	_	
+27	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+28	ur-tum-al	_[Ur-Tummal]	PN	PN.GEN.DAT-H	29	acl	_	
+29	sa12-du5	sagDUN[land_recorder][-ak]	N	N	26	appos	_	
+30	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+31	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	26	appos	_	
+32	dumu	dumu[child]	N	N	26	appos	_	
+33	du-du	Dudu[1]	PN	PN	32	GEN	_	
+34	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	23	parataxis	_	
+35	iti	iti[month]	N	N	34	ABL	_	
+36	NE-NE-gar	_[from.NENEgar]	PN	PN	35	ABL	_	
+37	u4	ud[day]	N	N	34	appos	_	
+38	1(u)	1(u)[ten]	NU	NU	34	nummod	projectivity violation	
+39	5(disz)	5(disz)[one]	NU	NU	38	nummod	_	
+40	ba-zal-ta	_[completed]	V	MID.V.3-SG-S.ABL	37	acl	_	
+41	mu	mu[year]	N	N	34	appos	_	
+42	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	43	ABS	_	
+43	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	34	acl	_
+	
+

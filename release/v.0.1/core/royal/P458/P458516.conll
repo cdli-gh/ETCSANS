@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Itr-ilum governor of Babylon Iur-ilum scribe his son
+1	i-tur2-dingir	i-tur₂-DIŊIR[1]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	babila{ki}	|KAN₄.DIŊIR|{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	i-s,ur-dingir	|KAN₄.DIŊIR|{ki}[1]+i-ṣur-DIŊIR[1]	PN	PN	1	_	_
+5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_
+6	dumu-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	4	appos	_
+

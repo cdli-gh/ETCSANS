@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ewe of mountainland slaughtered from Urru under seal of Lukalla month Barley at quay year after Enmagalana was installed Lukalla scribe son of Ur-ee chief livestock manager
+# train/P102306.atf new_text=P102306
+# train/P102306.atf						#new_text=P102306
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	projectivity violation	
+2	u8	u[ewe]	N	N	0	root	_	
+3	kur-ra	kur[mountain]-ak	N	N.GEN.ABS	2	GEN	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ur-ru-ta	Urru[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+7	kiszib3	kiszib[seal]	N	N	4	LOC	_	
+8	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	7	GEN	_	
+9	iti	iti[month]	N	N	14	_	_	
+10	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	14	_	_	
+11	mu	mu[year]	N	N	14	_	_	
+12	us2-sa	us[follow]-a	V	NF.V.PT	11	acl	_	
+13	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	14	ABS	_	
+14	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	2	acl	_	
+

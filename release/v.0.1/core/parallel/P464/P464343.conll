@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P464343.atf						#new_text=P464343
+# tr.en: n sila x ban sila dried cheese gur barig ban sila dates from Szu-Edar received year Szu-Suen king of Ur house of Szara in Umma erected Nr-il scribe son of Ur-Dumuzi scribe
+# train/P464343.atf new_text=P464343
+2	2(disz)	2(disz)[one]	NU	NU	5	nummod	projectivity violation	
+3	1/2(disz)	1/2(disz)[one]	NU	NU	7	nummod	projectivity violation	
+4	sila3	sila[unit]	N	N	5	nmod	_	
+5	x	_[_]	N	N	9	dep	_	
+6	4(ban2)	4(ban)[unit]	NU	N	9	nummod	projectivity violation	
+7	8(disz)	8(disz)[one]	NU	NU	5	nummod	_	
+8	sila3	sila[unit]	N	N	7	appos	_	
+9	ga-ar3	ga'ar[cheese]	N	N	0	root	_	
+10	1(u)	1(u)[ten]	NU	NU	9	nummod	_	
+11	8(asz)	8(asz)[one]	NU	NU	10	nummod	_	
+12	3(barig)	3(bariga)[unit]	NU	N	10	nummod	_	
+13	3(ban2)	3(ban)[unit]	NU	N	10	nummod	_	
+14	5(disz)	5(disz)[one]	NU	NU	17	nummod	_	
+15	sila3	sila[unit]	N	N	16	nmod	_	
+16	zu2-lum	zulum[date]	N	N	14	appos	_	
+17	gur	gur[unit]	N	N	9	appos	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	szu-esz18-dar-ta	_[Szu-Edar]	PN	PN.GEN.ABL	9	ABL	_	
+20	...	_[_]	PN	N	9	dep	heuristic: after nominal head	
+21	szu	szu[hand][-e]	N	N.L3-NH	9	appos	_	
+22	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	9	acl	_	
+23	mu	mu[year]	N	N	9	parataxis	_	
+24	{d}szu-{d}suen	Szusuen[1]	RN	RN	23	appos	_	
+25	lugal	lugal[king]	N	N	24	appos	_	
+26	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	25	GEN	_	
+27	e2	e[house]	N	N	30	ABS	_	
+28	{d}szara2	Szara[1][-ak]	DN	DN	27	GEN	_	
+29	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	27	LOC	_	
+30	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	24	acl	_	
+31	nu-ur2-i3-li2	Nurili[1]	PN	PN	9	appos	_	
+32	dub-sar	dubsar[scribe]	N	N	9	appos	_	
+33	dumu	dumu[child]	N	N	9	appos	_	
+34	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	33	GEN	_	
+35	dub-sar	dubsar[scribe]	N	N	34	appos	_
+	
+

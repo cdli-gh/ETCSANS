@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: less lambs billy th day from Abbasaga did Intaea accept month Big-festival year Szaru was destroyed *RETOK*-la2 _ _ _ _ la2 la[hang][-ø] V NF.V.ABS D
+# tr.en: less lambs billy th day from Abbasaga did Intaea accept month Big-festival year Szaru was destroyed	*RETOK*-la2	_	_	_	_	la2	la[hang][-ø]	V	NF.V.ABS	D
+# dev/P482028.atf new_text=P482028
+# dev/P482028.atf						#new_text=P482028
+1	sila4	sila[lamb]	N	N	0	_	_	
+2	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+3	masz2	masz[goat]	N	N	0	root	_	
+4	u4	ud[day]	N	N	6	acl	_	
+5	3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	0	nummod	_	
+6	ki	ki[place]	N	N	9	ABL	heuristic: attach to head	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	9	root	heuristic: attach to head	
+8	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	9	root	heuristic: attach to head	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	9	root	heuristic: attach to head	
+10	iti	iti[month]	N	N	9	appos	_	
+11	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	0	root	_	
+12	mu	mu[year]	N	N	19	_	_	
+13	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	19	_	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_	
+15	1(u)	1(u)[ten]	NU	NU	0	nummod	_
+	
+

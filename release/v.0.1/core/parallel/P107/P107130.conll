@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P107130.atf
+# tr.en: Basket-of-tablets accounts of labor of harvest and labor of wintertime of chief household administrators are here year en- of Nanna of Karzida was hired
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	8	ABS	_	
+3	a2	a[time]	N	N	2	GEN	_	
+4	buru14	_[harvest]	N	N	3	GEN	_	
+5	a2	a[time]	N	N	3	appos	_	
+6	en-te	_[and.wintertime]	PN	PN	3	appos	_	
+7	szabra-ne	_[chief.household.administrators]	PN	PN	2	GEN	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+9	mu	mu[year]	N	N	13	_	_	
+10	en	en[priest]	N	N	13	_	_	
+11	{d}nanna	Nanna[1][-ak]	DN	DN	13	GEN	_	
+12	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	11	GEN	_	
+13	ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	8	parataxis	_
+	
+

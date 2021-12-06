@@ -1,0 +1,740 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the queen of war and battle battering like a wild bull the Lady who for warriors craft was born who with mace arrows and quiver was presented all covered with astonishing qualities great daughter of Suen holding fifty divine powers the holy one Inanna Sz-Sin her beloved spouse in hostile land not obedient to him which wages war and combat like a huge flood and wind-storm which has risen up to sweep over its people of those powerful inimical evildoers to accomplish striking and smiting of them of those vital black-headed folk with famous name to obliterate name of them and to make all its big mountain ranges with distant flanks to submit Inanna by Enlil for Sz-Sin the mighty king king of Ur and king of four world quarters his helper was caused to become The two of them to his right and left came down from heaven King Sz-Sin the lapis lazuli Ekur By order of Enlil Sz-Sin the border of the god the god below the land its king in those wars and battles by might of Enlil and Ninlil Sz-Sin the mighty king king of Ur and king of four world quarters repeatedly vanquished them The rebellious lands the hostile territory flood the king a flood which sweeps over rebellious land whose orders make foreign land tremble whose might is pre-eminent his daughter to Simanum for a bride was given But Simnum Habra and all their lands against king did hostilites instigate His daughter from house where she resided they dislodged The Amorites people who the Tidnumites and Iamadiumites came out Their kings in their war and battles confronted him together By might of Enlil his master in war and battle with them he repeatedly vanquished them youthful Utu his daughter Simnum Habra and their lands hostilities against king did instigate His daughter from house where she resided they dislodged Sz-Sin the king of Ur their runners into captivity he took and their personnel he covered with earth Simnum Habra and all their lands their heads he slapped His daughter to her residence house he sent back Simnum Habra and all their lands to serve her he presented to her The evil persons which he had taken as booty for Enlil and Ninlil in borderland of Nippur Simnum he settled them and he built a city for them and set it apart from for them Of that city Sz-Sin was its god Since time fate was decreed no king with persons he had made into booty for Enlil and Ninlil in borderland of Nippur a city had ever founded but Sz-Sin the mighty king king of Ur and king of four world quarters Simnum he founded for them with persons he had made into his booty for Enlil and Ninlil on borderland of Nippur Simnum he settled for them Since that time the Amorites a destructive people with discernment like a wolfs pens A people who do not know barley a people who inof well-being together with by he put them all from above was all big mountain ranges as if by an eagle with neck to ground were put before him All their towns and villages which had been settled he made into ruined mounds Sz-Sin the mighty king the king of Ur given wisdom by Enki and great wisdom by the king of Nippur Sz-Sin he dislodged The Amorites a destructive people the Tidnumites and Iamadiumites came forth Its kings in war and combat to all quarters of sky they reached all governors Sz-Sin king Sz-Sin king their great forces At that time warrior by command of Enlil the brickwork of Ekur in war and battle in heaven and earth May a throne with a secure foundation be in country May his name in all lands be known Before all great gods may he most happily pass by and in lapis lazuli Ekur of Enlil may he lift high his shoulders Of my statue if off its standing place one removes it and a stone statue of himself one makes stand upon it or he who my handiwork shall erase
+# train/P432279.atf						#new_text=P432279
+# train/P432279.atf new_text=P432279
+1	'.	SEGM	XPOSTAG	XPOSTAG	10	nmod	_	
+2	...-la2	_	PN	PN	10	_	heuristic: before verbal head	
+3	'.	_	_	_	10	_	_	
+4	...-ni	_	PN	PN.GEN.ABS	10	_	heuristic: before verbal head	
+5	'.	_	_	_	10	_	heuristic: before verbal head	
+6	...	_[_]	PN	N	10	dep	heuristic: before verbal head	
+7	x-a-ba	_	PN	PN	10	_	heuristic: before verbal head	
+8	'.	_	_	_	10	_	heuristic: before verbal head	
+9	...	_[_]	PN	N	10	dep	heuristic: before verbal head	
+10	szen-szen-na	_[queen.war.and.battle]	V	V	0	_	detached for projectivity	
+11	'.	_	_	_	10	_	_	
+12	am-gin7!	_[battering.like.a]	N	N	10	acl	_	
+13	du7-du7	_[wild.bull]	V	V	12	acl	_	
+14	'.	_[the]	_	_	15	nmod	_	
+15	in-nin	_[Lady.who]	N	N	10	appos	_	
+16	nam-ur-sag-sze3	_[for.warriors.craft]	N	N.TERM	18	TERM	_	
+17	'.	_	_	_	18	_	_	
+18	tu-da	_[was.born]	PN	NF.V.SUB	15	acl	_	
+19	'.	_	_	_	18	_	heuristic: after nominal head	
+20	x	_[_]	N	N	18	dep	heuristic: after nominal head	
+21	{gesz}tukul	tukul[weapon][-'a]	N	N	18	_	heuristic: after nominal head	
+22	ti	_	N	N	18	_	heuristic: after nominal head	
+23	mar-uru5	_[who.with.mace.arrows.and.quiver]	N	N	26	ABS	_	
+24	'.	_	_	_	23	_	heuristic: attach to last	
+25	sag-sze3	_	N	N.TERM	24	_	heuristic: attach to last	
+26	rig7-a	_[was.presented]	V	NF.V.PT	18	acl	_	
+27	'.	_	_	_	26	_	heuristic: attach to head	
+28	mud5-me-gar	_[all.covered]	N	N	26	acl.ADV	_	
+29	dul4!-dul4-la	_[with.astonishing.qualities]	V	V	28	acl	_	
+30	'.	_	_	_	29	_	_	
+31	dumu	dumu[child]	N	N	29	_	heuristic: attach to head	
+32	gal	gal[big][-ø]	V	NF.V.ABS	33	acl	_	
+33	{d}suen-na	_[daughter.Suen]	PN	PN	29	appos	_	
+34	'.	_	_	_	29	_	_	
+35	me	_[holding]	N	N	29	acl	_	
+36	ninnu	_[fifty]	N	N	37	nummod	_	
+37	szu-du8	_[divine.powers]	N	N.3-SG-H-POSS	35	ABS	_	
+38	'.	_	_	_	40	_	_	
+39	ku3	kug[silver]	N	N	40	nmod	_	
+40	{d}inanna-ke4	_[the.holy.one.Inanna]	DN	DN.GEN.GEN.ERG	29	appos	_	
+41	'.	_	_	_	40	_	_	
+42	{d}szu-{d}suen	Szusuen[1]	RN	RN	40	_	heuristic: after nominal head	
+43	'.	_	_	_	40	_	_	
+44	mu10-us2	_[her]	N	N.ABS	45	nmod	_	
+45	ki-ag2-ga2-ni-ir	_[beloved.spouse]	N	NF.V.3-SG-H-POSS.DAT-H	40	appos	_	
+46	'.	_	_	_	40	_	heuristic: after nominal head	
+47	kur	kur[east]	N	N	40	LOC	_	
+48	gu2	gun[unit]	N	N	47	_	heuristic: after nominal head	
+49	erim2-gal2	_[in.hostile]	AJ	AJ	47	LOC	_	
+50	'.	_	_	_	47	_	heuristic: after nominal head	
+51	nu-sze-ga-na	_[not.obedient.to.him]	V	V	47	acl	_	
+52	'.	_	_	_	53	_	_	
+53	me3	_[war]	N	N.GEN	122	ERG	_	
+54	gesz	gesz[tree]	N	N	53	_	heuristic: after nominal head	
+55	gesz-sze3	_[which.wages]	N	N	122	ABS	projectivity violation	
+56	la2-a-kam	_[and.combat]	V	NF.V.PT.ABS.COP-3-SG	53	acl	_	
+57	'.	_	_	_	56	_	heuristic: attach to last	
+58	a-ma-ru	_[like.a.huge.flood]	N	N	53	appos	_	
+59	u18	_[and]	V	V	58	acl	_	
+60	mah	mah[great][-ø][-ø]	V	NF.V	58	acl	_	
+61	'.	_	_	_	60	_	heuristic: attach to last	
+62	zi-ga-gin7	_[which.has.risen.up]	N	N	58	acl	_	
+63	'.	_	_	_	62	_	heuristic: attach to last	
+64	ug3-ba	_[to.sweep]	N	N	62	LOC	_	
+65	ur3-ur3-de3	_[over.its.people]	V	V	64	acl	_	
+66	'.	_	_	_	65	_	heuristic: attach to last	
+67	a2	a[time]	N	N	66	_	heuristic: attach to last	
+68	tuku	tuku[acquire][-a]	V	NF.V.PT	71	acl	_	
+69	hul-gal2	_[powerful.inimical]	AJ	AJ	71	acl	_	
+70	'.	_	_	_	69	_	heuristic: attach to last	
+71	erim2-du-bi-ne	_[evildoers]	PN	PN	65	GEN	_	
+72	'.	_	_	_	71	_	heuristic: attach to last	
+73	tu11-tu11	_[to.accomplish]	V	V	62	acl	_	
+74	tu10-tu10-bi	_[striking.and]	V	V	73	ABS	_	
+75	ak-de3	ak[apply]-ed-e	V	NF.V.F.DAT-NH	74	appos	_	
+76	'.	_	_	_	75	_	heuristic: attach to last	
+77	sag-ge6	_[vital.black-headed]	N	N	78	acl	_	
+78	zi-gal2	_[those.folk]	AJ	AJ	53	appos	_	
+79	'.	_	_	_	78	_	heuristic: attach to last	
+80	mu	mu[year]	N	N	79	_	heuristic: attach to last	
+81	tuku-ba	_[with.famous.name]	V	NF.V.PT.ABS	78	COM	_	
+82	'.	_	_	_	81	_	heuristic: attach to last	
+83	mu-bi	mu[name]-bi[-ø]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	84	ABS	_	
+84	ha-lam-e-de3	_[to.obliterate.them]	V	V	78	acl	_	
+85	'.	_	_	_	84	_	heuristic: attach to last	
+86	hur-sag	_[and]	N	N	53	appos	_	
+87	gal-gal	_[to.make.all.its.big.mountain.ranges]	V	NF.V.3-SG-NH-POSS.ABS	53	acl	_	
+88	'.	_	_	_	87	_	heuristic: attach to last	
+89	a2	a[time]	N	N	88	_	heuristic: attach to last	
+90	su3-ra2-bi	_[with.distant.flanks]	V	V	87	COM	_	
+91	'.	_	_	_	90	_	heuristic: attach to last	
+92	gu2	gun[unit]	N	N	91	_	heuristic: attach to last	
+93	ki-sze3	_[to]	N	N.GEN.TERM	94	_	_	
+94	ga2-ga2-de3	_[submit]	V	NF.V.ABS.GEN.GEN	87	acl	_	
+95	'.	_	_	_	94	_	heuristic: attach to last	
+96	{d}inanna	Inanna[1][-ak]	DN	DN	94	ABS	_	
+97	{d}en-lil2-le	_[by.Enlil]	DN	DN.ERG	96	ERG	_	
+98	'.	_[for]	N	N	96	DAT	_	
+99	{d}szu-{d}suen	Szusuen[1]	RN	RN	96	appos	_	
+100	'.	_[the]	_	_	101	nmod	_	
+101	lugal	lugal[king]	N	N	96	appos	_	
+102	kal-ga	kalag[strong]-a	V	NF.V.SUB	101	acl	_	
+103	'.	_	_	_	102	_	heuristic: attach to last	
+104	lugal	lugal[king]	N	N	96	appos	_	
+105	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	104	GEN	_	
+106	'.	_[and]	N	N	96	appos	_	
+107	lugal	lugal[king]	N	N	96	appos	_	
+108	an	An[1][-ra]	N	N	110	nummod	_	
+109	ub-da	_[world]	N	N	110	nmod	_	
+110	limmu2-ba-ra	_[quarters]	V	V	96	acl	_	
+111	'.	_	_	_	110	_	heuristic: attach to last	
+112	a2-dah-a-na	_[his.helper]	PN	PN	114	ABS	_	
+113	'.	_	_	_	112	_	heuristic: attach to last	
+114	mu-na-ni-ku4-ku4	_[was.caused.to.become]	V	VEN.3-SG-H-A.V.3-SG-P.ABS	96	acl	_	
+115	'.	_	_	_	114	_	heuristic: attach to last	
+116	min3-na-ne-ne	_[The.two.them]	PN	PN.DAT-H	53	appos	_	
+117	'.	_	_	_	116	_	heuristic: attach to last	
+118	zi-da	zid[right]-a	V	NF.V.PT	116	acl	_	
+119	gub3-bu-na	_[and.left]	V	NF.V.PT.GEN	53	acl	_	
+120	'.	_	_	_	122	_	heuristic: before verbal head	
+121	an-ta	_[from]	N	N	122	ABL	_	
+122	mu-e3!-esz	_[came.down.heaven]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	51	acl	_	
+123	'.	_	_	_	0	_	_	
+124	lugal	lugal[king]	N	N	125	nmod	_	
+125	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	_	detached for projectivity	
+126	'.	_	_	_	0	_	_	
+127	...	_[_]	PN	N	126	dep	heuristic: attach to head	
+128	'.	_	_	_	126	_	heuristic: attach to head	
+129	...	_[_]	PN	N	126	dep	heuristic: attach to head	
+130	'.	_	_	_	126	_	heuristic: attach to head	
+131	e2-kur	_[the.lapis]	TN	TN	132	nmod	_	
+132	za-gin3	_[lazuli.Ekur]	PN	PN	0	_	detached for projectivity	
+133	'.	_	_	_	132	_	heuristic: after nominal head	
+134	...	_[_]	PN	N	132	dep	heuristic: after nominal head	
+135	'.	_	_	_	132	_	heuristic: after nominal head	
+136	...	_[_]	PN	N	132	dep	heuristic: after nominal head	
+137	'.	_	_	_	132	_	heuristic: after nominal head	
+138	...	_[_]	PN	N	132	dep	heuristic: after nominal head	
+139	'.	_	_	_	132	_	heuristic: after nominal head	
+140	inim	inim[word]	N	N	126	ERG	projectivity violation	
+141	{d}en-lil2-la2-ta	Enlil[1]-ak-ta	PN	DN.GEN.ABL	144	ERG	_	
+142	'.	_	_	_	0	_	_	
+143	...	_[_]	PN	N	146	dep	heuristic: attach to last	
+144	'.	_	_	_	147	_	heuristic: attach to last	
+145	...	_[_]	PN	N	148	dep	heuristic: attach to last	
+146	'.	_	_	_	149	_	heuristic: attach to last	
+147	{d}szu-{d}suen	Szusuen[1]	RN	RN	146	acl	_	
+148	'.	_[the]	_	_	132	appos	_	
+149	x	_[_]	N	N	152	dep	heuristic: attach to last	
+150	...	_[_]	PN	N	153	dep	heuristic: attach to last	
+151	'.	_	N	N	0	_	_	
+152	za3	_	N	N	155	_	heuristic: attach to last	
+153	...	_[_]	PN	N	156	dep	heuristic: attach to last	
+154	'.	_	_	_	157	_	heuristic: attach to last	
+155	{d}...	_[1][-'a]	MN	DN.GEN	132	GEN	projectivity violation	
+156	'.	_	N	N	155	appos	_	
+157	{d}...	_[1][-'a]	MN	DN.GEN	160	appos	_	
+158	'.	_	_	_	0	_	_	
+159	sig	_[below]	V	V	162	LOC	_	
+160	...	_[_]	PN	N	0	dep	_	
+161	'.	_	_	_	0	_	_	
+162	x	_[_]	N	N	0	dep	_	
+163	...	_[_]	PN	N	0	dep	_	
+164	'.	_[the]	_	_	175	nmod	_	
+165	NI	_	PN	PN	175	_	heuristic: attach to head	
+166	...	_[_]	PN	N	175	dep	heuristic: attach to head	
+167	'.	_	_	_	175	_	heuristic: attach to head	
+168	kur	kur[east]	N	N	175	nmod	_	
+169	...	_[_]	PN	N	172	dep	heuristic: after nominal	
+170	'.	_	_	_	172	_	heuristic: after nominal	
+171	x	_[_]	N	N	0	dep	_	
+172	...	_[_]	PN	N	0	dep	_	
+173	'.	_	_	_	0	_	_	
+174	lugal-bi	_[its.king]	N	N	0	ABS	_	
+175	'.	_	_	_	178	_	heuristic: after nominal head	
+176	me3	_[in]	N	N.GEN	181	LOC	_	
+177	szen-szen-ba	_[those.wars.and.battles]	V	V	178	acl	_	
+178	'.	_	_	_	0	_	_	
+179	x	_[_]	N	N	0	dep	_	
+180	{d}en-lil2	Enlil[1]	DN	DN	0	ERG	_	
+181	'.	_	N	N	184	appos	_	
+182	{d}nin-lil2-la2-ta	_[and.Ninlil]	DN	DN.GEN.ABL	184	appos	_	
+183	'.	_	_	_	0	_	detached for projectivity	
+184	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	_	_	
+185	'.	_[the]	_	_	190	nmod	_	
+186	lugal	lugal[king]	N	N	0	nmod	_	
+187	kal-ga	kalag[strong]-a	V	NF.V.SUB	190	acl	_	
+188	'.	_	_	_	190	_	heuristic: after nominal head	
+189	lugal	lugal[king]	N	N	190	appos	_	
+190	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	193	GEN	_	
+191	'.	_	_	_	190	_	heuristic: after nominal head	
+192	lugal	lugal[king]	N	N	190	appos	_	
+193	an	An[1][-ra]	N	N	190	nummod	_	
+194	ub-da	_[world]	N	N	190	appos	_	
+195	limmu2-ba-ke4	_[and.quarters]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	190	nummod	_	
+196	'.	_	_	_	0	_	detached for projectivity	
+197	aga3-kar2	_[repeatedly]	N	N	202	_	_	
+198	bi2-se3-se3	_[vanquished.them]	V	3-SG-NH.L2.V.3-SG-P.SUB.TERM	0	acl	_	
+199	'.	_	N	N	0	appos	_	
+200	kur	kur[east]	N	N	203	ABS	_	
+201	bala	bala[turn][-'a]	N	N.L1	203	_	heuristic: after nominal head	
+202	x	_[_]	N	N	203	dep	heuristic: after nominal head	
+203	x	_[_]	N	N	203	dep	heuristic: after nominal head	
+204	'.	_[the]	_	_	210	nmod	_	
+205	gu2	gun[unit]	N	N	208	_	heuristic: attach to last	
+206	erim2-gal2	_[hostile.territory]	AJ	AJ	219	ERG	_	
+207	'.	_	_	_	210	_	heuristic: attach to last	
+208	x	_[_]	N	N	211	dep	heuristic: attach to last	
+209	...	_[_]	PN	N	212	dep	heuristic: attach to last	
+210	'.	_	_	_	213	_	heuristic: attach to last	
+211	x	_[_]	N	N	214	dep	heuristic: attach to last	
+212	x	_[_]	N	N	215	dep	heuristic: attach to last	
+213	x	_[_]	N	N	216	dep	heuristic: attach to last	
+214	x	_[_]	N	N	217	dep	heuristic: attach to last	
+215	a-ma-ru	_[flood]	N	N	203	parataxis	_	
+216	'.	_[the]	_	_	221	nmod	_	
+217	lugal	lugal[king]	N	N	219	ERG	_	
+218	x	_[_]	N	N	219	dep	heuristic: after nominal head	
+219	x	_[_]	N	N	219	dep	heuristic: after nominal head	
+220	x	_[_]	N	N	219	dep	heuristic: after nominal head	
+221	a-ma-ru	_[a.flood]	N	N	219	ABS	_	
+222	'.	_	_	_	225	_	heuristic: after nominal head	
+223	ki-bala-a	_[which.sweeps.over.rebellious]	N	N.3-SG-NH-POSS.GEN	225	acl	_	
+224	ur3-ur3	_[land]	V	V	227	acl	_	
+225	'.	_	_	_	233	_	heuristic: before verb	
+226	a2-ag2-ga2-ni	_[whose.orders]	PN	PN	233	ABS	_	
+227	'.	_	_	_	233	_	heuristic: before verbal head	
+228	kur	kur[east]	N	N	233	ABS	_	
+229	tuk4-tuk4-e	_[make.foreign.tremble]	V	NF.V.SUB.GEN.L3-NH	228	acl	_	
+230	'.	_	_	_	228	_	heuristic: attach to head	
+231	kal-ga-ni	_[whose.might]	PN	PN	237	ABS	_	
+232	'.	_	_	_	237	_	_	
+233	sag-bi-sze3	_[is.pre-eminent]	N	N	228	acl	_	
+234	e3-a	e[leave]-a	V	NF.V.PT	237	_	heuristic: after nominal head	
+235	'.	_	_	_	237	_	heuristic: after nominal head	
+236	dumu-munus-a-ni	_[his.daughter]	N	N.3-SG-H-POSS.ABS	247	ABS	_	
+237	'.	_	_	_	240	_	heuristic: attach to last	
+238	si-ma-num2{ki}-e	_[to.Simanum]	SN	SN.L3-NH	240	LOC	_	
+239	'.	_	_	_	242	_	heuristic: attach to last	
+240	nam-e2-gi4-a-bi-sze3	_[for.a.bride]	N	N	240	DAT	_	
+241	'.	_	_	_	244	_	heuristic: attach to last	
+242	...	_[_]	PN	N	245	dep	heuristic: attach to last	
+243	x-szum2	_[was.given]	PN	PN.GEN	237	parataxis	_	
+244	'.	_	_	_	0	_	detached for projectivity	
+245	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	0	appos	_	
+246	'.	_	_	_	259	_	_	
+247	ha-bu-ra{ki}	_[Habra]	SN	SN	259	nmod	_	
+248	'.	_	_	_	251	_	heuristic: after nominal	
+249	u3	u[and]	CNJ	CNJ	259	nmod	_	
+250	ma-da	mada[land][-ak][-ø]	N	N	259	nmod	_	
+251	ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	254	_	_	
+252	'.	_	_	_	254	_	heuristic: after nominal head	
+253	lugal-da	_[against.king]	PN	PN	254	LOC	_	
+254	gu2	gun[unit]	N	N	257	_	heuristic: attach to last	
+255	erim2	_[did.hostilites]	N	N	0	appos	_	
+256	'.	_	_	_	259	_	heuristic: after nominal head	
+257	ba-an-da-ab-gal2	_[instigate]	PN	PN	259	parataxis	_	
+258	'.	_	_	_	0	_	_	
+259	dumu-munus-a-ni	_[His.daughter]	N	N.3-SG-H-POSS.ABS	0	appos	_	
+260	'.	_	_	_	263	_	heuristic: after nominal head	
+261	e2	e[house]	N	N	263	ABL	_	
+262	ki-tusz-a-ni-ta	_[from.where.she.resided]	N	N	265	ABL	_	
+263	'.	_	_	_	265	_	heuristic: after nominal head	
+264	sag2	_	V	V	265	_	heuristic: after nominal head	
+265	im-ta-esz	_[they.dislodged]	V	V	265	acl	_	
+266	'.	_	N	N	271	acl	_	
+267	mar-tu	Martu[1][-ø]	EN	EN.ABS	283	ABS	projectivity violation	
+268	lu2	lu[person]	N	N	270	ABS	projectivity violation	
+269	x	_[_]	N	N	272	dep	heuristic: attach to last	
+270	x	_[_]	N	N	273	dep	heuristic: attach to last	
+271	x	_[_]	N	N	274	dep	heuristic: attach to last	
+272	'.	_	_	_	275	_	heuristic: attach to last	
+273	ti-id-nu-um	_[the.Tidnumites]	PN	PN	271	appos	_	
+274	x	_[_]	N	N	277	dep	heuristic: attach to last	
+275	KI	_	_	_	278	_	heuristic: attach to last	
+276	'.	_	_	_	279	_	heuristic: attach to last	
+277	ia3-a-ma-di3-um-da	_[and.Iamadiumites]	PN	PN	271	appos	_	
+278	'.	_	_	_	283	_	heuristic: before verbal head	
+279	im-ma-da-e3-esz	_[came.out]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	0	acl	_	
+280	'.	_	_	_	0	_	_	
+281	lugal-bi	_[Their.kings]	N	N	291	ABS	_	
+282	'.	_	_	_	285	_	heuristic: after nominal head	
+283	me3	_[in]	N	N.GEN	288	LOC	_	
+284	szen-szen-ba	_[their.war.and.battles]	V	V	285	acl	_	
+285	gaba	gaba[frontier][-ak]	N	N	291	_	heuristic: before verbal head	
+286	'.	_	_	_	291	_	heuristic: before verbal head	
+287	im-ma-na-da-ri-esz	_[confronted.him.together]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	0	acl	_	
+288	'.	_	_	_	0	_	_	
+289	a2	a[time]	N	N	294	ERG	_	
+290	{d}en-lil2	Enlil[1]	DN	DN	0	ERG	_	
+291	'.	_	_	_	294	_	_	
+292	lugal-na-ta	_[his.master]	N	N	294	appos	_	
+293	'.	_	_	_	294	_	heuristic: after nominal head	
+294	me3	_[in.war]	N	N.GEN	294	LOC	_	
+295	szen-szen-ba	_[and.battle.with.them]	V	V	298	acl	_	
+296	'.	_	_	_	294	_	heuristic: after nominal head	
+297	aga3-kar2	_[he.repeatedly]	N	N	302	ABS	_	
+298	bi2-se3-se3	_[vanquished.them]	V	3-SG-NH.L2.V.3-SG-P.SUB.TERM	294	acl	_	
+299	'.	_	N	N	0	appos	_	
+300	szul	_[youthful]	N	N	303	acl	_	
+301	{d}utu	Utu[1][-ra]	DN	DN	303	appos	_	
+302	...	_[_]	PN	N	303	dep	heuristic: after nominal head	
+303	'.	_	_	_	308	_	_	
+304	dumu-munus-a-ni	_[his.daughter]	N	N.3-SG-H-POSS.ABS	322	ABS	_	
+305	'.	_	_	_	310	_	_	
+306	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	308	appos	_	
+307	'.	_	_	_	310	_	_	
+308	ha-bu-ra{ki}	_[Habra]	SN	SN	310	appos	_	
+309	'.	_	_	_	312	_	heuristic: attach to last	
+310	u3	u[and]	CNJ	CNJ	308	appos	_	
+311	ma-da	mada[land][-ak][-ø]	N	N	318	nmod	_	
+312	ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	318	nmod	_	
+313	'.	_	_	_	316	_	heuristic: attach to last	
+314	lugal-da	_[hostilities.against]	PN	PN	308	appos	_	
+315	gu2	gun[unit]	N	N	318	_	heuristic: attach to last	
+316	erim2-gal2	_[king]	AJ	AJ	318	LOC	_	
+317	'.	_	_	_	320	_	heuristic: attach to last	
+318	ba-an-da-ab-gal2	_[did.instigate]	PN	PN	303	acl	_	
+319	'.	_	_	_	0	_	_	
+320	dumu-munus-a-ni	_[His.daughter]	N	N.3-SG-H-POSS.ABS	0	appos	_	
+321	'.	_	_	_	324	_	heuristic: after nominal head	
+322	e2	e[house]	N	N	324	ABL	_	
+323	ki-tusz-a-ni-ta	_[from.where.she.resided]	N	N	326	ABL	_	
+324	'.	_	_	_	326	_	heuristic: after nominal head	
+325	sag2	_	V	V	0	_	detached for projectivity	
+326	im-ta-esz-am3	_[they.dislodged]	V	V	326	acl	projectivity violation	
+327	'.	_	_	_	330	_	heuristic: attach to last	
+328	{d}szu-{d}suen	Szusuen[1]	RN	RN	331	_	heuristic: attach to last	
+329	lugal	lugal[king]	N	N	332	_	heuristic: attach to last	
+330	kal-ga	kalag[strong]-a	V	NF.V.SUB	333	_	heuristic: attach to last	
+331	'.	_[the]	_	_	336	nmod	_	
+332	lugal	lugal[king]	N	N	329	appos	_	
+333	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	336	GEN	_	
+334	'.	_	_	_	0	_	_	
+335	hur	_	AV	AV	0	_	_	
+336	...	_[_]	PN	N	0	dep	_	
+337	'.	_	_	_	0	_	_	
+338	am	am[bull][-ø]	N	N	0	_	_	
+339	TAR	_	PN	PN	0	_	_	
+340	x	_[_]	N	N	0	dep	_	
+341	...	_[_]	PN	N	0	dep	_	
+342	'.	_	_	_	0	_	_	
+343	x	_[_]	N	N	0	dep	_	
+344	...	_[_]	PN	N	0	dep	_	
+345	'.	_	_	_	0	_	_	
+346	du10	_[their]	N	N	351	nmod	_	
+347	tuku-bi	_[runners]	V	NF.V.3-SG-NH-POSS.ABS	0	nmod	_	
+348	szaga-a	_[into.captivity]	N	V.L1	351	TERM	_	
+349	'.	_	_	_	352	_	heuristic: after nominal head	
+350	mi-ni-in-dab5	_[he.took]	V	VEN.L1.3-SG-H-A.V.3-SG-P.SUB.L1	352	acl	_	
+351	'.	_	_	_	0	_	_	
+352	nam-lu2-u18-ba	_[and.their.personnel]	N	N	0	appos	_	
+353	'.	_	_	_	0	_	detached for projectivity	
+354	sahar	sahar[earth][-ø]	N	N.GEN	0	_	_	
+355	'.	_	V	V	361	_	_	
+356	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	0	appos	_	
+357	'.	_	_	_	361	_	_	
+358	ha-bu-ra{ki}	_[Habra]	SN	SN	361	appos	_	
+359	'.	_	_	_	361	_	heuristic: after nominal head	
+360	u3	u[and]	CNJ	CNJ	361	appos	_	
+361	ma-da	mada[land][-ak][-ø]	N	N	361	appos	_	
+362	ma-da-ba	_[all.their]	N	N.3-SG-NH-POSS.ABS	366	_	_	
+363	'.	_	_	_	0	_	_	
+364	sag-du-bi	_[their.heads]	N	N	0	appos	_	
+365	'.	_	_	_	369	_	heuristic: after nominal head	
+366	tibir2	_[he]	N	N	372	ABS	_	
+367	im-mi-ra	_[slapped]	V	FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	369	acl	_	
+368	'.	_	_	_	0	_	_	
+369	dumu-munus-a-ni	_[His.daughter]	N	N.3-SG-H-POSS.ABS	0	appos	_	
+370	'.	_	_	_	374	_	heuristic: after nominal head	
+371	e2	e[house]	N	N	374	_	heuristic: after nominal head	
+372	ki-tusz-a-ni-a	_[to.her.residence.house]	PN	PN	374	LOC	_	
+373	'.	_	_	_	374	_	heuristic: after nominal head	
+374	im-ma-szi-in-gi4	_[he.sent.back]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	374	acl	_	
+375	'.	_	_	_	381	_	_	
+376	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	0	appos	_	
+377	'.	_	_	_	381	_	_	
+378	ha-bu-ra{ki}	_[Habra]	SN	SN	381	appos	_	
+379	'.	_	_	_	381	_	heuristic: after nominal head	
+380	u3	u[and]	CNJ	CNJ	381	appos	_	
+381	ma-da	mada[land][-ak][-ø]	N	N	381	appos	_	
+382	ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	386	_	_	
+383	'.	_	_	_	386	_	heuristic: after nominal head	
+384	nam-ARAD2-da-ni-sze3	_[to.serve.her]	N	N.3-SG-H-POSS.TERM	386	acl	_	
+385	'.	_	_	_	389	_	heuristic: after nominal head	
+386	sag-sze3	_[he]	N	N.TERM	392	ABS	_	
+387	mu-ni-rig7	_[presented.to.her]	V	V	389	acl	_	
+388	'.	_	_	_	0	_	_	
+389	sag	sag[head]	N	N	0	_	_	
+390	erim2-gal2	_[The.evil.persons]	AJ	AJ	0	_	detached for projectivity	
+391	'.	_	_	_	398	_	heuristic: before verb	
+392	nam-ra-asz	_[which]	N	N.ADV	398	ABS	_	
+393	ak-ni	_[he.had.taken.as.booty]	V	NF.V.F.DAT-NH	395	acl	_	
+394	'.	_	_	_	0	_	_	
+395	{d}en-lil2	Enlil[1]	DN	DN	410	DAT	_	
+396	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	400	appos	_	
+397	'.	_	_	_	410	_	heuristic: before verbal head	
+398	ki-sur-ra	_[in.borderland]	FN	N	410	LOC	_	
+399	'.	_	_	_	403	_	heuristic: after nominal head	
+400	nibru{ki}-ka	_[of.Nippur]	PN	SN.GEN.GEN.ABS	407	GEN	_	
+401	'.	_	_	_	405	_	heuristic: attach to last	
+402	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	403	GEN	_	
+403	'.	_	_	_	410	_	_	
+404	ki	ki[place]	N	N	410	_	heuristic: before verbal head	
+405	mu-ne-gar	_[he.settled.them]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	0	acl	_	
+406	'.	_[and]	N	N	410	appos	_	
+407	iri{ki}	_[he.built.a.city]	N	N.3-SG-H-POSS.ABS	410	appos	_	
+408	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	412	acl	_	
+409	'.	_	_	_	412	_	heuristic: after nominal head	
+410	x-ta	_	PN	PN.GEN.ABL	412	_	heuristic: after nominal head	
+411	mu-ne-ta-an-gub	_[and.set.it.apart.from.for.them]	V	V	412	acl	_	
+412	'.	_	N	N	422	GEN	_	
+413	iri{ki}-ba	_[Of.that.city]	N	N.3-SG-H-POSS.L3-NH	417	GEN	_	
+414	'.	_	_	_	417	_	heuristic: after nominal	
+415	{d}szu-{d}suen	Szusuen[1]	RN	RN	417	_	heuristic: after nominal	
+416	'.	_	_	_	422	_	_	
+417	dingir-bi-im	_[was.its.god]	PN	PN	0	root	_	
+418	'.	_	_	_	422	_	heuristic: after nominal head	
+419	u4	ud[day]	N	N	422	_	heuristic: after nominal head	
+420	nam-tar-ra-ta	_[Since.time.fate.was.decreed]	N	N	718	LOC	projectivity violation	
+421	'.	_	_	_	425	_	heuristic: attach to last	
+422	lugal-na-me	_[no.king]	PN	PN	0	_	detached for projectivity	
+423	'.	_	_	_	427	_	heuristic: attach to last	
+424	sag	sag[head]	N	N	428	_	heuristic: attach to last	
+425	nam-ra-asz	_[booty]	N	N.ADV	431	TERM	_	
+426	ak-ni-ta	_[with.persons.he.had.made.into]	V	NF.V.ABS.ABL	427	acl	_	
+427	'.	_	_	_	431	_	heuristic: attach to last	
+428	{d}en-lil2	Enlil[1]	DN	DN	431	DAT	_	
+429	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	433	appos	_	
+430	'.	_	_	_	434	_	heuristic: attach to last	
+431	ki-sur-ra	_[in.borderland]	FN	N	431	LOC	_	
+432	'.	_	_	_	436	_	heuristic: attach to last	
+433	nibru{ki}-ka	_[of.Nippur]	PN	SN.GEN.GEN.ABS	436	GEN	_	
+434	'.	_	_	_	438	_	heuristic: attach to last	
+435	iri{ki}	_[a.city]	N	N.3-SG-H-POSS.ABS	443	ABS	_	
+436	'.	_	_	_	440	_	heuristic: attach to last	
+437	ki	ki[place]	N	N	441	_	heuristic: attach to last	
+438	nu-ne-gar	_[had.ever.founded]	V	V	436	acl	_	
+439	'.	_[but]	N	N	427	appos	_	
+440	{d}szu-{d}suen	Szusuen[1]	RN	RN	427	appos	_	
+441	'.	_[the]	_	_	447	nmod	_	
+442	lugal	lugal[king]	N	N	427	appos	_	
+443	kal-ga	kalag[strong]-a	V	NF.V.SUB	447	acl	_	
+444	'.	_	_	_	448	_	heuristic: attach to last	
+445	lugal	lugal[king]	N	N	427	appos	_	
+446	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	450	GEN	_	
+447	'.	_	_	_	451	_	heuristic: attach to last	
+448	lugal	lugal[king]	N	N	450	appos	_	
+449	an	An[1][-ra]	N	N	453	nummod	_	
+450	ub-da	_[world]	N	N	453	appos	_	
+451	limmu2-ba-ke4	_[and.quarters]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	450	nummod	_	
+452	'.	_	_	_	456	_	heuristic: attach to last	
+453	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	427	appos	_	
+454	'.	_	_	_	458	_	heuristic: attach to last	
+455	ki	ki[place]	N	N	0	_	_	
+456	mu-ne-gar	_[he.founded.for.them]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	458	acl	projectivity violation	
+457	'.	_	_	_	461	_	heuristic: attach to last	
+458	...	_[_]	PN	N	464	dep	heuristic: attach to last	
+459	x	_[_]	N	N	465	dep	heuristic: attach to last	
+460	x	_[_]	N	N	466	dep	heuristic: attach to last	
+461	...	_[_]	PN	N	467	dep	heuristic: attach to last	
+462	'.	_	_	_	468	_	heuristic: attach to last	
+463	...	_[_]	PN	N	469	dep	heuristic: attach to last	
+464	'.	_	_	_	470	_	heuristic: attach to last	
+465	...	_[_]	PN	N	471	dep	heuristic: attach to last	
+466	'.	_	_	_	472	_	heuristic: attach to last	
+467	...	_[_]	PN	N	473	dep	heuristic: attach to last	
+468	'.	_	_	_	474	_	heuristic: attach to last	
+469	...	_[_]	PN	N	475	dep	heuristic: attach to last	
+470	'.	_	_	_	476	_	heuristic: attach to last	
+471	sag	sag[head]	N	N	477	_	heuristic: attach to last	
+472	nam-ra-asz	_[booty]	N	N.ADV	480	DAT	_	
+473	ak-ni-ta	_[with.persons.he.had.made.into.his]	V	NF.V.ABS.ABL	460	acl	projectivity violation	
+474	'.	_	_	_	480	_	heuristic: attach to last	
+475	{d}en-lil2	Enlil[1]	DN	DN	479	DAT	projectivity violation	
+476	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	482	appos	_	
+477	'.	_	_	_	483	_	heuristic: attach to last	
+478	ki-sur-ra	_[on.borderland]	FN	N	480	LOC	_	
+479	'.	_	_	_	485	_	heuristic: attach to last	
+480	nibru{ki}-ka	_[of.Nippur]	PN	SN.GEN.GEN.ABS	489	GEN	_	
+481	'.	_	_	_	487	_	heuristic: attach to last	
+482	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	485	GEN	_	
+483	'.	_	_	_	489	_	heuristic: attach to last	
+484	ki	ki[place]	N	N	490	_	heuristic: attach to last	
+485	mu-ne-gar	_[he.settled.for.them]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	485	acl	_	
+486	'.	_	_	_	492	_	heuristic: attach to last	
+487	u4-bi-ta	_[Since.that.time]	N	N.GEN.ABL	427	LOC	_	
+488	'.	_[the]	_	_	498	nmod	projectivity violation	
+489	mar-tu	Martu[1][-ø]	EN	EN.ABS	427	appos	_	
+490	lu2	lu[person]	N	N	496	_	heuristic: attach to last	
+491	ha-lam-ma	_[Amorites.a.destructive.people]	V	V	427	acl	_	
+492	'.	_	_	_	498	_	heuristic: attach to last	
+493	dim2	_[with.discernment]	V	V	427	acl	_	
+494	'.	_	PN	PN	502	GEN	_	
+495	ur-bar-ra-gin7	_[like.a.wolfs]	PN	PN	500	acl	_	
+496	'.	_	_	_	504	_	_	
+497	tur3	_[pens]	N	N	502	appos	_	
+498	x	_[_]	N	N	504	dep	heuristic: attach to last	
+499	x	_[_]	N	N	505	dep	heuristic: attach to last	
+500	x	_[_]	N	N	506	dep	heuristic: attach to last	
+501	'.	_	_	_	507	_	heuristic: attach to last	
+502	lu2	lu[person]	N	N	508	_	heuristic: attach to last	
+503	sze	sze[barley]	N	N	511	ABS	_	
+504	nu-zu	_[A.people.who.do.not.know]	V	NEG.NF.V.PT.TERM.GEN.ABS	504	acl	_	
+505	'.	_	_	_	511	_	heuristic: attach to last	
+506	lu2	lu[person]	N	N	512	_	heuristic: attach to last	
+507	...-ga	_[a.people.who]	PN	PN	511	appos	_	
+508	'.	_	_	_	514	_	heuristic: attach to last	
+509	...	_[_]	PN	N	515	dep	heuristic: attach to last	
+510	silim-ma	silim[healthy]-a	V	NF.V.PT	0	_	detached for projectivity	
+511	'.	_	N	N	517	COM	_	
+512	...	_[_]	PN	N	518	dep	heuristic: attach to last	
+513	x-da	_[_]	PN	PN	519	_	heuristic: attach to last	
+514	'.	_	_	_	522	nmod	_	
+515	x	_[_]	N	N	518	dep	_	
+516	...-ke4	_[by]	DN	DN	522	ERG	_	
+517	'.	_	_	_	523	_	heuristic: attach to last	
+518	mu-un-se3-se3	_[he.put.them.all]	V	VEN.3-SG-H-A.V.3-SG-P.TERM	522	acl	_	
+519	'.	_	N	N	538	acl	_	
+520	...	_[_]	PN	N	526	dep	heuristic: attach to last	
+521	'.	_	_	_	527	_	heuristic: attach to last	
+522	...	_[_]	PN	N	528	dep	heuristic: attach to last	
+523	'.	_	_	_	529	_	heuristic: attach to last	
+524	...	_[_]	PN	N	530	dep	heuristic: attach to last	
+525	'.	_	_	_	531	_	heuristic: attach to last	
+526	...	_[_]	PN	N	532	dep	heuristic: attach to last	
+527	'.	_	_	_	533	_	heuristic: attach to last	
+528	...	_[_]	PN	N	534	dep	heuristic: attach to last	
+529	'.	_	_	_	535	_	heuristic: attach to last	
+530	u4	ud[day]	N	N	536	_	heuristic: attach to last	
+531	iri{ki}	_	N	N.3-SG-H-POSS.ABS	0	_	_	
+532	...	_[_]	PN	N	526	dep	_	
+533	'.	_	N	N	514	acl	projectivity violation	
+534	an-ta	_[from]	N	N	542	ABL	_	
+535	nam-mi-x	_[above.was]	PN	PN	526	ABL	projectivity violation	
+536	x	_[_]	N	N	542	dep	heuristic: attach to last	
+537	'.	_	_	_	543	_	heuristic: attach to last	
+538	hur-sag	_	N	N	544	_	heuristic: attach to last	
+539	gal-gal	_[all.big.mountain.ranges]	V	NF.V.3-SG-NH-POSS.ABS	540	acl	_	
+540	'.	_	_	_	548	_	_	
+541	hu-ri2-in-gin7	_[as.if.by.an.eagle]	N	N	546	EQU	_	
+542	'.	_	_	_	548	_	heuristic: attach to last	
+543	gu2	gun[unit]	N	N	549	_	heuristic: attach to last	
+544	ki-sze3	_[with.neck.to.ground]	N	N.GEN.TERM	548	COM	_	
+545	'.	_	_	_	553	_	_	
+546	ba-an-da-ab-gar	_[were.put.before.him]	V	V	546	parataxis	_	
+547	'.	_	_	_	553	_	heuristic: attach to last	
+548	iri{ki}	_	N	N.3-SG-H-POSS.ABS	554	_	heuristic: attach to last	
+549	a2-dam	_[All.their.towns.and.villages]	PN	PN	553	ABS	_	
+550	'.	_	_	_	556	_	heuristic: attach to last	
+551	ki-gar-gar-ra-bi	_[which.had.been.settled]	N	N.3-SG-NH-POSS	556	acl	_	
+552	'.	_	_	_	558	_	heuristic: attach to last	
+553	du6-du6-ra2	_[he.made]	N	N.GEN	558	parataxis	_	
+554	mi-ni-gar	_[into.ruined.mounds]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	560	acl	_	
+555	'.	_	N	N	540	appos	_	
+556	x	_[_]	N	N	562	dep	heuristic: attach to last	
+557	...	_[_]	PN	N	563	dep	heuristic: attach to last	
+558	'.	_	_	_	564	_	heuristic: attach to last	
+559	{d}szu-{d}suen	Szusuen[1]	RN	RN	565	_	heuristic: attach to last	
+560	'.	_[the]	_	_	568	nmod	_	
+561	lugal	lugal[king]	N	N	562	appos	_	
+562	kal-ga	kalag[strong]-a	V	NF.V.SUB	568	acl	_	
+563	'.	_[the]	_	_	571	nmod	_	
+564	lugal	lugal[king]	N	N	562	appos	_	
+565	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	571	GEN	_	
+566	'.	_	_	_	572	_	heuristic: attach to last	
+567	gesztu2	_[wisdom.by]	N	N	562	appos	_	
+568	szum2-ma	szum[garlic]-ak	V	N.GEN	574	acl	_	
+569	{d}en-ki-ka	Enkik[1][-ak]	DN	DN.GEN.ABS	574	ERG	_	
+570	'.	_[and]	N	N	576	appos	_	
+571	gesztu2	_[wisdom.by]	N	N	576	appos	_	
+572	mah	mah[great][-ø][-ø]	V	NF.V	578	acl	_	
+573	...	_[_]	PN	N	574	dep	_	
+574	'.	_[the]	_	_	582	nmod	_	
+575	lugal	lugal[king]	N	N	562	appos	_	
+576	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	586	nmod	_	
+577	...	_[_]	PN	N	583	dep	heuristic: attach to last	
+578	'.	_	_	_	584	_	heuristic: attach to last	
+579	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	_	_	
+580	'.	_	_	_	586	_	heuristic: attach to last	
+581	...	_[_]	PN	N	589	dep	_	
+582	'.	_[he.dislodged]	V	V	0	acl	_	
+583	nam-ma-...	_	PN	PN	589	_	heuristic: attach to last	
+584	'.	_	_	_	590	_	heuristic: attach to last	
+585	x	_[_]	N	N	591	dep	heuristic: attach to last	
+586	x	_[_]	N	N	592	dep	heuristic: attach to last	
+587	...	_[_]	PN	N	593	dep	heuristic: attach to last	
+588	'.	_	_	_	594	_	heuristic: attach to last	
+589	sag2	_	V	V	595	_	heuristic: attach to last	
+590	...	_[_]	PN	N	596	dep	heuristic: attach to last	
+591	'.	_	_	_	597	_	heuristic: attach to last	
+592	mar-tu	Martu[1][-ø]	EN	EN.ABS	601	nmod	_	
+593	lu2	lu[person]	N	N	599	_	heuristic: attach to last	
+594	ha-lam-ma	_[Amorites.a.destructive.people]	V	V	609	ERG	_	
+595	'.	_	_	_	601	_	_	
+596	ti-id-nu-um	_[the.Tidnumites]	PN	PN	604	nmod	_	
+597	...	_[_]	PN	N	601	dep	_	
+598	'.	_	_	_	604	_	heuristic: attach to last	
+599	ia3-a-ma-di-um	_[and.Iamadiumites]	PN	PN	601	appos	_	
+600	...	_[_]	PN	N	601	dep	_	
+601	'.	_	_	_	607	_	heuristic: attach to last	
+602	im-ma-da-e3-esz	_[came.forth]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	511	acl	_	
+603	'.	_	_	_	609	_	heuristic: attach to last	
+604	lugal	lugal[king]	N	N	610	_	heuristic: attach to last	
+605	x	_[_]	N	N	611	dep	heuristic: attach to last	
+606	x	_[_]	N	N	612	dep	heuristic: attach to last	
+607	...	_[_]	PN	N	0	dep	detached for projectivity	
+608	'.	_	V	V	614	acl	_	
+609	me3	_[in]	N	N.GEN	617	LOC	_	
+610	szen-szen-na	_[war.and.combat]	V	V	614	acl	_	
+611	'.	_	_	_	617	_	heuristic: attach to last	
+612	im-ma-du7-du7	_	PN	PN	618	_	heuristic: attach to last	
+613	'.	_	_	_	619	_	heuristic: attach to last	
+614	...	_[_]	PN	N	622	dep	heuristic: attach to last	
+615	'.	_	_	_	623	_	heuristic: attach to last	
+616	...	_[_]	PN	N	624	dep	heuristic: attach to last	
+617	'.	_	_	_	625	_	heuristic: attach to last	
+618	...	_[_]	PN	N	626	dep	heuristic: attach to last	
+619	'.	_	_	_	627	_	heuristic: attach to last	
+620	...	_[_]	PN	N	628	dep	heuristic: attach to last	
+621	'.	_	_	_	629	_	heuristic: attach to last	
+622	...	_[_]	PN	N	630	dep	heuristic: attach to last	
+623	'.	_[_]	PN	N	631	_	heuristic: attach to last	
+624	x-sze3	_	PN	PN.GEN.TERM	632	_	heuristic: attach to last	
+625	mi	_	N	N	633	_	heuristic: attach to last	
+626	du	gin[quality_designation][-ø]	V	NF.V.ABS	634	_	heuristic: attach to last	
+627	x	_[_]	N	N	635	dep	heuristic: attach to last	
+628	x	_[_]	N	N	636	dep	heuristic: attach to last	
+629	'.	_	_	_	637	_	heuristic: attach to last	
+630	ub-da	_	N	N	638	_	heuristic: attach to last	
+631	an-na-ke4	_[to.all.quarters.sky]	N	N	0	LOC	_	
+632	'.	_	_	_	640	_	heuristic: attach to last	
+633	sa2	sa[bundle]	N	N	643	ABS	_	
+634	bi2-in-ne-esz	_[reached]	V	3-SG-NH.L2.3-SG-H-A.V.PL.3-PL.SUB.GEN.TERM	640	acl	_	
+635	'.	_	V	V	0	acl	_	
+636	...	_[_]	PN	N	644	dep	heuristic: attach to last	
+637	x	_[_]	N	N	645	dep	heuristic: attach to last	
+638	HI	_	_	_	646	_	heuristic: attach to last	
+639	x	_[_]	N	N	647	dep	heuristic: attach to last	
+640	...	_[_]	PN	N	648	dep	heuristic: attach to last	
+641	'.	_	_	_	649	_	heuristic: attach to last	
+642	...	_[_]	PN	N	650	dep	heuristic: attach to last	
+643	ga	ga[milk]	N	N	651	_	heuristic: attach to last	
+644	x	_[_]	N	N	652	dep	heuristic: attach to last	
+645	...	_[_]	PN	N	653	dep	heuristic: attach to last	
+646	'.	_	_	_	654	_	heuristic: attach to last	
+647	ensi2-ensi2	_[all.governors]	N	N.ABS	644	ERG	_	
+648	'.	_	_	_	656	_	heuristic: attach to last	
+649	{d}szu-{d}suen	Szusuen[1]	RN	RN	659	nmod	_	
+650	lugal	lugal[king]	N	N	644	DAT	_	
+651	...	_[_]	PN	N	659	dep	heuristic: attach to last	
+652	'.	_	_	_	660	_	heuristic: attach to last	
+653	x	_[_]	N	N	644	dep	_	
+654	x	_[_]	N	N	662	dep	heuristic: attach to last	
+655	iri	iri[city]	N	N	640	appos	projectivity violation	
+656	...	_[_]	PN	N	664	dep	heuristic: attach to last	
+657	'.	_	_	_	665	_	heuristic: attach to last	
+658	{d}szu-{d}suen	Szusuen[1]	RN	RN	669	nmod	_	
+659	lugal	lugal[king]	N	N	662	appos	_	
+660	...	_[_]	PN	N	669	dep	heuristic: attach to last	
+661	'.	_	N	N	669	acl	_	
+662	a2-gal-bi	_[their.great.forces]	N	N.GEN.DEM2.ABS	671	appos	_	
+663	...	_[_]	PN	N	671	dep	_	
+664	'.	_	_	_	673	_	heuristic: attach to last	
+665	u4-ba	_[At.that.time]	N	N.DEM2.L1	671	LOC	_	
+666	x	_[_]	N	N	675	dep	heuristic: attach to last	
+667	x	_[_]	N	N	676	dep	heuristic: attach to last	
+668|668	ur-sag|ur-sag	_[warrior]|_[warrior]	N|N	N|N	422|427	appos|appos	heuristic: after nominal head; projectivity violation|heuristic: after nominal head; projectivity violation	
+669	x	_[_]	N	N	678	dep	heuristic: attach to last	
+670	...	_[_]	PN	N	679	dep	heuristic: attach to last	
+671	'.	_	_	_	683	_	_	
+672	inim	inim[word]	N	N	683	ERG	_	
+673	{d}en-lil2-la2-ta	Enlil[1]-ak-ta	PN	DN.GEN.ABL	427	ERG	_	
+674	'.	_	N	N	687	GEN	_	
+675	sig4	szeg[brick]	N	N	684	_	heuristic: attach to last	
+676	e2-kur-ra	_[the.brickwork.Ekur]	PN	N.GEN	687	nmod	_	
+677	...	_[_]	PN	N	0	dep	detached for projectivity	
+678	'.	_	_	_	687	_	heuristic: attach to last	
+679	me3	_[in]	N	N.GEN	690	LOC	_	
+680	szen-szen-na	_[war.and.battle]	V	V	684	acl	_	
+681	...	_[_]	PN	N	690	dep	heuristic: attach to last	
+682	'.	_[war.and.battle]	N	N	690	appos	_	
+683	ki-x-gi4	_	N	N	692	_	heuristic: attach to last	
+689	an-ki-a	_[in.heaven.and.earth]	N	N	700	LOC	_	
+690	...	_[_]	PN	N	690	dep	_	
+691	'.	_	_	_	700	_	heuristic: attach to last	
+692	...	_[_]	PN	N	701	dep	heuristic: attach to last	
+693	'.	_	_	_	702	_	heuristic: attach to last	
+694	...	_[_]	PN	N	703	dep	heuristic: attach to last	
+695	'.	_	_	_	704	_	heuristic: attach to last	
+696	...	_[_]	PN	N	705	dep	heuristic: attach to last	
+697	'.	_	_	_	706	_	heuristic: attach to last	
+698	{gesz}gu-za	guza[chair]	N	N	683	ABS	_	
+699	suhusz	_[May.with]	N	N	708	_	heuristic: attach to last	
+700	gi-na	gina[dues]	PN	N	708	appos	_	
+701	'.	_	_	_	710	_	heuristic: attach to last	
+702	kalam-ma	_[country]	N	N.GEN	683	LOC	_	
+703	he2-x	_[be.in]	V	V	683	acl	_	
+704	'.	_	_	_	713	_	heuristic: attach to last	
+705	mu-ni	_[May.his.name.in]	V	N.3-SG-H-POSS.ABS	718	acl	_	
+706	kur-kur-ra	_[all.lands]	N	N-RDP.GEN	718	LOC	_	
+707	'.	_	_	_	718	_	_	
+708	he2-zu	_[be.known]	N	N	422	parataxis	_	
+709	'.	_	_	_	718	_	heuristic: after nominal head	
+710	igi	igi[eye][-ø]	N	N	718	_	heuristic: after nominal head	
+711	dingir	_	PN	N	718	_	heuristic: after nominal head	
+712	gal-gal-ne-sze3	_[Before.all.great.gods]	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	718	acl	_	
+713	'.	_	_	_	718	_	heuristic: after nominal head	
+714	hul2-hul2!-la-ne2	_[may.he.most.happily]	V	NF.V.3-SG-H-POSS.ERG	726	_	_	
+715	'.	_	_	_	726	_	_	
+716	he2-dib-dib-e	_[pass.by]	V	V	718	acl	_	
+717	'.	_[and]	N	N	726	appos	_	
+718	e2-kur	_[in.lapis]	TN	TN	729	LOC	_	
+719	za-gin3	_[lazuli.Ekur]	PN	PN	726	appos	_	
+720	'.	_	_	_	729	_	heuristic: after nominal head	
+721	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	DN.GEN.ABS	734	GEN	_	
+722	'.	_	_	_	731	_	heuristic: attach to last	
+723	gu2	gun[unit]	N	N	732	_	heuristic: attach to last	
+724	an-sze3	_[may.he.lift.high]	N	N.TERM	729	acl	_	
+725	he2-ni-zi	_[his.shoulders]	V	V	734	acl	_	
+726	'.	_	_	_	726	_	_	
+727	alan-ga2	_[Of.my.statue]	N	N.GEN	726	GEN	_	
+728	'.	_	_	_	741	_	heuristic: before verb	
+729	ki-gub-bi	_[if.off.its.standing.place]	PN	PN	741	_	_	
+730	'.	_	_	_	741	_	_	
+731	ib2-da-ab-kur2-a	_[one.removes.it]	V	FIN.3-SG-NH-P.V.3-SG-A.SUB.X	726	parataxis	_	
+732	'.	_	_	_	741	_	heuristic: attach to last	
+733	alan-na-ni	_[and.a.stone.statue.himself]	N	N.3-SG-H-POSS.ABS	741	appos	_	
+734	'.	_	_	_	743	_	heuristic: attach to last	
+735	bi2-ib2-gub-a	_[one.makes.stand.upon.it]	V	3-SG-NH.L2.3-SG-NH-A.V.3-SG-P.SUB.ABS.COP-3-PL	741	appos	_	
+736	'.	_	_	_	741	_	heuristic: attach to head	
+737	nig2-dim2-ma-mu	_[or.he.who.my.handiwork]	PN	PN.DAT-H	741	appos	_	
+738	'.	_	_	_	741	_	heuristic: attach to head	
+739	ib2-zi-re-a	_[shall.erase]	PN	PN	741	acl	_
+	
+

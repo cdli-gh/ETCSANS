@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: fat tailed sheep alum-sheep large billy goats Irdu Martu lamb Lugal-azida chief household manager lamb Ributi lamb high-priestess of Inanna th day delivery Intaea received via Nanna-maba scribe month Akitu year Szu-Suen king
+# train/P384806.atf
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	gukkal	gukkal[fat-tailed_sheep]	N	N	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	7	nummod	projectivity violation	
+4	udu	udu[sheep]	N	N	3	_	heuristic: attach to last	
+5	a-lum	aslum[sheep_type]	N	N	2	acl	_	
+6	3(disz)	3(disz)[one]	NU	NU	7	nummod	_	
+7	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+8	ir-du10-{d}mar-tu	_[Irdu.Martu]	PN	PN	7	appos	_	
+9	1(disz)	1(disz)[one]	NU	NU	11	nummod	projectivity violation	
+10	sila4	sila[lamb]	N	N	8	appos	_	
+11	lugal-a2-zi-da	Lugalazida[1]	PN	PN	10	appos	_	
+12	szabra	szabra[chief_administrator][-ak]	N	N	11	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	15	nummod	projectivity violation	
+14	sila4	sila[lamb]	N	N	11	appos	_	
+15	ri-ib-hu-ti	_[Ributi]	PN	PN.ABS	25	_	_	
+16	1(disz)	1(disz)[one]	NU	NU	15	nummod	_	
+17	sila4	sila[lamb]	N	N	15	appos	_	
+18	en	en[priest]	N	N	15	appos	_	
+19	{d}inanna	Inanna[1][-ak]	DN	DN	18	GEN	_	
+20	u4	ud[day]	N	N	25	date	_	
+21	2(u)	2(u)[ten]	NU	NU	25	nummod	_	
+22	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	21	nummod	_	
+23	mu-kux(DU)	mukur[delivery][-ø]	N	N	25	_	_	
+24	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	25	ABS	_	
+25	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	14	acl	_	
+26	giri3	giri[foot]	N	N	27	via	_	
+27	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	25	via	_	
+28	dub-sar	dubsar[scribe]	N	N	27	appos	_	
+29	iti	iti[month]	N	N	27	appos	_	
+30	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	27	appos	_	
+31	mu	mu[year]	N	N	33	_	_	
+32	{d}szu-{d}suen	Szusuen[1]	RN	RN	33	acl	_	
+33	lugal	lugal[king]	N	N	27	appos	_	
+34	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+35	1(disz)	1(disz)[one]	NU	NU	34	nummod	_
+	
+

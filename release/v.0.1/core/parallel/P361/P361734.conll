@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ordinary bar-dul textiles u-bar textiles
+# train/P361734.atf
+1	2(u)	2(u)[ten]	NU	NU	7	nummod	_	
+2	tug2	tug[textile]	N	N	7	_	heuristic: attach to head	
+3	bar-dul5	_[ordinary.bar-dul.textiles]	N	N	0	root	_	
+4	du	gin[quality_designation][-ø]	V	NF.V.ABS	3	_	heuristic: after nominal head	
+5	2(disz)	2(disz)[one]	NU	NU	3	nummod	_	
+6	tug2	tug[textile]	N	N	7	acl	_	
+7	usz-bar	uszbar[weaver][-ak]	N	N	3	appos	_
+	
+

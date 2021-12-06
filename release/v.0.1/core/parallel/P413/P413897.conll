@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P413897.atf						#new_text=P413897
+# train/P413897.atf new_text=P413897
+# tr.en: lambs from lambs from lambs from Aqudum sheep from sheep delivery of lamb from Lateni Therefrom sheep regular offerings lambs for Ninkununa lamb for lambs for Lugaluda booked out for king sheep into palace n sheep of gate of Nanna sheep wife of Alamu sheep deficit of Alamu sheep sheep for chief administrator
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	x	_[_]	N	N	0	dep	_	
+3	ki	ki[place]	N	N	0	_	_	
+34	($	_	_	_	0	_	_	
+35	blank	_	_	_	0	_	_	
+36	space	_	_	_	0	_	_	
+37	$)	_	_	_	0	_	_	
+38	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+39	3(u)	3(u)[ten]	NU	NU	38	nummod	_	
+40	3(disz)	3(disz)[one]	NU	NU	38	nummod	_	
+58	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+59	la2	la[hang][-ø]	V	NF.V.ABS	58	_	_	
+60	1(disz)	1(disz)[one]	NU	NU	59	nummod	_	
+85	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+86	3(disz)	3(disz)[one]	NU	NU	85	nummod	_	
+

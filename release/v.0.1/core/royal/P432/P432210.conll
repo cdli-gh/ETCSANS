@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna his master did Szulgi the mighty man king of Ur king of four world quarters mina standardize
+1	{d}nanna	{d}nanna[1]	DN	DN	3	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	an	_	_	_	8	_	_
+10	ub-da	an-ub-da[quarter]	N	N	8	GEN	_
+11	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	10	nummod	_
+12	1/2(disz)	_[_]	NU	n	14	nummod	_
+13	ma-na	ma-na[unit]	N	N.ABS	14	ABS	_
+14	mu-na-gi-in	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	3	parataxis	_
+

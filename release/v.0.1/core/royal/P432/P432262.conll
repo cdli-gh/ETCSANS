@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the one nominated by him the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters the Etemeniguru his beloved temple in Ur he built for him
+1	mu	mu[name]	N	N.ABS	2	ABS	_
+2	pa3-da	pad3[find]	V	NF.V.PT	0	_	_
+3	sag-us2	sag-us2[constant]	V	NF.V	1	appos	_
+4	e2	e2[house]	N	N	3	GEN	_
+5	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	4	GEN	_
+6	lugal	_[_]	u	u	7	nmod	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	19	ERG	_
+8	lugal	lugal[king]	N	N	7	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	7	appos	_
+11	an	_	_	_	10	_	_
+12	ub-da	an-ub-da[quarter]	N	N	10	appos	_
+13	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	12	nummod	_
+14	e2	_	_	_	13	_	_
+15	temen-ni2-gur3	e2-temen-ni2-guru3[1]	TN	TN	19	ABS	_
+16	e2	e2[house]	N	N	17	ABS	_
+17	ki-ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	15	amod	_
+18	uri5{ki}-ma	urim5{ki}[1]	SN	SN.L1	19	LOC	_
+19	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	1	acl	_
+

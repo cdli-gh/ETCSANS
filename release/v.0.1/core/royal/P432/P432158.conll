@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Namma the mighty man king of Ur
+1	...	_	_	_	0	dep	_
+2	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	root	_
+3	nita	nita[male]	N	N	2	appos	_
+4	kal-ga	kalag[strong]	V	NF.V.PT	3	amod	_
+5	lugal	lugal[king]	N	N	2	appos	_
+6	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_
+

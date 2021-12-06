@@ -1,0 +1,99 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102364.atf
+# tr.en: butter oil royal n talents ma-na goat hair received butter oil big-cheese talent mana wool Inim- received n sila butter oil barig ban n big-cheese talent mana wool Lugal-inim- received sila butter oil n less sila big-cheese n mana wool received sila butter oil n sila big-cheese mana wool Ur-susu received deficit year Accounts of hoes year after
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+2	1(u)	1(u)[ten]	NU	NU	1	nummod	_	
+3	1(barig)	1(bariga)[unit]	NU	N	1	nummod	_	
+4	n	_(_)[_]	NU	NU	0	_	_	
+5	i3-nun	inun[ghee]	PN	N	0	root	_	
+6	lugal	lugal[king]	N	N	5	appos	_	
+7	x	_[_]	N	N	0	dep	_	
+8	x	_[_]	N	N	7	dep	_	
+9	...	_[_]	PN	N	7	dep	_	
+10	lugal	lugal[king]	N	N	5	_	heuristic: after nominal head	
+11	n	_(_)[_]	NU	NU	12	nummod	_	
+12	gu2	gun[unit]	N	N	5	appos	_	
+13	5(disz)	5(disz)[one]	NU	NU	5	nummod	projectivity violation	
+14	ma-na	mana[unit]	N	N	5	appos	projectivity violation	
+15	siki-ud5	siki'ud[goat_wool]	N	N	12	appos	projectivity violation	
+16	...-x-a-mu	_[received]	PN	PN.DAT-H	14	acl	_	
+17	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	20	acl	projectivity violation	
+18	1(u)	1(u)[ten]	NU	NU	20	nummod	projectivity violation	
+19	n	_(_)[_]	NU	NU	24	nummod	projectivity violation	
+20	i3-nun	inun[ghee]	PN	N	5	appos	_	
+21	1(u)	1(u)[ten]	NU	NU	20	nummod	_	
+22	n	_(_)[_]	NU	NU	31	nummod	projectivity violation	
+23	ga	ga[milk]	N	N	22	_	heuristic: attach to last	
+24	gal-gal	_[big-cheese]	V	NF.V.3-SG-NH-POSS.ABS	20	acl	_	
+25	1(asz)	1(asz)[one]	NU	NU	20	nummod	_	
+26	gu2	gun[unit]	N	N	31	nmod	_	
+27	5(u)	5(u)[ten]	NU	NU	0	nummod	_	
+28	8(disz)	8(disz)[one]	NU	NU	27	nummod	_	
+29	1/3(disz)	1/3(disz)[one]	NU	NU	27	nummod	_	
+30	ma-na	mana[unit]	N	N	31	nmod	_	
+31	siki	siki[wool][-'a]	N	N	20	appos	_	
+32	inim-{d}x-x	_[Inim-]	PN	PN.DAT-H	33	_	_	
+33	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	20	acl	_	
+34	3(u)	3(u)[ten]	NU	NU	38	nummod	projectivity violation	
+35	n	_(_)[_]	NU	NU	20	nummod	_	
+36	1(disz)	1(disz)[one]	NU	NU	40	nummod	projectivity violation	
+37	sila3	sila[unit]	N	N	38	nmod	_	
+38	i3-nun	inun[ghee]	PN	N	20	appos	_	
+39	1(barig)	1(bariga)[unit]	NU	N	38	nummod	_	
+40	4(ban2)	4(ban)[unit]	NU	N	39	nummod	_	
+41	n(disz)	_[n]	N	N	44	nummod	projectivity violation	
+42	sila3	sila[unit]	N	N	51	nummod	projectivity violation	
+43	ga	ga[milk]	N	N	42	_	heuristic: attach to last	
+44	gal	gal[big][-ø]	V	NF.V.ABS	0	_	detached for projectivity	
+45	1(asz)	1(asz)[one]	NU	NU	38	nummod	_	
+46	gu2	gun[unit]	N	N	51	nmod	_	
+47	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+48	1(disz)	1(disz)[one]	NU	NU	47	nummod	_	
+49	1/3(disz)	1/3(disz)[one]	NU	NU	47	nummod	_	
+50	ma-na	mana[unit]	N	N	51	nmod	_	
+51	siki	siki[wool][-'a]	N	N	38	appos	_	
+52	lugal-inim-x	_[Lugal-inim-]	PN	PN	53	_	_	
+53	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	38	acl	_	
+54	n	_(_)[_]	NU	NU	53	_	heuristic: attach to last	
+55	x	_[_]	N	N	54	dep	heuristic: attach to last	
+56	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+57	4(disz)	4(disz)[one]	NU	NU	56	nummod	_	
+58	sila3	sila[unit]	N	N	60	nmod	_	
+59	i3-nun	inun[ghee]	PN	N	60	nmod	_	
+60	...	_[_]	PN	N	20	dep	_	
+61	n	_(_)[_]	NU	NU	60	nummod	_	
+62	la2	la[hang][-ø]	V	NF.V.ABS	0	_	_	
+63	2(asz@45)	_	NU	NU.GEN	62	nummod	_	
+64	sila3	sila[unit]	N	N	66	nmod	_	
+65	ga	ga[milk]	N	N	64	_	heuristic: attach to last	
+66	gal	gal[big][-ø]	V	NF.V.ABS	0	_	_	
+67	...	_[_]	PN	N	20	dep	projectivity violation	
+68	n	_(_)[_]	NU	NU	60	nummod	projectivity violation	
+69	ma-na	mana[unit]	N	N	70	nmod	_	
+70	siki	siki[wool][-'a]	N	N	60	appos	projectivity violation	
+71	...	_[_]	PN	N	70	dep	heuristic: attach to last	
+72	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	67	acl	_	
+73	...	_[_]	PN	N	72	dep	heuristic: attach to last	
+74	n	_(_)[_]	NU	NU	77	_	heuristic: NU premodifying	
+75	1/2(disz)	1/2(disz)[one]	NU	NU	77	nummod	heuristic: NU premodifying	
+76	sila3	sila[unit]	N	N	77	nmod	_	
+77	i3-nun	inun[ghee]	PN	N	20	appos	_	
+78	n	_(_)[_]	NU	NU	77	nummod	_	
+79	4(disz)	4(disz)[one]	NU	NU	77	nummod	_	
+80	sila3	sila[unit]	N	N	82	nmod	projectivity violation	
+81	ga	ga[milk]	N	N	86	nummod	projectivity violation	
+82	gal	gal[big][-ø]	V	NF.V.ABS	77	acl	_	
+83	8(disz)	8(disz)[one]	NU	NU	77	nummod	_	
+84	1/3(disz)	1/3(disz)[one]	NU	NU	83	nummod	_	
+85	ma-na	mana[unit]	N	N	86	nmod	_	
+86	siki	siki[wool][-'a]	N	N	77	appos	_	
+87	ur-su4-su4	_[Ur-susu]	PN	PN.DAT-H	88	ABS	_	
+88	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	77	acl	_	
+89	la2-ia3-am3	_[deficit]	V	V	5	_	heuristic: after nominal head	
+90	mu	mu[year]	N	N	5	_	heuristic: after nominal head	
+91	nig2-ka9	nigSZID[account]	N	N	93	ABS	projectivity violation	
+92	al-la	Alla[1]	PN	PN	5	appos	projectivity violation	
+93	mu	mu[year]	N	N	5	appos	projectivity violation	
+94	us2-a-bi	_[hoes.after]	V	NF.V.PT.3-SG-NH-POSS	91	acl	_
+	
+

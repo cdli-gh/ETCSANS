@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suen in Nippur by Enlil called by name headrest in house of Enlil strong man king of Ur king of four corners
+# train/P432256.atf
+1	{d}amar-{d}suen	Amarsuen[1]	RN	RN	0	root	_	
+2	nibru{ki}-a	_[in.Nippur]	SN	SN.L1	1	LOC	_	
+3	{d}en-lil2-le	_[by.Enlil]	DN	DN.ERG	2	ERG	_	
+4	mu	mu[year]	N	N	1	appos	projectivity violation	
+5	pa3-da	Pada[1]	PN	NF.V.SUB	3	acl	_	
+6	sag-us2	_[headrest]	N	NF.V	1	appos	_	
+7	e2	e[house]	N	N	1	LOC	_	
+8	{d}en-lil2-ka	_[Enlil]	DN	DN.GEN.GEN	7	GEN	_	
+9	nita	nita[male]	N	N	1	appos	_	
+10	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+11	lugal	lugal[king]	N	N	1	appos	_	
+12	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	11	GEN	_	
+13	lugal	lugal[king]	N	N	1	appos	_	
+14	an	An[1][-ra]	N	N	16	nummod	projectivity violation	
+15	ub-da	_	N	N	1	appos	projectivity violation	
+16	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	13	nummod	_
+	
+

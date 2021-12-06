@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# test/P112565.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2	gurum[inspection]	N	N	1	_	heuristic: after nominal head	
+3	ak	ak[excavate][-a][-ak]	V	NF.V.PT	1	_	_	
+4	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+5	e2-tur3-ra	_[xxx]	TN	TN	1	_	heuristic: after nominal head	
+6	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+7	apin	apin[plow]	N	N	1	_	heuristic: after nominal head	
+8	gu4-suhub2	Gusuhub[1][-ak][-sze]	N	FN	1	_	heuristic: after nominal head	
+9	da-umma{ki}	Da'umma[1][-ak]	SN	SN.GEN	1	_	heuristic: after nominal head	
+10	a-pi4-sal{ki}	_[xxx]	GN	GN	1	_	heuristic: after nominal head	
+11	gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	1	_	heuristic: after nominal head	
+12	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+13	musz-bi-an-na	Muszbi'anna[1][-ak]	FN	FN.L1	18	nmod	projectivity violation	
+14	gaba-ri	gabari[copy]	N	N	18	nmod	projectivity violation	
+15	ensi2	ensik[ruler]	N	N	14	_	heuristic: attach to last	
+16	mu	mu[year]	N	N	1	appos	_	
+17	en	en[priest]	N	N	16	_	heuristic: attach to last	
+18	{d}inanna	Inanna[1][-ak]	DN	DN	1	appos	_	
+19	masz2-e	masz[goat]-e	N	N.L3-NH	0	_	_	
+20	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	0	_	_
+	
+

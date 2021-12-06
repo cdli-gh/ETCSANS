@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: weaver garments sila lard talent gypsum from Ikalla under seal of Ayakalla month paue year house of Szara was erected Akalla son of Lugal-ema
+# train/P433129.atf						#new_text=P433129
+# train/P433129.atf new_text=P433129
+2	x	_[_]	N	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+

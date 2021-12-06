@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Nergal king of HaWIlum Atal-en the accomplished shepherd king of Urki and Nawar son of Sadar-mat the king is builder of temple of Nergal the slayer of rivals The one who inscription this one shall remove may Szama and Itar his seed pluck out
+# train/P432377.atf
+1	{d}nergal	_[Nergal]	DN	DN.GEN.DAT-H	14	ABS	_	
+2	_lugal_	lugal[king]	N	N	1	appos	_	
+3	ha-wi-li-im{ki}	_[HaWIlum]	GN	GN	2	GEN	_	
+4	a-tal-si-en	_[Atal-en]	PN	PN.GEN.ABS	1	appos	_	
+5	re-um	_[the]	PN	PN	6	nmod	_	
+6	ep-zum	_[accomplished.shepherd]	PN	PN	4	appos	_	
+7	_lugal_	lugal[king]	N	N	4	appos	_	
+8	ur-kisz{ki}	_[Urki]	SN	SN	7	GEN	_	
+9	u3	u[and]	CNJ	CNJ	8	appos	_	
+10	na-wa-ar{ki}	_[Nawar]	PN	PN	8	appos	_	
+11	_dumu_	dumu[child]	N	N	4	appos	_	
+12	sa2-dar-ma-at	_[Sadar-mat]	PN	PN	11	GEN	_	
+13	_lugal_	lugal[king]	N	N	11	appos	_	
+14	_dim2_	_[is.builder]	V	V	0	root	_	
+15	e2	e[house]	N	N	14	GEN	_	
+16	{d}nergal	_[Nergal]	DN	DN.GEN.DAT-H	15	GEN	_	
+17	nirx(|GAZxNIR|)	_[the.slayer]	N	N	15	appos	_	
+18	sza-nin-u2-tim	_[rivals]	V	V	17	acl	_	
+19	_su4	su[red][-ø]	V	NF.V.ABS	20	acl	_	
+20	dub_	dub[tablet]	N	N	14	parataxis	_	
+21	szu-a-ti	_[this.one]	PN	PN	22	ABS	_	
+22	u2-sza2-sa3-ku	_[shall.remove]	PN	PN	20	acl	_	
+23	{d}utu	Utu[1][-ra]	DN	DN	20	appos	_	
+24	u3	u[and]	CNJ	CNJ	23	appos	_	
+25	{d}inanna	Inanna[1][-ak]	DN	DN	23	appos	_	
+26	_numun_-szu	_[his.seed]	PN	PN	27	ABS	_	
+27	li-il-qu3-ta	_[pluck.out]	N	N	23	acl	_
+	
+

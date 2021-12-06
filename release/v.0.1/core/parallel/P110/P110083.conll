@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekels grains silver deficit repaid from Ur-Ningal son of Erinda into palace brought via Ur-Lamma month Harvest year after Amar-Suen king
+# train/P110083.atf
+1	2(disz)	2(disz)[one]	NU	NU	6	nummod	projectivity violation	
+2	gin2	gig[unit]	N	N	0	root	_	
+3	igi-3(disz)-gal2	_	NU	NU	6	_	heuristic: NU premodifying	
+4	1(u)	1(u)[ten]	NU	NU	6	nummod	heuristic: NU premodifying	
+5	sze	sze[barley]	N	N	6	nmod	_	
+6	ku3-babbar	kugbabbar[silver]	N	N	2	appos	_	
+7	la2-ia3	la'u[arrears]	N	N	6	appos	_	
+8	su-ga	sug[repay]-a	V	NF.V.PT	6	acl	_	
+9	ki	ki[place]	N	N	11	ABL	_	
+10	ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	11	acl	_	
+11	dumu	dumu[child]	N	N	6	ABL	_	
+12	erin-da-ta	_[Erinda]	PN	PN.GEN.ABL	11	GEN	_	
+13	e2-gal-la	egal[palace]-'a	N	N.L1	14	TERM	_	
+14	ba-an-kux(KWU147)	_[palace.brought]	V	MID.L1-SYN.V.3-SG-S	6	acl	_	
+15	giri3	giri[foot]	N	N	16	via	_	
+16	ur-{d}lamma	Urlamma[1]	PN	PN	6	via	_	
+17	iti	iti[month]	N	N	18	nmod	_	
+18	szu-numun	Szunumun[1][-'a]	MN	MN.L1	2	appos	_	
+19	mu	mu[year]	N	N	18	_	_	
+20	us2-sa	us[follow]-a	V	NF.V.PT	19	acl	_	
+21	{d}amar-{d}suen	Amarsuen[1]	RN	RN	22	acl	_	
+22	lugal	lugal[king]	N	N	18	appos	_
+	
+

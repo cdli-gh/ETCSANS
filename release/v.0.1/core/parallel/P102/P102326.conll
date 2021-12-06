@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102326.atf
+# tr.en: grain-fed ewe th day from Abbasaga Au-wer accepted year Szaru was destroyed sheep
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	u8	u[ewe]	N	N	0	root	_	
+3	gukkal	gukkal[fat-tailed_sheep]	N	N	2	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+6	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	5	nummod	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	9	nmod	_	
+9	a-hu-we-er	_[Au-wer]	PN	PN	2	ABL	_	
+10	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	9	acl	_	
+11	mu	mu[year]	N	N	13	_	_	
+12	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	13	_	_	
+13	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_	
+14	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+15	udu	udu[sheep]	N	N	2	appos	_
+	
+

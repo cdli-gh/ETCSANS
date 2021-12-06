@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: En-ma-gal-ana en-priestess of Nanna
+1	en-mah-gal-an-na	en-mah-gal-an-na[1]	PN	PN	0	root	_
+2	en	en[priest]	N	N	1	appos	_
+3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_
+

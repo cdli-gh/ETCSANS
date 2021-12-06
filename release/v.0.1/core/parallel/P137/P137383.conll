@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P137383.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	in-dub	_	V	V	1	_	_	
+3	gesz	gesz[tree]	N	N	1	_	heuristic: after nominal head	
+4	e3-a	e[leave]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+5	ku3	kug[silver]	N	N	1	_	heuristic: after nominal head	
+6	masz2	masz[goat]	N	N	1	_	heuristic: after nominal head	
+7	ki-a	_[xxx]	N	N	1	_	heuristic: after nominal head	
+8	sze	sze[barley]	N	N	1	_	heuristic: after nominal head	
+9	apin-la2	apinla[tenancy]	N	N	1	_	heuristic: after nominal head	
+10	da-ba-a	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+11	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	1	_	heuristic: after nominal head	
+12	mu-kux(DU)	mukur[delivery][-ø]	N	N	1	_	heuristic: after nominal head	
+13	gu	gu[cord]	N	N	1	_	heuristic: after nominal head	
+14	mu-kux(DU)	mukur[delivery][-ø]	N	N	1	_	heuristic: after nominal head	
+15	zu2-lum	zulum[date]	N	N	1	_	heuristic: after nominal head	
+16	mu-kux(DU)	mukur[delivery][-ø]	N	N	1	_	heuristic: after nominal head	
+17	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+18	la2-ia3	la'u[arrears]	N	N	1	_	heuristic: after nominal head	
+19	su-ga-bi	_[xxx]	N	N	1	_	heuristic: after nominal head	
+20	im-bi	im[clay]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	1	_	heuristic: after nominal head	
+21	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+22	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	21	nummod	_	
+23	nigin-ba-bi	_[xxx]	N	N.3-SG-NH-POSS.ABS	1	_	heuristic: after nominal head	
+24	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	29	nummod	heuristic: NU premodifying; projectivity violation	
+25	i3-in-gal2	_[xxx]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	33	nmod	projectivity violation	
+26	iti	iti[month]	N	N	33	nmod	projectivity violation	
+27	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+28	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	27	nummod	_	
+29	mu	mu[year]	N	N	1	appos	_	
+30	us2-sa	us[follow]-a	V	NF.V.PT	29	_	heuristic: attach to last	
+31	bad3	bad[wall]	N	N	30	_	heuristic: attach to last	
+32	ma-da	mada[land][-ak][-ø]	N	N	31	_	heuristic: attach to last	
+33	ba-du3-a	ba-du[build][-ø]	V	MID.V.3-SG-S	1	_	_
+	
+

@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Sin beloved by Enlil the king whom Enlil chose as beloved by his heart king of Ur king of Sumer and Akkad and king of four world quarters Babati scribe auditor archivist steward master and governor of Awal and Apiak canal inspector who has irrigated land estate administrator of two ladies temple administrator of Belat-Terraban and Belat-unir brother of Ab-Simt his beloved wife your servant	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	2	ABS	_
+2	ki-ag2	ki[place]+ag2[measure]	V	NF.V	0	amod	_
+3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	2	appos	_
+4	lugal	lugal[king]	N	N	6	ERG	_
+5	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	4	appos	_
+6	ki-ag2	ag2[measure]	V	NF.V	0	_	_
+7	sza3-ga-ne2	szag4[heart]	N	N.3-SG-H-POSS.X	6	appos	_
+8	i3-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	7	_	_
+9	lugal	lugal[king]	N	N	7	appos	_
+10	uri2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	9	appos	_
+12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_
+13	ki-uri{ki}	ki-uri[1]	GN	GN.GEN.ERG	12	appos	_
+14	lugal	lugal[king]	N	N	0	_	_
+15	an	_	_	_	14	_	_
+16	ub-da	an-ub-da[quarter]	N	N	14	appos	_
+17	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	16	nummod	_
+18	ba4-ba4-ti	ba4-ba4-ti[1]	PN	PN	0	_	_
+19	dub-sar	dub-sar[scribe]	N	N	18	appos	_
+20	sza3-tam	sza3-tam[official]	N	N	18	appos	_
+21	sza13-dub-ba	bisag-dub-ba[archivist]	N	N	18	appos	_
+22	agrig	agrig[steward]	N	N	18	appos	_
+23	lugal	lugal[king]	N	N.GEN	22	GEN	_
+24	ensi2	ensi2[ruler]	N	N	18	appos	_
+25	a-wa-al{ki}	a-wa-al{ki}[1]	SN	SN	18	appos	_
+26	u3	u3[and]	CNJ	CNJ	25	cc	_
+27	a-pi-ak{ki}	a-pi-ak{ki}[1]	SN	SN.GEN	25	conj	_
+28	ku3-gal	ku3-gal[inspector]	N	N	18	GEN	_
+29	ma-da	ma-da[land]	N	N	31	ABS	_
+30	a	a[water]	N	N.ABS	29	appos	_
+31	du11-ga	dug4[speak]	V	NF.V.PT.GEN	28	amod	_
+32	szabra	szabra[administrator]	N	N	28	GEN	_
+33	nin	nin[lady]	N	N	32	appos	_
+34	min-a-bi	min[two]	NU	NF.V.PT.3-SG-NH-POSS	33	nummod	_
+35	sanga	sagga[official]	N	N	32	appos	_
+36	{d}be-la-at-szer7-ba-an	sagga[official]+{d}be-la-at-ter-ba-an[1]	DN	DN	32	appos	_
+37	u3	u3[and]	CNJ	CNJ	36	cc	_
+38	be-la-at-suh(PAD)-ner	{d}be-la-at-szuk-nir[1]	DN	DN.ABS	36	conj	_
+39	szesz	szesz[brother]	N	N	32	appos	_
+40	a-bi2-si2-im-ti	a-bi-si2-im-ti[1]	PN	PN.GEN	39	GEN	_
+41	dam	dam[spouse]	N	N	42	ABS	_
+42	ki-ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	39	amod	_
+43	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	40	appos	_
+

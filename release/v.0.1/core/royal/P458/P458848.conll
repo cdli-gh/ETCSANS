@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi powerful man king of Urim king of four quarters Lu-gena scibe child of is your servant																						
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	N	N	8	mwe	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	lu2-gi-na	lu2-gen6-na[1]	PN	PN	14	ABS	_
+11	dub-sar	dub-sar[scribe]	N	N	10	appos	_
+12	dumu	dumu[child]	N	N	10	appos	_
+13	ab-ba-x-x	ab-ba-x-x[1]	PN	PN.GEN.ABS	12	GEN	_
+14	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	acl	_
+

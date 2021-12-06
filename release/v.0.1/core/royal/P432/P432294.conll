@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna the first-born son of Enlil his beloved master Sz-Sin the beloved of Nanna the king whom Enlil in his heart did choose as shepherd of country and of four world quarters the strong king king of Ur and king of four world quarters the Murianabak Temple his beloved temple he built for him	
+1	{d}nanna	{d}nanna[1]	DN	DN	8	DAT	_
+2	dumu	dumu-sag[first-born]	N	N	1	appos	_
+3	sag	dumu-sag[first-born]	N	N	1	root	_
+4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+5	lugal	lugal[king]	N	N	6	ABS	_
+6	ki-ag2-ga2-ni-ir	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	2	amod	_
+7	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	8	ABS	_
+8	ki-ag2	ki[place]+ag2[measure]	V	NF.V	13	ERG	_
+9	{d}nanna	{d}nanna[1]	DN	DN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	8	appos	_
+11	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	10	appos	_
+12	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	13	LOC	_
+13	in-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+14	sipa	sipad[shepherd]	N	N	32	GEN.TERM	_
+15	kalam-ma	kalam[land]	N	N.GEN	14	GEN	_
+16	u3	u3[and]	CNJ	CNJ	14	cc	_
+17	an	_	_	_	14	_	_
+18	ub-da	an-ub-da[quarter]	N	N	14	conj	_
+19	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	18	nummod	_
+20	lugal	lugal[king]	N	N	32	ERG	_
+21	kal-ga	kalag[strong]	V	NF.V.PT	20	amod	_
+22	lugal	lugal[king]	N	N	20	appos	_
+23	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	22	GEN	_
+24	lugal	lugal[king]	N	N	20	appos	_
+25	an	_	_	_	24	_	_
+26	ub-da	an-ub-da[quarter]	N	N	24	appos	_
+27	limmu2-ba-ke4	limmu2[four]+e2-mu-ri-a-na-ba-ak[1]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	26	nummod	_
+28	e2	e2[house]	N	N	31	ABS	_
+29	mu-ri-a-na-ba-ak	_[Murianabak.Temple]	PN	PN	6	appos	_
+30	e2	ki[place]	N	N.ABS	28	appos	_
+31	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	32	amod	_
+32	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	6	acl	_
+

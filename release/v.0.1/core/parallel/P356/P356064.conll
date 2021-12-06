@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets barley rations wool rations of female weavers are here year princess to governor of Zabsali was married
+# train/P356064.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze-ba	szeba[ration]	N	N	6	ABS	_	
+3	siki-ba	_[wool.rations]	V	V	2	acl	_	
+4	geme2	geme[female_worker]	N	N	5	acl	_	
+5	usz-bar	uszbar[weaver][-ak]	N	N	2	GEN	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+7	mu	mu[year]	N	N	8	_	_	
+8	dumu-munus	dumumunus[daughter]	N	N	12	ABS	projectivity violation	
+9	lugal	lugal[king]	N	N	1	appos	projectivity violation	
+10	ensi2	ensik[ruler]	N	N	8	LOC	_	
+11	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	1	appos	projectivity violation	
+12	ba-an-tuku	_[to.Zabsali.was.married]	V	MID.3-SG-H.DAT.V.3-SG-S	6	parataxis	_
+	
+

@@ -1,0 +1,88 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: iku surface orchard date palms UgIL orchardist ex-voto of Lu-Nanna son of Ur-ur the foreman Abba-gula iku surface irrigation-inlet-plot iku surface uncultivated land date palms date palms beaten down ARlam objects of pine trees AR objects of apple trees AR objects of pear trees AR objects of long junipers AR objects of long boxwood trees mulberry trees AR objects of long tamarisk Nimgir-KAgina orchard Amar-sunzida sar surface of date palms date palms Lu-girizal throne-bearer orchard Adiri E-hegal herdsman the foreman Enlila
+# train/P206298.atf new_text=P206298
+# train/P206298.atf						#new_text=P206298
+1	1(iku)	1(iku)[unit]	NU	N	3	nummod	projectivity violation	
+2	1/4(iku)	1/4(iku)[unit]	NU	N	7	nummod	projectivity violation	
+3	GAN2	gana[field]	N	N	0	root	_	
+4	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	3	appos	_	
+5	2(gesz2)	2(gesz)[sixty]	NU	NU	3	nummod	_	
+6	2(u)	2(u)[ten]	NU	NU	5	nummod	_	
+7	{gesz}geszimmar	gesznimbar[palm]	PN	N	3	appos	_	
+8	ug3-IL2	uggaga[porter]	N	N	9	nmod	_	
+9	nu-{gesz}kiri6	_[orchardist]	N	N	3	appos	_	
+10	a-ru-a	_[ex-voto]	GN	GN	9	appos	_	
+11	lu2-{d}nanna	Lunanna[1]	PN	PN	12	nmod	_	
+12	dumu	dumu[child]	N	N	10	GEN	_	
+13	ur-ur	_[Ur-ur]	PN	PN.GEN.ABL	12	GEN	_	
+14	ugula	ugula[overseer][-ø]	N	N	15	nmod	_	
+15	ab-ba-gu-la	_[Abba-gula]	PN	PN	3	appos	_	
+16	2(iku)	2(iku)[unit]	NU	N	3	nummod	projectivity violation	
+17	1/2(iku)	1/2(iku)[unit]	NU	N	23	nummod	projectivity violation	
+18	GAN2	gana[field]	N	N	15	appos	_	
+19	ka-a-DU	_[surface.irrigation-inlet-plot]	FN	FN	18	appos	_	
+20	3(iku)	3(iku)[unit]	NU	N	3	nummod	_	
+21	1/2(iku)	1/2(iku)[unit]	NU	N	27	nummod	projectivity violation	
+22	GAN2	gana[field]	N	N	21	_	heuristic: attach to last	
+23	ki-gal2	_[iku.surface.uncultivated.land]	PN	PN	3	appos	_	
+24	3(gesz2)	3(gesz)[sixty]	NU	NU	23	nummod	_	
+25	5(u)	5(u)[ten]	NU	NU	29	nummod	projectivity violation	
+26	3(disz)	3(disz)[one]	NU	NU	25	nummod	_	
+27	{gesz}geszimmar	gesznimbar[palm]	PN	N	3	appos	_	
+28	1(gesz2)	1(gesz)[sixty]	NU	NU	34	nummod	projectivity violation	
+29	{gesz}geszimmar	gesznimbar[palm]	PN	N	27	appos	_	
+30	u2	u[grass]	N	N	34	nmod	projectivity violation	
+31	du11-ga	dug[irrigate]-a	V	PN	29	acl	_	
+32	(gesz'u)	_	N	N	31	_	heuristic: attach to last	
+33	5(gesz2)	5(gesz)[sixty]	NU	NU	3	nummod	_	
+34	(u)	_[objects]	N	N	3	appos	_	
+35	3(disz)	3(disz)[one]	NU	NU	3	nummod	projectivity violation	
+36	<HAR>-lam	_[trees]	PN	PN	34	GEN	_	
+37	{gesz}u3-suh5	usuh[tree]	N	N	36	acl	_	
+38	7(gesz2)	7(gesz)[sixty]	NU	NU	3	nummod	_	
+39	1(u)	1(u)[ten]	NU	NU	38	nummod	_	
+40	HAR	_[AR.objects]	PN	PN	39	_	heuristic: attach to last	
+41	{gesz}haszhur	_[apple.trees]	N	N	3	GEN	_	
+42	1(u)	1(u)[ten]	NU	NU	44	nummod	_	
+43	2(disz)	2(disz)[one]	NU	NU	42	nummod	_	
+44	HAR	_[AR.objects]	PN	PN	3	appos	_	
+45	{gesz}pesz3	pesz[fig]	N	N	44	GEN	_	
+46	($	_	_	_	44	_	_	
+47	blank	_	_	_	44	_	heuristic: after nominal head	
+48	space	_	_	_	44	_	heuristic: after nominal head	
+49	$)	_	_	_	44	_	heuristic: after nominal head	
+50	HAR	_[AR.objects]	PN	PN	44	_	heuristic: after nominal head	
+51	{gesz}sze-du10	_[junipers]	PN	PN	44	GEN	_	
+52	gid2	gid[length]	V	N	51	acl	_	
+53	2(u)	2(u)[ten]	NU	NU	44	nummod	_	
+54	la2	la[hang][-ø]	V	NF.V.ABS	59	acl	projectivity violation	
+55	2(disz)	2(disz)[one]	NU	NU	54	nummod	_	
+56	{gesz}mes	_[AR.objects.boxwood.trees]	N	N	44	appos	_	
+57	gid2	gid[length]	V	N	56	acl	_	
+58	7(disz)	7(disz)[one][-sze]	NU	NU	44	nummod	_	
+59	{gesz}giparx(PAR4)	_[mulberry.trees]	N	N	44	appos	_	
+60	1(u)	1(u)[ten]	NU	NU	44	nummod	_	
+61	5(disz)	5(disz)[one]	NU	NU	60	nummod	_	
+62	HAR	_[AR.objects]	PN	PN	44	appos	_	
+63	{gesz}szinig	_[tamarisk]	FN	FN	62	GEN	_	
+64	gid2	gid[length]	V	N	63	acl	_	
+65	nimgir-inim-gi-na	Nimgirinimgina[1]	PN	PN	44	appos	_	
+66	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	67	nmod	_	
+67	amar-sun2-zi-da	_[Amar-sunzida]	PN	PN	44	appos	_	
+68	1(u)	1(u)[ten]	NU	NU	44	nummod	_	
+69	sar	sar[unit]	N	N	44	appos	_	
+70	GAN2	gana[field]	N	N	69	appos	_	
+71	{gesz}geszimmar	gesznimbar[palm]	PN	N	70	GEN	_	
+72	1(u)	1(u)[ten]	NU	NU	44	nummod	_	
+73	6(disz)	6(disz)[one][-sze]	NU	NU	72	nummod	_	
+74	{gesz}geszimmar	gesznimbar[palm]	PN	N	44	appos	_	
+75	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	44	appos	_	
+76	gu-za-la2	guzala[throne_bearer]	N	N	75	appos	_	
+77	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	78	nmod	_	
+78	a-diri	_[Adiri.E-hegal]	PN	PN.GEN.ABS	44	appos	_	
+79	e2-he2-gal2	_	TN	PN	78	appos	_	
+80	unu3	_	GN	GN	78	appos	_	
+81	ugula	ugula[overseer][-ø]	N	N	82	nmod	_	
+82	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	44	appos	_
+	
+

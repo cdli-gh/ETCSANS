@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P331037.atf
+# tr.en: Basket-of-tablets accounts of sheep of Ab-simt foreman SIAa Kubtum foreman Lu-Nanna Nwer-il foreman Namani in Girsu
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	udu	udu[sheep]	N	N	2	GEN	_	
+4	a-bi2-si2-im-ti	Abisimti[1][-ak]	PN	PN.GEN	3	GEN	_	
+5	ugula	ugula[overseer][-ø]	N	N	6	nmod	_	
+6	SI-A-a	SI'Aya[1][-ak]	PN	PN.GEN	3	appos	_	
+7	ku-ba-tum	Kubatum[1][-ak][-'a]	PN	PN	3	appos	_	
+8	ugula	ugula[overseer][-ø]	N	N	9	nmod	_	
+9	lu2-{d}nanna	Lunanna[1]	PN	PN	3	appos	_	
+10	na-we-er-dingir	_[Nwer-il]	PN	PN	3	appos	_	
+11	ugula	ugula[overseer][-ø]	N	N	12	nmod	_	
+12	nam-ha-ni	Namhani[1]	N	PN	3	appos	_	
+13	sza3	szag[heart]	N	N	14	LOC	_	
+14	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	3	LOC	_
+	
+

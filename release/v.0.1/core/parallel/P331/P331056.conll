@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P331056.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	udu	udu[sheep]	N	N	1	appos	_	
+3	udu	udu[sheep]	N	N	6	nmod	_	
+4	gukkal	gukkal[fat-tailed_sheep]	N	N	3	_	heuristic: attach to last	
+5	ki-nu-nir{ki}-ta	_[xxx]	SN	SN.GEN.GEN.ABL	6	nmod	_	
+6	gu2-ab-ba{ki}-sze3	_[xxx]	SN	SN.GEN.GEN.TERM	1	appos	_
+	
+

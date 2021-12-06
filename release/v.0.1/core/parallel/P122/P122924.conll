@@ -1,0 +1,63 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P122924.atf						#new_text=P122924
+# train/P122924.atf new_text=P122924
+# tr.en: shekels silver its barley to be measured out at harvest gur barig each from Ur-Lamma did Lu-guza son of Lu-ma of Sagub receive in month GANma to be replaced royal name entered month Festival-of-Baba year Lord of Karzida shekels silver its barley at harvest gur barig each to be measured out from Ur-Lamma son of Ur-nig under seal of Lu-guza son of Lu-ma of Sagub month Festival-of-Baba year Lord of Nanna of Karzida
+1	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+2	gin2	gig[unit]	N	N	4	nmod	_	
+3	igi-3(disz)-gal2	_	NU	NU	4	_	heuristic: NU premodifying	
+4	ku3-babbar	kugbabbar[silver]	N	N	0	root	_	
+5	sze	sze[barley]	N	N	4	appos	_	
+6	buru14	_[harvest]	N	N	5	LOC	_	
+7	a-na-ag2-bi	_[its.to.be.measured.out.at]	DET	DET	5	appos	_	
+8	1(asz)	1(asz)[one]	NU	NU	11	nummod	_	
+9	1(barig)	1(bariga)[unit]	NU	N	8	nummod	_	
+10	sze	sze[barley]	N	N	9	_	heuristic: attach to last	
+11	gur-ta	gur[unit]-ta	PN	N.ABL	19	ABS	_	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	ur-{d}lamma-ta	Urlamma[1][-ak]-ta	PN	PN.GEN.ABL	19	ABL	_	
+14	lu2-gu-za	_[did.Lu-guza]	N	N	19	_	_	
+15	dumu	dumu[child]	N	N	19	nmod	_	
+16	lu2-mah	_[of.Lu-ma]	N	N	15	GEN	_	
+17	sag-ub3{ki}-ke4	_[Sagub]	SN	SN.GEN.GEN.ERG	16	GEN	_	
+18	szu	szu[hand][-e]	N	N.L3-NH	19	_	_	
+19	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	4	acl	_	
+20	iti	iti[month]	N	N	19	appos	_	
+21	GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	19	LOC	_	
+22	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	19	acl	_	
+23	mu	mu[year]	N	N	19	appos	_	
+24	lugal	lugal[king]	N	N	25	acl	_	
+25	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	19	parataxis	_	
+26	iti	iti[month]	N	N	27	nmod	_	
+27	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	19	parataxis	_	
+28	mu	mu[year]	N	N	27	appos	_	
+29	en	en[priest]	N	N	27	appos	_	
+30	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	29	GEN	_	
+31	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+32	gin2	gig[unit]	N	N	4	appos	_	
+33	igi-3(disz)-gal2	_	NU	NU	34	_	heuristic: NU premodifying	
+34	ku3-babbar	kugbabbar[silver]	N	N	32	appos	_	
+35	sze	sze[barley]	N	N	4	appos	_	
+36	buru14-bi	_[its.at.harvest]	N	N.ABS	35	appos	_	
+37	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+38	1(barig)	1(bariga)[unit]	NU	N	37	nummod	_	
+39	gur-ta	gur[unit]-ta	PN	N.ABL	4	appos	_	
+40	...-ag2-dam	_[to.be.measured.out]	PN	PN.GEN	39	acl	_	
+41	ki	ki[place]	N	N	43	ABL	_	
+42	ur-{d}lamma	Urlamma[1]	PN	PN	43	nmod	_	
+43	dumu	dumu[child]	N	N	4	ABL	_	
+44	ur-nig2	_[Ur-nig]	PN	PN	43	GEN	_	
+45	kiszib3	kiszib[seal]	N	N	43	LOC	_	
+46	lu2-{gesz}gu-za	_[Lu-guza]	N	N	45	GEN	_	
+47	dumu	dumu[child]	N	N	43	appos	_	
+48	lu2-mah	_[of.Lu-ma]	N	N	47	GEN	_	
+49	sag-ub3{ki}	_[Sagub]	GN	GN	51	nmod	projectivity violation	
+50	'.	_[_]	PN	N	43	appos	projectivity violation	
+51	iti	iti[month]	N	N	48	GEN	_	
+52	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	51	appos	_	
+53	'.	_	_	_	52	_	heuristic: attach to last	
+54	mu	mu[year]	N	N	43	appos	_	
+55	en	en[priest]	N	N	4	appos	_	
+56	{d}nanna	Nanna[1][-ak]	DN	DN	55	GEN	_	
+57	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	56	GEN	_
+	
+

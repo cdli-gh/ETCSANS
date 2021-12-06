@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P203011.atf						#new_text=P203011
+# tr.en: Basket-of-tablets house of house of house of house of house of house of house of house of and property of Ur-Lamma year
+# test/P203011.atf new_text=P203011
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	gu2	gun[unit]	N	N	0	_	_	
+3	bi-tum	_	N	N	0	_	_	
+

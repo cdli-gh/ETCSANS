@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful man king of Urim king of four quarters presented to Nawir-ilum shepherd his servant
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	13	ABS	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	na-we-er-dingir	na-wi-ir-DIŊIR[1]	PN	PN	13	DAT	_
+11	sipa	sipad[shepherd]	N	N	10	appos	_
+12	ARAD2-da-ni-ir	arad2[slave]	N	N.3-SG-H-POSS.DAT.H	10	appos	_
+13	in-na-an-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets reports of doctors are here
+# test/P207219.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gesztu2-ga	_[reports]	N	N	6	ABS	_	
+3	ru	_[of]	V	V	5	acl	projectivity violation	
+4	lu2	lu[person]	N	N	2	appos	_	
+5	a-zu	_[doctors]	N	N.TERM	2	GEN	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

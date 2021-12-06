@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sheep fat-tailed sheep stationed Abi-simti foreman Sziaya cattle manager sheep k foreman Lu-Nanna chief household administrator of queen sheep of palace foreman Namani cattle manager are here in Girsu year Szu-Suen king of Ur Big-Stele for Enlil Ninlil erected
+# train/P107136.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	udu	udu[sheep]	N	N	20	ABS	_	
+3	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+4	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	3	acl	_	
+5	a-bi2-si2-im-ti	Abisimti[1][-ak]	PN	PN.GEN	7	acl	_	
+6	ugula	ugula[overseer][-ø]	N	N	7	nmod	_	
+7	szi-a-a	_[Sziaya]	PN	PN	2	appos	_	
+8	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	2	appos	_	
+9	udu	udu[sheep]	N	N	10	nmod	_	
+10	ku-ba-tum	Kubatum[1][-ak][-'a]	PN	PN	2	appos	_	
+11	ugula	ugula[overseer][-ø]	N	N	12	nmod	_	
+12	lu2-{d}nanna	Lunanna[1]	PN	PN	2	appos	_	
+13	szabra	szabra[chief_administrator][-ak]	N	N	2	appos	_	
+14	nin	_[queen]	N	N	13	GEN	_	
+15	udu	udu[sheep]	N	N	2	appos	_	
+16	e2-gal	egal[palace][-ak][-'a]	N	N	15	GEN	_	
+17	ugula	ugula[overseer][-ø]	N	N	18	nmod	_	
+18	nam-ha-ni	Namhani[1]	N	PN	2	appos	_	
+19	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	2	appos	_	
+20	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+21	sza3	szag[heart]	N	N	22	LOC	_	
+22	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	20	appos	_	
+23	mu	mu[year]	N	N	22	appos	_	
+24	{d}szu-{d}suen	Szusuen[1]	RN	RN	22	appos	_	
+25	lugal	lugal[king]	N	N	24	appos	_	
+26	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	25	GEN	_	
+27	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	24	appos	_	
+28	{d}en-lil2	Enlil[1]	DN	DN	29	DAT	_	
+29	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	27	DAT	_	
+30	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	24	acl	_
+	
+

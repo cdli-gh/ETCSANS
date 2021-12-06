@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of Lu-Ningirsu son of Ikalla Ur-Ningirsu son of Ur-Baba Atu Utu-bara son of Amu Lubimu Agi Ur-egal Ur-guena Alla-dimu Ur-Baba son of Ur-Nane ARAD-Baba son of Lugalsaga year chair of Enlil was fashioned
+# train/P107126.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	2	GEN	_	
+4	dumu	dumu[child]	N	N	3	appos	_	
+5	i3-kal-la	Ikala[1][-ak]	PN	PN	4	GEN	_	
+6	ur-{d}nin-gir2-su	_[Ur-Ningirsu]	PN	PN	5	appos	_	
+7	dumu	dumu[child]	N	N	5	appos	_	
+8	ur-{d}ba-ba6	Urbaba[1]	PN	PN	7	GEN	_	
+9	a-tu	Atu[1][-ak]	PN	PN	8	appos	_	
+10	{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	8	appos	_	
+11	dumu	dumu[child]	N	N	8	appos	_	
+12	a-mu	_[Amu]	PN	PN	11	GEN	_	
+13	lu2-bi-mu	_[Lubimu]	PN	PN	12	appos	_	
+14	a-gi4	_[Agi]	PN	PN	15	nmod	_	
+15	ur-e2-gal	_[Ur-egal]	PN	PN.DAT-H	12	appos	_	
+16	ur-gu2-en-na	_[Ur-guena]	PN	PN.GEN.GEN	12	appos	_	
+17	al-la-di-mu	_[Alla-dimu]	PN	PN	18	nmod	_	
+18	ur-{d}ba-ba6	Urbaba[1]	PN	PN	12	appos	_	
+19	dumu	dumu[child]	N	N	24	_	_	
+20	ur-{d}nansze	Urnansze[1]	PN	PN	19	GEN	_	
+21	ARAD2-{d}ba-ba6	_[ARAD-Baba]	PN	PN.GEN.GEN.ABS	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	22	GEN	_	
+24	mu	mu[year]	N	N	12	appos	_	
+25	gu-za	guza[chair][-ø]	N	N	27	ABS	_	
+26	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	25	GEN	_	
+27	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

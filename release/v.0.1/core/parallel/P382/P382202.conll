@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P382202.atf new_text=P382202
+# test/P382202.atf						#new_text=P382202
+# tr.en: mountain ram slaughtered from Urru under seal of Lukalla month Flight year Szarum for second time was destroyed Lukalla scribe son of Ur-ee chief livestock manager
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	projectivity violation	
+2	udu-nita2	udunita[ram]	N	N	0	root	_	
+3	kur-ra	kur[mountain]-ak	N	N.GEN.ABS	2	appos	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ur-ru-ta	Urru[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+7	kiszib3	kiszib[seal]	N	N	4	LOC	_	
+8	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	7	GEN	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+10	dal	Dal[1][-'a]	MN	MN.L1	0	_	detached for projectivity	
+11	mu	mu[year]	N	N	10	_	heuristic: attach to last	
+12	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	11	_	heuristic: attach to last	
+13	a-ra2	ara[times]	N	N	15	DAT	projectivity violation	
+14	2(disz@t)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_	
+

@@ -1,0 +1,114 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111899.atf
+# tr.en: sheep grain-fed th grade sheep grain-fed sheep grain-fed following ox for kitchen on account of messengers ARADmu was enforcer sheep grain-fed king with knife killed its meat did Ula his child receive Szu-Suen-il barber was enforcer sheep booked out of king sheep grain-fed Dada castrate when to Girsu he went sheep grain-fed following ox sheep grass-fed Szulgira-kam son sheep grain-fed for Banana man of Marhai to Uruk going on a barge stationed ox grain-fed sheep grain-fed of Ipua man of Simanum tablet-lead into city having entered ARADmu was enforcer ox sheep gifts of king midnight in Puzris-Dagan th day from Szulgi-il booked out via Nanna-maba atam-official and Szu-Suen-idi-ili-mlik arabdu-official month Piglet-feast year Ibbi-Suen is king ox sheep
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	2	nummod	_	
+5	us2	us[follow][-ø]	V	NF.V.ABS	1	acl	projectivity violation	
+6	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+7	udu	udu[sheep]	N	N	2	appos	projectivity violation	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+9	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+10	udu	udu[sheep]	N	N	2	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+12	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	11	acl	_	
+13	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	2	TERM	_	
+14	mu	mu[year]	N	N	2	appos	projectivity violation	
+15	kas4-ke4-ne-sze3	_[on.account.messengers]	N	N.GEN.GEN.TERM	13	LOC	_	
+16	ARAD2-mu	Aradmu[1]	PN	PN	17	ABS	_	
+17	maszkim	maszkim[administrator]	N	N.ABS	2	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	23	nummod	_	
+19	udu	udu[sheep]	N	N	23	ABS	_	
+20	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	_	
+21	lugal-e	lugal[king]-e	N	N.ERG	19	appos	_	
+22	gir2-ta	_[with]	N	N	21	COM	_	
+23	in-gaz	_[knife.killed]	V	FIN.3-SG-H-A.V.3-SG-P	17	acl	_	
+24	uzu-bi	_[its.meat]	N	N.3-SG-NH-POSS.ABS	27	ABS	projectivity violation	
+25	u2-la	_[Ula]	PN	PN.GEN.ABS	28	ABS	projectivity violation	
+26	dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	25	appos	_	
+27	szu	szu[hand][-e]	N	N.L3-NH	23	parataxis	_	
+28	ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	27	acl	_	
+29	{d}szu-{d}suen-dingir	_[Szu-Suen-il]	PN	PN	31	ABS	_	
+30	szu-i	szu'i[barber][-ak]	N	N.ABS	29	appos	_	
+31	maszkim	maszkim[administrator]	N	N.ABS	28	appos	_	
+32	1(u)	1(u)[ten]	NU	NU	34	nummod	_	
+33	4(disz)	4(disz)[one]	NU	NU	32	nummod	_	
+34	udu	udu[sheep]	N	N	28	appos	_	
+35	zi-ga	zig[expend]-a	V	NF.V.PT	34	acl	_	
+36	lugal	lugal[king]	N	N	35	ABL	_	
+37	5(disz)	5(disz)[one]	NU	NU	43	nummod	projectivity violation	
+38	udu	udu[sheep]	N	N	28	parataxis	_	
+39	niga	niga[fattened][-ø]	V	NF.V.ABS	38	acl	_	
+40	da-da	Dada[1][-ak]	PN	PN	41	nmod	_	
+41	gala	_[castrate]	V	NF.V.3-SG-NH-POSS.GEN	38	acl	_	
+42	u4	ud[day]	N	N	46	nummod	projectivity violation	
+43	gir2-su{ki}-sze3	_[to.Girsu]	SN	SN.GEN.GEN.TERM	44	_	_	
+44	i3-gen-na-a	_[when.he.went]	V	V	0	_	detached for projectivity	
+45	2(disz)	2(disz)[one]	NU	NU	48	nummod	projectivity violation	
+46	udu	udu[sheep]	N	N	43	appos	projectivity violation	
+47	niga	niga[fattened][-ø]	V	NF.V.ABS	46	acl	_	
+48	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	46	appos	_	
+49	3(disz)	3(disz)[one]	NU	NU	50	nummod	_	
+50	udu	udu[sheep]	N	N	45	appos	_	
+51	u2	u[grass]	N	N	50	acl	_	
+52	{d}szul-gi-ra-kam	_[Szulgira-kam]	DN	DN	50	acl	_	
+53	dumu	dumu[child]	N	N	50	appos	_	
+54	...	_[_]	PN	N	56	dep	_	
+55	5(disz)	5(disz)[one]	NU	NU	56	nummod	heuristic: NU premodifying	
+56	udu	udu[sheep]	N	N	50	appos	_	
+57	niga	niga[fattened][-ø]	V	NF.V.ABS	56	acl	_	
+58	ba-na-na	_[for.Banana]	V	V	56	acl	_	
+59	lu2	lu[person]	N	N	56	appos	_	
+60	mar-ha-szi{ki}	Marhaszi[1][-ak][-ak]	SN	SN.GEN.GEN	59	GEN	_	
+61	unu{ki}-sze3	_[to]	SN	SN.TERM	62	LOC	_	
+62	du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	56	acl	_	
+63	ma2-a	ma[ship]-'a	N	N.L1	56	LOC	_	
+64	ba-a-gub	_[on.a.stationed]	V	MID.3-SG-H-A.V.3-SG-P	63	acl	_	
+65	1(disz)	1(disz)[one]	NU	NU	66	nummod	_	
+66	gu4	gud[ox]	N	N	50	appos	_	
+67	niga	niga[fattened][-ø]	V	NF.V.ABS	66	acl	_	
+68	5(disz)	5(disz)[one]	NU	NU	66	nummod	_	
+69	udu	udu[sheep]	N	N	68	_	heuristic: attach to last	
+70	niga	niga[fattened][-ø]	V	NF.V.ABS	68	acl	_	
+71	ip-hu-ha	_[of]	PN	PN.GEN.DAT-H	66	GEN	_	
+72	lu2	lu[person]	N	N	66	appos	_	
+73	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	72	GEN	_	
+74	dub-sag	_[tablet-lead.into]	N	N	73	appos	_	
+75	iri-a	_[city]	N	N	66	TERM	_	
+76	kux(KWU636)-ra-ni	_[having.entered]	V	V	75	acl	_	
+77	ARAD2-mu	Aradmu[1]	PN	PN	78	ABS	_	
+78	maszkim	maszkim[administrator]	N	N.ABS	50	appos	_	
+79	1(disz)	1(disz)[one]	NU	NU	80	nummod	_	
+80	gu4	gud[ox]	N	N	78	appos	_	
+81	2(u)	2(u)[ten]	NU	NU	82	nummod	heuristic: NU premodifying	
+82	udu	udu[sheep]	N	N	80	appos	_	
+83	nig2-ba	nigba[gift]	N	N	80	appos	_	
+84	lugal	lugal[king]	N	N	83	GEN	_	
+85	a2-ge6-ba-a	agiba[midnight]-'a	PN	N.L1	84	appos	_	
+86	sza3	szag[heart]	N	N	87	LOC	_	
+87	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	84	LOC	_	
+88	u4	ud[day]	N	N	87	appos	_	
+89	2(u)	2(u)[ten]	NU	NU	78	nummod	_	
+90	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	89	nummod	_	
+91	ki	ki[place]	N	N	92	ABL	_	
+92	{d}szul-gi-i3-li2-ta	Szulgirili[1][-ak]-ta	PN	PN.GEN.ABL	78	appos	_	
+93	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	92	acl	_	
+94	giri3	giri[foot]	N	N	95	via	_	
+95	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	78	appos	_	
+96	sza3-tam	_[atam-official]	N	N.ABS	95	appos	_	
+97	u3	u[and]	CNJ	CNJ	95	appos	_	
+98	{d}szu-{d}suen-i-di3-i3-li2-ma-lik	_[Szu-Suen-idi-ili-mlik]	PN	PN	99	ABS	_	
+99	szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	95	appos	_	
+100	iti	iti[month]	N	N	101	nmod	_	
+101	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	78	appos	_	
+102	mu	mu[year]	N	N	104	_	_	
+103	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	104	ABS	_	
+104	lugal	lugal[king]	N	N	101	appos	_	
+105	1(disz)	1(disz)[one]	NU	NU	50	nummod	projectivity violation	
+106	gu4	gud[ox]	N	N	78	appos	_	
+107	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+108	4(disz)	4(disz)[one]	NU	NU	107	nummod	_	
+109	udu	udu[sheep]	N	N	106	appos	_
+	
+

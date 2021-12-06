@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi the god of his country king of Ur and king of four world quarters Ninkala a citizen of Nippur beloved by him
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	appos	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.DAT-H	8	nummod	_
+10	nin9-kal-la	nin9-kal-la[1]	PN	PN	9	appos	_
+11	dumu	dumu[child]	N	N	13	ABS	_
+12	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	11	appos	_
+13	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ERG	10	amod	_
+

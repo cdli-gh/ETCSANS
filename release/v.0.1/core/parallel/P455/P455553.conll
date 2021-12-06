@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Baba son of Dada
+# train/P455553.atf
+1	ba-ba	baba[porridge]	N	N	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	da-da	Dada[1][-ak]	PN	PN	2	GEN	_
+	
+

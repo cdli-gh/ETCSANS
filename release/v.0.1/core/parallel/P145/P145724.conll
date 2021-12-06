@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145724.atf
+# tr.en: To Ur-gepar speak Workmen of them the boat of pots to unload to Lu-Szara may he give May with it return Lukalla scribe son of Ur-saga
+1	ur-ge6-par4	Ur-gepar[1]	PN	PN	2	_	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	gurusz	gurusz[male]	N	N	2	ABS	_	
+4	1(u)-am3	1(u)[ten][-ø]-am	NU	NU.ABS.COP-3-SG	3	nummod	_	
+5	ma2	ma[ship]	N	N	3	appos	_	
+6	dug	dug[pot]	N	N	3	appos	projectivity violation	
+7	ba-al-e-de3	_[the.pots.to.unload]	V	NF.V.PF.DAT-NH	5	acl	_	
+8	lu2-{d}szara2-ra	_[to.Lu-Szara]	PN	PN	2	LOC	_	
+9	he2-na-szum2-mu	_[may.he.give]	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	2	acl	_	
+10	lu2	lu[person]	N	N	0	_	detached for projectivity	
+11	us2-gar	_[May.with]	V	NF.V.3-SG-S	0	_	detached for projectivity	
+12	he2-eb-da-an-gi4-gi4	_[it.return]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	11	acl	_	
+13	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	12	ABS	_	
+14	dub-sar	dubsar[scribe]	N	N	13	appos	_	
+15	dumu	dumu[child]	N	N	13	appos	_	
+16	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	15	GEN	_
+	
+

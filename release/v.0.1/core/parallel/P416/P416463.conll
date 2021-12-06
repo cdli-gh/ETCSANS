@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: oxen barley-fed top grade oxen barley-fed siskur-offerings of NENEgar and ee-celebration House Day of month day elapsed from Szulgi-ayamu Nasa accepted month Festival of Ninazu year Simurum and Lulubu for th time were destroyed
+# train/P416463.atf
+1	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	25	ERG	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	sag-gu4	_[top.grade]	N	N	2	appos	_	
+5	1(u)	1(u)[ten]	NU	NU	25	nummod	projectivity violation	
+6	gu4	gud[ox]	N	N	2	appos	projectivity violation	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	_	heuristic: attach to last	
+8	...	_[_]	PN	N	7	dep	heuristic: attach to last	
+9	siskur2	siszkur[offering]	N	N	5	appos	_	
+10	NE-NE-gar	_[NENEgar]	PN	PN	9	GEN	_	
+11	u3	u[and]	CNJ	CNJ	10	appos	_	
+12	esz3-esz3	eszesz[festival]	PN	N	10	appos	_	
+13	e2	e[house]	N	N	10	nummod	_	
+14	u4	ud[day]	N	N	5	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	25	nummod	heuristic: NU premodifying	
+16	5(disz)	5(disz)[one]	NU	NU	25	nummod	_	
+17	iti	iti[month]	N	N	18	nmod	_	
+18	u4	ud[day]	N	N	25	GEN	_	
+19	1(u)	1(u)[ten]	NU	NU	25	nummod	projectivity violation	
+20	2(disz)	2(disz)[one]	NU	NU	19	nummod	_	
+21	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	18	acl	_	
+22	ki	ki[place]	N	N	23	ABL	_	
+23	{d}szul-gi-a-a-mu-ta	_[Szulgi-ayamu]	PN	PN.GEN.GEN.ABL	25	ABL	_	
+24	na-sa6	Nasa[1][-e]	PN	PN.ERG	25	ERG	_	
+25	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+26	iti	iti[month]	N	N	25	date	_	
+27	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	28	nmod	_	
+28	mu	mu[year]	N	N	25	ABS	_	
+29	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	36	ABS	projectivity violation	
+30	u3	u[and]	CNJ	CNJ	29	appos	_	
+31	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	29	appos	_	
+32	a-ra2	ara[times]	N	N	29	DAT	_	
+33	1(u)	1(u)[ten]	NU	NU	25	nummod	projectivity violation	
+34	la2	la[hang][-ø]	V	NF.V.ABS	33	_	_	
+35	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	34	nummod	_	
+36	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	28	acl	_
+	
+

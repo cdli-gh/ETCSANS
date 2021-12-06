@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nimintaba his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her For Nimintaba his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her	
+1	{d}nimin-tab-ba	{d}nimin-tab-ba[1]	DN	DN	24	DAT	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	szul-gi,	szulgi[1]	PN	PN	4	nmod	_
+4	nita	_[man]	N	N	2	appos	_
+5	kal-ga	_[the.mighty]	_	_	4	appos	_
+6	lugal	_[king]	N	N	2	appos	_
+7	uri5{ki}-ma	_[Ur]	N	N	6	GEN	_
+8	lugal	_	_	_	7	_	_
+9	ki-en-gi	_	_	_	7	_	_
+10	ki-uri-ke4	_[and.king.Sumer.and.Akkad]	N	N	6	appos	_
+11	e2-a-ni	_[her.temple]	N	N	2	appos	_
+12	mu-na-du3	_[he.built.for.her]	V	V	11	acl	_
+13	{d}nimin-tab-ba	_[For.Nimintaba]	PN	PN	2	DAT	_
+14	nin-a-ni	_[his.mistress]	N	N	13	appos	_
+15	szul-gi	szul-gi[1]	RN	RN	24	ERG	_
+16	nita	nita[male]	N	N	15	appos	_
+17	kal-ga	kalag[strong]	V	NF.V.PT	16	amod	_
+18	lugal	lugal[king]	N	N	15	appos	_
+19	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	18	GEN	_
+20	lugal	lugal[king]	N	N	15	appos	_
+21	ki-en-gi	ki-en-gi[1]	GN	GN	20	GEN	_
+22	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	21	appos	_
+23	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	24	ABS	_
+24	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P124315.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	1	appos	_	
+3	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	2	_	heuristic: attach to last	
+4	u3	u[and]	CNJ	CNJ	3	_	heuristic: attach to last	
+5	zi-ga	zig[expend]-a	V	NF.V.PT	4	_	heuristic: attach to last	
+6	lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	5	_	heuristic: attach to last	
+7	szabra	szabra[chief_administrator][-ak]	N	N	6	_	heuristic: attach to last	
+8	iti	iti[month]	N	N	7	_	heuristic: attach to last	
+9	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	8	_	heuristic: attach to last	
+10	mu	mu[year]	N	N	9	_	heuristic: attach to last	
+11	ha-ar-szi{ki}	Harszi[1]	SN	SN	10	_	heuristic: attach to last	
+12	u3	u[and]	CNJ	CNJ	11	_	heuristic: attach to last	
+13	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	12	_	heuristic: attach to last	
+14	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	13	_	heuristic: attach to last	
+15	iti	iti[month]	N	N	21	nmod	_	
+16	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	15	_	heuristic: attach to last	
+17	mu	mu[year]	N	N	16	_	heuristic: attach to last	
+18	{d}gu-za	guza[chair]	PN	N	17	_	heuristic: attach to last	
+19	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	18	_	heuristic: attach to last	
+20	ba-dim2-sze3	_[xxx]	V	MID.V.3-SG-S.TERM	21	acl	_	
+21	iti	iti[month]	N	N	1	appos	_	
+22	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+23	3(disz@t)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	22	nummod	_
+	
+

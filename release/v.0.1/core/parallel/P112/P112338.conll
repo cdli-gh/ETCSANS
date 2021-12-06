@@ -1,0 +1,536 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P112338.atf new_text=P112338
+# train/P112338.atf						#new_text=P112338
+# tr.en: workdays female workers remaining of year Simanum was destroyed female workers ban months its labor days from month Harvest through month Dumuzi female workers for days its labor days female bara-kara workers total minus workdays are debit therefrom gur barig ban sila sig-flour gur barig ban ea flour gur barig ban fine pea flour barig fine ground ninda flour gur barig ban sila shekels flour its labor days shekels labor of free days involved days from grain account workdays harvested and shocks laid workdays at river lagoon of Idena stationed workdays at kiBAD reservoir stationed workdays at river lagoon of Lumah village stationed sealed tablet of Lu-gina workdays at sluice of division box of Agam-gula stationed workdays to E-ane canal grass carried and earth filled in workdays acacia cut at long field and land of Agugu workdays at field Ninnudu second land of Lu-Szara workdays at new field Oxen-boot and Udu-Lusaga fields land of Lu-Szara second sealed tablet of Lu-egal son of Ur-Utu workdays acacia cut at sar in Auda field workdays at new field workdays at field erected wall workdays at field iib-priests workdays at field Oxen-boot workdays at field Ninnudu acacia cut at sar under seal of Daaga workdays at sluice of field before Ema stationed under seal of Akalla n workdays female laborers at reservoirs of fields and under seal of n workdays female laborers shocks laid in field muru under seal of Lu-kuzu courrier workdays female laborers at reservoir of Szulpae canal workdays at reservoir of Nin-ura canal reservoir of Dukuge reservoir of Abu and reservoir of Naram-Suen workdays at Lugal-tuma-gara bridge of Naram-Suen grass carried earth excavated under seal of Lugal-egal workdays flour ground workdays stationed at river lagoon of Idena two sealed tablets of Lu-aya workdays threshing at workdays from Luma village to silo of Apisal barley winnowed and mua-grain winnowed under seal of Gududu workdays at reservoir of Udu- workdays at reservoir of erected wall and workdays at reservoir of Nin-azu haran-grass carried under seal of Nabasa workdays at reservoir of Auda stationed under seal of Lugal-inim-gina workdays at reservoir of Agam-gula stationed workdays at sadu stationed workdays at sadura ditch before calf-house under seal of Agugu female workers for days its labor days to bala traveled from bala returned workdays labor of free days total workdays booked out the deficit workdays shekels account of labor of female workers foreman year Szu-Suen king Amorite wall muriq-tidnim erected
+1	1(szar2)	1(szar)[unit]	NU	N	6	nummod	_	
+2	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	1	nummod	_	
+3	2(gesz2)	2(gesz)[sixty]	NU	NU	1	nummod	_	
+4	4(u)	4(u)[ten]	NU	NU	1	nummod	_	
+5	geme2	geme[female_worker]	N	N	6	nmod	_	
+6	u4	ud[day]	N	N	0	root	_	
+7	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	8	nummod	heuristic: NU premodifying	
+8	si-i3-tum	situm[balance]	N	N	6	acl	_	
+9	mu	mu[year]	N	N	8	GEN	_	
+10	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	11	ABS	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	8	acl	_	
+12	3(u)	3(u)[ten]	NU	NU	16	nummod	projectivity violation	
+13	7(disz)	7(disz)[one][-sze]	NU	NU	12	nummod	_	
+14	geme2	geme[female_worker]	N	N	6	appos	_	
+15	3(ban2)	3(ban)[unit]	NU	N	14	nummod	_	
+16	iti	iti[month]	N	N	15	appos	_	
+17	1(u)	1(u)[ten]	NU	NU	14	nummod	_	
+18	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	17	nummod	_	
+19	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	14	appos	_	
+20	u4	ud[day]	N	N	21	_	_	
+21	<3(szar2)>	_[days]	NU	NU	14	nummod	_	
+22	4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+23	2(gesz2)	2(gesz)[sixty]	NU	NU	22	nummod	_	
+24	iti	iti[month]	N	N	21	ABL	_	
+25	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	24	ABL	_	
+26	iti	iti[month]	N	N	21	TERM	_	
+27	{d}dumu-zi-sze3	_[through.Dumuzi]	MN	MN.TERM	26	TERM	_	
+28	3(disz)	3(disz)[one]	NU	NU	34	nummod	projectivity violation	
+29	geme2	geme[female_worker]	N	N	21	appos	projectivity violation	
+30	u4	ud[day]	N	N	29	DAT	_	
+31	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+32	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	31	nummod	_	
+33	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	21	appos	projectivity violation	
+34	u4	ud[day]	N	N	33	appos	_	
+35	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+36	3(u)	3(u)[ten]	NU	NU	35	nummod	_	
+37	9(disz)	9(disz)[one]	NU	NU	35	nummod	_	
+38	geme2	geme[female_worker]	N	N	39	acl	_	
+39	bar-ra-kar-ra	_[bara-kara.workers]	N	N.GEN	28	appos	_	
+40	szunigin	szunigin[total]	N	N	39	appos	_	
+41	5(szar2)	_	NU	NU	0	nummod	_	
+42	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	41	nummod	_	
+43	6(gesz2)	6(gesz)[sixty]	NU	NU	41	nummod	_	
+44	2(u)	2(u)[ten]	NU	NU	41	nummod	_	
+45	la2	la[hang][-ø]	V	NF.V.ABS	48	acl	_	
+46	1(disz)	1(disz)[one]	NU	NU	45	nummod	_	
+47	geme2	geme[female_worker]	N	N	46	_	heuristic: attach to last	
+48	u4	ud[day]	N	N	50	ABS	_	
+49	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	50	nummod	heuristic: NU premodifying	
+50	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	40	appos	_	
+51	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	39	_	heuristic: after nominal head	
+52	8(asz)	8(asz)[one]	NU	NU	59	nummod	projectivity violation	
+53	1(barig)	1(bariga)[unit]	NU	N	64	nummod	projectivity violation	
+54	2(ban2)	2(ban)[unit]	NU	N	53	nummod	_	
+55	1(disz)	1(disz)[one]	NU	NU	59	nummod	_	
+56	sila3	sila[unit]	N	N	58	nmod	_	
+57	zi3	zid[flour]	N	N	56	_	heuristic: attach to last	
+58	sig15	sig[flour_type]	V	N	59	acl	_	
+59	gur	gur[unit]	N	N	39	appos	_	
+60	2(asz)	2(asz)[one]	NU	NU	59	nummod	_	
+61	4(barig)	4(bariga)[unit]	NU	N	71	nummod	projectivity violation	
+62	2(ban2)	2(ban)[unit]	NU	N	59	nummod	_	
+63	esza	esza[flour]	N	N	59	appos	_	
+64	gur	gur[unit]	N	N	59	appos	_	
+65	1(u)	1(u)[ten]	NU	NU	59	nummod	_	
+66	8(asz)	8(asz)[one]	NU	NU	73	nummod	projectivity violation	
+67	4(barig)	4(bariga)[unit]	NU	N	66	nummod	_	
+68	2(ban2)	2(ban)[unit]	NU	N	59	nummod	_	
+69	zi3-gu	zidgu[flour_type]	N	N	59	appos	_	
+70	saga	saga[good][-ø]	V	NF.V.ABS	69	acl	_	
+71	gur	gur[unit]	N	N	59	appos	_	
+72	2(barig)	2(bariga)[unit]	NU	N	73	nummod	_	
+73	nig2-ar3-ra	nigara[groats]	N	N	59	appos	_	
+74	saga	saga[good][-ø]	V	NF.V.ABS	73	acl	_	
+75	2(gesz2)	2(gesz)[sixty]	NU	NU	59	nummod	_	
+76	4(u)	4(u)[ten]	NU	NU	75	nummod	_	
+77	1(asz)	1(asz)[one]	NU	NU	75	nummod	_	
+78	2(gesz2)	2(gesz)[sixty]	NU	NU	75	nummod	_	
+79	4(barig)	4(bariga)[unit]	NU	N	75	nummod	_	
+80	3(ban2)	3(ban)[unit]	NU	N	75	nummod	_	
+81	4(disz)	4(disz)[one]	NU	NU	59	nummod	_	
+82	sila3	sila[unit]	N	N	83	nmod	_	
+83	gin2	gig[unit]	N	N	84	nmod	_	
+84	dabin	dabin[semolina]	N	N	59	appos	_	
+85	gur	gur[unit]	N	N	59	appos	_	
+86	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	59	appos	_	
+87	u4	ud[day]	N	N	86	_	heuristic: attach to last	
+88	1(szar2)	1(szar)[unit]	NU	N	59	nummod	_	
+89	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	88	nummod	_	
+90	9(gesz2)	9(gesz)[sixty]	NU	NU	88	nummod	_	
+91	4(u)	4(u)[ten]	NU	NU	88	nummod	_	
+92	6(disz)	6(disz)[one][-sze]	NU	NU	88	nummod	_	
+93	1(u)	1(u)[ten]	NU	NU	88	nummod	_	
+94	gin2	gig[unit]	N	N	59	appos	projectivity violation	
+95	a2	a[time]	N	N	94	_	heuristic: attach to last	
+96	u4-du8-a-bi	_[free.days.involved]	N	N.3-SG-NH-POSS	93	GEN	_	
+97	u4	ud[day]	N	N	108	date	projectivity violation	
+98	($	_	_	_	97	_	heuristic: attach to last	
+99	blank	_	_	_	98	_	heuristic: attach to last	
+100	space	_	_	_	99	_	heuristic: attach to last	
+101	$)	_	_	_	100	_	heuristic: attach to last	
+102	nig2-ka9	nigSZID[account]	N	N	103	ABL	_	
+103	sze-ta	sze[barley]-ta	N	N.ABL	108	ABL	projectivity violation	
+104	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	108	nummod	projectivity violation	
+105	8(gesz2)	8(gesz2)[sixty]	NU	NU	116	nummod	projectivity violation	
+106	5(u)	5(u)[ten]	NU	NU	105	nummod	_	
+107	geme2	geme[female_worker]	N	N	106	_	heuristic: attach to last	
+108	u4	ud[day]	N	N	0	_	detached for projectivity	
+109	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	110	nummod	heuristic: NU premodifying	
+110	gur10-a	gur[reap]-a	N	NF.V.PT	108	appos	_	
+111	zar3	zar[sheaf]	N	N	110	_	heuristic: attach to last	
+112	tab-ba	tab[grasp]-a	V	NF.V.PT	111	_	heuristic: attach to last	
+113	2(gesz2)	2(gesz)[sixty]	NU	NU	121	nummod	projectivity violation	
+114	2(u)	2(u)[ten]	NU	NU	125	nummod	projectivity violation	
+115	geme2	geme[female_worker]	N	N	114	_	heuristic: attach to last	
+116	u4	ud[day]	N	N	108	appos	_	
+117	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	120	nummod	heuristic: NU premodifying	
+118	kun-zi-da	kunzida[weir]	N	N	120	LOC	_	
+119	i7	id[river]	N	N	120	nmod	_	
+120	de3-na	_[lagoon]	WN	WN	108	LOC	_	
+121	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	120	acl	_	
+122	2(u)	2(u)[ten]	NU	NU	108	nummod	projectivity violation	
+123	5(disz)	5(disz)[one]	NU	NU	133	nummod	projectivity violation	
+124	geme2	geme[female_worker]	N	N	123	_	heuristic: attach to last	
+125	u4	ud[day]	N	N	121	appos	_	
+126	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	128	nummod	heuristic: NU premodifying	
+127	kab2-ku5	kabkul[water_installation]	N	N	128	LOC	_	
+128	ki-BAD	_[kiBAD.reservoir]	FN	FN.GEN.ABL	121	LOC	_	
+129	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	128	acl	_	
+130	1(gesz2)	1(gesz)[sixty]	NU	NU	108	nummod	_	
+131	3(u)	3(u)[ten]	NU	NU	130	nummod	_	
+132	geme2	geme[female_worker]	N	N	131	_	heuristic: attach to last	
+133	u4	ud[day]	N	N	108	appos	_	
+134	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	136	nummod	heuristic: NU premodifying	
+135	kun-zi-da	kunzida[weir]	N	N	136	LOC	_	
+136	e2-duru5-lu2-mah	_[river.lagoon.Lumah.village]	FN	FN	108	LOC	_	
+137	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	136	acl	_	
+138	kiszib3	kiszib[seal]	N	N	108	appos	_	
+139	lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	138	GEN	_	
+140	5(gesz2)	5(gesz)[sixty]	NU	NU	139	nummod	_	
+141	3(u)	3(u)[ten]	NU	NU	108	nummod	_	
+142	8(disz)	8(disz)[one]	NU	NU	155	nummod	projectivity violation	
+143	geme2	geme[female_worker]	N	N	142	_	heuristic: attach to last	
+144	u4	ud[day]	N	N	108	appos	_	
+145	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	146	nummod	heuristic: NU premodifying	
+146	a-e3-a	_[sluice]	PN	PN	144	LOC	_	
+147	bar-la2	_[at]	N	N	146	LOC	_	
+148	a-ga-am	_[division.Agam-gula]	N	N	149	nmod	_	
+149	gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	146	GEN	_	
+150	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	149	acl	_	
+151	3(gesz2)	3(gesz)[sixty]	NU	NU	149	nummod	_	
+152	4(u)	4(u)[ten]	NU	NU	108	nummod	_	
+153	2(disz)	2(disz)[one]	NU	NU	164	nummod	projectivity violation	
+154	geme2	geme[female_worker]	N	N	153	_	heuristic: attach to last	
+155	u4	ud[day]	N	N	108	appos	_	
+156	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	159	nummod	heuristic: NU premodifying	
+157	i7	id[river]	N	N	156	_	heuristic: attach to last	
+158	e2-ansze-sze3	_[to.E-ane.canal]	WN	WN	159	LOC	_	
+159	u2	u[grass]	N	N	108	LOC	_	
+160	ga6-ga2	gag[carry]-a	V	NF.V.PT	159	acl	_	
+161	u3	u[and]	CNJ	CNJ	160	appos	_	
+162	sahar	sahar[earth][-ø]	N	N.GEN	160	appos	_	
+163	si-ga	sig[load]-a	N	NF.V.PT	160	acl	_	
+164	($	_[workdays]	N	N	108	appos	_	
+165	blank	_	N	N	172	ABS	_	
+166	space	_	_	_	165	_	heuristic: attach to last	
+167	$)	_	_	_	166	_	heuristic: attach to last	
+168	geme2	geme[female_worker]	N	N	167	_	heuristic: attach to last	
+169	u4	ud[day]	N	N	168	_	heuristic: attach to last	
+170	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	172	nummod	heuristic: NU premodifying	
+171	{u2}kiszi17	kiszig[acacia]	FN	N	172	ERG	_	
+172	ku5-ra2	kud[cut]-a	V	NF.V.PT	164	acl	_	
+173	...	_[_]	PN	N	172	dep	heuristic: attach to last	
+174	a-sza3	aszag[field]	N	N	172	LOC	_	
+175	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	174	acl	_	
+176	u3	u[and]	CNJ	CNJ	174	appos	_	
+177	ugur2-tur-tur	_[at.long]	PN	PN	174	LOC	_	
+178	ga	ga[milk]	N	N	164	appos	_	
+179	GAN2	gana[field]	N	N	108	appos	projectivity violation	
+180	a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	164	appos	_	
+181	($	_[workdays]	N	N	108	appos	_	
+182	blank	_[at]	N	N	188	LOC	_	
+183	space	_	_	_	182	_	heuristic: attach to last	
+184	$)	_	_	_	183	_	heuristic: attach to last	
+185	geme2	geme[female_worker]	N	N	184	_	heuristic: attach to last	
+186	u4	ud[day]	N	N	185	_	heuristic: attach to last	
+187	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	188	nummod	heuristic: NU premodifying	
+188	a-sza3	aszag[field]	N	N	181	LOC	_	
+189	nin10-nu-du3	_[Ninnudu]	FN	FN	188	appos	_	
+190	a-ra2	ara[times]	N	N	108	appos	_	
+191	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	258	nummod	heuristic: NU premodifying	
+192	GAN2	gana[field]	N	N	193	_	_	
+193	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	0	_	_	
+194	($	_[workdays]	N	N	193	appos	_	
+195	blank	_[at]	N	N	205	LOC	_	
+196	space	_	_	_	195	_	heuristic: attach to last	
+197	$)	_	_	_	196	_	heuristic: attach to last	
+198	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+199	4(disz)	4(disz)[one]	NU	NU	198	nummod	_	
+200	geme2	geme[female_worker]	N	N	199	_	heuristic: attach to last	
+201	u4	ud[day]	N	N	200	_	heuristic: attach to last	
+202	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	205	nummod	heuristic: NU premodifying	
+203	a-sza3	aszag[field]	N	N	202	_	heuristic: attach to last	
+204	gibil	gibil[new][-ø]	V	NF.V.ABS	205	acl	_	
+205	a-sza3	aszag[field]	N	N	194	LOC	_	
+206	gu4-suhub2	Gusuhub[1][-ak][-sze]	N	FN	194	appos	_	
+207	u3	u[and]	CNJ	CNJ	206	appos	_	
+208	u2-du-lu2-saga	_[Udu-Lusaga.fields]	FN	FN	206	appos	_	
+209	GAN2	gana[field]	N	N	208	_	heuristic: attach to last	
+210	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	206	appos	_	
+211	a-ra2	ara[times]	N	N	213	acl	_	
+212	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	213	nummod	heuristic: NU premodifying	
+213	kiszib3	kiszib[seal]	N	N	210	appos	_	
+214	lu2-he2-gal2	Luhegal[1][-e]	PN	PN.ERG	213	GEN	_	
+215	dumu	dumu[child]	N	N	210	appos	_	
+216	ur-{d}utu	Urutu[1]	PN	PN	215	GEN	_	
+217	($	_[workdays]	N	N	206	appos	_	
+218	blank	_	_	_	217	_	heuristic: attach to last	
+219	space	_	PN	PN	230	nmod	projectivity violation	
+220	$)	_	_	_	219	_	heuristic: attach to last	
+221	geme2	geme[female_worker]	N	N	220	_	heuristic: attach to last	
+222	u4	ud[day]	N	N	221	_	heuristic: attach to last	
+223	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	225	nummod	heuristic: NU premodifying	
+224	{u2}kiszi17	kiszig[acacia]	FN	N	225	nmod	_	
+225	ku5-ra2	kud[cut]-a	V	NF.V.PT	206	acl	_	
+226	1(u)	1(u)[ten]	NU	NU	227	nummod	heuristic: NU premodifying	
+227	sar-ta	sar[unit]-ta	PN	N.ABL	225	LOC	_	
+228	a-sza3	aszag[field]	N	N	227	LOC	_	
+229	a-u2-da	_[in.Auda]	FN	FN.GEN.ABL	228	LOC	_	
+230	($	_[workdays]	N	N	206	appos	_	
+231	blank	_[at]	N	N	237	LOC	projectivity violation	
+232	space	_	_	_	231	_	heuristic: attach to last	
+233	$)	_	PN	PN	239	nmod	projectivity violation	
+234	geme2	geme[female_worker]	N	N	233	_	heuristic: attach to last	
+235	u4	ud[day]	N	N	234	_	heuristic: attach to last	
+236	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	237	nummod	heuristic: NU premodifying	
+237	a-sza3	aszag[field]	N	N	206	appos	_	
+238	gibil	gibil[new][-ø]	V	NF.V.ABS	237	acl	_	
+239	($	_[workdays]	N	N	206	appos	_	
+240	blank	_[at]	N	N	246	LOC	projectivity violation	
+241	space	_	_	_	240	_	heuristic: attach to last	
+242	$)	_	_	_	241	_	heuristic: attach to last	
+243	geme2	geme[female_worker]	N	N	249	nmod	projectivity violation	
+244	u4	ud[day]	N	N	243	_	heuristic: attach to last	
+245	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	246	nummod	heuristic: NU premodifying	
+246	a-sza3	aszag[field]	N	N	239	LOC	_	
+247	bad3	bad[wall]	N	N	239	appos	_	
+248	du3-a	du[build]-a	V	NF.V.PT	247	acl	_	
+249	($	_[workdays]	N	N	206	appos	_	
+250	blank	_[at]	N	N	256	LOC	projectivity violation	
+251	space	_	_	_	250	_	heuristic: attach to last	
+252	$)	_	_	_	251	_	heuristic: attach to last	
+253	geme2	geme[female_worker]	N	N	258	nmod	projectivity violation	
+254	u4	ud[day]	N	N	253	_	heuristic: attach to last	
+255	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	256	nummod	heuristic: NU premodifying	
+256	a-sza3	aszag[field]	N	N	206	LOC	_	
+257	iszib-e-ne	Iszibene[1][-ak][-ak][-'a]	FN	FN.GEN.GEN.L1	256	appos	_	
+258	($	_[workdays]	N	N	88	appos	_	
+259	blank	_[at]	N	N	265	LOC	_	
+260	space	_	_	_	259	_	heuristic: attach to last	
+261	$)	_	_	_	260	_	heuristic: attach to last	
+262	geme2	geme[female_worker]	N	N	261	_	heuristic: attach to last	
+263	u4	ud[day]	N	N	262	_	heuristic: attach to last	
+264	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	265	nummod	heuristic: NU premodifying	
+265	a-sza3	aszag[field]	N	N	258	LOC	_	
+266	gu4-suhub2	Gusuhub[1][-ak][-sze]	N	FN	265	appos	_	
+267	($	_[workdays]	N	N	258	appos	_	
+268	blank	_[at]	N	N	274	LOC	projectivity violation	
+269	space	_	_	_	268	_	heuristic: attach to last	
+270	$)	_	_	_	269	_	heuristic: attach to last	
+271	geme2	geme[female_worker]	N	N	258	appos	_	
+272	u4	ud[day]	N	N	258	appos	_	
+273	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	274	nummod	heuristic: NU premodifying	
+274	a-sza3	aszag[field]	N	N	258	LOC	_	
+275	nin10-nu-du3	_[Ninnudu]	FN	FN	274	appos	_	
+276	{u2}kiszi17	kiszig[acacia]	FN	N	277	nmod	_	
+277	ku5-ra2	kud[cut]-a	V	NF.V.PT	0	_	_	
+278	1(u)	1(u)[ten]	NU	NU	258	nummod	projectivity violation	
+279	sar-ta	sar[unit]-ta	PN	N.ABL	277	LOC	_	
+280	kiszib3	kiszib[seal]	N	N	258	LOC	_	
+281	da-a-ga	_[Daaga]	PN	PN	280	GEN	_	
+282	5(gesz2)	5(gesz)[sixty]	NU	NU	281	nummod	_	
+283	1(u)	1(u)[ten]	NU	NU	291	nummod	projectivity violation	
+284	4(disz)	4(disz)[one]	NU	NU	283	nummod	_	
+285	geme2	geme[female_worker]	N	N	284	_	heuristic: attach to last	
+286	u4	ud[day]	N	N	258	appos	_	
+287	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	288	nummod	heuristic: NU premodifying	
+288	a-e3-a	_[at.sluice]	PN	PN	286	LOC	_	
+289	a-sza3	aszag[field]	N	N	288	GEN	_	
+290	igi-e2-mah-sze3	_[before.Ema]	N	N.GEN.TERM	291	_	_	
+291	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	288	acl	_	
+292	kiszib3	kiszib[seal]	N	N	291	LOC	_	
+293	a-kal-la	Akala[1]	PN	PN	292	GEN	_	
+294	n	_(_)[_]	NU	NU	258	nummod	_	
+295	geme2	geme[female_worker]	N	N	302	nmod	projectivity violation	
+296	u4	ud[day]	N	N	303	nmod	projectivity violation	
+297	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	258	nummod	_	
+298	kab2-ku5	kabkul[water_installation]	N	N	302	LOC	projectivity violation	
+299	a-sza3	aszag[field]	N	N	298	_	heuristic: attach to last	
+300	x	_[_]	N	N	299	dep	heuristic: attach to last	
+301	u3	u[and]	CNJ	CNJ	303	nmod	projectivity violation	
+302	kab2-ku5	kabkul[water_installation]	N	N	258	appos	projectivity violation	
+303	...	_[_]	PN	N	298	dep	_	
+304	kiszib3	kiszib[seal]	N	N	258	appos	_	
+305	x-{d}x	_[of]	PN	PN.DAT-H	304	GEN	_	
+306	n	_(_)[_]	NU	NU	258	nummod	_	
+307	geme2	geme[female_worker]	N	N	308	nmod	_	
+308	u4	ud[day]	N	N	258	appos	_	
+309	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	308	nummod	_	
+310	zar3	zar[sheaf]	N	N	308	appos	_	
+311	tab-ba	tab[grasp]-a	V	NF.V.PT	312	acl	_	
+312	a-sza3	aszag[field]	N	N	313	LOC	_	
+313	muru13	Muru[1]	FN	FN	308	appos	_	
+314	kiszib3	kiszib[seal]	N	N	308	LOC	_	
+315	lu2-ku3-zu	_[Lu-kuzu]	PN	PN	314	GEN	_	
+316	sukkal	sukkal[secretary][-ak][-ra]	N	N	315	appos	_	
+317	1(gesz2)	1(gesz)[sixty]	NU	NU	315	nummod	_	
+318	5(u)	5(u)[ten]	NU	NU	258	nummod	_	
+319	5(disz)	5(disz)[one]	NU	NU	332	nummod	projectivity violation	
+320	geme2	geme[female_worker]	N	N	321	nmod	_	
+321	u4	ud[day]	N	N	258	appos	_	
+322	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	323	nummod	heuristic: NU premodifying	
+323	kab2-ku5	kabkul[water_installation]	N	N	321	LOC	_	
+324	i7	id[river]	N	N	323	GEN	_	
+325	{d}szul-pa-e3	_[Szulpae]	FN	FN	324	appos	_	
+326	6(gesz2)	6(gesz)[sixty]	NU	NU	324	nummod	_	
+327	1(u)	1(u)[ten]	NU	NU	341	nummod	projectivity violation	
+328	5(disz)	5(disz)[one]	NU	NU	327	nummod	_	
+329	geme2	geme[female_worker]	N	N	328	_	heuristic: attach to last	
+330	u4	ud[day]	N	N	329	_	heuristic: attach to last	
+331	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	332	nummod	heuristic: NU premodifying	
+332	kab2-ku5	kabkul[water_installation]	N	N	258	appos	projectivity violation	
+333	i7	id[river]	N	N	332	_	heuristic: attach to last	
+334	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	349	nummod	projectivity violation	
+335	u3	u[and]	CNJ	CNJ	334	_	heuristic: attach to last	
+336	kab2-ku5	kabkul[water_installation]	N	N	338	LOC	_	
+337	du6-ku3-sig17	_	N	N	336	_	heuristic: attach to last	
+338	kab2-ku5	kabkul[water_installation]	N	N	332	LOC	_	
+339	a-bu3	_[Abu]	FN	FN.GEN.TERM	332	GEN	projectivity violation	
+340	u3	u[and]	CNJ	CNJ	258	appos	projectivity violation	
+341	kab2-ku5	kabkul[water_installation]	N	N	258	appos	projectivity violation	
+342	na-ra-am-{d}suen	Naramsuen[1][-ak]-sze]	RN	RN.GEN.TERM	327	appos	projectivity violation	
+343	u2	u[grass]	N	N	342	_	heuristic: attach to last	
+344	na	na[stone_weight]	V	N	338	acl	projectivity violation	
+345	du	gin[quality_designation][-ø]	V	NF.V.ABS	344	_	heuristic: attach to last	
+346	3(gesz2)	3(gesz)[sixty]	NU	NU	344	nummod	_	
+347	4(u)	4(u)[ten]	NU	NU	88	nummod	projectivity violation	
+348	geme2	geme[female_worker]	N	N	347	_	heuristic: attach to last	
+349	u4	ud[day]	N	N	341	appos	_	
+350	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	353	nummod	heuristic: NU premodifying	
+351	u3	u[and]	CNJ	CNJ	350	_	heuristic: attach to last	
+352	lugal	lugal[king]	N	N	351	_	heuristic: attach to last	
+353	tum-ma-gar-ra	_[Lugal-tuma-gara.bridge.earth]	TN	TN	349	LOC	_	
+354	na-ra-am-{d}suen	Naramsuen[1][-ak]-sze]	RN	RN.GEN.TERM	353	LOC	_	
+355	u2	u[grass]	N	N	356	ABS	_	
+356	ga6-ga2	gag[carry]-a	V	NF.V.PT	341	acl	_	
+357	sahar	sahar[earth][-ø]	N	N.GEN	356	acl	_	
+358	zi-ga	zig[expend]-a	V	NF.V.PT	357	_	heuristic: attach to last	
+359	kiszib3	kiszib[seal]	N	N	88	appos	_	
+360	lugal-he2-gal2	Lugalhegal[1]	PN	PN	359	GEN	_	
+361	2(gesz2)	2(gesz)[sixty]	NU	NU	360	nummod	_	
+362	4(u)	4(u)[ten]	NU	NU	88	nummod	_	
+363	5(disz)	5(disz)[one]	NU	NU	372	nummod	projectivity violation	
+364	geme2	geme[female_worker]	N	N	363	_	heuristic: attach to last	
+365	u4	ud[day]	N	N	88	appos	_	
+366	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	368	nummod	heuristic: NU premodifying	
+367	zi3	zid[flour]	N	N	368	nmod	_	
+368	ar3	_[ground]	N	N	365	appos	_	
+369	1(gesz2)	1(gesz)[sixty]	NU	NU	376	nummod	projectivity violation	
+370	8(disz)	8(disz)[one]	NU	NU	39	nummod	projectivity violation	
+371	geme2	geme[female_worker]	N	N	39	appos	projectivity violation	
+372	u4	ud[day]	N	N	88	appos	_	
+373	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	376	nummod	heuristic: NU premodifying	
+374	kun-zi-da	kunzida[weir]	N	N	376	LOC	_	
+375	i7	id[river]	N	N	376	nmod	_	
+376	de3-na	_[lagoon]	WN	WN	377	LOC	_	
+377	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	372	acl	_	
+378	kiszib3	kiszib[seal]	N	N	39	appos	_	
+379	2(disz)	2(disz)[one]	NU	NU	384	nummod	projectivity violation	
+380	lu2-{d}ha-ia3	Luha'ia[1]	PN	PN	39	nummod	_	
+381	6(gesz2)	6(gesz)[sixty]	NU	NU	39	nummod	_	
+382	3(disz)	3(disz)[one]	NU	NU	386	nummod	projectivity violation	
+383	geme2	geme[female_worker]	N	N	382	_	heuristic: attach to last	
+384	u4	ud[day]	N	N	39	appos	_	
+385	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	391	nummod	projectivity violation	
+386	ki-su7	kisur[threshing_floor]	N	N	384	acl	_	
+387	2(asz)-ta	_	NU	NU.ABL	0	nummod	_	
+388	2(gesz2)	2(gesz)[sixty]	NU	NU	387	nummod	_	
+389	5(disz)	5(disz)[one]	NU	NU	387	nummod	_	
+390	geme2	geme[female_worker]	N	N	389	_	heuristic: attach to last	
+391	u4	ud[day]	N	N	386	appos	_	
+392	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	394	nummod	heuristic: NU premodifying	
+393	e2-duru5	eduru[village]	N	N	394	ABL	_	
+394	lu2-mah-ta	_[Luma.village]	PN	PN	391	ABL	_	
+395	guru7	guru[grain_heap]	N	N	394	LOC	_	
+396	a-pi4-sal4{ki}-sze3	_[to.Apisal]	GN	GN	395	LOC	_	
+397	sze	sze[barley]	N	N	398	ABS	_	
+398	zi-ga	zig[expend]-a	V	NF.V.PT	391	acl	_	
+399	u3	u[and]	CNJ	CNJ	398	appos	_	
+400	sze	sze[barley]	N	N	386	appos	projectivity violation	
+401	mu-sza	_[mua-grain]	PN	PN	402	acl	_	
+402	zi-ga	zig[expend]-a	V	NF.V.PT	398	appos	_	
+403	kiszib3	kiszib[seal]	N	N	386	appos	_	
+404	gu-du-du	Gududu[1]	PN	PN	403	GEN	_	
+405	1(gesz2)	1(gesz)[sixty]	NU	NU	418	nummod	projectivity violation	
+406	1(u)	1(u)[ten]	NU	NU	405	nummod	_	
+407	la2	la[hang][-ø]	V	NF.V.ABS	405	_	_	
+408	1(disz@t)	1(disz)[one]	NU	NU	407	nummod	_	
+409	geme2	geme[female_worker]	N	N	408	_	heuristic: attach to last	
+410	u4	ud[day]	N	N	386	appos	_	
+411	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	412	nummod	heuristic: NU premodifying	
+412	kab2-ku5	kabkul[water_installation]	N	N	410	LOC	_	
+413	u2-du-...	_	FN	FN.GEN.TERM	386	appos	projectivity violation	
+414	2(gesz2)	2(gesz)[sixty]	NU	NU	412	nummod	_	
+415	1(u)	1(u)[ten]	NU	NU	420	nummod	projectivity violation	
+416	8(disz)	8(disz)[one]	NU	NU	415	nummod	_	
+417	geme2	geme[female_worker]	N	N	386	appos	_	
+418	u4	ud[day]	N	N	386	appos	_	
+419	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	431	nummod	projectivity violation	
+420	kab2-ku5	kabkul[water_installation]	N	N	418	LOC	_	
+421	bad3	bad[wall]	N	N	420	GEN	_	
+422	du3-a	du[build]-a	V	NF.V.PT	421	acl	_	
+423	u3	u[and]	CNJ	CNJ	420	appos	projectivity violation	
+424	a	a[water][-ø]	N	N.ABS	423	_	heuristic: attach to last	
+425	x	_[_]	N	N	424	dep	heuristic: attach to last	
+426	x	_[_]	N	N	425	dep	heuristic: attach to last	
+427	1(gesz2)	1(gesz)[sixty]	NU	NU	421	nummod	_	
+428	5(u)	5(u)[ten]	NU	NU	433	nummod	projectivity violation	
+429	5(disz)	5(disz)[one]	NU	NU	431	nummod	_	
+430	geme2	geme[female_worker]	N	N	429	_	heuristic: attach to last	
+431	u4	ud[day]	N	N	386	appos	projectivity violation	
+432	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	433	nummod	heuristic: NU premodifying	
+433	kab2-ku5	kabkul[water_installation]	N	N	431	LOC	_	
+434	{d}nin-a-zu	Ninazu[1][-ra]	DN	DN	428	appos	projectivity violation	
+435	{u2}har-an	haran[plant]	N	N	436	ABS	_	
+436	ga6-ga2	gag[carry]-a	V	NF.V.PT	431	acl	_	
+437	kiszib3	kiszib[seal]	N	N	386	appos	_	
+438	na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	437	GEN	_	
+439	1(gesz2)	1(gesz)[sixty]	NU	NU	438	nummod	_	
+440	5(u)	5(u)[ten]	NU	NU	443	nummod	_	
+441	5(disz)	5(disz)[one]	NU	NU	440	nummod	_	
+442	geme2	geme[female_worker]	N	N	441	_	heuristic: attach to last	
+443	u4	ud[day]	N	N	386	appos	_	
+444	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	445	nummod	heuristic: NU premodifying	
+445	kab2-ku5	kabkul[water_installation]	N	N	443	LOC	_	
+446	a-u2-da	_[Auda]	FN	FN.GEN.ABL	445	appos	_	
+447	...-hal	_	PN	PN	386	appos	projectivity violation	
+448	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	445	acl	_	
+449	kiszib3	kiszib[seal]	N	N	386	appos	_	
+450	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	449	GEN	_	
+451	2(gesz2)	2(gesz)[sixty]	NU	NU	386	nummod	_	
+452	geme2	geme[female_worker]	N	N	461	nummod	projectivity violation	
+453	u4	ud[day]	N	N	386	appos	_	
+454	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	455	nummod	heuristic: NU premodifying	
+455	kab2-ku5	kabkul[water_installation]	N	N	453	LOC	_	
+456	a-ga-am-gu-la	_[Agam-gula]	FN	FN	457	acl	_	
+457	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	455	acl	_	
+458	1(gesz2)	1(gesz)[sixty]	NU	NU	386	nummod	_	
+459	2(u)	2(u)[ten]	NU	NU	469	nummod	projectivity violation	
+460	geme2	geme[female_worker]	N	N	459	_	heuristic: attach to last	
+461	u4	ud[day]	N	N	386	appos	_	
+462	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	463	nummod	heuristic: NU premodifying	
+463	sa-du8	_[at.sadu]	N	N.ABS	461	LOC	_	
+464	u3	u[and]	CNJ	CNJ	463	_	heuristic: attach to last	
+465	bar	bar[unknown]	N	N.ABS	464	_	heuristic: attach to last	
+466	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	461	acl	_	
+467	1(gesz2)	1(gesz)[sixty]	NU	NU	386	nummod	_	
+468	geme2	geme[female_worker]	N	N	467	_	heuristic: attach to last	
+469	u4	ud[day]	N	N	386	appos	_	
+470	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	472	nummod	heuristic: NU premodifying	
+471	e	eg[levee]	N	N	470	_	heuristic: attach to last	
+472	sa-dur2-ra	sadurra[bottom]	N	N	469	LOC	_	
+473	igi	igi[eye][-ø]	N	N	474	LOC	_	
+474	e2-amar-ra	_[calf-house]	TN	TN	472	LOC	_	
+475	kiszib3	kiszib[seal]	N	N	386	appos	_	
+476	a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	475	GEN	_	
+477	3(u)	3(u)[ten]	NU	NU	478	nummod	_	
+478	geme2	geme[female_worker]	N	N	386	appos	_	
+479	u4	ud[day]	N	N	478	DAT	_	
+480	1(u)-sze3	1(u)[ten]-sze	NU	NU.TERM	481	nummod	heuristic: NU premodifying	
+481	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	478	appos	_	
+482	u4	ud[day]	N	N	478	appos	_	
+483	5(gesz2)-kam	_	NU	NU.GEN.COP-3-SG	482	nummod	_	
+484	bala-sze3	_[bala]	N	N	482	LOC	_	
+485	gen-na	gen[go]-a	V	NF.V.PT	484	acl	_	
+486	bala-ta	_[traveled.bala]	N	N.GEN.ABL	484	acl	_	
+487	gur-ra	gur[unit]-ak	V	NF.V.PT	484	acl	_	
+488	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	484	nummod	_	
+489	3(gesz2)	3(gesz)[sixty]	NU	NU	494	nummod	_	
+490	1(u)	1(u)[ten]	NU	NU	489	nummod	_	
+491	2(disz)	2(disz)[one]	NU	NU	489	nummod	_	
+492	2/3(disz)	2/3(disz)[one]	NU	NU	489	nummod	_	
+493	geme2	geme[female_worker]	N	N	492	_	heuristic: attach to last	
+494	u4	ud[day]	N	N	484	appos	_	
+495	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	496	nummod	heuristic: NU premodifying	
+496	a2	a[time]	N	N	494	appos	_	
+497	u4-du8-a	uduh[days_off]-'a	N	N.L1	496	GEN	_	
+498	szunigin	szunigin[total]	N	N	484	appos	_	
+499	3(szar2)	_	NU	NU	0	nummod	_	
+500	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	499	nummod	_	
+501	2(gesz2)	2(gesz)[sixty]	NU	NU	499	nummod	_	
+502	3(u)	3(u)[ten]	NU	NU	499	nummod	_	
+503	8(disz)	8(disz)[one]	NU	NU	499	nummod	_	
+504	5/6(disz)	5/6(disz)[one]	NU	NU	499	nummod	_	
+505	geme2	geme[female_worker]	N	N	504	_	heuristic: attach to last	
+506	u4	ud[day]	N	N	498	appos	_	
+507	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	508	nummod	heuristic: NU premodifying	
+508	zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	506	acl	_	
+509	la2-ia3	la'u[arrears]	N	N	510	nmod	_	
+510	2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	484	nummod	_	
+511	3(gesz2)	3(gesz)[sixty]	NU	NU	517	nummod	_	
+512	4(u)	4(u)[ten]	NU	NU	511	nummod	_	
+513	2(disz)	2(disz)[one]	NU	NU	511	nummod	_	
+514	1(u)	1(u)[ten]	NU	NU	517	nummod	heuristic: NU premodifying	
+515	gin2	gig[unit]	N	N	517	nmod	_	
+516	geme2	geme[female_worker]	N	N	515	_	heuristic: attach to last	
+517	u4	ud[day]	N	N	510	appos	_	
+518	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	519	nummod	heuristic: NU premodifying	
+519	nig2-ka9-ak	nigSZID[account]	N	N	517	appos	_	
+520	a2	a[time]	N	N	519	GEN	_	
+521	geme2	geme[female_worker]	N	N	520	GEN	_	
+522	ugula	ugula[overseer][-ø]	N	N	520	appos	_	
+523	...-x	_[_]	WN	RN	524	dep	_	
+524	mu	mu[year]	N	N	517	appos	_	
+525	{d}szu-{d}suen	Szusuen[1]	RN	RN	524	appos	_	
+526	lugal	lugal[king]	N	N	525	appos	_	
+527	bad3	bad[wall]	N	N	39	appos	projectivity violation	
+528	mar-tu	Martu[1][-ø]	EN	EN.ABS	529	nmod	_	
+529	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	525	appos	_	
+530	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	529	acl	_
+	
+

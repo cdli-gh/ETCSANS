@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: steadfast supporter of Enlils temple powerful king king of Urim king of four quarters	
+1	{d}amar-{d}suen	_[powerful]	V	V	3	amod	_
+2	nibru{ki}-a	_	_	_	3	_	_
+3	{d}en-lil2-le	_[king]	N	N	15	nmod	_
+4	mu	_	_	_	3	_	_
+5	pa3-da	_	_	_	3	_	_
+6	sag-us2	sag-us2[constant]	V	NF.V	0	_	_
+7	e2	e2[house]	N	N	6	GEN	_
+8	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	7	GEN	_
+9	lugal	lugal[king]	N	N	6	appos	_
+10	kal-ga	kalag[strong]	V	NF.V.PT	9	amod	_
+11	lugal	lugal[king]	N	N	6	appos	_
+12	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	appos	_
+13	lugal	lugal[king]	N	N	6	GEN	_
+14	an	_[king]	N	N	15	nmod	_
+15	ub-da	an-ub-da[quarter]	N	N	13	GEN	_
+16	limmu2-ba	an-ub-da[quarter]+limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	15	nummod	_
+

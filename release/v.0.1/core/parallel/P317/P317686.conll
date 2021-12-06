@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections seized herding assistants harbor workers year
+# train/P317686.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	4	ERG	_	
+3	dab5-ba	dab[seize]-a	V	N	2	acl	_	
+4	gab2-ra2	_[herding.assistants.harbor]	N	N.GEN	1	appos	_	
+5	lu2	lu[person]	N	N	4	appos	_	
+6	mar-sa	marsa[shipyard]	PN	N	4	ABS	_	
+7	mu	mu[year]	N	N	4	date	_
+	
+

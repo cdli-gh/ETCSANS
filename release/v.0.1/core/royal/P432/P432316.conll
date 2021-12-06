@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ninubur hisher god for life of Ibbi-Sin the god of his country	
+1	{d}nin-szubur	{d}nin-szubur[1]	DN	DN	0	root	_
+2	dingir-a-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	digir[deity]+nam-til3[life]	N	N	1	TERM	_
+4	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	3	GEN	_
+5	dingir	digir[deity]	N	N	4	appos	_
+6	kalam-ma-na-ka-sze3	kalam[land]	N	N.3-SG-H-POSS.GEN.GEN.TERM	5	GEN	_
+

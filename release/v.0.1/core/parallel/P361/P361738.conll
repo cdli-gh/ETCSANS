@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dumu-ni dumu[child]-ani N N.3-SG-H-POSS D
+# Compiler replay data is saved as: 3(disz) 3(disz)[one] NU NU D
+# train/P361738.atf new_text=P361738
+# An error report file with more information is saved as: sza3-x _ PN PN.DAT-H Iabcdefgh
+# C:\Users\chiarcos\Desktop\corpus\sumerian\consolidate\full_corpus\parallel\replay_pid183284.log x _[_] N N D
+# x _[_] N N D
+# Native memory allocation (malloc) failed to allocate 32744 bytes for ChunkPool::allocate 3(disz) 3(disz)[one] NU NU D
+#[thread 227184 also had an error] x-x-da _ PN PN Ia
+# There is insufficient memory for the Java Runtime Environment to continue. x-tur _ PN PN Iabcde
+# C:\Users\chiarcos\Desktop\corpus\sumerian\consolidate\full_corpus\parallel\hs_err_pid183284.log 3(disz) 3(disz)[one] NU NU D
+								
+

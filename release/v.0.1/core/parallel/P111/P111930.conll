@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Deficit gur barig ban dabin-flour royal flour bala of governor of Kazallu booked out from Lugal-ezem Ur-tur will be repaid year wall was erected
+# train/P111930.atf
+1	la2-ia3	la'u[arrears]	N	N	0	root	_	
+2	5(asz)	5(asz)[one]	NU	NU	6	nummod	_	
+3	3(barig)	3(bariga)[unit]	NU	N	2	nummod	_	
+4	1(ban2)	1(ban)[unit]	NU	N	5	nummod	_	
+5	dabin	dabin[semolina]	N	N	6	_	_	
+6	gur	gur[unit]	N	N	12	ABS	_	
+7	lugal	lugal[king]	N	N	6	appos	_	
+8	zi3	zid[flour]	N	N	6	appos	_	
+9	bala	bala[turn][-'a]	N	N.L1	6	appos	_	
+10	ensi2	ensik[ruler]	N	N	9	GEN	_	
+11	ka-zal-lu-ka	_[Kazallu]	N	N	10	GEN	_	
+12	zi-ga	zig[expend]-a	V	NF.V.PT	1	acl	_	
+13	ki	ki[place]	N	N	14	ABL	_	
+14	lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	16	ABL	_	
+15	ur-tur	Urtur[1][-e]	WN	PN	14	appos	_	
+16	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	12	parataxis	_	
+17	mu	mu[year]	N	N	12	parataxis	_	
+18	bad3	bad[wall]	N	N	19	ABS	_	
+19	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	17	acl	_
+	
+

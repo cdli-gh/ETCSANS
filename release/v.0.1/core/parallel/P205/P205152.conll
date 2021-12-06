@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P205152.atf						#new_text=P205152
+# train/P205152.atf new_text=P205152
+# tr.en: Basket-of-tablets inspections plow-oxen stationed threshed barley field of takers in Susa are here year en- of Nanna in Karzida was hired
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	0	_	_	
+3	gu4-apin	_[plow-oxen]	N	N	0	_	_	
+4	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	0	_	_	
+5	sze	sze[barley]	N	N	0	_	_	
+6	gesz-e3-a	_[threshed]	N	N	0	_	_	
+7	ka	kag[mouth]	N	N	0	_	_	
+8	szu-du8-a	_	N	N.3-SG-H-POSS.GEN	0	_	_	
+

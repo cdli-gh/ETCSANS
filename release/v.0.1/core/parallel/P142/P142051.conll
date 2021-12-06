@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep with fleece lambs with fleece sheep without fleece mixed nanny and billy goats from Kas Lu-Suen took year after Kima was destroyed
+# dev/P142051.atf
+1	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	projectivity violation	
+2	2(u)	2(u)[ten]	NU	NU	7	nummod	projectivity violation	
+3	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+4	udu	udu[sheep]	N	N	21	ABS	_	
+5	bar-gal2	bargal[fleeced_sheep]	N	N	4	COM	_	
+6	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+7	sila4	sila[lamb]	N	N	4	appos	_	
+8	bar-gal2	bargal[fleeced_sheep]	N	N	7	COM	_	
+9	7(disz)	7(disz)[one][-sze]	NU	NU	4	nummod	_	
+10	udu	udu[sheep]	N	N	4	appos	_	
+11	bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	12	acl	_	
+12	3(gesz2)	3(gesz)[sixty]	NU	NU	10	nummod	_	
+13	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+14	2(disz)	2(disz)[one]	NU	NU	13	nummod	_	
+15	ud5	uzud[goat]	N	N	4	appos	_	
+16	masz2	masz[goat]	N	N	4	appos	projectivity violation	
+17	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	15	acl	_	
+18	ki	ki[place]	N	N	20	ABL	_	
+19	kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	20	nmod	_	
+20	lu2-{d}suen	Lusuen[1]	PN	PN	4	ABL	_	
+21	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+22	mu	mu[year]	N	N	25	_	_	
+23	us2-sa	us[follow]-a	V	NF.V.PT	22	acl	_	
+24	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	22	appos	_	
+25	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	21	parataxis	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235727.atf
+# tr.en: barig of ration barley royal for Nin-urani from Nabasa sealed tablet of Adaga Month Sowing year Nanna priest was found via extispicy Ur-Lisi governor of Umma Adaga the scribe is your servant
+1	2(barig)	2(bariga)[unit]	NU	N	0	nummod	_	
+2	sze-ba	szeba[ration]	N	N	3	nmod	_	
+3	lugal	lugal[king]	N	N	1	GEN	_	
+4	nin-ur2-ra-ni	_[for.Nin-urani]	PN	PN.GEN.ABS	1	DAT	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	na-ba-sa2-ta	_[Nabasa]	PN	PN.GEN.GEN.ABL	4	ABL	_	
+7	kiszib3	kiszib[seal]	N	N	1	appos	_	
+8	a-da-ga	Adaga[1]	PN	PN	7	GEN	_	
+9	iti	iti[month]	N	N	1	appos	_	
+10	szu-numun	Szunumun[1][-'a]	MN	MN.L1	9	appos	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	en	en[priest]	N	N	15	ABS	_	
+13	{d}nanna	Nanna[1][-ak]	DN	DN	12	appos	_	
+14	masz-e	masz[goat]-e	N	N.L3-NH	15	via	_	
+15	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	10	acl	_	
+16	ur-{d}li9-si4	Urlisi[1]	PN	PN	1	appos	_	
+17	ensi2	ensik[ruler]	N	N	16	appos	_	
+18	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	16	GEN	_	
+19	a-da-ga	Adaga[1]	PN	PN	21	ABS	_	
+20	dub-sar	dubsar[scribe]	N	N	19	appos	_	
+21	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	16	parataxis	_
+	
+

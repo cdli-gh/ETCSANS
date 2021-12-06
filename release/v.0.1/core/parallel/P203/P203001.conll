@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203001.atf
+# tr.en: Basket-of-tablets long-tablets barley Lugal- are here year Simurum Lulubu for th time were destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	5	nmod	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: after nominal	
+4	sze	sze[barley]	N	N	5	nmod	_	
+5	sza3	szag[heart]	N	N	18	ABS	projectivity violation	
+6	sila	sila[unit]	N	N	5	_	heuristic: after nominal head	
+7	x	_[_]	N	N	5	dep	heuristic: after nominal head	
+8	1(u)	1(u)[ten]	NU	NU	10	nummod	heuristic: NU premodifying	
+9	DUB	_	V	V	8	_	heuristic: attach to last	
+10	lugal-siki-su13	_[Lugal-]	PN	PN	5	acl	_	
+11	x	_[_]	N	N	0	dep	_	
+12	x	_[_]	N	N	11	dep	_	
+13	GAR	_	_	_	11	_	heuristic: after nominal head	
+14	u2	u[grass]	N	N	11	appos	_	
+15	x	_[_]	N	N	11	dep	_	
+16	x	_[_]	N	N	11	dep	heuristic: after nominal head	
+17	ki	ki[place]	N	N	11	_	heuristic: after nominal head	
+18	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	11	_	_	
+19	mu	mu[year]	N	N	18	_	heuristic: attach to last	
+20	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	21	nmod	_	
+21	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	26	ABS	projectivity violation	
+22	a-ra2	ara[times]	N	N	21	DAT	_	
+23	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+24	la2	la[hang][-ø]	V	NF.V.ABS	23	_	_	
+25	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	24	nummod	_	
+26	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

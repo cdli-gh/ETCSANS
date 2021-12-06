@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P388024.atf
+# tr.en: barig beer barig bread men of Simakum when to Simakum they went via Saaga royal messenger when sealed document of Grand-chancellor from city to city they carried booked out extra month Harvest year Ibbi-Suen is king Szu-Suen strong king king of Ur Saaga messenger son of I- your servant
+1	1(barig)	1(bariga)[unit]	NU	N	2	nummod	_	
+2	kasz	kasz[beer]	N	N	0	root	_	
+3	1(barig)	1(bariga)[unit]	NU	N	4	nummod	_	
+4	ninda	ninda[bread]	N	N	2	appos	_	
+5	lu2	lu[person]	N	N	2	appos	_	
+6	si-masz-ku-um{ki}-me	_[men.Simakum]	SN	SN.GEN.ABS.COP-3-PL	2	appos	_	
+7	u4	ud[day]	N	N	9	_	_	
+8	si-masz-ku-um{ki}-sze3	_[when.to]	SN	SN.TERM	9	_	_	
+9	ba-e-re-sza-a	_[Simakum.they.went]	V	V	2	acl	_	
+10	giri3	giri[foot]	N	N	11	via	_	
+11	sa6-a-ga	_[Saaga]	PN	PN	9	via	_	
+12	lu2	lu[person]	N	N	13	_	_	
+13	kin-gi4-a	kiggia[messenger]	N	N	9	ABS	_	
+14	lugal	lugal[king]	N	N	13	acl	_	
+15	<u4>	ud[day]	N	N	14	_	heuristic: attach to last	
+16	kiszib3	kiszib[seal]	N	N	15	_	heuristic: attach to last	
+17	sukkal-mah	_	PN	N	16	_	heuristic: attach to last	
+18	iri{ki}-ta	_[sealed.document.Grand-chancellor]	N	N.3-SG-H-POSS.ABL	21	ABS	_	
+19	iri{ki}-sze3	_[from]	N	N.3-SG-H-POSS.GEN.GEN.TERM	20	ABL	_	
+20	mu-de6-sza-a	_[they.carried.city.to.city]	V	V	18	acl	_	
+21	zi-ga	zig[expend]-a	V	NF.V.PT	13	acl	_	
+22	iti	iti[month]	N	N	24	_	_	
+23	diri	diri[intercalary_month]	N	N	22	acl	_	
+24	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	27	_	_	
+25	mu	mu[year]	N	N	27	_	_	
+26	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	27	ABS	_	
+27	lugal	lugal[king]	N	N	9	parataxis	_	
+28	{d}szu-{d}suen	Szusuen[1]	RN	RN	9	appos	_	
+29	lugal	lugal[king]	N	N	28	appos	_	
+30	kal-ga	kalag[strong]-a	V	NF.V.SUB	29	acl	_	
+31	lugal	lugal[king]	N	N	28	appos	_	
+32	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	31	GEN	_	
+33	sa3-a-ga	_[Saaga]	PN	PN	28	appos	_	
+34	lu2	lu[person]	N	N	33	appos	_	
+35	kas4	kas[runner][-ra]	N	N.DAT-H	33	appos	_	
+36	dumu	dumu[child]	N	N	33	appos	_	
+37	i-...	_	PN	PN	33	appos	_	
+38	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	33	appos	_
+	
+

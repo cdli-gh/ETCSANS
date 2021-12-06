@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Apil-kn the mighty governor-general of Mari builder of auru-building
+# train/P432366.atf
+1	a-bil3-gi	_[Apil-kn]	PN	PN.DAT-H	0	root	_	
+2	da-num2	_[the.mighty]	PN	PN	1	appos	_	
+3	_szagina_	szakkanak[governor][-ak]	N	N	1	appos	_	
+4	ma-ri2{ki}	_[Mari]	SN	SN.GEN.GEN.L1	3	GEN	_	
+5	_dim2_	_[builder]	V	V	4	acl	_	
+6	sa-hu-ri2	_[auru-building]	PN	PN	5	GEN	_
+	
+

@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Sin chosen by nsme by An beloved of Enlil the king by Enlil chosen by his sacred heart for shepherdship of country and of four quarters of world strong king king of Ur and king of four quarters of world his god Itura governor of Enunna his servant his temple he built for him
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_
+2	mu	mu[name]	N	N.ABS	1	appos	_
+3	pa3-da	pad3[find]	V	NF.V.PT	5	ABS	_
+4	an-na	an[1]	DN	DN.GEN	3	GEN	_
+5	ki-ag2	ki[place]+ag2[measure]	V	NF.V	11	ERG	_
+6	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	5	GEN	_
+7	lugal	lugal[king]	N	N	5	appos	_
+8	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	7	appos	_
+9	sza3	szag4[heart]	N	N	11	LOC	_
+10	ku3-ge	kug[pure]	V	NF.V.L3-NH	9	amod	_
+11	pa3-da	pad3[find]	V	NF.V.PT	32	GEN.TERM	_
+12	nam-sipa	nam-sipad[shepherdship]	N	N	11	appos	_
+13	kalam-ma	kalam[land]	N	N.GEN	12	GEN	_
+14	u3	u3[and]	CNJ	CNJ	12	cc	_
+15	an	_	_	_	12	_	_
+16	ub-da	an-ub-da[quarter]	N	N	12	conj	_
+17	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	16	nummod	_
+18	lugal	lugal[king]	N	N	32	DAT	_
+19	kal-ga	kalag[strong]	V	NF.V.PT	18	amod	_
+20	lugal	lugal[king]	N	N	18	appos	_
+21	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	20	GEN	_
+22	lugal	lugal[king]	N	N	18	appos	_
+23	an	_	_	_	22	_	_
+24	ub-da	an-ub-da[quarter]	N	N	22	appos	_
+25	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	24	nummod	_
+26	dingir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	22	appos	_
+27	i-tu-ri-a	i-tu-ri-a[1]	PN	PN	32	ERG	_
+28	ensi2	ensi2[ruler]	N	N	27	appos	_
+29	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN	28	GEN	_
+30	ARAD2-da-ni-e	arad2[slave]	N	N.3-SG-H-POSS.ERG	27	appos	_
+31	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	32	ABS	_
+32	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

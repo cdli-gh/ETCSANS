@@ -1,0 +1,69 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416401.atf
+# tr.en: ee land for harrowing workers each hoeing sar Lu-Utu plot manager ee land for harrowing workers each hoeing sar Nimgir-edu plot manager ee land for harrowing workers each hoeing sar Engar-zi plot manager ee land for harrowing workers each hoeing sar Szara-mutum plot manager ee land for harrowing workers each hoeing sar Bala plot manager field Menkar inspection on th day month Sowing year unuri was destroyed
+1	1(esze3)	1(esze)[unit]	NU	N	3	nummod	_	
+2	GAN2	gana[field]	N	N	3	nmod	_	
+3	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	0	root	_	
+4	1(gesz2)	1(gesz)[sixty]	NU	NU	8	nummod	projectivity violation	
+5	gurusz	gurusz[male]	N	N	1	appos	_	
+6	al	al[hoeing]	N	N	8	nmod	_	
+7	5(disz)	5(disz)[one]	NU	NU	8	nummod	_	
+8	sar-ta	sar[unit]-ta	PN	N.ABL	5	appos	_	
+9	lu2-{d}utu	Lu'utu[1]	PN	PN	8	appos	_	
+10	engar	engar[farmer]	N	N	8	appos	_	
+11	1(esze3)	1(esze)[unit]	NU	N	13	nummod	projectivity violation	
+12	GAN2	gana[field]	N	N	14	nmod	_	
+13	gesz	gesz[tree]	N	N	14	_	_	
+14	ur3-ra	ur[level_off]-a	V	NF.V.PT	0	_	detached for projectivity	
+15	1(gesz2)	1(gesz)[sixty]	NU	NU	16	nummod	heuristic: NU premodifying	
+16	gurusz	gurusz[male]	N	N	11	appos	_	
+17	al	al[hoeing]	N	N	20	nmod	_	
+18	5(disz)	5(disz)[one]	NU	NU	20	nummod	_	
+19	sar-ta	sar[unit]-ta	PN	N.ABL	20	nmod	_	
+20	nimgir-he2-du7	_[Nimgir-edu.plot]	PN	PN	16	appos	_	
+21	engar	engar[farmer]	N	N	16	appos	_	
+22	1(esze3)	1(esze)[unit]	NU	N	24	nummod	projectivity violation	
+23	GAN2	gana[field]	N	N	25	nmod	_	
+24	gesz	gesz[tree]	N	N	25	_	_	
+25	ur3-ra	ur[level_off]-a	V	NF.V.PT	0	_	detached for projectivity	
+26	1(gesz2)	1(gesz)[sixty]	NU	NU	30	nummod	projectivity violation	
+27	gurusz	gurusz[male]	N	N	22	appos	_	
+28	al	al[hoeing]	N	N	30	nmod	_	
+29	5(disz)	5(disz)[one]	NU	NU	30	nummod	_	
+30	sar-ta	sar[unit]-ta	PN	N.ABL	27	appos	_	
+31	engar-zi	_[Engar-zi.plot]	PN	PN	30	appos	_	
+32	engar	engar[farmer]	N	N	30	appos	_	
+33	1(esze3)	1(esze)[unit]	NU	N	35	nummod	projectivity violation	
+34	GAN2	gana[field]	N	N	36	nmod	_	
+35	gesz	gesz[tree]	N	N	36	_	_	
+36	ur3-ra	ur[level_off]-a	V	NF.V.PT	0	_	detached for projectivity	
+37	1(gesz2)	1(gesz)[sixty]	NU	NU	41	nummod	projectivity violation	
+38	gurusz	gurusz[male]	N	N	33	appos	_	
+39	al	al[hoeing]	N	N	41	nmod	_	
+40	5(disz)	5(disz)[one]	NU	NU	41	nummod	_	
+41	sar-ta	sar[unit]-ta	PN	N.ABL	38	appos	_	
+42	{d}szara2-mu-tum2	_[Szara-mutum.plot]	PN	PN	41	appos	_	
+43	engar	engar[farmer]	N	N	41	appos	_	
+44	1(esze3)	1(esze)[unit]	NU	N	46	nummod	projectivity violation	
+45	GAN2	gana[field]	N	N	47	nmod	_	
+46	gesz	gesz[tree]	N	N	47	_	_	
+47	ur3-ra	ur[level_off]-a	V	NF.V.PT	0	_	detached for projectivity	
+48	1(gesz2)	1(gesz)[sixty]	NU	NU	49	nummod	_	
+49	gurusz	gurusz[male]	N	N	44	appos	_	
+50	al	al[hoeing]	N	N	52	nmod	_	
+51	5(disz)	5(disz)[one]	NU	NU	52	nummod	_	
+52	sar-ta	sar[unit]-ta	PN	N.ABL	49	appos	_	
+53	ba-la	Bala[1]	PN	PN	54	nmod	_	
+54	engar	engar[farmer]	N	N	49	appos	_	
+55	a-sza3	aszag[field]	N	N	56	nmod	_	
+56	me-en-kar2	Menkar[1][-ø]	FN	FN.ABS	49	appos	_	
+57	gurum2	gurum[inspection]	N	N	56	appos	_	
+58	u4	ud[day]	N	N	57	LOC	_	
+59	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	49	nummod	_	
+60	iti	iti[month]	N	N	61	_	_	
+61	szu-numun	Szunumun[1][-'a]	MN	MN.L1	49	appos	_	
+62	mu	mu[year]	N	N	61	appos	_	
+63	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	64	ABS	_	
+64	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	61	acl	_
+	
+

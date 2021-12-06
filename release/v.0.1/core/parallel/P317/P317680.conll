@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets threshed barley year Simurum Lulubu and year Urbilum are here
+# train/P317680.atf						#new_text=P317680
+# train/P317680.atf new_text=P317680
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	sze	sze[barley]	N	N	0	_	_	
+3	gesz-e3-a	_[threshed]	N	N	0	_	_	
+4	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+5	x	_[_]	N	N	0	dep	_	
+6	...	_[_]	PN	N	0	dep	_	
+7	x	_[_]	N	N	0	dep	_	
+

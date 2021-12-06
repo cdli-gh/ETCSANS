@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: of Dawa- governor of Zaul governor of Hunuri -mat governor of -laka -a military governor of -al Sabum
+1	x	_[_]	u	u	0	dep	_
+2	...	_	_	_	0	dep	_
+3	KI	_[_]	u	u	0	GEN	_
+4	da-wa-a-x	da-wa-a-x[1]	PN	PN	0	nmod	_
+5	|PA.|	ensi2[ruler]	N	N	0	root	_
+6	za-ul{ki}	za-ul{ki}[1]	GN	GN	7	GEN	_
+7	x	_[_]	u	u	5	dep	_
+8	x	_[_]	u	u	5	dep	_
+9	|PA.|	ensi2[ruler]	N	N	5	appos	_
+10	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.GEN	9	GEN	_
+11	(x)	_	_	_	10	_	_
+12	x-ma-at	x-x-ma-at[1]	PN	PN	10	_	_
+13	|PA.|	ensi2[ruler]	N	N	10	appos	_
+14	x-x-la2-ka	x-x-la₂-ka[1]	GN	GN.GEN	13	GEN	_
+15	...-x-a	x-x-a[1]	PN	PN	5	_	_
+16	szagina	szagina[general]	N	N	5	appos	_
+17	...-al{ki}	x-al{ki}[1]	GN	GN	18	GEN	_
+18	sa-bu-um{}	x-al{ki}[1]+sa-bu-um{ki}[1]	SN	SN	16	GEN	_
+

@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384820.atf
+# tr.en: barig ban of barley fodder for grain-fed sheep from Gududu under seal of Ur Mami via Gina month year Simurrum was destroyed Ur-Mami son of Inim-Szara animal fattener of Szara
+1	sza3-gal	1(bariga)[unit]	NU	N	0	_	_	
+2	udu	5(ban)[unit]	NU	N	4	nummod	_	
+3	niga	sze[barley]	N	N	5	acl	_	
+4	ki	szaggal[food]	N	N	8	ABL	_	
+5	gu-du-du-ta	udu[sheep]	N	N	4	ABL	_	
+6	kiszib3	niga[fattened][-ø]	V	NF.V.ABS	4	acl	_	
+7	ur-{d}ma-mi	ki[place]	N	N	9	GEN	_	
+8	giri3	_[via]	PN	PN.GEN.ABL	13	via	_	
+9	gi-na	kiszib[seal]	N	N	13	nmod	_	
+10	iti	Urmami[1][-ra]	PN	PN.DAT-H	4	via	_	
+11	...	giri[foot]	N	N	4	dep	_	
+12	mu	gina[dues]	PN	N	0	_	_	
+13	si-mu-ru-um{ki}	iti[month]	N	N	17	ABS	_	
+14	ba-hul	_[_]	PN	N	0	acl	_	
+15	ur-{d}ma-mi	mu[year]	N	N	0	_	_	
+16	dumu	Simurrum[1]	SN	SN.ABS	18	appos	_	
+17	inim-{d}szara2	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_	
+18	kuruszda	Urmami[1][-ra]	PN	PN.DAT-H	20	appos	_	
+19	{d}szara2-ka	dumu[child]	N	N	21	GEN	_
+	
+

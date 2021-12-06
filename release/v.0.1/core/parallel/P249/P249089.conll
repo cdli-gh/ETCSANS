@@ -1,0 +1,65 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P249089.atf
+# tr.en: gur flour royal gur rough-ground flour gur sprouted malt gur SzIM regular gur SzIM high from Adda did Lu-duga receive month mine gur flour royal gur rough-ground flour gur SzIM regular gur sprouted malt gur SzIM high from Adda did Lu-duga receive under seal of Lu-duga month mine Lu-duga the scribe son of Duga
+1	5(asz)	5(asz)[one]	NU	NU	2	nummod	_	
+2	dabin	dabin[semolina]	N	N	25	ABS	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	lugal	lugal[king]	N	N	2	appos	_	
+5	3(asz)	3(asz)[one]	NU	NU	6	nummod	_	
+6	zi3	zid[flour]	N	N	25	_	_	
+7	sig15	sig[flour_type]	V	N	6	acl	_	
+8	gur	gur[unit]	N	N	6	appos	_	
+9	5(asz)	5(asz)[one]	NU	NU	6	nummod	_	
+10	munu4	munu[malt]	N	N	11	acl	_	
+11	si-e3	si'e[sprout][-a]	V	NF.V.PT	12	_	_	
+12	gur	gur[unit]	N	N	6	appos	_	
+13	3(asz)	3(asz)[one]	NU	NU	6	nummod	_	
+14	SZIM	szim[beer_malt]	N	N	6	appos	_	
+15	du	gin[quality_designation][-ø]	V	NF.V.ABS	6	acl	projectivity violation	
+16	gur	gur[unit]	N	N	14	appos	_	
+17	2(asz)	2(asz)[one]	NU	NU	6	nummod	_	
+18	SZIM	szim[beer_malt]	N	N	6	appos	_	
+19	saga	saga[good][-ø]	V	NF.V.ABS	18	_	heuristic: attach to last	
+20	gur	gur[unit]	N	N	18	appos	_	
+21	ki	ki[place]	N	N	22	ABL	_	
+22	ad-da-ta	Adda[1][-ak]-ta	PN	PN.GEN.ABL	6	ABL	_	
+23	lu2-du10-ga	Luduga[1]	PN	PN	25	ABS	_	
+24	szu	szu[hand][-e]	N	N.L3-NH	25	_	_	
+25	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	52	acl	_	
+26	iti	iti[month]	N	N	25	appos	_	
+27	min-esz3	Minesz[1][-'a]	MN	MN.L1	25	appos	_	
+28	5(asz)	5(asz)[one]	NU	NU	29	nummod	_	
+29	dabin	dabin[semolina]	N	N	52	ERG	_	
+30	gur	gur[unit]	N	N	29	appos	_	
+31	lugal	lugal[king]	N	N	29	appos	_	
+32	3(asz)	3(asz)[one]	NU	NU	29	nummod	_	
+33	zi3	zid[flour]	N	N	29	appos	_	
+34	sig15	sig[flour_type]	V	N	33	acl	_	
+35	gur	gur[unit]	N	N	37	nmod	projectivity violation	
+36	3(asz)	3(asz)[one]	NU	NU	43	nummod	projectivity violation	
+37	szim	_[SzIM]	N	N	29	appos	projectivity violation	
+38	du	gin[quality_designation][-ø]	V	NF.V.ABS	29	acl	projectivity violation	
+39	gur	gur[unit]	N	N	33	appos	_	
+40	5(asz)	5(asz)[one]	NU	NU	29	nummod	_	
+41	munu4	munu[malt]	N	N	42	acl	_	
+42	si-e3	si'e[sprout][-a]	V	NF.V.PT	43	_	_	
+43	gur	gur[unit]	N	N	29	appos	_	
+44	2(asz)	2(asz)[one]	NU	NU	45	nummod	heuristic: NU premodifying	
+45	szim	_[SzIM.high]	N	N	29	appos	_	
+46	saga	saga[good][-ø]	V	NF.V.ABS	45	_	heuristic: attach to last	
+47	gur	gur[unit]	N	N	45	appos	_	
+48	ki	ki[place]	N	N	49	ABL	_	
+49	ad-da-ta	Adda[1][-ak]-ta	PN	PN.GEN.ABL	29	ABL	_	
+50	lu2-du10-ga	Luduga[1]	PN	PN	52	ERG	_	
+51	szu	szu[hand][-e]	N	N.L3-NH	52	_	_	
+52	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+53	kiszib3	kiszib[seal]	N	N	52	LOC	_	
+54	lu2-du10-ga	Luduga[1]	PN	PN	53	GEN	_	
+55	iti	iti[month]	N	N	56	_	_	
+56	min-esz3	Minesz[1][-'a]	MN	MN.L1	53	appos	_	
+57	lu2-du10-ga	Luduga[1]	PN	PN	52	ABS	_	
+58	dub-sar	dubsar[scribe]	N	N	57	appos	_	
+59	dumu	dumu[child]	N	N	57	appos	_	
+60	du11-ga	dug[irrigate]-a	V	PN	59	acl	_
+	
+

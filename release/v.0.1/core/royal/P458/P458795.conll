@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful king king of Urim Nur-Adad child of Ganana overseer of millers is your servant
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	appos	_
+6	nu-ur2-{d}iszkur	nu-ur2-{d}adad[1]	PN	PN	5	GEN	_
+7	dumu	dumu[child]	N	N	6	appos	_
+8	ga-na-na	ga-na-na[1]	PN	PN	6	GEN	_
+9	ugula	ugula[overseer]	N	N	8	GEN	_
+10	kikken2	kikken2[miller]	N	N.GEN.GEN.ABS	9	appos	_
+11	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

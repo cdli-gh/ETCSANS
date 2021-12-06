@@ -1,0 +1,59 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: workdays land parcel of Ur-gigir chief administrator workdays land parcel of Ur-gigir oxen manager workdays land parcel of Lugal-gue reed uprooted reed cut and hirin-weed uprooted field A-getina foreman Lu-giri-zal under seal of Szekalla son of Dada month Flight month month Sowing year Enmagalana of Nanna was installed Lugal-nig-lagare scribe son of Dada
+# dev/P382205.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	5	nummod	_	
+2	1(u)	1(u)[ten]	NU	NU	1	nummod	_	
+3	4(disz)	4(disz)[one]	NU	NU	1	nummod	_	
+4	1/2(disz)	1/2(disz)[one]	NU	NU	1	nummod	_	
+5	gurusz	gurusz[male]	N	N	0	root	_	
+6	u4	ud[day]	N	N	5	_	heuristic: after nominal head	
+7	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	8	nummod	heuristic: NU premodifying	
+8	GAN2	gana[field]	N	N	5	appos	_	
+9	ur-{gesz}gigir	Urgigir[1]	PN	PN	5	appos	_	
+10	szabra	szabra[chief_administrator][-ak]	N	N	11	acl	_	
+11	1(gesz2)	1(gesz)[sixty]	NU	NU	5	nummod	_	
+12	3(u)	3(u)[ten]	NU	NU	14	nummod	_	
+13	4(disz)	4(disz)[one]	NU	NU	12	nummod	_	
+14	gurusz	gurusz[male]	N	N	5	appos	_	
+15	u4	ud[day]	N	N	14	_	heuristic: after nominal head	
+16	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	17	nummod	heuristic: NU premodifying	
+17	GAN2	gana[field]	N	N	14	appos	_	
+18	ur-{gesz}gigir	Urgigir[1]	PN	PN	14	appos	_	
+19	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	20	nmod	_	
+20	2(gesz2)	2(gesz)[sixty]	NU	NU	14	nummod	_	
+21	2(u)	2(u)[ten]	NU	NU	23	nummod	_	
+22	7(disz)	7(disz)[one][-sze]	NU	NU	21	nummod	_	
+23	gurusz	gurusz[male]	N	N	14	appos	_	
+24	u4	ud[day]	N	N	23	_	heuristic: attach to last	
+25	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	26	nummod	heuristic: NU premodifying	
+26	GAN2	gana[field]	N	N	14	appos	projectivity violation	
+27	lugal-gu4-e	_[land.parcel.Lugal-gue]	PN	PN	23	appos	_	
+28	gi	gi[reed][-ø]	N	N	29	ERG	_	
+29	zex(SIG7)-a	_[uprooted]	V	NF.V.PT	14	acl	_	
+30	gi	gi[reed][-ø]	N	N	29	appos	_	
+31	ku5-a	_[cut]	V	V	30	acl	_	
+32	u3	u[and]	CNJ	CNJ	31	appos	_	
+33	{u2}hirinx(KWU318)-na	_[hirin-weed]	N	N	31	appos	_	
+34	zex(SIG7)-a	_[uprooted]	V	NF.V.PT	31	acl	_	
+35	a-sza3	aszag[field]	N	N	36	nmod	_	
+36	a-gesztin-na	_[A-getina]	FN	FN	29	appos	_	
+37	ugula	ugula[overseer][-ø]	N	N	47	nmod	_	
+38	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	37	appos	_	
+39	kiszib3	kiszib[seal]	N	N	37	LOC	_	
+40	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	39	GEN	_	
+41	dumu	dumu[child]	N	N	39	appos	_	
+42	da-da	Dada[1][-ak]	PN	PN	41	GEN	_	
+43	iti	iti[month]	N	N	44	nmod	_	
+44	dal	Dal[1][-'a]	MN	MN.L1	37	appos	_	
+45	iti	iti[month]	N	N	44	appos	_	
+46	szu-numun	Szunumun[1][-'a]	MN	MN.L1	44	appos	_	
+47	mu	mu[year]	N	N	29	date	_	
+48	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	50	ABS	_	
+49	{d}nanna	Nanna[1][-ak]	DN	DN	48	GEN	_	
+50	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	29	parataxis	_	
+51	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	29	ABS	_	
+52	dub-sar	dubsar[scribe]	N	N	51	appos	_	
+53	dumu	dumu[child]	N	N	51	appos	_	
+54	da-da	Dada[1][-ak]	PN	PN	53	GEN	_
+	
+

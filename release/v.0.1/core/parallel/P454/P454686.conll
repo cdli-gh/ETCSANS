@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454686.atf
+# tr.en: Ana-egal son of Magure
+1	an-na-he-gal2	_[Ana-egal]	PN	PN.GEN.ABL	2	acl	_	
+2	dumu	dumu[child]	N	N	0	root	_	
+3	ma2-gur8-re	Magure[1]	PN	PN	2	GEN	_
+	
+

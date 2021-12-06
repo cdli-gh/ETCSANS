@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P125051.atf
+# tr.en: gur barley royal because of debits that from Lugal-inimgina were left behind from Lugal-ezem to Ur-Sara will be repaid year after Simurrum was destroyed
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	sze	sze[barley]	N	N	13	ABS	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	lugal	lugal[king]	N	N	2	appos	_	
+5	mu	mu[year]	N	N	2	_	heuristic: after nominal head	
+6	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	2	GEN.TERM	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	lugal-inim-gi-na-ka-ta	_[that.Lugal-inimgina]	PN	PN.GEN.GEN.ABL	9	ABS	_	
+9	im-mi-tak4-a-sze3	_[were.left.behind]	V	V	6	acl	_	
+10	ki	ki[place]	N	N	11	ABL	_	
+11	lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+12	ur-{d}szara2-ke4	_[to.Ur-Sara]	RN	RN	11	LOC	_	
+13	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	0	root	_	
+14	mu	mu[year]	N	N	17	_	_	
+15	us2-sa	us[follow]-a	V	NF.V.PT	14	acl	_	
+16	si-mu-ru-um	Simurum[1]	GN	SN	17	ABS	_	
+17	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

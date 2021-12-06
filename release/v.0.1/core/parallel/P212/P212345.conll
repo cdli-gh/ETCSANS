@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P212345.atf
+# tr.en: fat-tailed sheep fat-tailed sheep breeders aslum sheep aslum sheep breeders ewes fat-tailed lamb fat-tailed th day from Abbasaga did Szulgi-ayamu accept month Great Festival second year Enmagalana as priestess of Nanna was installed
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	gukkal	gukkal[fat-tailed_sheep]	N	N	25	ABS	_	
+3	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+4	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+5	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	2	appos	_	
+6	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	a-lum	aslum[sheep_type]	N	N	7	appos	_	
+9	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+10	udu	udu[sheep]	N	N	2	appos	_	
+11	a-lum	aslum[sheep_type]	N	N	10	appos	_	
+12	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	2	appos	_	
+13	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+14	u8	u[ewe]	N	N	2	appos	_	
+15	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+17	sila4	sila[lamb]	N	N	2	appos	_	
+18	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+19	u4	ud[day]	N	N	2	appos	_	
+20	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+21	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	ki	ki[place]	N	N	23	ABL	_	
+23	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+24	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	PN.ERG	25	_	_	
+25	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+26	iti	iti[month]	N	N	27	_	_	
+27	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	25	parataxis	_	
+28	min3	_[second]	N	N	27	appos	_	
+29	mu	mu[year]	N	N	27	appos	_	
+30	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	34	ABS	projectivity violation	
+31	en	en[priest]	N	N	30	LOC	_	
+32	{d}nanna	Nanna[1][-ak]	DN	DN	31	GEN	_	
+33	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	34	acl	_	
+34	1(u)	1(u)[ten]	NU	NU	27	nummod	projectivity violation	
+35	2(disz)	2(disz)[one]	NU	NU	32	nummod	_
+	
+

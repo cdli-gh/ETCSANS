@@ -1,0 +1,47 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P212351.atf
+# tr.en: sheep sealed tablet of Lu-saga sheep sealed tablet of Ur-Ikur abra sheep sealed tablet of Habamu sheep sealed of Ilia sheep of cook Uru sheep sealed tablet of Ur-sukkal sheep of Rim-ili did Abbakala receive Month Szulgi festival year house of Szara was erected Abbakala scribe son of Lu-Ningirsu
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	kiszib3	kiszib[seal]	N	N	2	appos	_	
+4	lu2-saga	Lusaga[1][-e]	PN	PN.ERG	3	GEN	_	
+5	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+6	udu	udu[sheep]	N	N	2	appos	_	
+7	kiszib3	kiszib[seal]	N	N	2	appos	_	
+8	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	7	GEN	_	
+9	szabra	szabra[chief_administrator][-ak]	N	N	11	nummod	projectivity violation	
+10	1(disz)	1(disz)[one]	NU	NU	15	nummod	projectivity violation	
+11	udu	udu[sheep]	N	N	2	appos	_	
+12	kiszib3	kiszib[seal]	N	N	2	appos	_	
+13	ha-ba-mu	_[Habamu]	PN	PN	15	nmod	projectivity violation	
+14	1(disz)	1(disz)[one]	NU	NU	17	nummod	projectivity violation	
+15	udu	udu[sheep]	N	N	12	GEN	_	
+16	kiszib3	kiszib[seal]	N	N	2	acl	_	
+17	i3-li2-a	_[Ilia]	PN	PN	16	GEN	_	
+18	4(disz)	4(disz)[one]	NU	NU	17	nummod	_	
+19	udu	udu[sheep]	N	N	17	appos	_	
+20	ur-szu	_[Uru]	PN	PN	19	GEN	_	
+21	muhaldim	_[cook]	N	N	20	appos	_	
+22	1(disz)	1(disz)[one]	NU	NU	29	nummod	projectivity violation	
+23	udu	udu[sheep]	N	N	17	appos	_	
+24	kiszib3	kiszib[seal]	N	N	16	appos	_	
+25	ur-sukkal	_[Ur-sukkal]	PN	PN	29	_	_	
+26	1(disz)	1(disz)[one]	NU	NU	29	nummod	_	
+27	udu	udu[sheep]	N	N	29	_	_	
+28	ri-im-i3-li2	_[Rim-ili]	PN	PN.ABS	27	GEN	_	
+29	ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	24	acl	_	
+30	szu	szu[hand][-e]	N	N.L3-NH	29	appos	_	
+31	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	29	acl	_	
+32	iti	iti[month]	N	N	33	_	_	
+33	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	29	parataxis	_	
+34	mu	mu[year]	N	N	29	appos	_	
+35	e2	e[house]	N	N	38	ABS	_	
+36	{d}szara2	Szara[1][-ak]	DN	DN	35	GEN	_	
+37	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	38	acl	_	
+38	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+39	ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	38	appos	_	
+40	dub-sar	dubsar[scribe]	N	N	39	appos	_	
+41	dumu	dumu[child]	N	N	39	appos	_	
+42	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	41	GEN	_
+	
+

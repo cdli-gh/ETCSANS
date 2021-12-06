@@ -1,0 +1,1020 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: hide of ox tanned hides of two-year cows tanned hides of oxen not tanned hide of ox tanned damaged hides of oxen yokes hides of calves tanned hides of calves not tanned hide of calf yoke tendon of oxen horn of oxen n tails of oxen n carcases of oxen delivery n carcasses fed to weaving female laborers via Lugal-inim-gina tendon of oxen tail of oxen horn of ox carcases of oxen are deficit Lu-Zabala cowherd hides of ox tanned hide of two-year cows tanned damaged hide of KA-ar oxen not tanned carcases of oxen tails of oxen tendon of ox horn of oxen delivery n carcasses os oxen fed to weaving female laborers via Lugal-inim-gina n hide of ox ala of Szara tendons of oxen sealed tablet of Kugani deficit tails of oxen tendon of oxen Lugal-ezem cowherd hides of oxen tanned hides of two-year oxen tanned hide of ox damaged tanned hide of ox damaged not fed hides of yokes tendon of oxen tails of oxen horn of oxen carcasses of oxen delivery hides of oxen tendon of oxen sealed tablet of Kugani carcasses fed to weaving female laborers via Lugal-inim-gina deficit tail of oxen Ur-nigar cowherd hide of ox tanned hide of two-year ox tanned hide of ox damaged tanned hide of yoke tails of oxen tendon of oxen horn of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina deficit tail of ox Szara-kam cowherd hides of oxen tanned hide of two-year ox tanned hide of ox not tanned hide of ox damaged not tanned hides of oxen yokes tails of oxen of n oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina tendon of oxen sealed tablet of Kugani Szara-amu cowherd hides of oxen tanned hides of oxen damaged tanned hide of ox not tanned hides of yokes hides of calf yokes tails of oxen tendon of oxen carcasses of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina deficit hide of ox carcass of ox tendon of ox tails of oxen horn of oxen are deficit Lugal-kuzu cowherd hides of two-year oxen tanned hide of yoke carcasses of oxen tendon of n oxen tails of oxen horn or oxen delivery Lugal-unire cowherd hide of ox tanned hide of ox damaged tanned hide of ox yoke tendon of oxen tail of ox horn of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina deficit tail of ox Ur-ANsida cowherd ox yoke delivery Budu cowherd hides of oxen tanned hides of calves yokes carcasses of oxen tendon of oxen tails of oxen horn of oxen delivery Albanidu cowherd hide of ox tanned hide of two-year ox damaged tanned tendon of oxen tail of ox horn of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina deficit hide of ox tail of ox horn of ox are deficit USz cowherd hides of oxen tanned hides of two-year oxen tanned hides of oxen damaged tanned hides of two-year oxen damaged tanned hide of ox yoke tendon of oxen tails of oxen horn of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina horn of oxen did Daaga receive deficit tail of ox Akiar cowherd house of Szara hide of ox yoke tendon of one ox carcass of ox delivery Abbagina cowherd hide of ox tanned hide of two-year old ox tanned hide of two-year ox damaged tanned n tail of ox horn or ox delivery n carcasses of oxen fed to weaving female laborers via Lugal-inim-gina n tails of oxen Lalu cowherd hide of ox destroyed tanned hide of two-year ox damaged tanned hides of calves not tanned hide of calf damaged tanned hide of ox yoke carcass of ox tendon of oxen tails of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina deficit carcasses of oxen tails of oxen horn or oxen tendon of ox are deficit Ur-ee cowherd hides of oxen not tanned hide of ox damaged on inside hides of calves yokes tendon of oxen tail of ox delivery carcass of ox fed to weaving female laborers via Lugal-inim-gina Ur-Itaran cowherd hide of ox yoke delivery Szeani cowherd house of Ninura of lordship hides of oxen tanned hides of two-year oxen tanned hides of two-year oxen damaged fed hides of two-year oxen not tanned hide of ox yoke hide of sucking bullcalf delivery uncovered side tails of oxen tendon of oxen carcasses of oxen horn of oxen delivery carcasses of oxen fed to weaving female laborers via Lugal-inim-gina hide of two-year ox tendon of oxen sealed tablet of Kugani deficit tendon of sucking bull-calf tail of ox are deficit Addada and Ur-gigir from Atu hide of full-grown cow not tanned hide of two-year cow not tanned hide of two-year ox not tanned carcasses of oxen tendon of oxen n tail of ox Abbagina and Szeani oxen drivers hide of old jenny delivery Ur-Szara via from Kas Together hides of oxen tanned together hides of two-year oxen tanned together n hides of calves tanned together hides of oxen not tanned together hides of two-year oxen not tanned together hides of calves not tanned together hides of oxen damaged tanned together hides of two-year oxen damaged tanned together hide of calf damaged tanned together hides of oxen damaged not tanned together hides of oxen yokes together hides of calves yokes together tendon of oxen together tails of oxen together carcasses of oxen together horn of oxen together hide of old jenny delivery together carcasses of oxen fed to weaving female laborers via Lugal-inim-gina together hides of oxen together n hides of two-year oxen together tendon of oxen sealed tablet of Kugani deficit hides of oxen hides of calves tendon of n oxen tails of oxen carcasses of oxen horn or oxen are deficit tendon and hides delivery in Apisal Year Enunugalana of Inanna priest of Inanna was installed
+# train/P218067.atf
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+2	kusz	kusz[leather]	N	N	0	root	_	
+3	gu4	gud[ox]	N	N	2	GEN	_	
+4	a-gar	_[tanned]	N	N	2	acl	_	
+5	gu7-a	_	V	NF.V.PT.ABS	7	acl	projectivity violation	
+6	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+7	kusz	kusz[leather]	N	N	4	appos	_	
+8	ab2	ab[cow][-ø]	N	N	7	GEN	_	
+9	mu	mu[year]	N	N	14	nummod	projectivity violation	
+10	2(asz)	2(asz)[one]	NU	NU	11	nummod	heuristic: NU premodifying	
+11	a-gar	_[tanned]	N	N	4	appos	projectivity violation	
+12	gu7-a	_[two-year]	V	NF.V.PT.ABS	8	acl	_	
+13	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+14	kusz	kusz[leather]	N	N	4	appos	_	
+15	gu4	gud[ox]	N	N	14	GEN	_	
+16	a-gar	_[tanned]	N	N	4	appos	_	
+17	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	16	acl	_	
+18	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+19	kusz	kusz[leather]	N	N	4	appos	_	
+20	gu4	gud[ox]	N	N	19	GEN	_	
+21	a-gar	_[tanned]	N	N	4	appos	_	
+22	gu7-a	_	V	NF.V.PT.ABS	25	acl	projectivity violation	
+23	al-hul-a	_[damaged]	V	V	4	acl	_	
+24	5(disz)	5(disz)[one]	NU	NU	4	nummod	_	
+25	kusz	kusz[leather]	N	N	4	appos	_	
+26	szu-dulx(|URxA|)	_[yokes]	V	V	25	acl	_	
+27	gu4	gud[ox]	N	N	26	acl	_	
+28	3(disz)	3(disz)[one]	NU	NU	4	nummod	_	
+29	kusz	kusz[leather]	N	N	4	appos	_	
+30	amar	amar[calf][-ak]	N	N	29	GEN	_	
+31	a-gar	_[tanned]	N	N	4	appos	_	
+32	gu7-a	_	V	NF.V.PT.ABS	34	acl	projectivity violation	
+33	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+34	kusz	kusz[leather]	N	N	4	appos	_	
+35	amar	amar[calf][-ak]	N	N	34	GEN	_	
+36	a-gar	_[tanned]	N	N	4	appos	_	
+37	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	36	acl	_	
+38	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+39	kusz	kusz[leather]	N	N	4	appos	_	
+40	szu-dulx(|URxA!|)	_[calf.yoke]	V	V	39	acl	_	
+41	amar	amar[calf][-ak]	N	N	4	_	heuristic: after nominal head	
+42	sa	sa[bundle]	N	N	4	appos	_	
+43	gu4	gud[ox]	N	N	42	GEN	_	
+44	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	43	nummod	_	
+45	si	_[_]	N	N.ABS	43	appos	_	
+46	gu4	gud[ox]	N	N	45	GEN	_	
+47	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	48	nummod	heuristic: NU premodifying	
+48	n(disz)	_	N	N	46	appos	_	
+49	kun	_[tails]	WN	WN	46	appos	_	
+50	gu4	gud[ox]	N	N	49	GEN	_	
+51	n(disz)	_	N	N	46	appos	_	
+52	ad7	_[carcases]	N	N	46	appos	_	
+53	gu4	gud[ox]	N	N	52	GEN	_	
+54	mu-kux(DU)	mukur[delivery][-ø]	N	N	53	appos	_	
+55	n(disz)	_	N	N	4	appos	_	
+56	ad7	_[carcasses]	N	N	4	appos	_	
+57	geme2	geme[female_worker]	N	N	58	ABS	_	
+58	usz-bar-e	uszbar[weaver]-e	N	N.ERG	56	acl	_	
+59	gu7-a	_	V	NF.V.PT.ABS	4	_	_	
+60	giri3	giri[foot]	N	N	61	via	_	
+61	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	4	via	_	
+62	sa	sa[bundle]	N	N	75	ABS	_	
+63	gu4	gud[ox]	N	N	62	GEN	_	
+64	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	63	nummod	_	
+65	kun	_[tail]	WN	WN	63	appos	_	
+66	gu4	gud[ox]	N	N	65	GEN	_	
+67	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+68	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	67	nummod	_	
+69	si	_[_]	N	N.ABS	63	appos	_	
+70	gu4	gud[ox]	N	N	69	GEN	_	
+71	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	70	nummod	_	
+72	5(disz)	5(disz)[one]	NU	NU	63	nummod	projectivity violation	
+73	ad7	_[carcases]	N	N	70	appos	_	
+74	gu4	gud[ox]	N	N	73	GEN	_	
+75	la2-ia3-am3	_[are.deficit]	V	V	4	acl	_	
+76	lu2-zabala3{ki}	_[Lu-Zabala]	PN	PN	75	appos	_	
+77	unu3	_[cowherd]	GN	GN	76	appos	_	
+78	2(disz)	2(disz)[one]	NU	NU	79	nummod	_	
+79	kusz	kusz[leather]	N	N	76	appos	_	
+80	gu4	gud[ox]	N	N	79	GEN	_	
+81	a-gar	_[tanned]	N	N	79	acl	_	
+82	gu7-a	_	V	NF.V.PT.ABS	84	acl	projectivity violation	
+83	1(disz)	1(disz)[one]	NU	NU	88	nummod	projectivity violation	
+84	kusz	kusz[leather]	N	N	79	acl	_	
+85	gu4	gud[ox]	N	N	92	nummod	projectivity violation	
+86	mu	mu[year]	N	N	85	_	heuristic: attach to last	
+87	2(asz)	2(asz)[one]	NU	NU	88	nummod	heuristic: NU premodifying	
+88	a-gar	_[tanned]	N	N	84	acl	_	
+89	gu7-a	_[two-year.cows]	V	NF.V.PT.ABS	84	acl	projectivity violation	
+90	al-hul-a	_[damaged]	V	V	88	acl	_	
+91	1(disz)	1(disz)[one]	NU	NU	93	nummod	projectivity violation	
+92	kusz	kusz[leather]	N	N	88	appos	_	
+93	gu4	gud[ox]	N	N	92	GEN	_	
+94	KA-ar	_[KA-ar]	V	V	93	acl	_	
+95	a-gar	_[tanned]	N	N	93	acl	_	
+96	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	95	acl	_	
+97	2(disz)	2(disz)[one]	NU	NU	93	nummod	_	
+98	ad7	_[carcases]	N	N	93	appos	_	
+99	gu4	gud[ox]	N	N	98	GEN	_	
+100	2(disz)	2(disz)[one]	NU	NU	93	nummod	_	
+101	kun	_[tails]	WN	WN	93	appos	_	
+102	gu4	gud[ox]	N	N	101	GEN	_	
+103	sa	sa[bundle]	N	N	93	appos	_	
+104	gu4	gud[ox]	N	N	103	GEN	_	
+105	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	104	nummod	_	
+106	si	_[_]	N	N.ABS	104	appos	_	
+107	gu4	gud[ox]	N	N	106	GEN	_	
+108	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	107	nummod	_	
+109	mu-kux(DU)	mukur[delivery][-ø]	N	N	107	appos	_	
+110	n(disz)	_	N	N	109	appos	_	
+111	ad7	_[carcasses]	N	N	115	nmod	projectivity violation	
+112	gu4	gud[ox]	N	N	114	_	_	
+113	geme2	geme[female_worker]	N	N	114	ABS	_	
+114	usz-bar-e	uszbar[weaver]-e	N	N.ERG	109	acl	_	
+115	gu7-a	_[os]	V	NF.V.PT.ABS	114	acl	_	
+116	giri3	giri[foot]	N	N	117	via	_	
+117	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	92	via	_	
+118	n	_(_)[_]	NU	NU	88	nummod	_	
+119	kusz	kusz[leather]	N	N	88	appos	_	
+120	gu4	gud[ox]	N	N	119	GEN	_	
+121	a2-la2	_[ala.of]	N	N	0	_	detached for projectivity	
+122	{d}szara2	Szara[1][-ak]	DN	DN	121	GEN	_	
+123	sa	sa[bundle]	N	N	122	appos	_	
+124	gu4	gud[ox]	N	N	123	GEN	_	
+125	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	127	nummod	projectivity violation	
+126	kiszib3	kiszib[seal]	N	N	88	appos	_	
+127	ku3-ga-ni	Kugani[1]	PN	PN	126	GEN	_	
+128	la2-ia3	la'u[arrears]	N	N	127	appos	_	
+129	3(disz)	3(disz)[one]	NU	NU	133	nummod	projectivity violation	
+130	kun	_[tails]	WN	WN	88	appos	_	
+131	gu4	gud[ox]	N	N	130	GEN	_	
+132	sa	sa[bundle]	N	N	130	appos	_	
+133	gu4	gud[ox]	N	N	132	GEN	_	
+134	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	135	nummod	heuristic: NU premodifying	
+135	lugal-ezem	Lugalezem[1]	PN	PN	133	appos	_	
+136	unu3	_[cowherd]	GN	GN	150	ABS	projectivity violation	
+137	2(disz)	2(disz)[one]	NU	NU	136	nummod	_	
+138	kusz	kusz[leather]	N	N	136	appos	_	
+139	gu4	gud[ox]	N	N	138	GEN	_	
+140	a-gar	_[tanned]	N	N	136	acl	_	
+141	gu7-a	_	V	NF.V.PT.ABS	143	acl	projectivity violation	
+142	5(disz)	5(disz)[one]	NU	NU	150	nummod	projectivity violation	
+143	kusz	kusz[leather]	N	N	136	appos	_	
+144	gu4	gud[ox]	N	N	143	GEN	_	
+145	mu	mu[year]	N	N	150	ABS	projectivity violation	
+146	2(asz)	2(asz)[one]	NU	NU	148	nummod	heuristic: NU premodifying; projectivity violation	
+147	a-gar	_[tanned]	N	N	150	acl	projectivity violation	
+148	gu7-a	_[two-year]	V	NF.V.PT.ABS	144	acl	_	
+149	1(disz)	1(disz)[one]	NU	NU	152	nummod	projectivity violation	
+150	kusz	kusz[leather]	N	N	133	acl	_	
+151	gu4	gud[ox]	N	N	150	GEN	_	
+152	al-hul-a	_[damaged]	V	V	151	acl	_	
+153	a-gar	_[tanned]	N	N	152	appos	_	
+154	gu7-a	_	V	NF.V.PT.ABS	156	acl	projectivity violation	
+155	1(disz)	1(disz)[one]	NU	NU	152	nummod	_	
+156	kusz	kusz[leather]	N	N	152	appos	projectivity violation	
+157	gu4	gud[ox]	N	N	156	GEN	_	
+158	al-hul-a	_[damaged]	V	V	152	appos	projectivity violation	
+159	...	_[_]	PN	N	158	dep	heuristic: attach to last	
+160	x-ba	_[_]	DN	N.DEM2.X	155	appos	_	
+161	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	155	acl	_	
+162	2(disz)	2(disz)[one]	NU	NU	155	nummod	_	
+163	kusz	kusz[leather]	N	N	155	appos	_	
+164	szu-dulx(|URxA|)	_[of.yokes]	V	V	163	acl	_	
+165	sa	sa[bundle]	N	N	155	appos	_	
+166	gu4	gud[ox]	N	N	165	GEN	_	
+167	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	166	nummod	_	
+168	1(u)	1(u)[ten]	NU	NU	166	nummod	_	
+169	kun	_[tails]	WN	WN	166	appos	_	
+170	gu4	gud[ox]	N	N	169	GEN	_	
+171	si	_[_]	N	N.ABS	166	appos	_	
+172	gu4	gud[ox]	N	N	171	GEN	_	
+173	1(u)	1(u)[ten]	NU	NU	172	nummod	_	
+174	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	176	nummod	projectivity violation	
+175	4(disz)	4(disz)[one]	NU	NU	177	nummod	projectivity violation	
+176	ad7	_[carcasses]	N	N	172	appos	_	
+177	gu4	gud[ox]	N	N	176	GEN	_	
+178	mu-kux(DU)	mukur[delivery][-ø]	N	N	177	appos	_	
+179	4(disz)	4(disz)[one]	NU	NU	180	nummod	_	
+180	kusz	kusz[leather]	N	N	155	appos	_	
+181	gu4	gud[ox]	N	N	180	GEN	_	
+182	sa	sa[bundle]	N	N	180	appos	_	
+183	gu4	gud[ox]	N	N	182	GEN	_	
+184	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+185	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	184	nummod	_	
+186	kiszib3	kiszib[seal]	N	N	180	appos	_	
+187	ku3-ga-ni	Kugani[1]	PN	PN	186	GEN	_	
+188	1(u)	1(u)[ten]	NU	NU	187	nummod	_	
+189	la2	la[hang][-ø]	V	NF.V.ABS	188	_	_	
+190	1(disz@t)	1(disz)[one]	NU	NU	189	nummod	_	
+191	ad7	_[carcasses]	N	N	187	appos	_	
+192	geme2	geme[female_worker]	N	N	193	ABS	_	
+193	usz-bar-e	uszbar[weaver]-e	N	N.ERG	191	acl	_	
+194	gu7-a	_	V	NF.V.PT.ABS	186	_	heuristic: after nominal head	
+195	giri3	giri[foot]	N	N	196	via	_	
+196	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	186	via	_	
+197	la2-ia3	la'u[arrears]	N	N	155	appos	_	
+198	kun	_[tail]	WN	WN	197	appos	_	
+199	gu4	gud[ox]	N	N	198	GEN	_	
+200	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	199	nummod	_	
+201	ur-nigar{gar}	Urnigar[1]	PN	PN	199	appos	_	
+202	unu3	_[cowherd]	GN	GN	199	appos	_	
+203	1(disz)	1(disz)[one]	NU	NU	198	nummod	_	
+204	kusz	kusz[leather]	N	N	198	acl	_	
+205	gu4	gud[ox]	N	N	204	GEN	_	
+206	a-gar	_[tanned]	N	N	198	acl	_	
+207	gu7-a	_	V	NF.V.PT.ABS	209	acl	projectivity violation	
+208	1(disz)	1(disz)[one]	NU	NU	198	nummod	_	
+209	kusz	kusz[leather]	N	N	198	appos	_	
+210	gu4	gud[ox]	N	N	209	GEN	_	
+211	mu	mu[year]	N	N	216	nummod	projectivity violation	
+212	2(asz)	2(asz)[one]	NU	NU	213	nummod	heuristic: NU premodifying	
+213	a-gar	_[tanned]	N	N	198	appos	projectivity violation	
+214	gu7-a	_[two-year]	V	NF.V.PT.ABS	210	acl	_	
+215	1(disz)	1(disz)[one]	NU	NU	198	nummod	_	
+216	kusz	kusz[leather]	N	N	198	appos	_	
+217	gu4	gud[ox]	N	N	216	GEN	_	
+218	al-hul-a	_[damaged]	V	V	198	acl	_	
+219	a-gar	_[tanned]	N	N	198	appos	_	
+220	gu7-a	_	V	NF.V.PT.ABS	222	acl	projectivity violation	
+221	1(disz)	1(disz)[one]	NU	NU	198	nummod	_	
+222	kusz	kusz[leather]	N	N	198	appos	_	
+223	szu-dulx(|URxDISZ.DISZ.DISZ|)	_[of.yoke]	PN	PN	222	GEN	_	
+224	2(disz)	2(disz)[one]	NU	NU	198	nummod	_	
+225	kun	_[tails]	WN	WN	198	appos	_	
+226	gu4	gud[ox]	N	N	225	GEN	_	
+227	sa	sa[bundle]	N	N	198	appos	_	
+228	gu4	gud[ox]	N	N	227	GEN	_	
+229	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	198	nummod	_	
+230	si	_[_]	N	N.ABS	198	appos	_	
+231	gu4	gud[ox]	N	N	230	GEN	_	
+232	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	231	nummod	_	
+233	mu-kux(DU)	mukur[delivery][-ø]	N	N	231	appos	_	
+234	3(disz)	3(disz)[one]	NU	NU	198	nummod	_	
+235	ad7	_[carcasses]	N	N	198	appos	_	
+236	gu4	gud[ox]	N	N	238	nmod	projectivity violation	
+237	geme2	geme[female_worker]	N	N	235	ABS	_	
+238	usz-bar-e	uszbar[weaver]-e	N	N.ERG	235	GEN	_	
+239	gu7-a	_	V	NF.V.PT.ABS	198	_	heuristic: after nominal head	
+240	giri3	giri[foot]	N	N	241	via	_	
+241	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	198	via	_	
+242	la2-ia3	la'u[arrears]	N	N	198	appos	_	
+243	1(disz)	1(disz)[one]	NU	NU	198	nummod	projectivity violation	
+244	kun	_[tail]	WN	WN	242	appos	_	
+245	gu4	gud[ox]	N	N	244	GEN	_	
+246	{d}szara2-kam	Szarakam[1]	PN	PN	198	appos	_	
+247	unu3	_[cowherd]	GN	GN	246	appos	_	
+248	4(disz)	4(disz)[one]	NU	NU	246	nummod	_	
+249	kusz	kusz[leather]	N	N	246	appos	_	
+250	gu4	gud[ox]	N	N	249	GEN	_	
+251	a-gar	_[tanned]	N	N	246	acl	_	
+252	gu7-a	_	V	NF.V.PT.ABS	254	acl	projectivity violation	
+253	1(disz)	1(disz)[one]	NU	NU	246	nummod	_	
+254	kusz	kusz[leather]	N	N	246	appos	_	
+255	gu4	gud[ox]	N	N	254	GEN	_	
+256	mu	mu[year]	N	N	261	nummod	projectivity violation	
+257	2(asz)	2(asz)[one]	NU	NU	258	nummod	heuristic: NU premodifying	
+258	a-gar	_[tanned]	N	N	246	appos	projectivity violation	
+259	gu7-a	_[two-year]	V	NF.V.PT.ABS	255	acl	_	
+260	1(disz)	1(disz)[one]	NU	NU	246	nummod	_	
+261	kusz	kusz[leather]	N	N	246	appos	_	
+262	gu4	gud[ox]	N	N	261	GEN	_	
+263	a-gar	_[tanned]	N	N	246	appos	_	
+264	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	263	acl	_	
+265	1(disz)	1(disz)[one]	NU	NU	246	nummod	_	
+266	kusz	kusz[leather]	N	N	246	appos	_	
+267	gu4	gud[ox]	N	N	266	GEN	_	
+268	al-hul-a	_[damaged]	V	V	246	acl	_	
+269	a-gar	_[tanned]	N	N	246	appos	_	
+270	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	269	acl	_	
+271	3(disz)	3(disz)[one]	NU	NU	246	nummod	_	
+272	kusz	kusz[leather]	N	N	246	appos	_	
+273	szu-dulx(|URxA|)	_[yokes]	V	V	272	acl	_	
+274	gu4	gud[ox]	N	N	273	acl	_	
+275	8(disz)	8(disz)[one]	NU	NU	246	nummod	_	
+276	kun	_[tails]	WN	WN	246	appos	projectivity violation	
+277	gu4	gud[ox]	N	N	276	GEN	_	
+278	x	_[_]	N	N	279	dep	_	
+279	gu4	gud[ox]	N	N	275	GEN	_	
+280	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	279	nummod	_	
+281	mu-kux(DU)	mukur[delivery][-ø]	N	N	279	appos	_	
+282	8(disz)	8(disz)[one]	NU	NU	279	nummod	projectivity violation	
+283	ad7	_[carcasses]	N	N	281	appos	_	
+284	gu4	gud[ox]	N	N	286	nmod	projectivity violation	
+285	geme2	geme[female_worker]	N	N	283	ABS	_	
+286	usz-bar-e	uszbar[weaver]-e	N	N.ERG	283	GEN	_	
+287	gu7-a	_	V	NF.V.PT.ABS	286	_	heuristic: attach to last	
+288	giri3	giri[foot]	N	N	289	via	_	
+289	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	275	via	_	
+290	sa	sa[bundle]	N	N	246	appos	_	
+291	gu4	gud[ox]	N	N	290	GEN	_	
+292	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	290	nummod	_	
+293	kiszib3	kiszib[seal]	N	N	290	appos	_	
+294	ku3-ga-ni	Kugani[1]	PN	PN	293	GEN	_	
+295	{d}szara2-a-mu	Szara'amu[1]	PN	PN	294	appos	_	
+296	unu3	_[cowherd]	GN	GN	294	appos	_	
+297	2(disz)	2(disz)[one]	NU	NU	300	nummod	projectivity violation	
+298	kusz	kusz[leather]	N	N	294	appos	_	
+299	gu4	gud[ox]	N	N	298	GEN	_	
+300	a-gar	_[tanned]	N	N	294	acl	_	
+301	gu7-a	_	V	NF.V.PT.ABS	303	acl	projectivity violation	
+302	3(disz)	3(disz)[one]	NU	NU	300	nummod	_	
+303	kusz	kusz[leather]	N	N	300	appos	_	
+304	gu4	gud[ox]	N	N	303	GEN	_	
+305	al-hul-a	_[damaged]	V	V	300	acl	_	
+306	a-gar	_[tanned]	N	N	300	appos	_	
+307	gu7-a	_	V	NF.V.PT.ABS	309	acl	projectivity violation	
+308	1(disz)	1(disz)[one]	NU	NU	300	nummod	_	
+309	kusz	kusz[leather]	N	N	300	appos	_	
+310	gu4	gud[ox]	N	N	309	GEN	_	
+311	a-gar	_[tanned]	N	N	300	appos	_	
+312	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	311	acl	_	
+313	3(disz)	3(disz)[one]	NU	NU	300	nummod	_	
+314	kusz	kusz[leather]	N	N	300	appos	_	
+315	szu-dulx(|URxA|)	_[of.yokes]	V	V	314	acl	_	
+316	3(disz)	3(disz)[one]	NU	NU	300	nummod	_	
+317	kusz	kusz[leather]	N	N	300	appos	_	
+318	szu-dulx(|URxA|)	_[yokes]	V	V	317	acl	_	
+319	amar	amar[calf][-ak]	N	N	318	appos	_	
+320	4(disz)	4(disz)[one]	NU	NU	300	nummod	_	
+321	kun	_[tails]	WN	WN	300	appos	_	
+322	gu4	gud[ox]	N	N	321	GEN	_	
+323	sa	sa[bundle]	N	N	300	appos	_	
+324	gu4	gud[ox]	N	N	323	GEN	_	
+325	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	324	nummod	_	
+326	3(disz)	3(disz)[one]	NU	NU	328	nummod	projectivity violation	
+327	ad7	_[carcasses]	N	N	324	appos	_	
+328	gu4	gud[ox]	N	N	327	GEN	_	
+329	mu-kux(DU)	mukur[delivery][-ø]	N	N	328	appos	_	
+330	3(disz)	3(disz)[one]	NU	NU	328	nummod	_	
+331	ad7	_[carcasses]	N	N	328	appos	_	
+332	gu4	gud[ox]	N	N	334	nmod	projectivity violation	
+333	geme2	geme[female_worker]	N	N	331	ABS	_	
+334	usz-bar-e	uszbar[weaver]-e	N	N.ERG	331	GEN	_	
+335	gu7-a	_	V	NF.V.PT.ABS	328	_	heuristic: after nominal head	
+336	giri3	giri[foot]	N	N	337	via	_	
+337	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	328	appos	_	
+338	la2-ia3	la'u[arrears]	N	N	328	appos	_	
+339	1(disz)	1(disz)[one]	NU	NU	340	nummod	_	
+340	kusz	kusz[leather]	N	N	354	ABS	_	
+341	gu4	gud[ox]	N	N	340	GEN	_	
+342	1(disz)	1(disz)[one]	NU	NU	343	nummod	heuristic: NU premodifying	
+343	ad7	_[carcass]	N	N	340	appos	_	
+344	gu4	gud[ox]	N	N	343	GEN	_	
+345	sa	sa[bundle]	N	N	340	appos	_	
+346	gu4	gud[ox]	N	N	345	GEN	_	
+347	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	346	nummod	_	
+348	2(disz)	2(disz)[one]	NU	NU	347	nummod	_	
+349	kun	_[tails]	WN	WN	346	appos	_	
+350	gu4	gud[ox]	N	N	349	GEN	_	
+351	si	_[_]	N	N.ABS	346	appos	_	
+352	gu4	gud[ox]	N	N	351	GEN	_	
+353	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	346	nummod	_	
+354	la2-ia3-am3	_[are.deficit]	V	V	328	_	_	
+355	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	354	appos	_	
+356	unu3	_[cowherd]	GN	GN	355	appos	_	
+357	2(disz)	2(disz)[one]	NU	NU	355	nummod	_	
+358	kusz	kusz[leather]	N	N	355	appos	_	
+359	gu4	gud[ox]	N	N	358	GEN	_	
+360	mu	mu[year]	N	N	365	nummod	projectivity violation	
+361	2(asz)	2(asz)[one]	NU	NU	362	nummod	heuristic: NU premodifying	
+362	a-gar	_[tanned]	N	N	355	acl	projectivity violation	
+363	gu7-a	_[two-year]	V	NF.V.PT.ABS	359	acl	_	
+364	1(disz)	1(disz)[one]	NU	NU	355	nummod	_	
+365	kusz	kusz[leather]	N	N	355	appos	_	
+366	szu-dulx(|URxA|)	_[of.yoke]	V	V	365	acl	_	
+367	2(disz)	2(disz)[one]	NU	NU	368	nummod	heuristic: NU premodifying	
+368	ad7	_[carcasses]	N	N	355	appos	_	
+369	gu4	gud[ox]	N	N	368	GEN	_	
+370	sa	sa[bundle]	N	N	355	appos	_	
+371	gu4	gud[ox]	N	N	370	GEN	_	
+372	n(disz)-kam	_[n]	N	N	371	nummod	_	
+373	2(disz)	2(disz)[one]	NU	NU	375	nummod	projectivity violation	
+374	kun	_[tails]	WN	WN	371	appos	_	
+375	gu4	gud[ox]	N	N	374	GEN	_	
+376	si	_[_]	N	N.ABS	375	appos	_	
+377	gu4	gud[ox]	N	N	375	appos	_	
+378	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	371	nummod	_	
+379	mu-kux(DU)	mukur[delivery][-ø]	N	N	371	appos	_	
+380	lugal-szu-nir-re	_[Lugal-unire]	PN	PN.DAT-H	371	appos	_	
+381	unu3	_[cowherd]	GN	GN	380	appos	_	
+382	1(disz)	1(disz)[one]	NU	NU	383	nummod	_	
+383	kusz	kusz[leather]	N	N	380	acl	_	
+384	gu4	gud[ox]	N	N	383	GEN	_	
+385	a-gar	_[tanned]	N	N	383	acl	_	
+386	gu7-a	_	V	NF.V.PT.ABS	388	acl	projectivity violation	
+387	1(disz)	1(disz)[one]	NU	NU	383	nummod	_	
+388	kusz	kusz[leather]	N	N	383	appos	_	
+389	gu4	gud[ox]	N	N	388	GEN	_	
+390	al-hul-a	_[damaged]	V	V	383	acl	_	
+391	a-gar	_[tanned]	N	N	383	appos	_	
+392	gu7-a	_	V	NF.V.PT.ABS	394	acl	projectivity violation	
+393	1(disz)	1(disz)[one]	NU	NU	398	nummod	projectivity violation	
+394	kusz	kusz[leather]	N	N	383	appos	_	
+395	szu-dulx(|URxA|)	_[yoke]	V	V	394	acl	_	
+396	gu4	gud[ox]	N	N	395	appos	_	
+397	sa	sa[bundle]	N	N	383	appos	_	
+398	gu4	gud[ox]	N	N	397	GEN	_	
+399	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	401	nummod	projectivity violation	
+400	1(disz)	1(disz)[one]	NU	NU	404	nummod	projectivity violation	
+401	kun	_[tail]	WN	WN	398	appos	_	
+402	gu4	gud[ox]	N	N	401	GEN	_	
+403	si	_[_]	N	N.ABS	398	appos	_	
+404	gu4	gud[ox]	N	N	403	GEN	_	
+405	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	406	nummod	heuristic: NU premodifying	
+406	mu-kux(DU)	mukur[delivery][-ø]	N	N	404	appos	_	
+407	2(disz)	2(disz)[one]	NU	NU	408	nummod	_	
+408	ad7	_[carcasses]	N	N	383	appos	_	
+409	gu4	gud[ox]	N	N	411	nmod	projectivity violation	
+410	geme2	geme[female_worker]	N	N	408	ABS	_	
+411	usz-bar-e	uszbar[weaver]-e	N	N.ERG	408	GEN	_	
+412	gu7-a	_	V	NF.V.PT.ABS	411	_	heuristic: attach to last	
+413	giri3	giri[foot]	N	N	414	via	_	
+414	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	408	via	_	
+415	la2-ia3	la'u[arrears]	N	N	383	appos	_	
+416	1(disz)	1(disz)[one]	NU	NU	415	nummod	_	
+417	kun	_[tail]	WN	WN	415	appos	_	
+418	gu4	gud[ox]	N	N	417	GEN	_	
+419	ur-{d}su4-da	_	PN	PN.GEN.GEN.L1	415	appos	_	
+420	unu3	_[cowherd]	GN	GN	415	nummod	_	
+421	1(disz)	1(disz)[one]	NU	NU	415	nummod	_	
+422	szu-dulx(|URxA|)	_[yoke]	V	V	415	_	heuristic: after nominal head	
+423	gu4	gud[ox]	N	N	415	_	heuristic: after nominal head	
+424	mu-kux(DU)	mukur[delivery][-ø]	N	N	415	appos	_	
+425	bu3-du	_[Budu.cowherd]	PN	PN.GEN.ABS	415	appos	_	
+426	unu3	_	GN	GN	425	_	heuristic: attach to last	
+427	2(disz)	2(disz)[one]	NU	NU	415	nummod	projectivity violation	
+428	kusz	kusz[leather]	N	N	425	appos	_	
+429	gu4	gud[ox]	N	N	428	GEN	_	
+430	a-gar	_[tanned]	N	N	415	acl	_	
+431	gu7-a	_	V	NF.V.PT.ABS	433	acl	projectivity violation	
+432	2(disz)	2(disz)[one]	NU	NU	415	nummod	_	
+433	kusz	kusz[leather]	N	N	415	appos	_	
+434	szu-dulx(|URxA|)	_[yokes]	V	V	433	acl	_	
+435	amar	amar[calf][-ak]	N	N	434	appos	_	
+436	2(disz)	2(disz)[one]	NU	NU	415	nummod	_	
+437	ad7	_[carcasses]	N	N	415	appos	_	
+438	gu4	gud[ox]	N	N	437	GEN	_	
+439	sa	sa[bundle]	N	N	415	appos	_	
+440	gu4	gud[ox]	N	N	439	GEN	_	
+441	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	440	nummod	_	
+442	2(disz)	2(disz)[one]	NU	NU	446	nummod	projectivity violation	
+443	kun	_[tails]	WN	WN	440	appos	_	
+444	gu4	gud[ox]	N	N	443	GEN	_	
+445	si	_[_]	N	N.ABS	440	appos	_	
+446	gu4	gud[ox]	N	N	445	GEN	_	
+447	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	448	nummod	heuristic: NU premodifying	
+448	mu-kux(DU)	mukur[delivery][-ø]	N	N	446	appos	_	
+449	al-ba-ni-du11	_[Albanidu]	PN	PN	446	appos	_	
+450	unu3	_[cowherd]	GN	GN	449	appos	_	
+451	1(disz)	1(disz)[one]	NU	NU	449	nummod	_	
+452	kusz	kusz[leather]	N	N	449	acl	_	
+453	gu4	gud[ox]	N	N	452	GEN	_	
+454	a-gar	_[tanned]	N	N	449	acl	_	
+455	gu7-a	_	V	NF.V.PT.ABS	457	acl	projectivity violation	
+456	1(disz)	1(disz)[one]	NU	NU	449	nummod	_	
+457	kusz	kusz[leather]	N	N	449	acl	_	
+458	gu4	gud[ox]	N	N	457	GEN	_	
+459	mu	mu[year]	N	N	458	_	heuristic: attach to last	
+460	2(asz)	2(asz)[one]	NU	NU	461	nummod	heuristic: NU premodifying	
+461	al-hul-a	_[damaged]	V	V	449	acl	projectivity violation	
+462	a-gar	_[tanned]	N	N	461	acl	_	
+463	gu7-a	_[two-year]	V	NF.V.PT.ABS	458	acl	_	
+464	sa	sa[bundle]	N	N	449	appos	_	
+465	gu4	gud[ox]	N	N	464	GEN	_	
+466	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	465	nummod	_	
+467	1(disz)	1(disz)[one]	NU	NU	465	nummod	_	
+468	kun	_[tail]	WN	WN	465	appos	_	
+469	gu4	gud[ox]	N	N	468	GEN	_	
+470	si	_[_]	N	N.ABS	465	appos	_	
+471	gu4	gud[ox]	N	N	470	GEN	_	
+472	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	471	nummod	_	
+473	mu-kux(DU)	mukur[delivery][-ø]	N	N	471	appos	_	
+474	3(disz)	3(disz)[one]	NU	NU	446	nummod	_	
+475	ad7	_[carcasses]	N	N	446	appos	_	
+476	gu4	gud[ox]	N	N	478	nmod	projectivity violation	
+477	geme2	geme[female_worker]	N	N	475	ABS	_	
+478	usz-bar-e	uszbar[weaver]-e	N	N.ERG	475	GEN	_	
+479	gu7-a	_	V	NF.V.PT.ABS	446	_	heuristic: after nominal head	
+480	giri3	giri[foot]	N	N	481	via	_	
+481	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	446	appos	_	
+482	la2-ia3	la'u[arrears]	N	N	492	ABS	_	
+483	1(disz)	1(disz)[one]	NU	NU	482	nummod	_	
+484	kusz	kusz[leather]	N	N	482	acl	_	
+485	gu4	gud[ox]	N	N	484	GEN	_	
+486	1(disz)	1(disz)[one]	NU	NU	482	nummod	_	
+487	kun	_[tail]	WN	WN	482	appos	_	
+488	gu4	gud[ox]	N	N	487	GEN	_	
+489	si	_[_]	N	N.ABS	482	appos	_	
+490	gu4	gud[ox]	N	N	489	GEN	_	
+491	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	482	nummod	_	
+492	la2-ia3-am3	_[are.deficit]	V	V	446	_	_	
+493	USZ	_[USz]	PN	PN	0	_	detached for projectivity	
+494	unu3	_[cowherd]	GN	GN	493	appos	_	
+495	4(disz)	4(disz)[one]	NU	NU	493	nummod	_	
+496	kusz	kusz[leather]	N	N	493	appos	_	
+497	gu4	gud[ox]	N	N	496	GEN	_	
+498	a-gar	_[tanned]	N	N	493	appos	_	
+499	gu7-a	_	V	NF.V.PT.ABS	501	acl	projectivity violation	
+500	2(disz)	2(disz)[one]	NU	NU	493	nummod	_	
+501	kusz	kusz[leather]	N	N	493	appos	_	
+502	gu4	gud[ox]	N	N	501	GEN	_	
+503	mu	mu[year]	N	N	508	nummod	projectivity violation	
+504	2(asz)	2(asz)[one]	NU	NU	505	nummod	heuristic: NU premodifying	
+505	a-gar	_[tanned]	N	N	493	appos	projectivity violation	
+506	gu7-a	_[two-year]	V	NF.V.PT.ABS	502	acl	_	
+507	2(disz)	2(disz)[one]	NU	NU	493	nummod	_	
+508	kusz	kusz[leather]	N	N	493	appos	_	
+509	gu4	gud[ox]	N	N	508	GEN	_	
+510	al-hul-a	_[damaged]	V	V	493	acl	_	
+511	a-gar	_[tanned]	N	N	493	appos	_	
+512	gu7-a	_	V	NF.V.PT.ABS	514	acl	projectivity violation	
+513	1(disz)	1(disz)[one]	NU	NU	493	nummod	_	
+514	kusz	kusz[leather]	N	N	493	appos	_	
+515	gu4	gud[ox]	N	N	514	GEN	_	
+516	mu	mu[year]	N	N	522	nummod	projectivity violation	
+517	2(asz)	2(asz)[one]	NU	NU	518	nummod	heuristic: NU premodifying	
+518	al-hul-a	_[damaged]	V	V	493	acl	projectivity violation	
+519	a-gar	_[tanned]	N	N	493	appos	projectivity violation	
+520	gu7-a	_[two-year]	V	NF.V.PT.ABS	515	acl	_	
+521	1(disz)	1(disz)[one]	NU	NU	493	nummod	_	
+522	kusz	kusz[leather]	N	N	493	appos	_	
+523	szu-dulx(|URxA!|)	_[yoke]	V	V	522	acl	_	
+524	gu4	gud[ox]	N	N	523	appos	_	
+525	sa	sa[bundle]	N	N	493	appos	_	
+526	gu4	gud[ox]	N	N	525	GEN	_	
+527	9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	526	nummod	_	
+528	7(disz)	7(disz)[one][-sze]	NU	NU	526	nummod	_	
+529	kun	_[tails]	WN	WN	526	appos	_	
+530	gu4	gud[ox]	N	N	529	GEN	_	
+531	si	_[_]	N	N.ABS	526	appos	_	
+532	gu4	gud[ox]	N	N	531	GEN	_	
+533	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	532	nummod	_	
+534	mu-kux(DU)	mukur[delivery][-ø]	N	N	532	appos	_	
+535	1(u)	1(u)[ten]	NU	NU	493	nummod	_	
+536	la2	la[hang][-ø]	V	NF.V.ABS	535	_	_	
+537	1(disz@t)	1(disz)[one]	NU	NU	536	nummod	_	
+538	ad7	_[carcasses]	N	N	493	appos	_	
+539	gu4	gud[ox]	N	N	541	nmod	projectivity violation	
+540	geme2	geme[female_worker]	N	N	538	ABS	_	
+541	usz-bar-e	uszbar[weaver]-e	N	N.ERG	538	GEN	_	
+542	gu7-a	_	V	NF.V.PT.ABS	493	_	heuristic: after nominal head	
+543	giri3	giri[foot]	N	N	544	via	_	
+544	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	493	appos	_	
+545	si	_[_]	N	N.ABS	493	appos	_	
+546	gu4	gud[ox]	N	N	545	GEN	_	
+547	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	493	nummod	_	
+548	da-a-ga	_[did.Daaga]	PN	PN	547	_	heuristic: attach to last	
+549	szu	szu[hand][-e]	N	N.L3-NH	492	appos	_	
+550	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	492	parataxis	_	
+551	la2-ia3	la'u[arrears]	N	N	492	appos	_	
+552	1(disz)	1(disz)[one]	NU	NU	554	nummod	projectivity violation	
+553	kun	_[tail]	WN	WN	551	appos	_	
+554	gu4	gud[ox]	N	N	553	GEN	_	
+555	a-ki-szar	_[Akiar]	PN	PN	554	appos	_	
+556	unu3	_[cowherd]	GN	GN	554	appos	_	
+557	e2	e[house]	N	N	492	appos	_	
+558	{d}szara2	Szara[1][-ak]	DN	DN	557	GEN	_	
+559	1(disz)	1(disz)[one]	NU	NU	492	nummod	_	
+560	kusz	kusz[leather]	N	N	492	acl	_	
+561	szu-dulx(|URxA|)	_[yoke]	V	V	560	acl	_	
+562	gu4	gud[ox]	N	N	561	appos	_	
+563	sa	sa[bundle]	N	N	492	appos	_	
+564	gu4	gud[ox]	N	N	563	GEN	_	
+565	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	564	nummod	_	
+566	1(disz)	1(disz)[one]	NU	NU	568	nummod	projectivity violation	
+567	ad7	_[carcass]	N	N	564	appos	_	
+568	gu4	gud[ox]	N	N	567	GEN	_	
+569	mu-kux(DU)	mukur[delivery][-ø]	N	N	568	appos	_	
+570	ab-ba-gi-na	Abbagina[1]	PN	PN	568	appos	_	
+571	unu3	_[cowherd]	GN	GN	570	appos	_	
+572	1(disz)	1(disz)[one]	NU	NU	570	nummod	_	
+573	kusz	kusz[leather]	N	N	570	acl	_	
+574	gu4	gud[ox]	N	N	573	GEN	_	
+575	a-gar	_[tanned]	N	N	570	acl	_	
+576	gu7-a	_	V	NF.V.PT.ABS	578	acl	projectivity violation	
+577	1(disz)	1(disz)[one]	NU	NU	570	nummod	_	
+578	kusz	kusz[leather]	N	N	570	acl	_	
+579	gu4	gud[ox]	N	N	578	GEN	_	
+580	mu	mu[year]	N	N	585	nummod	projectivity violation	
+581	2(asz)	2(asz)[one]	NU	NU	582	nummod	heuristic: NU premodifying	
+582	a-gar	_[tanned]	N	N	570	acl	projectivity violation	
+583	gu7-a	_[two-year.old]	V	NF.V.PT.ABS	579	acl	_	
+584	1(disz)	1(disz)[one]	NU	NU	585	nummod	heuristic: NU premodifying	
+585	kusz	kusz[leather]	N	N	570	acl	_	
+586	gu4	gud[ox]	N	N	585	GEN	_	
+587	mu	mu[year]	N	N	586	_	heuristic: attach to last	
+588	2(asz)	2(asz)[one]	NU	NU	589	nummod	heuristic: NU premodifying	
+589	al-hul-a	_[damaged]	V	V	570	acl	projectivity violation	
+590	a-gar	_[tanned]	N	N	589	appos	_	
+591	gu7-a	_[two-year]	V	NF.V.PT.ABS	586	acl	projectivity violation	
+592	n(disz)	_	N	N	589	appos	_	
+593	kun	_[tail]	WN	WN	589	appos	_	
+594	gu4	gud[ox]	N	N	593	GEN	_	
+595	si	_[_]	N	N.ABS	594	appos	_	
+596	gu4	gud[ox]	N	N	594	appos	_	
+597	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	594	nummod	_	
+598	mu-kux(DU)	mukur[delivery][-ø]	N	N	594	appos	_	
+599	n(disz)	_	N	N	594	appos	_	
+600	ad7	_[carcasses]	N	N	594	appos	_	
+601	gu4	gud[ox]	N	N	603	nmod	projectivity violation	
+602	geme2	geme[female_worker]	N	N	600	ABS	_	
+603	usz-bar-e	uszbar[weaver]-e	N	N.ERG	600	GEN	_	
+604	gu7-a	_	V	NF.V.PT.ABS	594	_	_	
+605	giri3	giri[foot]	N	N	606	via	_	
+606	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	594	appos	_	
+607	x	_[_]	N	N	594	dep	_	
+608	2(disz)	2(disz)[one]	NU	NU	610	nummod	projectivity violation	
+609	kun	_[tails]	WN	WN	594	appos	_	
+610	gu4	gud[ox]	N	N	609	GEN	_	
+611	la-lu5	_[Lalu.cowherd]	PN	PN.GEN	610	appos	_	
+612	unu3	_	GN	GN	589	appos	_	
+613	1(disz)	1(disz)[one]	NU	NU	589	nummod	_	
+614	kusz	kusz[leather]	N	N	589	appos	_	
+615	gu4	gud[ox]	N	N	614	GEN	_	
+616	al-hul-a	_[destroyed]	V	V	589	appos	_	
+617	a-gar	_[tanned]	N	N	589	appos	_	
+618	gu7-a	_	V	NF.V.PT.ABS	620	acl	projectivity violation	
+619	1(disz)	1(disz)[one]	NU	NU	589	nummod	_	
+620	kusz	kusz[leather]	N	N	589	appos	_	
+621	gu4	gud[ox]	N	N	620	GEN	_	
+622	mu	mu[year]	N	N	628	nummod	projectivity violation	
+623	2(asz)	2(asz)[one]	NU	NU	624	nummod	heuristic: NU premodifying	
+624	al-hul-a	_[damaged]	V	V	589	appos	projectivity violation	
+625	a-gar	_[tanned]	N	N	589	appos	projectivity violation	
+626	gu7-a	_[two-year]	V	NF.V.PT.ABS	621	acl	_	
+627	2(disz)	2(disz)[one]	NU	NU	570	nummod	projectivity violation	
+628	kusz	kusz[leather]	N	N	589	appos	_	
+629	amar	amar[calf][-ak]	N	N	628	GEN	_	
+630	a-gar	_[tanned]	N	N	589	acl	_	
+631	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	630	acl	_	
+632	1(disz)	1(disz)[one]	NU	NU	570	nummod	_	
+633	kusz	kusz[leather]	N	N	570	acl	_	
+634	amar	amar[calf][-ak]	N	N	633	GEN	_	
+635	al-hul-a	_[damaged]	V	V	570	acl	_	
+636	a-gar	_[tanned]	N	N	635	acl	_	
+637	gu7-a	_	V	NF.V.PT.ABS	639	acl	projectivity violation	
+638	1(disz)	1(disz)[one]	NU	NU	570	nummod	_	
+639	kusz	kusz[leather]	N	N	570	acl	_	
+640	szu-dulx(|URxA|)	_[yoke]	V	V	639	acl	_	
+641	gu4	gud[ox]	N	N	640	appos	_	
+642	1(disz)	1(disz)[one]	NU	NU	568	nummod	projectivity violation	
+643	ad7	_[carcass]	N	N	570	appos	_	
+644	gu4	gud[ox]	N	N	643	GEN	_	
+645	sa	sa[bundle]	N	N	568	appos	_	
+646	gu4	gud[ox]	N	N	645	GEN	_	
+647	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	646	nummod	_	
+648	2(disz)	2(disz)[one]	NU	NU	650	nummod	projectivity violation	
+649	kun	_[tails]	WN	WN	646	appos	_	
+650	gu4	gud[ox]	N	N	649	GEN	_	
+651	mu-kux(DU)	mukur[delivery][-ø]	N	N	650	appos	_	
+652	2(disz)	2(disz)[one]	NU	NU	650	nummod	_	
+653	ad7	_[carcasses]	N	N	650	appos	_	
+654	gu4	gud[ox]	N	N	656	nmod	projectivity violation	
+655	geme2	geme[female_worker]	N	N	653	ABS	_	
+656	usz-bar-e	uszbar[weaver]-e	N	N.ERG	653	GEN	_	
+657	gu7-a	_	V	NF.V.PT.ABS	650	_	heuristic: after nominal head	
+658	giri3	giri[foot]	N	N	659	via	_	
+659	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	650	appos	_	
+660	la2-ia3	la'u[arrears]	N	N	650	appos	_	
+661	2(disz)	2(disz)[one]	NU	NU	662	nummod	_	
+662	ad7	_[carcasses]	N	N	673	ABS	_	
+663	gu4	gud[ox]	N	N	662	GEN	_	
+664	3(disz)	3(disz)[one]	NU	NU	666	nummod	projectivity violation	
+665	kun	_[tails]	WN	WN	662	appos	_	
+666	gu4	gud[ox]	N	N	665	GEN	_	
+667	si	_[_]	N	N.ABS	666	appos	_	
+668	gu4	gud[ox]	N	N	666	appos	_	
+669	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	662	nummod	_	
+670	sa	sa[bundle]	N	N	662	appos	_	
+671	gu4	gud[ox]	N	N	670	GEN	_	
+672	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	662	nummod	_	
+673	la2-ia3-am3	_[are.deficit]	V	V	650	_	_	
+674	ur-e11-e	Ure'e[1][-ak]	PN	PN	673	parataxis	_	
+675	unu3	_[cowherd]	GN	GN	674	appos	_	
+676	2(disz)	2(disz)[one]	NU	NU	677	nummod	_	
+677	kusz	kusz[leather]	N	N	675	appos	_	
+678	gu4	gud[ox]	N	N	677	GEN	_	
+679	a-gar	_[tanned]	N	N	677	acl	_	
+680	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	679	acl	_	
+681	1(disz)	1(disz)[one]	NU	NU	677	nummod	_	
+682	kusz	kusz[leather]	N	N	677	appos	_	
+683	gu4	gud[ox]	N	N	682	GEN	_	
+684	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	687	nummod	projectivity violation	
+685	al-hul	_[damaged.on.inside]	V	V	677	acl	_	
+686	7(disz)	7(disz)[one][-sze]	NU	NU	677	nummod	_	
+687	kusz	kusz[leather]	N	N	677	appos	_	
+688	szu-dulx(|URxA|)	_[yokes]	V	V	687	acl	_	
+689	amar	amar[calf][-ak]	N	N	688	appos	_	
+690	sa	sa[bundle]	N	N	677	appos	_	
+691	gu4	gud[ox]	N	N	690	GEN	_	
+692	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	691	nummod	_	
+693	1(disz)	1(disz)[one]	NU	NU	695	nummod	projectivity violation	
+694	kun	_[tail]	WN	WN	691	appos	_	
+695	gu4	gud[ox]	N	N	694	GEN	_	
+696	mu-kux(DU)	mukur[delivery][-ø]	N	N	695	appos	_	
+697	1(disz)	1(disz)[one]	NU	NU	695	nummod	_	
+698	ad7	_[carcass]	N	N	695	appos	_	
+699	gu4	gud[ox]	N	N	701	nmod	projectivity violation	
+700	geme2	geme[female_worker]	N	N	698	ABS	_	
+701	usz-bar-e	uszbar[weaver]-e	N	N.ERG	698	GEN	_	
+702	gu7-a	_	V	NF.V.PT.ABS	701	_	heuristic: attach to last	
+703	giri3	giri[foot]	N	N	704	via	_	
+704	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	695	appos	_	
+705	ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	695	appos	_	
+706	unu3	_[cowherd]	GN	GN	705	appos	_	
+707	1(disz)	1(disz)[one]	NU	NU	709	nummod	projectivity violation	
+708	kusz	kusz[leather]	N	N	705	acl	_	
+709	szu-dulx(|URxA|)	_[yoke]	V	V	708	acl	_	
+710	gu4	gud[ox]	N	N	709	appos	_	
+711	mu-kux(DU)	mukur[delivery][-ø]	N	N	709	appos	_	
+712	szesz-a-ni	Szeszani[1][-ak]	PN	PN	709	appos	_	
+713	unu3	_[cowherd]	GN	GN	712	appos	_	
+714	e2	e[house]	N	N	709	appos	_	
+715	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	714	GEN	_	
+716	nam-en-na	_[of.lordship]	N	N	709	GEN	_	
+717	5(disz)	5(disz)[one]	NU	NU	718	nummod	_	
+718	kusz	kusz[leather]	N	N	675	appos	_	
+719	gu4	gud[ox]	N	N	718	GEN	_	
+720	a-gar	_[tanned]	N	N	718	acl	_	
+721	gu7-a	_	V	NF.V.PT.ABS	723	acl	projectivity violation	
+722	3(disz)	3(disz)[one]	NU	NU	727	nummod	projectivity violation	
+723	kusz	kusz[leather]	N	N	718	appos	_	
+724	gu4	gud[ox]	N	N	723	GEN	_	
+725	mu	mu[year]	N	N	730	nummod	projectivity violation	
+726	2(asz)	2(asz)[one]	NU	NU	727	nummod	heuristic: NU premodifying	
+727	a-gar	_[tanned]	N	N	718	acl	projectivity violation	
+728	gu7-a	_[two-year]	V	NF.V.PT.ABS	724	acl	projectivity violation	
+729	2(disz)	2(disz)[one]	NU	NU	727	nummod	_	
+730	kusz	kusz[leather]	N	N	727	appos	_	
+731	gu4	gud[ox]	N	N	730	GEN	_	
+732	mu	mu[year]	N	N	727	appos	_	
+733	2(asz)	2(asz)[one]	NU	NU	727	nummod	_	
+734	al-hul-a	_[damaged]	V	V	727	acl	_	
+735	gu7-a	_[fed]	V	NF.V.PT.ABS	734	_	heuristic: attach to last	
+736	2(disz)	2(disz)[one]	NU	NU	741	nummod	projectivity violation	
+737	kusz	kusz[leather]	N	N	727	appos	_	
+738	gu4	gud[ox]	N	N	737	GEN	_	
+739	mu	mu[year]	N	N	744	nummod	projectivity violation	
+740	2(asz)	2(asz)[one]	NU	NU	741	nummod	heuristic: NU premodifying	
+741	a-gar	_[tanned]	N	N	727	acl	_	
+742	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	741	acl	_	
+743	1(disz)	1(disz)[one]	NU	NU	741	nummod	_	
+744	kusz	kusz[leather]	N	N	741	appos	_	
+745	szu-dulx(|URxA|)	_[yoke]	V	V	744	acl	_	
+746	gu4	gud[ox]	N	N	745	appos	_	
+747	mu	mu[year]	N	N	750	nummod	projectivity violation	
+748	1(asz)	1(asz)[one]	NU	NU	750	nummod	heuristic: NU premodifying; projectivity violation	
+749	1(disz)	1(disz)[one]	NU	NU	755	nummod	projectivity violation	
+750	kusz	kusz[leather]	N	N	741	appos	_	
+751	gu4	gud[ox]	N	N	757	nummod	projectivity violation	
+752	ga	ga[milk]	N	N	751	_	heuristic: attach to last	
+753	mu-kux(DU)	mukur[delivery][-ø]	N	N	755	nmod	_	
+754	za3	_	N	N	753	_	heuristic: attach to last	
+755	nu-szu2	_[sucking.bullcalf.uncovered.side]	V	NEG.NF.V.PF.ABS	750	acl	_	
+756	2(disz)	2(disz)[one]	NU	NU	755	nummod	_	
+757	kun	_[tails]	WN	WN	755	appos	_	
+758	gu4	gud[ox]	N	N	757	GEN	_	
+759	sa	sa[bundle]	N	N	755	appos	_	
+760	gu4	gud[ox]	N	N	759	GEN	_	
+761	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	760	nummod	_	
+762	6(disz)	6(disz)[one][-sze]	NU	NU	760	nummod	_	
+763	ad7	_[carcasses]	N	N	760	appos	_	
+764	gu4	gud[ox]	N	N	763	GEN	_	
+765	si	_[_]	N	N.ABS	760	appos	_	
+766	gu4	gud[ox]	N	N	765	GEN	_	
+767	1(u)	1(u)[ten]	NU	NU	766	nummod	_	
+768	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	767	nummod	_	
+769	mu-kux(DU)	mukur[delivery][-ø]	N	N	766	appos	_	
+770	6(disz)	6(disz)[one][-sze]	NU	NU	755	nummod	_	
+771	ad7	_[carcasses]	N	N	755	appos	_	
+772	gu4	gud[ox]	N	N	774	nmod	projectivity violation	
+773	geme2	geme[female_worker]	N	N	771	ABS	_	
+774	usz-bar-e	uszbar[weaver]-e	N	N.ERG	771	GEN	_	
+775	gu7-a	_	V	NF.V.PT.ABS	774	_	heuristic: attach to last	
+776	giri3	giri[foot]	N	N	777	via	_	
+777	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	755	via	_	
+778	1(disz)	1(disz)[one]	NU	NU	727	nummod	_	
+779	kusz	kusz[leather]	N	N	727	appos	_	
+780	gu4	gud[ox]	N	N	779	GEN	_	
+781	mu	mu[year]	N	N	780	_	heuristic: attach to last	
+782	2(asz)	2(asz)[one]	NU	NU	783	nummod	heuristic: NU premodifying	
+783	sa	sa[bundle]	N	N	727	appos	_	
+784	gu4	gud[ox]	N	N	783	GEN	_	
+785	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	727	nummod	_	
+786	kiszib3	kiszib[seal]	N	N	727	appos	_	
+787	ku3-ga-ni	Kugani[1]	PN	PN	786	GEN	_	
+788	la2-ia3	la'u[arrears]	N	N	787	appos	_	
+789	1(disz)	1(disz)[one]	NU	NU	790	nummod	_	
+790	sa	sa[bundle]	N	N	796	ABS	_	
+791	gu4	gud[ox]	N	N	792	acl	_	
+792	ga	ga[milk]	N	N	790	GEN	_	
+793	1(disz)	1(disz)[one]	NU	NU	790	nummod	_	
+794	kun	_[tail]	WN	WN	790	appos	_	
+795	gu4	gud[ox]	N	N	794	GEN	_	
+796	la2-ia3-am3	_[are.deficit]	V	V	727	acl	_	
+797	ad-da-da	Addada[1][-ak]	PN	PN.GEN	803	ABS	projectivity violation	
+798	u3	u[and]	CNJ	CNJ	797	appos	_	
+799	ur-{gesz}gigir	Urgigir[1]	PN	PN	797	appos	_	
+800	ki	ki[place]	N	N	801	ABL	_	
+801	a-tu-ta	Atu[1][-ak]-ta	PN	PN.GEN.ABL	803	ABL	projectivity violation	
+802	1(disz)	1(disz)[one]	NU	NU	805	nummod	projectivity violation	
+803	kusz	kusz[leather]	N	N	796	parataxis	_	
+804	ab2-mah2	abmah[mature_cow]	N	N	803	GEN	_	
+805	a-gar	_[tanned]	N	N	803	acl	_	
+806	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	805	acl	_	
+807	1(disz)	1(disz)[one]	NU	NU	805	nummod	_	
+808	kusz	kusz[leather]	N	N	805	appos	_	
+809	ab2	ab[cow][-ø]	N	N	808	GEN	_	
+810	mu	mu[year]	N	N	815	nummod	projectivity violation	
+811	2(asz)	2(asz)[one]	NU	NU	812	nummod	heuristic: NU premodifying	
+812	a-gar	_[tanned]	N	N	805	appos	_	
+813	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	812	acl	_	
+814	1(disz)	1(disz)[one]	NU	NU	805	nummod	_	
+815	kusz	kusz[leather]	N	N	805	appos	_	
+816	gu4	gud[ox]	N	N	815	GEN	_	
+817	mu	mu[year]	N	N	822	nummod	projectivity violation	
+818	2(asz)	2(asz)[one]	NU	NU	819	nummod	heuristic: NU premodifying	
+819	a-gar	_[tanned]	N	N	805	appos	_	
+820	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	819	acl	_	
+821	3(disz)	3(disz)[one]	NU	NU	805	nummod	_	
+822	ad7	_[carcasses]	N	N	805	appos	_	
+823	gu4	gud[ox]	N	N	822	GEN	_	
+824	sa	sa[bundle]	N	N	805	appos	_	
+825	gu4	gud[ox]	N	N	824	GEN	_	
+826	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	827	nummod	heuristic: NU premodifying	
+827	n	_(_)[_]	NU	NU	825	nummod	_	
+828	kun	_[tail]	WN	WN	825	appos	_	
+829	gu4	gud[ox]	N	N	828	GEN	_	
+830	ab-ba-gi-na	Abbagina[1]	PN	PN	829	appos	_	
+831	u3	u[and]	CNJ	CNJ	829	appos	_	
+832	szesz-a-ni	Szeszani[1][-ak]	PN	PN	829	appos	_	
+833	gu4-lah5	_[oxen.drivers]	N	N	825	appos	_	
+834	1(disz)	1(disz)[one]	NU	NU	837	nummod	projectivity violation	
+835	kusz	kusz[leather]	N	N	674	appos	_	
+836	szu	szu[hand][-e]	N	N.L3-NH	837	acl	_	
+837	eme6	_[jenny]	N	N.ABS	835	GEN	_	
+838	mu-kux(DU)	mukur[delivery][-ø]	N	N	837	appos	_	
+839	ur-{d}szara2	Urszara[1]	PN	PN	837	appos	_	
+840	giri3	giri[foot]	N	N	841	via	_	
+841	x-...-x	_	N	N	837	dep	_	
+842	ki	ki[place]	N	N	843	ABL	_	
+843	kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	837	ABL	_	
+844	szunigin	szunigin[total]	N	N	835	appos	_	
+845	2(u)	2(u)[ten]	NU	NU	835	nummod	_	
+846	6(disz)	6(disz)[one][-sze]	NU	NU	851	nummod	projectivity violation	
+847	kusz	kusz[leather]	N	N	835	appos	_	
+848	gu4	gud[ox]	N	N	847	GEN	_	
+849	a-gar	_[tanned]	N	N	848	acl	_	
+850	gu7-a	_	V	NF.V.PT.ABS	849	_	heuristic: attach to last	
+851	szunigin	szunigin[total]	N	N	835	appos	_	
+852	9(disz)	9(disz)[one]	NU	NU	853	nummod	_	
+853	kusz	kusz[leather]	N	N	835	appos	_	
+854	gu4	gud[ox]	N	N	853	GEN	_	
+855	mu	mu[year]	N	N	854	_	heuristic: attach to last	
+856	2(asz)	2(asz)[one]	NU	NU	857	nummod	heuristic: NU premodifying	
+857	a-gar	_[tanned]	N	N	853	acl	projectivity violation	
+858	gu7-a	_[two-year]	V	NF.V.PT.ABS	854	acl	_	
+859	szunigin	szunigin[total]	N	N	853	appos	_	
+860	n	_(_)[_]	NU	NU	853	nummod	_	
+861	kusz	kusz[leather]	N	N	853	appos	_	
+862	amar	amar[calf][-ak]	N	N	861	GEN	_	
+863	a-gar	_[tanned]	N	N	861	acl	_	
+864	gu7-a	_	V	NF.V.PT.ABS	861	_	_	
+865	szunigin	szunigin[total]	N	N	861	appos	_	
+866	5(disz)	5(disz)[one]	NU	NU	869	nummod	projectivity violation	
+867	kusz	kusz[leather]	N	N	861	appos	_	
+868	gu4	gud[ox]	N	N	867	GEN	_	
+869	a-gar	_[tanned]	N	N	867	acl	_	
+870	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	869	acl	_	
+871	szunigin	szunigin[total]	N	N	869	appos	_	
+872	5(disz)	5(disz)[one]	NU	NU	877	nummod	projectivity violation	
+873	kusz	kusz[leather]	N	N	869	appos	_	
+874	gu4	gud[ox]	N	N	873	GEN	_	
+875	mu	mu[year]	N	N	873	_	heuristic: after nominal head	
+876	2(asz)	2(asz)[one]	NU	NU	877	nummod	heuristic: NU premodifying	
+877	a-gar	_[tanned]	N	N	873	acl	_	
+878	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	877	acl	_	
+879	szunigin	szunigin[total]	N	N	877	_	_	
+880	1(u)	1(u)[ten]	NU	NU	885	nummod	projectivity violation	
+881	la2	la[hang][-ø]	V	NF.V.ABS	880	_	_	
+882	1(disz@t)	1(disz)[one]	NU	NU	881	nummod	_	
+883	kusz	kusz[leather]	N	N	877	appos	_	
+884	amar	amar[calf][-ak]	N	N	883	GEN	_	
+885	a-gar	_[tanned]	N	N	883	acl	_	
+886	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	885	acl	_	
+887	szunigin	szunigin[total]	N	N	885	_	_	
+888	1(u)	1(u)[ten]	NU	NU	892	nummod	projectivity violation	
+889	1(disz)	1(disz)[one]	NU	NU	888	nummod	_	
+890	kusz	kusz[leather]	N	N	885	appos	_	
+891	gu4	gud[ox]	N	N	890	GEN	_	
+892	al-hul-a	_[damaged]	V	V	890	acl	_	
+893	a-gar	_[tanned]	N	N	892	appos	_	
+894	gu7-a	_	V	NF.V.PT.ABS	892	_	heuristic: attach to head	
+895	szunigin	szunigin[total]	N	N	892	_	_	
+896	3(disz)	3(disz)[one]	NU	NU	901	nummod	projectivity violation	
+897	kusz	kusz[leather]	N	N	892	appos	_	
+898	gu4	gud[ox]	N	N	897	GEN	_	
+899	mu	mu[year]	N	N	898	_	heuristic: attach to last	
+900	2(asz)	2(asz)[one]	NU	NU	901	nummod	heuristic: NU premodifying	
+901	al-hul-a	_[damaged]	V	V	897	acl	projectivity violation	
+902	a-gar	_[tanned]	N	N	901	appos	_	
+903	gu7-a	_[two-year]	V	NF.V.PT.ABS	898	acl	projectivity violation	
+904	szunigin	szunigin[total]	N	N	903	_	heuristic: attach to last	
+905	1(disz)	1(disz)[one]	NU	NU	908	nummod	projectivity violation	
+906	kusz	kusz[leather]	N	N	901	acl	_	
+907	amar	amar[calf][-ak]	N	N	906	GEN	_	
+908	al-hul-a	_[damaged]	V	V	906	acl	_	
+909	a-gar	_[tanned]	N	N	908	acl	_	
+910	gu7-a	_	V	NF.V.PT.ABS	908	_	heuristic: attach to head	
+911	szunigin	szunigin[total]	N	N	908	_	_	
+912	3(disz)	3(disz)[one]	NU	NU	915	nummod	projectivity violation	
+913	kusz	kusz[leather]	N	N	908	appos	_	
+914	gu4	gud[ox]	N	N	913	GEN	_	
+915	al-hul-a	_[damaged]	V	V	913	acl	_	
+916	a-gar	_[tanned]	N	N	915	acl	_	
+917	nu-gu7-a	_[not]	V	NEG.NF.V.RDP.PT.ABS	916	acl	_	
+918	szunigin	szunigin[total]	N	N	915	_	_	
+919	2(u)	2(u)[ten]	NU	NU	921	nummod	_	
+920	2(disz)	2(disz)[one]	NU	NU	919	nummod	_	
+921	kusz	kusz[leather]	N	N	915	appos	_	
+922	szu-dulx(|URxA|)	_[yokes]	V	V	921	acl	_	
+923	gu4	gud[ox]	N	N	922	acl	_	
+924	szunigin	szunigin[total]	N	N	921	_	_	
+925	1(u)	1(u)[ten]	NU	NU	927	nummod	_	
+926	4(disz)	4(disz)[one]	NU	NU	925	nummod	_	
+927	kusz	kusz[leather]	N	N	921	appos	_	
+928	szu-dulx(|URxA|)	_[yokes]	V	V	927	acl	_	
+929	amar	amar[calf][-ak]	N	N	928	appos	_	
+930	szunigin	szunigin[total]	N	N	927	_	_	
+931	sa	sa[bundle]	N	N	927	appos	_	
+932	gu4	gud[ox]	N	N	931	GEN	_	
+933	5(u)-kam	5(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	931	nummod	_	
+934	szunigin	szunigin[total]	N	N	931	_	_	
+935	1(gesz2)	1(gesz)[sixty]	NU	NU	931	nummod	_	
+936	kun	_[tails]	WN	WN	931	appos	_	
+937	gu4	gud[ox]	N	N	936	GEN	_	
+938	szunigin	szunigin[total]	N	N	931	_	_	
+939	2(u)	2(u)[ten]	NU	NU	931	nummod	_	
+940	8(disz)	8(disz)[one]	NU	NU	939	nummod	_	
+941	ad7	_[carcasses]	N	N	931	appos	_	
+942	gu4	gud[ox]	N	N	941	GEN	_	
+943	szunigin	szunigin[total]	N	N	931	_	_	
+944	si	_[_]	N	N.ABS	931	appos	_	
+945	gu4	gud[ox]	N	N	944	GEN	_	
+946	1(gesz2)	1(gesz)[sixty]	NU	NU	944	nummod	_	
+947	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	946	nummod	_	
+948	szunigin	szunigin[total]	N	N	944	_	_	
+949	1(disz)	1(disz)[one]	NU	NU	952	nummod	projectivity violation	
+950	kusz	kusz[leather]	N	N	944	acl	_	
+951	szu	szu[hand][-e]	N	N.L3-NH	952	acl	_	
+952	eme6	_[jenny]	N	N.ABS	950	GEN	_	
+953	mu-kux(DU)	mukur[delivery][-ø]	N	N	952	appos	_	
+954	szunigin	szunigin[total]	N	N	931	appos	_	
+955	5(u)	5(u)[ten]	NU	NU	957	nummod	_	
+956	8(disz)	8(disz)[one]	NU	NU	955	nummod	_	
+957	ad7	_[carcasses]	N	N	954	appos	_	
+958	gu4	gud[ox]	N	N	960	nmod	projectivity violation	
+959	geme2	geme[female_worker]	N	N	957	ABS	_	
+960	usz-bar-e	uszbar[weaver]-e	N	N.ERG	957	GEN	_	
+961	gu7-a	_	V	NF.V.PT.ABS	957	_	heuristic: after nominal head	
+962	giri3	giri[foot]	N	N	963	via	_	
+963	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	957	via	_	
+964	szunigin	szunigin[total]	N	N	957	appos	_	
+965	5(disz)	5(disz)[one]	NU	NU	966	nummod	_	
+966	kusz	kusz[leather]	N	N	957	appos	_	
+967	gu4	gud[ox]	N	N	966	GEN	_	
+968	szunigin	szunigin[total]	N	N	966	appos	_	
+969	n(disz)	_	N	N	966	appos	_	
+970	kusz	kusz[leather]	N	N	966	appos	_	
+971	gu4	gud[ox]	N	N	970	GEN	_	
+972	mu	mu[year]	N	N	970	appos	_	
+973	2(asz)	2(asz)[one]	NU	NU	974	nummod	_	
+974	szunigin	szunigin[total]	N	N	970	appos	_	
+975	sa	sa[bundle]	N	N	970	appos	_	
+976	gu4	gud[ox]	N	N	975	GEN	_	
+977	3(u)	3(u)[ten]	NU	NU	975	nummod	_	
+978	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	977	nummod	_	
+979	kiszib3	kiszib[seal]	N	N	975	appos	_	
+980	ku3-ga-ni	Kugani[1]	PN	PN	979	GEN	_	
+981	la2-ia3	la'u[arrears]	N	N	980	appos	_	
+982	3(disz)	3(disz)[one]	NU	NU	983	nummod	_	
+983	kusz	kusz[leather]	N	N	1004	ABS	_	
+984	gu4	gud[ox]	N	N	983	GEN	_	
+985	2(disz)	2(disz)[one]	NU	NU	983	nummod	_	
+986	kusz	kusz[leather]	N	N	983	appos	_	
+987	amar	amar[calf][-ak]	N	N	986	GEN	_	
+988	sa	sa[bundle]	N	N	983	appos	_	
+989	gu4	gud[ox]	N	N	988	GEN	_	
+990	n	_(_)[_]	NU	NU	989	nummod	_	
+991	1(u)	1(u)[ten]	NU	NU	989	nummod	_	
+992	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	995	nummod	projectivity violation	
+993	2(u)	2(u)[ten]	NU	NU	989	nummod	_	
+994	8(disz)	8(disz)[one]	NU	NU	998	nummod	projectivity violation	
+995	kun	_[tails]	WN	WN	989	appos	_	
+996	gu4	gud[ox]	N	N	995	GEN	_	
+997	8(disz)	8(disz)[one]	NU	NU	999	nummod	projectivity violation	
+998	ad7	_[carcasses]	N	N	989	appos	_	
+999	gu4	gud[ox]	N	N	998	GEN	_	
+1000	si	_[_]	N	N.ABS	999	appos	_	
+1001	gu4	gud[ox]	N	N	999	appos	_	
+1002	1(u)	1(u)[ten]	NU	NU	989	nummod	_	
+1003	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	1002	nummod	_	
+1004	la2-ia3-am3	_[are.deficit]	V	V	975	_	_	
+1005	sa	sa[bundle]	N	N	1011	nmod	_	
+1006	kusz	kusz[leather]	N	N	1005	appos	_	
+1007	mu-kux(DU)	mukur[delivery][-ø]	N	N	1005	appos	_	
+1008	sza3	szag[heart]	N	N	1009	LOC	_	
+1009	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	1007	LOC	_	
+1010	mu	mu[year]	N	N	1005	_	heuristic: after nominal	
+1011	en-unu6-gal-an-na	_[Year.Enunugalana]	PN	PN.ABS	1004	appos	_	
+1012	{d}inanna	Inanna[1][-ak]	DN	DN	1015	GEN	_	
+1013	en	en[priest]	N	N	1015	nmod	_	
+1014	{d}inanna	Inanna[1][-ak]	DN	DN	1013	GEN	_	
+1015	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	1011	acl	_
+	
+

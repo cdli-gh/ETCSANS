@@ -1,0 +1,69 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384803.atf						#new_text=P384803
+# train/P384803.atf new_text=P384803
+# tr.en: u garment ili son of from Ur- black u garment Adudu son of from Ursag u garment Szara- son of Igi-nidaa basket weaver from ARAD foreman fine black u garment Nubanda son of Szakuge son of Zuzani ration fine u garment Girini-idab son of Auni under armed guard clothing ration in prison and year after Szu-Suen king Amorite wall erected
+1	1(disz)	1(disz)[one]	NU	NU	64	nummod	_	
+10	1(disz)	1(disz)[one]	NU	NU	64	nummod	_	
+11	tug2	tug[textile]	N	N	10	appos	_	
+12	u2	u[grass]	N	N	10	appos	_	
+13	ge6	giggi[black][-ø]	V	NF.V.ABS	10	acl	_	
+14	...	_[_]	PN	N	10	dep	_	
+15	a-du-du	Adudu[1]	PN	PN	10	appos	_	
+16	dumu	dumu[child]	N	N	10	appos	_	
+17	...	_[_]	PN	N	16	dep	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	ur-saga-ta	_[Ursag]	PN	PN	10	ABL	_	
+2	tug2	tug[textile]	N	N	64	appos	_	
+20	1(disz)	1(disz)[one]	NU	NU	10	nummod	_	
+21	tug2	tug[textile]	N	N	20	appos	_	
+22	u2	u[grass]	N	N	20	appos	_	
+23	...	_[_]	PN	N	20	dep	heuristic: attach to head	
+24	{d}szara2-x-...	_	PN	PN	20	appos	_	
+25	dumu	dumu[child]	N	N	20	appos	_	
+26	igi-ni-da-a	_[Igi-nidaa]	PN	PN.GEN.L1	25	GEN	_	
+27	ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	26	appos	_	
+28	ki	ki[place]	N	N	29	ABL	_	
+29	ARAD2	arad[slave]	N	N	27	ABL	_	
+3	u2	u[grass]	N	N	64	appos	_	
+30	ugula-ta	_[foreman]	PN	PN.GEN.ABL	29	appos	_	
+31	1(disz)	1(disz)[one]	NU	NU	46	nummod	projectivity violation	
+32	tug2	tug[textile]	N	N	27	appos	_	
+33	u2	u[grass]	N	N	32	appos	_	
+34	ge6	giggi[black][-ø]	V	NF.V.ABS	32	acl	_	
+35	kal	_[fine]	V	V	32	acl	_	
+36	nu-banda3{da}	_[Nubanda]	N	N	32	appos	_	
+37	dumu	dumu[child]	N	N	32	appos	_	
+38	sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	37	GEN	_	
+39	dumu	dumu[child]	N	N	32	appos	_	
+4	...	_[_]	PN	N	64	dep	_	
+40	zu-u2-za-ni	_[Zuzani.ration]	PN	PN.GEN	39	GEN	_	
+41	nig2-ba	nigba[gift]	N	N	46	nummod	projectivity violation	
+42	1(disz)	1(disz)[one]	NU	NU	46	nummod	projectivity violation	
+43	tug2	tug[textile]	N	N	32	_	heuristic: after nominal head	
+44	u2	u[grass]	N	N	46	nmod	_	
+45	kal	_[fine]	V	V	46	acl	_	
+46	giri3-ni-i3-dab5	Girini'idab[1][-ak][-ra]	N	PN.GEN.DAT-H	32	appos	_	
+47	dumu	dumu[child]	N	N	46	appos	_	
+48	a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	47	GEN	_	
+49	tukul-e	_[under.armed]	V	NF.V.PT.DAT-H	50	LOC	_	
+5	hi-li2	_	PN	PN	64	_	_	
+50	dab5-ba-a	_[guard]	V	NF.V.PF.F.3-SG-H-POSS.L1	46	acl	_	
+51	tug2-ba	_[clothing.ration]	N	N	46	appos	_	
+52	sza3	szag[heart]	N	N	53	LOC	_	
+53	en-nu-ga2	_[prison]	N	N.GEN	51	LOC	_	
+54	u3	u[and]	CNJ	CNJ	53	appos	_	
+55	NI	_	PN	PN	53	appos	_	
+56	...	_[_]	PN	N	46	dep	_	
+57	mu	mu[year]	N	N	46	appos	_	
+58	us2-sa	us[follow]-a	V	NF.V.PT	57	acl	_	
+59	{d}szu-{d}suen	Szusuen[1]	RN	RN	57	appos	_	
+6	dumu	dumu[child]	N	N	64	appos	_	
+60	lugal	lugal[king]	N	N	59	appos	_	
+61	bad3	bad[wall]	N	N	27	appos	projectivity violation	
+62	mar-tu	Martu[1][-ø]	EN	EN.ABS	63	ABS	_	
+63	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	59	acl	_
+	
+7	...	_[_]	PN	N	6	dep	_	
+8	ki	ki[place]	N	N	65	ABL	_	
+9	ur-...	_[1][-ak]	PN	PN.GEN.ABS	64	_	_	
+

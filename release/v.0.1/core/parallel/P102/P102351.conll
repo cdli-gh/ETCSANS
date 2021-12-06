@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102351.atf
+# tr.en: delivery of priest of Inanna Nane-GIRgal was enforcer sheep nanny goats ugid for kitchen st day from Abbasaga booked out month Festival of An year Amar-Suen king
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	udu	udu[sheep]	N	N	0	_	_	
+3	AN-x-x	_	PN	PN.DAT-H	0	_	_	
+4	mu-kux(DU)	mukur[delivery][-ø]	N	N	8	_	_	
+5	en	en[priest]	N	N	4	GEN	_	
+6	{d}inanna	Inanna[1][-ak]	DN	DN	5	GEN	_	
+7	{d}nansze-GIR2@g-gal	_[Nane-GIRgal]	PN	PN	8	ABS	_	
+8	maszkim	maszkim[administrator]	N	N.ABS	0	root	_	
+9	1(u)	1(u)[ten]	NU	NU	10	nummod	_	
+10	udu	udu[sheep]	N	N	8	appos	_	
+11	5(disz)	5(disz)[one]	NU	NU	10	nummod	_	
+12	ud5	uzud[goat]	N	N	10	appos	_	
+13	szu-gid2	szugid[animal_designation][-ø]	N	N	10	appos	_	
+14	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	13	TERM	_	
+15	u4	ud[day]	N	N	10	appos	_	
+16	2(u)	2(u)[ten]	NU	NU	10	nummod	_	
+17	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	16	nummod	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	10	ABL	_	
+20	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	19	acl	_	
+21	iti	iti[month]	N	N	8	appos	_	
+22	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	8	ABS	_	
+23	mu	mu[year]	N	N	22	_	heuristic: attach to last	
+24	{d}amar-{d}suen	Amarsuen[1]	RN	RN	23	_	heuristic: attach to last	
+25	lugal-e	lugal[king]-e	N	N.ERG	24	_	heuristic: attach to last	
+26	x-...	_[_]	PN	PN	22	dep	_	
+27	1(u)	1(u)[ten]	NU	NU	28	nummod	heuristic: NU premodifying	
+28	n	_(_)[_]	NU	NU	8	nummod	_
+	
+

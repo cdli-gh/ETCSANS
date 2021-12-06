@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ninheliya spouse of Ayakala governor of Umma	
+1	nin9-hi-li2-a	nin9-he-li2-a[1]	PN	PN	0	root	_
+2	dam	dam[spouse]	N	N	1	appos	_
+3	a-a-kal-la	a-a-kal-la[1]	PN	PN	1	GEN	_
+4	ensi2	ensi2[ruler]	N	N	3	appos	_
+5	umma{ki}-ka	umma{ki}[1]	SN	SN.GEN.GEN.ABS	4	GEN	_
+

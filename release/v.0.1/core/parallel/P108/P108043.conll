@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets wooden containers of orchard year house of Szara was erected lumber and punting poles to day transported to orchard Zanaya delivery are here year Ibbi-Suen is king
+# train/P108043.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	{gesz}dusu	_[wooden.containers]	N	N	18	ABS	_	
+3	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	6	nmod	_	
+4	aktum2	_[of]	V	V	6	acl	_	
+5	kar-ra	_	V	V	6	acl	_	
+6	mu	mu[year]	N	N	2	GEN	_	
+7	e2	e[house]	N	N	9	ABS	_	
+8	{d}szara2	Szara[1][-ak]	DN	DN	7	GEN	_	
+9	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	2	acl	_	
+10	gesz	gesz[tree]	N	N	12	nmod	_	
+11	u3	u[and]	CNJ	CNJ	10	appos	_	
+12	{gesz}mi-ri2-za	_[punting.poles]	N	N	2	appos	_	
+13	u4-de3	_[to.day]	N	N.L3-NH	12	LOC	_	
+14	de6-a	de[bring]-a	V	NF.V.PT	13	acl	_	
+15	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	17	nmod	_	
+16	du6-za-na-a-a	_[to.Zanaya]	PN	PN	17	LOC	_	
+17	mu-kux(DU)	mukur[delivery][-ø]	N	N	2	LOC	_	
+18	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+19	mu	mu[year]	N	N	21	_	_	
+20	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	21	ABS	_	
+21	lugal	lugal[king]	N	N	18	parataxis	_
+	
+

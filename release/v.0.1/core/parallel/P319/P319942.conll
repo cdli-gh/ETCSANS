@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts the house of Enlil are here month year Szarum was destroyed
+# train/P319942.atf new_text=P319942
+# train/P319942.atf						#new_text=P319942
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	0	_	_	
+3	x	_[_]	N	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	x	_[_]	N	N	0	dep	_	
+6	x	_[_]	N	N	0	dep	_	
+7	x	_[_]	N	N	0	dep	_	
+8	ki	ki[place]	N	N	0	_	_	
+

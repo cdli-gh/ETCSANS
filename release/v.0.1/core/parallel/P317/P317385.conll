@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P317385.atf
+# tr.en: Basket-of-tablets accounts year following Anan was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9	nigSZID[account]	N	N	3	nmod	_	
+3	sza3-ze2	_	PN	PN	1	appos	_	
+4	mu	mu[year]	N	N	3	appos	_	
+5	us2-sa	us[follow]-a	V	NF.V.PT	4	acl	_	
+6	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	3	appos	_	
+7	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_
+	
+

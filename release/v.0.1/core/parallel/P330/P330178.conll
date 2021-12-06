@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P330178.atf
+# tr.en: Basket-of-tablets sealed documents of conveyances of Ur-Nintu weaver are here year en of Nanna of Karzida was installed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	7	ABS	_	
+3	dabx(U8)-ba	dab[seize]-a	PN	NF.V.PT	2	GEN	_	
+4	ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	3	GEN	_	
+5	ugula	ugula[overseer][-ø]	N	N	4	appos	_	
+6	usz-bar	uszbar[weaver][-ak]	N	N	4	appos	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	12	_	_	
+9	en	en[priest]	N	N	12	ABS	_	
+10	{d}nanna	Nanna[1][-ak]	DN	DN	9	GEN	_	
+11	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	10	GEN	_	
+12	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

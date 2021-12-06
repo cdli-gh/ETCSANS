@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P200396.atf						#new_text=P200396
+# train/P200396.atf new_text=P200396
+# tr.en: shekels of silver from S Szu-Ninubur received Before Qassu-aum before Nur-ili before Szu-Mama The month gisiga
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	gin2	gig[unit]	N	N	8	ABS	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	2	GEN	_	
+4	ki	ki[place]	N	N	6	ABL	_	
+5	SI-A-a-ta	_[S]	PN	PN.GEN.ABL	6	nmod	_	
+6	szu-{d}nin-szubur	_[Szu-Ninubur]	DN	DN	2	ABL	_	
+7	szu	szu[hand][-e]	N	N.L3-NH	8	_	_	
+8	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+9	igi	igi[eye][-ø]	N	N	8	appos	_	
+10	qa2-su2-a-hum	_[Before.Qassu-aum]	PN	PN	8	LOC	_	
+11	igi	igi[eye][-ø]	N	N	12	LOC	_	
+12	nu-ur2-i3-li2	Nurili[1]	PN	PN	8	LOC	_	
+13	igi	igi[eye][-ø]	N	N	14	LOC	_	
+14	szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	12	LOC	_	
+15	iti	iti[month]	N	N	16	_	_	
+16	gi-sig-ga	_[The.gisiga]	N	N	14	appos	_
+	
+

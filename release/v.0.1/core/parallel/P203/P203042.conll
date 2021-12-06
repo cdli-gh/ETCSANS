@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203042.atf
+# tr.en: Basket-of-tablets inspections troops head-plowmen house of Szulgi are here year Szaszrum was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	3	nmod	_	
+3	erin2	erin[people]	N	N	8	ABS	_	
+4	sag-apin	_[head-plowmen]	N	N	3	appos	_	
+5	e2	e[house]	N	N	3	appos	_	
+6	{d}szul-gi	Szulgir[1]	RN	RN	7	nmod	_	
+7	...	_[_]	PN	N	5	dep	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+9	mu	mu[year]	N	N	11	_	_	
+10	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	11	ABS	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	8	parataxis	_
+	
+

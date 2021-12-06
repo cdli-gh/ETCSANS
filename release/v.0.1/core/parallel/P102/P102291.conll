@@ -1,0 +1,106 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102291.atf
+# tr.en: sila beer sila bread shekels onions shekels oil shekels alkali-plant for Szu-Gute sila beer sila bread shekels onions shekels oil shekels alkali-plant for Imtidam sila beer sila bread shekels onions shekels oil shekels alkali-plant for Ur-Damu sila beer sila bread shekels onions shekels oil shekels alkali-plant for Ma total ban sila beer total ban bread total shekels onions total shekels oil total shekels alkali-plant th day month Bricks cast in moulds year after Szu-Suen king of Ur Amorite wall erected year after that
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	sila3	sila[unit]	N	N	3	nmod	_	
+3	kasz	kasz[beer]	N	N	0	_	_	
+4	3(disz)	3(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	sila3	sila[unit]	N	N	2	appos	_	
+6	ninda	ninda[bread]	N	N	2	appos	_	
+7	3(disz)	3(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+8	gin2	gig[unit]	N	N	9	nmod	_	
+9	szum2	szum[garlic]	N	N	2	appos	_	
+10	3(disz)	3(disz)[one]	NU	NU	12	nummod	heuristic: NU premodifying	
+11	gin2	gig[unit]	N	N	12	nmod	_	
+12	i3	i[oil]	N	N	2	appos	_	
+13	3(disz)	3(disz)[one]	NU	NU	15	nummod	heuristic: NU premodifying	
+14	gin2	gig[unit]	N	N	15	nmod	_	
+15	naga	naga[potash]	N	N	2	acl	_	
+16	szu-gu-te	_[for.Szu-Gute]	PN	PN.DAT-H	2	DAT	_	
+17	5(disz)	5(disz)[one]	NU	NU	19	nummod	_	
+18	sila3	sila[unit]	N	N	19	nmod	_	
+19	kasz	kasz[beer]	N	N	2	appos	_	
+20	3(disz)	3(disz)[one]	NU	NU	22	nummod	heuristic: NU premodifying	
+21	sila3	sila[unit]	N	N	22	nmod	_	
+22	ninda	ninda[bread]	N	N	19	appos	_	
+23	3(disz)	3(disz)[one]	NU	NU	25	nummod	heuristic: NU premodifying	
+24	gin2	gig[unit]	N	N	25	nmod	_	
+25	szum2	szum[garlic]	N	N	19	appos	_	
+26	3(disz)	3(disz)[one]	NU	NU	28	nummod	heuristic: NU premodifying	
+27	gin2	gig[unit]	N	N	28	nmod	_	
+28	i3	i[oil]	N	N	19	appos	_	
+29	4(disz)	4(disz)[one]	NU	NU	31	nummod	heuristic: NU premodifying	
+30	gin2	gig[unit]	N	N	31	nmod	_	
+31	naga	naga[potash]	N	N	19	acl	_	
+32	im-ti-dam	_[for.Imtidam]	PN	PN	19	DAT	_	
+33	3(disz)	3(disz)[one]	NU	NU	35	nummod	_	
+34	sila3	sila[unit]	N	N	35	nmod	_	
+35	kasz	kasz[beer]	N	N	2	appos	_	
+36	2(disz)	2(disz)[one]	NU	NU	38	nummod	heuristic: NU premodifying	
+37	sila3	sila[unit]	N	N	38	nmod	_	
+38	ninda	ninda[bread]	N	N	35	appos	_	
+39	3(disz)	3(disz)[one]	NU	NU	41	nummod	heuristic: NU premodifying	
+40	gin2	gig[unit]	N	N	41	nmod	_	
+41	szum2	szum[garlic]	N	N	35	appos	_	
+42	3(disz)	3(disz)[one]	NU	NU	44	nummod	heuristic: NU premodifying	
+43	gin2	gig[unit]	N	N	44	nmod	_	
+44	i3	i[oil]	N	N	35	appos	_	
+45	3(disz)	3(disz)[one]	NU	NU	47	nummod	heuristic: NU premodifying	
+46	gin2	gig[unit]	N	N	47	nmod	_	
+47	naga	naga[potash]	N	N	35	acl	_	
+48	ur-{d}da-mu	Urdamu[1]	PN	PN	35	DAT	_	
+49	3(disz)	3(disz)[one]	NU	NU	51	nummod	_	
+50	sila3	sila[unit]	N	N	51	nmod	_	
+51	kasz	kasz[beer]	N	N	2	appos	_	
+52	2(disz)	2(disz)[one]	NU	NU	54	nummod	heuristic: NU premodifying	
+53	sila3	sila[unit]	N	N	54	nmod	_	
+54	ninda	ninda[bread]	N	N	51	appos	_	
+55	3(disz)	3(disz)[one]	NU	NU	57	nummod	heuristic: NU premodifying	
+56	gin2	gig[unit]	N	N	57	nmod	_	
+57	szum2	szum[garlic]	N	N	51	appos	_	
+58	3(disz)	3(disz)[one]	NU	NU	60	nummod	heuristic: NU premodifying	
+59	gin2	gig[unit]	N	N	60	nmod	_	
+60	i3	i[oil]	N	N	51	appos	_	
+61	2(disz)	2(disz)[one]	NU	NU	63	nummod	heuristic: NU premodifying	
+62	gin2	gig[unit]	N	N	63	nmod	_	
+63	naga	naga[potash]	N	N	51	acl	_	
+64	ma-asz2	_[for.Ma]	PN	PN.GEN.ABS	51	DAT	_	
+65	szunigin	szunigin[total]	N	N	2	appos	_	
+66	1(ban2)	1(ban)[unit]	NU	N	2	nummod	projectivity violation	
+67	6(disz)	6(disz)[one][-sze]	NU	NU	65	nummod	_	
+68	sila3	sila[unit]	N	N	69	nmod	_	
+69	kasz	kasz[beer]	N	N	67	appos	_	
+70	szunigin	szunigin[total]	N	N	2	appos	_	
+71	1(ban2)	1(ban)[unit]	NU	N	72	nummod	_	
+72	ninda	ninda[bread]	N	N	70	appos	_	
+73	szunigin	szunigin[total]	N	N	2	appos	_	
+74	1(u)	1(u)[ten]	NU	NU	2	nummod	projectivity violation	
+75	2(disz)	2(disz)[one]	NU	NU	74	nummod	_	
+76	gin2	gig[unit]	N	N	73	appos	_	
+77	szum2	szum[garlic]	N	N	76	appos	_	
+78	szunigin	szunigin[total]	N	N	2	appos	_	
+79	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+80	2(disz)	2(disz)[one]	NU	NU	79	nummod	_	
+81	gin2	gig[unit]	N	N	82	nmod	_	
+82	i3	i[oil]	N	N	78	appos	_	
+83	szunigin	szunigin[total]	N	N	2	appos	_	
+84	8(disz)	8(disz)[one]	NU	NU	86	nummod	heuristic: NU premodifying	
+85	gin2	gig[unit]	N	N	86	nmod	_	
+86	naga	naga[potash]	N	N	83	appos	_	
+87	u4	ud[day]	N	N	2	appos	_	
+88	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+89	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	88	nummod	_	
+90	iti	iti[month]	N	N	91	date	_	
+91	sig4-{gesz}i3-szub-ba-ga2-ra	_[Bricks.cast.in.moulds]	MN	MN.L1	2	parataxis	_	
+92	mu	mu[year]	N	N	91	appos	_	
+93	us2-sa	us[follow]-a	V	NF.V.PT	92	acl	_	
+94	{d}szu-{d}suen	Szusuen[1]	RN	RN	91	ABS	_	
+95	lugal	lugal[king]	N	N	94	appos	_	
+96	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	95	GEN	_	
+97	bad3	bad[wall]	N	N	2	appos	projectivity violation	
+98	mar-tu	Martu[1][-ø]	EN	EN.ABS	99	ABS	_	
+99	mu-du3-a	mu[-n]-du[-ø]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	94	acl	_	
+100	mu	mu[year]	N	N	91	appos	_	
+101	us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	100	acl	_
+	
+

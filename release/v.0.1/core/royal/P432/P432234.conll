@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna Queen Who Reaches Out to Sky great high queen of gods his mistress Nammahnidug the son of Lu-girizal the governor of Laga created and her temple he built for her
+1	{d}inanna	{d}inana[1]	DN	DN	4	TERM	_
+2	{d}nin	{d}nin[lady]	N	N	1	appos	_
+3	an-sze3	an[sky]	N	N.TERM	1	appos	_
+4	la2-a	la2[hang]	V	NF.V.PT	14	DAT	_
+5	nin	nin[lady]	N	N	4	appos	_
+6	un-gal	UN-gal[ruler]	N	N	4	appos	_
+7	dingir-re-ne	UN-gal[ruler]+digir[deity]	N	N.PL.GEN	6	GEN	_
+8	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	4	appos	_
+9	nam-mah-ni-du10	nam-mah-ni-dug3[1]	PN	PN	14	ERG	_
+10	dumu	dumu[child]	N	N	9	appos	_
+11	lu2-giri17-zal	lu2-giri17-zal[1]	PN	PN	9	appos	_
+12	ensi2	ensi2[ruler]	N	N	11	GEN	_
+13	lagasz{ki}-ka-ke4	lagasz{ki}[1]	SN	SN.GEN.GEN.ERG	12	GEN	_
+14	mu-du2	tud[bear]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+15	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	16	ABS	_
+16	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	3	acl	_
+

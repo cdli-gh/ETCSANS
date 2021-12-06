@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nanna impetuous calf of An the lord first-born son of Enlil his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters his speckled Melua dog from Marai brought by them as tribute a replica of it he fashioned and for his life he dedicated it to him Of that speckled dog Grab Him is its name	
+1	{d}nanna	{d}nanna[1]	DN	DN	26	DAT	_
+2	amar	amar[young]	N	N	1	appos	_
+3	banda3{da}	ban3-da[junior]	V	NF.V	2	amod	_
+4	an-na	an[1]	DN	DN.GEN	2	GEN	_
+5	en	en[lord]	N	N	1	appos	_
+6	dumu	dumu-sag[first-born]	N	N	1	appos	_
+7	sag	dumu-sag[first-born]	N	N	1	appos	_
+8	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_
+9	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+10	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	26	ERG	_
+11	dingir	digir[deity]	N	N	10	appos	_
+12	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	11	GEN	_
+13	lugal	lugal[king]	N	N	10	appos	_
+14	kal-ga	kalag[strong]	V	NF.V.PT	13	amod	_
+15	lugal	lugal[king]	N	N	10	appos	_
+16	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	15	GEN	_
+17	lugal	lugal[king]	N	N	10	appos	_
+18	an	_	_	_	17	_	_
+19	ub-da	an-ub-da[quarter]	N	N	17	appos	_
+20	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	19	nummod	_
+21	ur	ur[dog]	N	N	26	ABL	_
+22	gun3-a	gun3[speckled]	V	NF.V.PT	21	amod	_
+23	me-luh-ha{ki}	me-luh-ha{ki}[1]	GN	GN.GEN	21	appos	_
+24	mar-ha-szi{ki}-ta	mar-ha-szi{ki}[1]	GN	GN.ABL	21	appos	_
+25	gu2-un-sze3	gu2-un[load]	N	N.TERM	26	TERM	_
+26	mu-na-ab-tum2-ma-ni	tum2[lead]	V	VEN.3-SG-NH-A.V.3-SG-P.SUB.3-SG-H-POSS.X	28	_	_
+27	dam-szi-lum-bi	tam-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	28	ABS	_
+28	mu-dim2	dim2[create]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+29	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	31	TERM	_
+30	a	a[water]	N	N.ABS	31	ABS	_
+31	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+32	ur	ur[dog]	N	N	34	GEN	_
+33	gun3-a-ba	gun3[speckled]	V	NF.V.PT.DEM2.GEN	32	amod	_
+34	he2-dab5	dab5[seize]	V	MOD1.FIN.V.3-SG-S	35	ccomp 	_
+35	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	1	parataxis	_
+

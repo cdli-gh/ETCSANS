@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szarri scribe
+# train/P455446.atf
+1	lugal-isz11	_[Szarri]	PN	PN	0	_	_	
+2	_dub-sar_	dubsar[scribe]	N	N	0	_	_
+	
+

@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: hide of white cow stink-plant Ur-nigar booked out month Harvest
+# train/P481933.atf
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	kusz	kusz[leather]	N	N	0	root	_	
+3	ab2	ab[cow][-ø]	N	N	2	_	heuristic: after nominal head	
+4	babbar	_[white]	AJ	AJ	5	acl	_	
+5	u2-hab2	_[cow.stink-plant]	PN	PN	2	GEN	_	
+6	ur-nigar	Urnigar[1][-ak]	PN	PN.GEN	5	root	heuristic: after nominal head	
+7	zi-ga	zig[expend]-a	V	NF.V.PT	5	root	heuristic: after nominal head	
+8	iti	iti[month]	N	N	5	appos	_	
+9	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	0	root	_
+	
+

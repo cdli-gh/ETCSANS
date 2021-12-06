@@ -1,0 +1,65 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: talent-pounds of wool geese dates sila of lard sila shekels of -oil ban ban from Ur-kuga did Ur-ubur receive Therefrom gur barley remaining account deficit Before Zuzu foreman of Tabbani Ur-Szumah -zu -la Month Set for bricks Year en of Inanna was chosen by means of omens
+# train/P235699.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	5	nummod	projectivity violation	
+2	5(u)	5(u)[ten]	NU	NU	8	nummod	projectivity violation	
+3	3(asz)	3(asz)[one]	NU	NU	2	nummod	_	
+4	gu2	gun[unit]	N	N	5	_	heuristic: attach to head	
+5	ma-na	mana[unit]	N	N	0	root	_	
+6	siki	siki[wool][-'a]	N	N	5	GEN	_	
+7	4(disz)	4(disz)[one]	NU	NU	5	nummod	_	
+8	ku-gi4{muszen}	_[geese]	PN	PN	5	appos	_	
+9	2(barig)	2(bariga)[unit]	NU	N	5	nummod	_	
+10	zu2-lum	zulum[date]	N	N	5	appos	_	
+11	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+12	sila3	sila[unit]	N	N	5	appos	_	
+13	i3-szah2	iszah[lard][-ø]	N	N	12	GEN	_	
+14	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+15	sila3	sila[unit]	N	N	5	appos	_	
+16	1(u)	1(u)[ten]	NU	NU	22	nummod	projectivity violation	
+17	5(disz)	5(disz)[one]	NU	NU	16	nummod	_	
+18	gin2	gig[unit]	N	N	15	appos	_	
+19	i3	i[oil]	N	N	18	GEN	_	
+20	...	_[_]	PN	N	31	dep	projectivity violation	
+21	1(ban2)	1(ban)[unit]	NU	N	22	nummod	heuristic: NU premodifying	
+22	lu2-hu-a	_[ban]	PN	PN	5	appos	projectivity violation	
+23	4(ban2)	4(ban)[unit]	NU	N	20	nummod	projectivity violation	
+24	gesz	gesz[tree]	N	N	23	appos	_	
+25	x	_[_]	N	N	24	dep	heuristic: attach to last	
+26	x	_[_]	N	N	25	dep	heuristic: attach to last	
+27	ki	ki[place]	N	N	28	ABL	_	
+28	ur-ku3-ga-ta	_[Ur-kuga]	PN	PN.GEN.ABL	24	ABL	_	
+29	ur-szubur	_[did.Ur-ubur]	PN	PN	31	_	_	
+30	szu	szu[hand][-e]	N	N.L3-NH	31	_	_	
+31	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	22	acl	_	
+32	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	31	appos	_	
+33	1(asz)	1(asz)[one]	NU	NU	38	nummod	projectivity violation	
+34	2(barig)	2(bariga)[unit]	NU	N	33	nummod	_	
+35	sze	sze[barley]	N	N	36	_	_	
+36	gur	gur[unit]	N	N	32	appos	_	
+37	si-i3-tum	situm[balance]	N	N	38	acl	_	
+38	nig2-ka9-ak	nigSZID[account]	N	N	36	appos	_	
+39	la2-ia3	la'u[arrears]	N	N	38	appos	_	
+40	igi	igi[eye][-ø]	N	N	43	nmod	projectivity violation	
+41	zu-zu	_[Before.Zuzu]	PN	PN.DAT-H	38	appos	_	
+42	ugula	ugula[overseer][-ø]	N	N	41	appos	_	
+43	x	_[_]	N	N	42	dep	_	
+44	x	_[_]	N	N	43	dep	heuristic: attach to last	
+45	1(disz)	1(disz)[one]	NU	NU	46	nummod	_	
+46	tab-ba-a-ni	_[Tabbani]	PN	PN	42	appos	_	
+47	1(disz)	1(disz)[one]	NU	NU	51	nummod	projectivity violation	
+48	ur-{d}szu-mah	_[Ur-Szumah]	PN	PN.DAT-H	46	appos	_	
+49	1(disz)	1(disz)[one]	NU	NU	46	nummod	_	
+50	x	_[_]	N	N	46	dep	_	
+51	x-zu	_[-zu]	PN	PN	46	appos	_	
+52	1(disz)	1(disz)[one]	NU	NU	46	nummod	_	
+53	x-la	_[-la]	PN	PN	52	_	heuristic: attach to last	
+54	iti	iti[month]	N	N	46	appos	_	
+55	sig4-sze3-ba-gar	_[Set.for.bricks]	MN	MN.L1	42	acl	_	
+56	mu	mu[year]	N	N	55	acl	_	
+57	en	en[priest]	N	N	60	ABS	_	
+58	{d}inanna	Inanna[1][-ak]	DN	DN	57	GEN	_	
+59	masz2-e	masz[goat]-e	N	N.L3-NH	60	_	_	
+60	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	56	acl	_
+	
+

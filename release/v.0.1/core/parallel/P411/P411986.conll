@@ -1,0 +1,58 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets copies of goods of Szelebtum supervisor and Sz-Mlik his son tablets of receipt receipts of Idlid Ikn-sir chief household administrator Dada-bani plowman Szunana herdsman deficits repayments of Szt-Suen daughter of Ullu-ri and credits of elder sons herein are Nr-il and Szukubum son of Sz-Mlik received via Il-miti judge and Luduga judge in Nippur month Wool center of Ninazu year following barge Dara-abzu of Enki was caulked
+# train/P411986.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gaba-ri	gabari[copy]	N	N	1	appos	_	
+3	nig2-gur11	nigGA[property]	N	N	4	GEN	_	
+4	sze-le-bu-tum	_[goods.Szelebtum]	PN	PN	2	GEN	_	
+5	nu-banda3	nubanda[overseer][-ø]	N	N	4	appos	_	
+6	u3	u[and]	CNJ	CNJ	4	appos	_	
+7	szu-{d}ma-lik	_[Sz-Mlik]	PN	PN	4	appos	_	
+8	dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	7	appos	_	
+9	im	im[clay][-ø]	N	N	7	appos	_	
+10	szu	szu[hand][-e]	N	N.L3-NH	7	appos	projectivity violation	
+11	szum2-ma	szum[garlic]-ak	V	N.GEN	9	acl	_	
+12	szu-ti-a	_	PN	PN	13	_	_	
+13	id-li2-id	_[receipts.Idlid]	PN	PN	7	appos	_	
+14	i-kun-si-ir	_[Ikn-sir.chief]	PN	PN.DAT-H	13	appos	_	
+15	szabra	szabra[chief_administrator][-ak]	N	N	13	appos	_	
+16	da-da-ba-ni	_[Dada-bani]	PN	PN	13	appos	_	
+17	engar	engar[farmer]	N	N	13	appos	_	
+18	szu-na-na	_[Szunana]	PN	PN	13	appos	_	
+19	na-gada	nagada[herdsman][-ak]	N	N.GEN	13	appos	_	
+20	la2-ia3	la'u[arrears]	N	N	13	appos	_	
+21	su-ga	sug[repay]-a	V	NF.V.PT	13	acl	_	
+22	sza-at-{d}suen	_[of.Szt-Suen]	PN	PN	13	GEN	_	
+23	dumu-munus	dumumunus[daughter]	N	N	22	appos	_	
+24	ul-luh-uri5{ki}	_[Ullu-ri]	SN	SN	23	GEN	_	
+25	u3	u[and]	CNJ	CNJ	22	appos	_	
+26	zi-ga	zig[expend]-a	V	NF.V.PT	22	acl	_	
+27	ibila	_[elder.sons]	N	N	26	GEN	_	
+28	3(disz)-a-ba	_	NU	NU.3-SG-NH-POSS.GEN	13	nummod	_	
+29	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	30	_	_	
+30	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	13	acl	_	
+31	nu-ur2-i3-li2	Nurili[1]	PN	PN	37	ABS	_	
+32	u3	u[and]	CNJ	CNJ	31	appos	_	
+33	szu-ku-bu-um	Szukubum[1]	PN	PN	31	appos	_	
+34	dumu	dumu[child]	N	N	31	appos	_	
+35	szu-{d}ma-lik	_[Sz-Mlik]	PN	PN	34	GEN	_	
+36	szu	szu[hand][-e]	N	N.L3-NH	37	_	_	
+37	ba-an-ti-esz2	_[received]	V	MID.3-SG-H-A.V.3-PL	30	parataxis	_	
+38	giri3	giri[foot]	N	N	39	via	_	
+39	i3-li2-mi-ti	_[Il-miti]	PN	PN.DAT-H	37	via	_	
+40	di-ku5	_[judge]	N	N.GEN.ABS	39	appos	_	
+41	u3	u[and]	CNJ	CNJ	39	appos	_	
+42	lu2-du10-ga	Luduga[1]	PN	PN	39	appos	_	
+43	di-ku5	_[judge]	N	N.GEN.ABS	39	appos	_	
+44	sza3	szag[heart]	N	N	45	LOC	_	
+45	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	39	LOC	_	
+46	iti	iti[month]	N	N	47	nmod	_	
+47	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	39	appos	_	
+48	mu	mu[year]	N	N	49	nmod	_	
+49	us2-sa	us[follow]-a	V	NF.V.PT	39	acl	_	
+50	ma2	ma[ship]	N	N	51	nmod	_	
+51	dara4-abzu	_[Dara-abzu]	DN	DN	53	ABS	_	
+52	{d}en-ki-ka	Enkik[1][-ak]	DN	DN.GEN.ABS	51	GEN	_	
+53	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	39	acl	_
+	
+

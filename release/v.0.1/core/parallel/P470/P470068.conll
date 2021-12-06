@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P470068.atf
+# tr.en: sheep barley-fed mature goat lamb th day from Abba-saga did En-dingirmu accept month Great festival year Throne joy of Enlil was fashioned
+1	4(disz)	4(disz)[one]	NU	NU	5	nummod	projectivity violation	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	1(disz)	1(disz)[one]	NU	NU	7	nummod	projectivity violation	
+5	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+6	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+7	sila4	sila[lamb]	N	N	5	appos	_	
+8	u4	ud[day]	N	N	5	appos	_	
+9	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	5	nummod	_	
+10	ki	ki[place]	N	N	11	ABL	_	
+11	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	13	ABL	_	
+12	en-dingir-mu	Endingirmu[1][-ak]	PN	PN	13	_	_	
+13	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	5	acl	_	
+14	iti	iti[month]	N	N	13	appos	_	
+15	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	14	appos	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	{d}gu-za	guza[chair]	PN	N	22	ABS	_	
+18	sza3	szag[heart]	N	N	17	_	heuristic: attach to last	
+19	hul2-la	_[joy]	V	NF.V.SUB	17	acl	_	
+20	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	19	GEN	_	
+21	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	22	acl	_	
+22	6(disz)	6(disz)[one][-sze]	NU	NU	15	nummod	_
+	
+

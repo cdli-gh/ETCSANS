@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi the mighty man king of Ur
+1	...	_	_	_	0	dep	_
+2	x	_[_]	u	u	0	dep	_
+3	...	_[_]	u	u	0	dep	_
+4	nam-ti	nam-til3[life]	N	N	0	DAT	_
+5	{d}szul-gi	{d}szul-gi[1]	RN	RN	4	GEN	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+

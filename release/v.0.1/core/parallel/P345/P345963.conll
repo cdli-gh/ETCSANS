@@ -1,0 +1,92 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P345963.atf
+# tr.en: barley-fed Szimakian billy goat barley-fed female kid Enlil barley-fed Szimakian billy goat Ninlil the zabardab was requisitioner barley-fed male kid delivery of ellu-Dagan barley-fed long-fleeced ram nanny goat delivery of Ur-Suen son of king barley-fed female kid delivery of Utu-GIRgal for Euzga Dayani was requisitioner lamb Enlil lamb Ninlil delivery of Szedada temple administrator lamb Utu delivery of governor of Shuruppak Nane-GIRgal was requisitioner ox cow sheep goats provisions for kitchen female equid slaughtered for dogs Ilbani dog herder received withdrawn it is on th day Month Festival of Szulgi Year Kimash and Hurti were destroyed
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	projectivity violation	
+2	masz2-gal	maszgal[billy_goat]	N	N	8	nummod	projectivity violation	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	4	acl	_	
+4	szimaszgi2	szimaszki[sheep_designation]	N	N	0	root	_	
+5	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+6	{munus}asz2-gar3	aszgar[female_kid]	PN	N	8	acl	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	8	acl	_	
+8	{d}en-lil2	Enlil[1]	DN	DN	4	appos	_	
+9	1(disz)	1(disz)[one]	NU	NU	13	nummod	heuristic: NU premodifying	
+10	masz2-gal	maszgal[billy_goat]	N	N	9	_	heuristic: attach to last	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	13	acl	_	
+12	szimaszgi2	szimaszki[sheep_designation]	N	N	13	acl	_	
+13	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	4	appos	_	
+14	zabar-dab5	zabardab[official][-e]	N	N	15	ABS	_	
+15	maszkim	maszkim[administrator]	N	N.ABS	4	acl	_	
+16	1(disz)	1(disz)[one]	NU	NU	20	nummod	projectivity violation	
+17	masz2	masz[goat]	N	N	4	appos	_	
+18	niga	niga[fattened][-ø]	V	NF.V.ABS	17	acl	_	
+19	mu-kux(DU)	mukur[delivery][-ø]	N	N	17	appos	_	
+20	s,e-lu-usz-{d}da-gan	_[ellu-Dagan]	PN	PN	19	GEN	_	
+21	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+22	udu	udu[sheep]	N	N	21	_	heuristic: attach to last	
+23	a-lum	aslum[sheep_type]	N	N	28	acl	projectivity violation	
+24	niga	niga[fattened][-ø]	V	NF.V.ABS	28	acl	projectivity violation	
+25	1(disz)	1(disz)[one]	NU	NU	27	nummod	heuristic: NU premodifying	
+26	ud5	uzud[goat]	N	N	27	nmod	_	
+27	masz2	masz[goat]	N	N	20	appos	_	
+28	nu2-a	_[ram]	V	V	20	acl	_	
+29	mu-kux(DU)	mukur[delivery][-ø]	N	N	20	appos	_	
+30	ur-{d}suen	Ursuen[1]	PN	PN	29	GEN	_	
+31	dumu-lugal	_[son.king]	N	N	20	appos	_	
+32	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+33	{munus}asz2-gar3	aszgar[female_kid]	PN	N	39	ABS	_	
+34	niga	niga[fattened][-ø]	V	NF.V.ABS	33	acl	_	
+35	mu-kux(DU)	mukur[delivery][-ø]	N	N	33	appos	_	
+36	{d}utu-GIR2@g-gal	UtuGIRgal[1][-ak]	PN	PN	35	GEN	_	
+37	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	33	TERM	_	
+38	da-a-a-ni	_[Dayani]	PN	PN.GEN.ABS	33	appos	_	
+39	maszkim	maszkim[administrator]	N	N.ABS	4	parataxis	_	
+40	1(disz)	1(disz)[one]	NU	NU	42	nummod	_	
+41	sila4	sila[lamb]	N	N	42	nmod	_	
+42	{d}en-lil2	Enlil[1]	DN	DN	39	appos	_	
+43	1(disz)	1(disz)[one]	NU	NU	42	nummod	_	
+44	sila4	sila[lamb]	N	N	45	nmod	_	
+45	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	42	appos	_	
+46	mu-kux(DU)	mukur[delivery][-ø]	N	N	42	appos	_	
+47	szesz-da-da	Szeszdada[1]	PN	PN	46	GEN	_	
+48	sanga	sagga[temple_administrator]	N	N	42	appos	_	
+49	1(disz)	1(disz)[one]	NU	NU	51	nummod	_	
+50	sila4	sila[lamb]	N	N	51	nmod	_	
+51	{d}utu	Utu[1][-ra]	DN	DN	56	ABS	_	
+52	mu-kux(DU)	mukur[delivery][-ø]	N	N	51	appos	_	
+53	ensi2	ensik[ruler]	N	N	52	GEN	_	
+54	szuruppak{ki}	_[Shuruppak]	SN	SN.GEN	53	GEN	_	
+55	{d}nansze-GIR2@g-gal	_[Nane-GIRgal]	PN	PN	51	appos	_	
+56	maszkim	maszkim[administrator]	N	N.ABS	42	appos	_	
+57	1(disz)	1(disz)[one]	NU	NU	58	nummod	_	
+58	gu4	gud[ox]	N	N	56	appos	_	
+59	1(disz)	1(disz)[one]	NU	NU	67	nummod	projectivity violation	
+60	ab2	ab[cow][-ø]	N	N	58	appos	_	
+61	3(disz)	3(disz)[one]	NU	NU	62	nummod	heuristic: NU premodifying	
+62	udu	udu[sheep]	N	N	58	appos	_	
+63	2(disz)	2(disz)[one]	NU	NU	58	nummod	_	
+64	masz2	masz[goat]	N	N	67	nmod	projectivity violation	
+65	szu-gid2	szugid[animal_designation][-ø]	N	N	69	nummod	projectivity violation	
+66	e2	e[house]	N	N	65	_	heuristic: attach to last	
+67	muhaldim-sze3	_[provisions.for.kitchen]	N	N.TERM	58	appos	_	
+68	1(disz)	1(disz)[one]	NU	NU	72	nummod	projectivity violation	
+69	dusu2-munus	_[female.equid]	N	N	58	appos	_	
+70	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	69	acl	_	
+71	mu	mu[year]	N	N	69	_	heuristic: after nominal head	
+72	ur-ra-sze3	_[for.dogs]	PN	PN.GEN.TERM	69	TERM	_	
+73	dingir-ba-ni	_[Ilbani]	PN	PN	72	appos	_	
+74	sipa	sipa[shepherd]	N	N	72	appos	_	
+75	ur-ra-ke4	_[dog.herder]	N	N	72	appos	_	
+76	szu	szu[hand][-e]	N	N.L3-NH	72	_	heuristic: after nominal head	
+77	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	72	acl	_	
+78	zi-ga	zig[expend]-a	V	NF.V.PT	72	acl	_	
+79	u4	ud[day]	N	N	72	parataxis	_	
+80	2(u)	2(u)[ten]	NU	NU	79	nummod	_	
+81	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	80	nummod	_	
+82	iti	iti[month]	N	N	79	appos	_	
+83	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	79	appos	_	
+84	mu	mu[year]	N	N	79	appos	_	
+85	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	87	ABS	_	
+86	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	85	appos	_	
+87	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	79	acl	_
+	
+

@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: goat from Lugalazida
+# train/P424389.atf
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	masz2	masz[goat]	N	N	0	root	_	
+3	lugal-a2-zi-da-ke4	_[from.Lugalazida]	N	N	2	ABL	_
+	
+

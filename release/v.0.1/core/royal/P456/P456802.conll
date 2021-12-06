@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szeani gudug priest of Szulgi child of Kakug
+1	szesz-a-ni	szesz-a-ni[1]	PN	PN	0	_	_
+2	gudu4	gudu4[priest]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN	2	GEN	_
+4	dumu	dumu[child]	N	N	1	appos	_
+5	ka-ku3	ka-kug[2]	PN	PN.GEN.ABS	4	GEN	_
+

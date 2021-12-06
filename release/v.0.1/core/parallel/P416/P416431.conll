@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep for Enlil xxx siskur-offering in house for Silver Mound for Ninursag for Nusku for Ninurta for Inanna sheep barley-fed for Ninsun buck barley-fed for Lugalbanda buck for Szulgi buck for Nin-tiuga siskur-offering at night Nane-GIRgal responsible official of month day elapsed total sheep barley-fed bucks barley-fed from Nalu booked out month Harvest year ari and Kima were destroyed
+# train/P416431.atf new_text=P416431
+# train/P416431.atf						#new_text=P416431
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	1	appos	_	
+3	...	_[_]	PN	N	1	dep	heuristic: attach to head	
+4	{d}en-lil2	Enlil[1]	DN	DN	5	DAT	_	
+5	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+7	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	1	appos	_	
+8	siskur2	siszkur[offering]	N	N	1	appos	_	
+9	sza3	szag[heart]	N	N	10	LOC	_	
+10	e2-a	e[house][-ak]-'a	GN	N.L1	8	LOC	_	
+11	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+

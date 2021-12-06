@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P104799.atf
+# tr.en: Basket-of-tablets inspections seized troops head-plows of the house of Szulgi and orchardists of big woods bank of waterway To Nigin-Going are here year unuri was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	15	ABS	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	2	acl	_	
+4	erin2	erin[people]	N	N	2	appos	_	
+5	sag-apin	_[head-plows]	N	N	2	appos	_	
+6	e2	e[house]	N	N	2	GEN	_	
+7	{d}szul-gi	Szulgir[1]	RN	RN	6	GEN	_	
+8	u3	u[and]	CNJ	CNJ	7	appos	_	
+9	nu-{gesz}kiri6	_[orchardists.woods]	N	N	7	appos	_	
+10	gesz	gesz[tree]	N	N	7	appos	_	
+11	gal-gal	_[big]	V	NF.V.3-SG-NH-POSS.ABS	7	acl	_	
+12	gu2	gun[unit]	N	N	7	appos	_	
+13	i7	id[river]	N	N	12	_	heuristic: attach to last	
+14	nigin6{ki}-sze3-du	Niginszedu[1][-ak][-'a]	WN	WN.GEN.L1	7	appos	_	
+15	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+16	mu	mu[year]	N	N	18	_	_	
+17	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	18	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	parataxis	_
+	
+

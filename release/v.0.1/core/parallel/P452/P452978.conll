@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Martu his master Szulgi the strong man the king of Ur and king of Sumer and Akkad his temple he built for him
+# test/P452978.atf
+1	{d}mar-tu	_[For.Martu]	DN	DN	2	DAT	_	
+2	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
+3	{d}szul-gi	Szulgir[1]	RN	RN	2	appos	_	
+4	nita	nita[male]	N	N	5	nmod	_	
+5	kal-ga	kalag[strong]-a	V	NF.V.SUB	3	acl	_	
+6	lugal	lugal[king]	N	N	3	appos	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_	
+8	lugal	lugal[king]	N	N	7	appos	_	
+9	ki-en-gi	ki'engi[1]	GN	GN	7	GEN	_	
+10	ki-uri-ke4	_[and.and.Akkad]	GN	GN.GEN.ERG	7	appos	_	
+11	e2-a-ni	_[his.temple]	TN	N.3-SG-H-POSS.ABS	3	appos	_	
+12	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_
+	
+

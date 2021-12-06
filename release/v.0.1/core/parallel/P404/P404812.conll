@@ -1,0 +1,64 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborers foreman Ikalla foreman Tabala foreman Szara-amu foreman Lugal-igiu foreman Agu foreman Lugal-nirgal foreman Kalpalu foreman Akalla foreman Lugamu total therefrom male laborers foreman Akalla reservoir house Szara male laborers foreman Tabala reservoir of field Ukunuti threshing floor Ukunuti
+# train/P404812.atf						#new_text=P404812
+# train/P404812.atf new_text=P404812
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	0	root	_	
+3	ugula	ugula[overseer][-ø]	N	N	2	appos	_	
+4	i3-kal-la	Ikala[1][-ak]	PN	PN	3	appos	_	
+5	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+6	ugula!	ugula[overseer][-ø]	N	N	4	_	heuristic: after nominal head	
+7	tab-sza-la	_	PN	PN	4	appos	_	
+8	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+9	2(disz)	2(disz)[one]	NU	NU	8	nummod	_	
+10	ugula	ugula[overseer][-ø]	N	N	4	appos	_	
+11	{d}szara2-a-mu	Szara'amu[1]	PN	PN	4	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	16	nummod	projectivity violation	
+13	la2	la[hang][-ø]	V	NF.V.ABS	12	acl	_	
+14	1(disz@t)	1(disz)[one]	NU	NU	13	nummod	_	
+15	ugula	ugula[overseer][-ø]	N	N	11	appos	_	
+16	lugal-igi-husz	Lugaligihusz[1][-ra]	PN	PN	11	appos	_	
+17	8(disz)	8(disz)[one]	NU	NU	19	nummod	projectivity violation	
+18	ugula	ugula[overseer][-ø]	N	N	16	appos	_	
+19	a-gu	Agu[1][-ak]	PN	PN	16	appos	_	
+20	5(disz)	5(disz)[one]	NU	NU	22	nummod	projectivity violation	
+21	ugula	ugula[overseer][-ø]	N	N	19	appos	_	
+22	lugal-nir-gal2	_[Lugal-nirgal]	PN	PN	19	appos	_	
+23	1(u)	1(u)[ten]	NU	NU	25	nummod	projectivity violation	
+24	ugula	ugula[overseer][-ø]	N	N	22	appos	_	
+25	kal-pa-lu2	_[Kalpalu]	PN	PN	22	appos	_	
+26	1(u)	1(u)[ten]	NU	NU	25	nummod	_	
+27	ugula	ugula[overseer][-ø]	N	N	26	_	heuristic: attach to last	
+28	a-kal-la	Akala[1]	PN	PN	27	_	heuristic: attach to last	
+29	1(u)	1(u)[ten]	NU	NU	22	nummod	projectivity violation	
+30	la2	la[hang][-ø]	V	NF.V.ABS	29	_	_	
+31	1(disz@t)	1(disz)[one]	NU	NU	30	nummod	_	
+32	ugula	ugula[overseer][-ø]	N	N	25	appos	_	
+33	lu2-ga-mu	_[Lugamu]	PN	PN.GEN	25	appos	_	
+34	szunigin	szunigin[total]	N	N	22	appos	_	
+35	($	_	_	_	34	_	_	
+36	blank	_	NU	NU	34	nummod	_	
+37	space	_	_	_	22	_	_	
+38	$)	_	_	_	22	_	heuristic: after nominal head	
+39	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+40	1(u)	1(u)[ten]	NU	NU	39	nummod	_	
+41	8(disz)	8(disz)[one]	NU	NU	39	nummod	_	
+42	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	22	_	heuristic: after nominal head	
+43	4(disz)	4(disz)[one]	NU	NU	47	nummod	projectivity violation	
+44	gurusz	gurusz[male]	N	N	22	appos	_	
+45	ugula	ugula[overseer][-ø]	N	N	44	appos	_	
+46	a-kal-la	Akala[1]	PN	PN	47	nmod	_	
+47	kab2-ku5	kabkul[water_installation]	N	N	44	appos	_	
+48	e2	e[house]	N	N	49	nmod	_	
+49	{d}szara2	Szara[1][-ak]	DN	DN	47	appos	_	
+50	4(disz)	4(disz)[one]	NU	NU	54	nummod	projectivity violation	
+51	gurusz	gurusz[male]	N	N	49	appos	_	
+52	ugula	ugula[overseer][-ø]	N	N	49	appos	_	
+53	tab-sza-la	_[Tabala]	PN	PN	54	nmod	_	
+54	kab2-ku5	kabkul[water_installation]	N	N	47	appos	_	
+55	a-sza3	aszag[field]	N	N	54	GEN	_	
+56	uku2-nu-ti	_[Ukunuti]	FN	FN.ABL	55	appos	_	
+57	ki-su7	kisur[threshing_floor]	N	N	58	acl	_	
+58	uku2-nu-ti	_[Ukunuti]	FN	FN.ABL	22	appos	_
+	
+

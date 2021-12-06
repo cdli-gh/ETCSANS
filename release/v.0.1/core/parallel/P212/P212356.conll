@@ -1,0 +1,65 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: One Ana-ili his name is servant of Puzur-Mama Ur-Ninmug maternal uncle of Ana-ili on account of Ana-ili a legal complaint brought before abaluge governor of city of Adab before Ur-Emah son of before Badudu merchant one Lu-Agi son of Bibi one Itidam DIM one Magarum one Uludi scribe one KA-NI-NI son of Mala-kuzu one Namani sonapprentice of its chief temple administrator One E -luti sonapprentice of its chief temple administrator One x-x-NIG enforcer governor are its witnesses before them servant status he has made firm in year Urbilum Kima were destroyed
+# train/P212356.atf
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	an-na-hi-li	_[Ana-ili]	PN	PN.GEN	3	acl	_	
+3	mu-ni-im	mu[name]-ani[-ø]-am	N	N.3-SG-H-POSS.ABS.COP-3-SG	4	ABS	_	
+4	ARAD2	arad[slave]	N	N	0	root	_	
+5	puzur4-ma-ma-kam	_[is.Puzur-Mama]	PN	PN.GEN.COP-3-SG	4	_	_	
+6	ur-{d}nin-mug	Urninmug[1][-ø]	PN	PN.ABS	4	appos	_	
+7	szesz	szesz[brother]	N	N	6	appos	_	
+8	ama	_	N	N	6	appos	projectivity violation	
+9	an-na-hi-li	_[Ana-ili]	PN	PN.GEN	7	GEN	_	
+10	ugu2	ugu[capital]	N	N	6	LOC	_	
+11	an-na-hi-li	_[Ana-ili]	PN	PN.GEN	10	GEN	_	
+12	di-bi	_[a]	N	N.3-SG-NH-POSS.ABS	13	nmod	_	
+13	i3-gar{ar}	_[legal.complaint.brought]	V	V	11	acl	_	
+14	igi	igi[eye][-ø]	N	N	15	LOC	_	
+15	ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	4	LOC	_	
+16	ensi2	ensik[ruler]	N	N	15	appos	_	
+17	adab{ki}-ba	_[city.Adab]	SN	SN.GEN	16	GEN	_	
+18	igi	igi[eye][-ø]	N	N	19	LOC	_	
+19	ur-e2-mah	Uremah[1]	PN	PN	15	LOC	_	
+20	dumu	dumu[child]	N	N	19	appos	_	
+21	x-x-x	_[1]	PN	PN	20	dep	_	
+22	igi	igi[eye][-ø]	N	N	23	LOC	_	
+23	ba-du-du	_[Badudu]	PN	PN	19	LOC	_	
+24	dam-gar3	damgar[merchant][-ak]	N	N	23	appos	_	
+25	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+26	lu2-{d}aszgi{gi4}	_[one.Lu-Agi]	PN	PN	19	appos	_	
+27	dumu	dumu[child]	N	N	26	appos	_	
+28	bi2-bi2	Bibi[1]	PN	PN	27	GEN	_	
+29	1(disz)	1(disz)[one]	NU	NU	31	nummod	projectivity violation	
+30	i-di3-dam	_[one]	PN	PN.GEN.COP-3-SG	26	appos	_	
+31	BULUG3	_[Itidam.DIM]	PN	PN	30	appos	_	
+32	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+33	ma-ga-ru-um	_[one.Magarum]	PN	PN.GEN.DAT-H	31	appos	_	
+34	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+35	ulu3-di	_[one.Uludi]	N	N	33	appos	_	
+36	dub-sar	dubsar[scribe]	N	N	33	appos	_	
+37	1(disz)	1(disz)[one]	NU	NU	40	nummod	projectivity violation	
+38	KA-i3-li2	_[one.KA-NI-NI]	PN	PN	33	appos	_	
+39	dumu	dumu[child]	N	N	38	appos	_	
+40	ma2-lah5-ku3-zu	_[Mala-kuzu]	PN	PN	38	GEN	_	
+41	1(disz)	1(disz)[one]	NU	NU	40	nummod	_	
+42	nam-ha-ni	Namhani[1]	N	PN	41	appos	_	
+43	dumu	dumu[child]	N	N	44	_	_	
+44	sanga-bi-ta	_[sonapprentice.its.chief.temple.administrator]	PN	PN	42	appos	_	
+45	1(disz)	1(disz)[one]	NU	NU	48	nummod	projectivity violation	
+46	e2-lu2-ti	_[One.E.-luti.sonapprentice]	PN	PN	44	appos	_	
+47	dumu	dumu[child]	N	N	46	_	heuristic: attach to last	
+48	sanga-bi-ta	_[its.chief.temple.administrator]	PN	PN	40	GEN	_	
+49	1(disz)	1(disz)[one]	NU	NU	53	nummod	projectivity violation	
+50	x-x-NIG2	_[One.x-x-NIG]	PN	PN	48	appos	_	
+51	maszkim	maszkim[administrator]	N	N.ABS	53	nmod	_	
+52	ensi2	ensik[ruler]	N	N	51	appos	_	
+53	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	50	appos	_	
+54	igi-bi-sze3	_[before]	N	N	55	LOC	_	
+55	nam-ARAD2	_[them.servant.status]	N	N.2-SG-POSS.ABS	33	LOC	_	
+56	i3-in-gi-in	_[he.has.made.firm]	PN	PN	55	acl	_	
+57	mu	mu[year]	N	N	55	LOC	_	
+58	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	59	nmod	_	
+59	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	57	ABS	_	
+60	ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	57	acl	_
+	
+

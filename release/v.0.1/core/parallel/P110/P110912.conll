@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P110912.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	la2-ia3	la'u[arrears]	N	N	1	_	heuristic: after nominal head	
+3	sze	sze[barley]	N	N	1	appos	_	
+4	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+5	gu-za-ta	_[xxx]	PN	PN.GEN.ABL	1	_	heuristic: after nominal head	
+6	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+7	sza-asz-ru{ki}-sze3	_[xxx]	SN	SN.GEN.GEN.TERM	1	_	heuristic: after nominal head	
+8	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+9	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	21	nummod	heuristic: NU premodifying; projectivity violation	
+10	nig2-ka9	nigSZID[account]	N	N	9	_	heuristic: attach to last	
+11	pisan	bisag[basket]	N	N	10	_	heuristic: attach to last	
+12	kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	11	_	heuristic: attach to last	
+13	szabra-ne	_	PN	PN	12	_	heuristic: attach to last	
+14	mu	mu[year]	N	N	13	_	heuristic: attach to last	
+15	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	14	_	heuristic: attach to last	
+16	u3	u[and]	CNJ	CNJ	15	_	heuristic: attach to last	
+17	zi-ga	zig[expend]-a	V	NF.V.PT	22	acl	projectivity violation	
+18	nig2-ka9-ta	_[xxx]	N	N.GEN.ABL	22	nmod	projectivity violation	
+19	szu!	szu[hand][-e]	N	N.L3-NH	18	_	heuristic: attach to last	
+20	su-ba	su[body]-bi-'a	V	NF.V.PT	19	_	heuristic: attach to last	
+21	mu	mu[year]	N	N	1	appos	_	
+22	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	1	appos	_
+	
+

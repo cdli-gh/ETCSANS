@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P405482.atf new_text=P405482
+# train/P405482.atf						#new_text=P405482
+# tr.en: stone mana
+1	na4	_[stone]	FN	FN	0	_	_	
+2	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+3	ma-na	mana[unit]	N	N	0	_	_
+	
+

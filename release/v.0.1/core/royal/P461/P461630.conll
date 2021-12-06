@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Gilgame of Enegir his master Ur-Namma powerful man king of Urim king of Sumer and Akkad when he built temple of Nanna dedicated this for his well-being Whoever erases its inscription may Gilgame curse him
+1	lugal	lugal[king]	N	N	9	appos	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	9	appos	_
+4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_
+5	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	4	appos	_
+6	u4	ud[sun]	N	N	9	ABS	_
+7	e2	e2[house]	N	N	6	appos	_
+8	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	7	GEN	_
+9	mu-du3-a	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	12	LOC	_
+10	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	12	TERM	_
+11	a	a[water]	N	N.ABS	12	ABS	_
+12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets Accounts of fatteners
+# train/P337863.atf new_text=P337863
+# train/P337863.atf						#new_text=P337863
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	0	_	_	
+3	KA	ka[mouth]	N	N	0	_	_	
+4	la2-a	la[entrust]-a[-ø]	V	NF.V.PT	0	_	_	
+

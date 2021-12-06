@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P105269.atf new_text=P105269
+# tr.en: male laborers labor of day rushes bales each total bales being labor of days they are debits therefrom bales did Ur-ee receive Madaga month paue year Simurrum was destroyed
+# train/P105269.atf						#new_text=P105269
+1	1(u)	1(u)[ten]	NU	NU	7	nummod	projectivity violation	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	a2	a[time]	N	N	3	appos	_	
+5	u4	ud[day]	N	N	4	GEN	_	
+6	1(disz)-bi	_[each]	NU	NU.3-SG-NH-POSS.ABS	8	nummod	projectivity violation	
+7	{u2}|ZI&amp;amp;ZI|-a	_[rushes]	N	N	3	acl	_	
+8	gu-nigin2	_[bales]	PN	PN	7	appos	_	
+9	3(disz)-ta-am3	_	NU	NU.ABS.COP-3-SG	10	nummod	heuristic: NU premodifying	
+10	szunigin	szunigin[total]	N	N	7	appos	_	
+11	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	15	nummod	_	
+12	2(gesz2)	2(gesz)[sixty]	NU	NU	11	nummod	_	
+13	4(u)	4(u)[ten]	NU	NU	11	nummod	_	
+14	5(disz)	5(disz)[one]	NU	NU	11	nummod	_	
+15	gu-nigin2-am3	_[bales]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	7	appos	_	
+16	a2	a[time]	N	N	15	appos	_	
+17	u4	ud[day]	N	N	16	GEN	_	
+18	1(u)	1(u)[ten]	NU	NU	15	nummod	_	
+19	7(disz)-bi-im	_	NU	NU.ABS.COP-3-SG	18	nummod	_	
+20	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	15	acl	_	
+21	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	26	_	_	
+22	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	26	nummod	_	
+23	2(gesz2)	2(gesz)[sixty]	NU	NU	22	nummod	_	
+24	4(u)	4(u)[ten]	NU	NU	22	nummod	_	
+25	5(disz)	5(disz)[one]	NU	NU	22	nummod	_	
+26	gu-nigin2-am3	_[bales]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	15	appos	_	
+27	ur-e11-e	Ure'e[1][-ak]	PN	PN	28	_	_	
+28	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	26	acl	_	
+29	dab5-bi	_	V	V	26	_	_	
+30	ma2-da-ga-ke4	_[Madaga]	N	N	29	appos	_	
+31	e11	_	N	N	29	appos	_	
+32	iti	iti[month]	N	N	33	_	_	
+33	pa5-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	36	_	_	
+34	mu	mu[year]	N	N	36	_	_	
+35	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	36	ABS	_	
+36	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	29	acl	_
+	
+

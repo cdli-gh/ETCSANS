@@ -1,0 +1,171 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P135710.atf
+# tr.en: shekels silver into palace brought via Alla son of Lu-Uru n shekels silver from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels Alla son of Lugal-erin male laborers for months male laborer for months its silver mana shekels therefrom shekels silver into palace brought via Alla son of Lu-Uru shekels from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels silver Lu- foreman male laborers for months its silver mana shekels silver therefrom shekels silver into palace brought via Alla son of Lu-Uru shekels silver from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels Lubimu male laborers for months male laborer for months male laborer for months ist silver mana shekels therefrom the deficit mana shekels Urtur total mana shekels silver via Alla son of Lu-Uru total shekels from Alla fattener the sealed document is to be destroyed shekel
+1	...	_[_]	PN	N	166	dep	_	
+2	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+3	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+4	gin2	gig[unit]	N	N	166	_	_	
+5	ku3-babbar	kugbabbar[silver]	N	N	4	acl	_	
+6	e2-gal-la	egal[palace]-'a	N	N.L1	7	TERM	_	
+7	ba-an-kux(KWU147)	_[palace.brought]	V	MID.L1-SYN.V.3-SG-S	166	acl	_	
+8	giri3	giri[foot]	N	N	9	via	_	
+9	al-la	Alla[1]	PN	PN	166	via	_	
+10	dumu	dumu[child]	N	N	9	appos	_	
+11	lu2-uru11{ki}	Lu'uru[1]	PN	PN	10	GEN	_	
+12	n	_(_)[_]	NU	NU	166	_	_	
+13	gin2	gig[unit]	N	N	14	acl	_	
+14	ku3-babbar	kugbabbar[silver]	N	N	20	ABS	_	
+15	al-la	Alla[1]	PN	PN	14	ABL	_	
+16	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	14	appos	_	
+17	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	16	LOC	_	
+18	...-ti	_[_]	PN	PN.GEN.ABL	14	_	heuristic: after nominal head	
+19	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	14	appos	_	
+20	tum3-dam	_[document.is.to.be.delivered]	V	V	166	acl	_	
+21	zi-ga	zig[expend]-a	V	NF.V.PT	20	appos	_	
+22	la2-ia3	la'u[arrears]	N	N	20	appos	_	
+23	1/2(disz)	1/2(disz)[one]	NU	NU	24	nummod	_	
+24	ma-na	mana[unit]	N	N	22	appos	_	
+25	7(disz)	7(disz)[one][-sze]	NU	NU	26	nummod	heuristic: NU premodifying	
+26	gin2	gig[unit]	N	N	24	appos	_	
+27	al-la	Alla[1]	PN	PN	24	appos	_	
+28	dumu	dumu[child]	N	N	27	appos	_	
+29	lugal-erin2	_[Lugal-erin]	PN	PN	28	GEN	_	
+30	7(disz)	7(disz)[one][-sze]	NU	NU	31	nummod	_	
+31	gurusz	gurusz[male]	N	N	27	appos	_	
+32	iti	iti[month]	N	N	31	DAT	_	
+33	1(u)	1(u)[ten]	NU	NU	36	nummod	projectivity violation	
+34	4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	33	nummod	_	
+35	1(disz)	1(disz)[one]	NU	NU	31	nummod	_	
+36	gurusz	gurusz[male]	N	N	31	appos	_	
+37	iti	iti[month]	N	N	31	DAT	_	
+38	6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	39	nummod	heuristic: NU premodifying	
+39	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	31	appos	_	
+40	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+41	ma-na	mana[unit]	N	N	27	appos	_	
+42	1(u)	1(u)[ten]	NU	NU	24	nummod	projectivity violation	
+43	8(disz)	8(disz)[one]	NU	NU	42	nummod	_	
+44	gin2	gig[unit]	N	N	41	appos	projectivity violation	
+45	ku3-babbar	kugbabbar[silver]	N	N	43	appos	_	
+46	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	45	_	heuristic: after nominal head	
+47	1(u)	1(u)[ten]	NU	NU	45	nummod	_	
+48	2(disz)	2(disz)[one]	NU	NU	47	nummod	_	
+49	1/2(disz)	1/2(disz)[one]	NU	NU	47	nummod	_	
+50	gin2	gig[unit]	N	N	45	_	heuristic: after nominal head	
+51	ku3-babbar	kugbabbar[silver]	N	N	45	acl	_	
+52	e2-gal-la	egal[palace]-'a	N	N.L1	53	TERM	_	
+53	ba-an-kux(KWU147)	_[palace.brought]	V	MID.L1-SYN.V.3-SG-S	45	acl	_	
+54	giri3	giri[foot]	N	N	55	via	_	
+55	al-la	Alla[1]	PN	PN	45	via	_	
+56	dumu	dumu[child]	N	N	55	appos	_	
+57	lu2-uru11{ki}	Lu'uru[1]	PN	PN	56	GEN	_	
+58	3(disz)	3(disz)[one]	NU	NU	60	nummod	projectivity violation	
+59	gin2	gig[unit]	N	N	55	appos	_	
+60	al-la	Alla[1]	PN	PN	64	ABL	_	
+61	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	60	appos	_	
+62	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	60	LOC	_	
+63	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	64	nmod	_	
+64	tum3-dam	_[document.is.to.be.delivered]	V	V	59	acl	_	
+65	zi-ga	zig[expend]-a	V	NF.V.PT	45	acl	_	
+66	la2-ia3	la'u[arrears]	N	N	65	appos	_	
+67	1(disz)	1(disz)[one]	NU	NU	72	nummod	projectivity violation	
+68	ma-na	mana[unit]	N	N	72	nmod	projectivity violation	
+69	2(disz)	2(disz)[one]	NU	NU	72	nummod	_	
+70	1/2(disz)	1/2(disz)[one]	NU	NU	69	nummod	_	
+71	gin2	gig[unit]	N	N	72	nmod	_	
+72	ku3	kug[silver]	N	N	66	appos	projectivity violation	
+73	lu2-x-...-x	_[Lu-]	PN	PN	74	nmod	_	
+74	ugula	ugula[overseer][-ø]	N	N	69	appos	projectivity violation	
+75	1(u)	1(u)[ten]	NU	NU	77	nummod	_	
+76	1(disz)	1(disz)[one]	NU	NU	75	nummod	_	
+77	gurusz	gurusz[male]	N	N	69	appos	projectivity violation	
+78	iti	iti[month]	N	N	77	DAT	_	
+79	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+80	4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	79	nummod	_	
+81	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	77	appos	_	
+82	1(disz)	1(disz)[one]	NU	NU	72	nummod	projectivity violation	
+83	5/6(disz)	5/6(disz)[one]	NU	NU	82	nummod	_	
+84	ma-na	mana[unit]	N	N	88	nmod	_	
+85	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+86	1/2(disz)	1/2(disz)[one]	NU	NU	85	nummod	_	
+87	gin2	gig[unit]	N	N	88	nmod	_	
+88	ku3-babbar	kugbabbar[silver]	N	N	77	appos	_	
+89	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	93	_	_	
+90	9(disz)	9(disz)[one]	NU	NU	93	nummod	heuristic: NU premodifying	
+91	gin2	gig[unit]	N	N	93	nmod	_	
+92	2/3(|NINDA2x(SZE.2(ASZ))|)	_	NU	NU.GEN	93	nummod	heuristic: NU premodifying	
+93	ku3	kug[silver]	N	N	72	appos	_	
+94	e2-gal-la	egal[palace]-'a	N	N.L1	95	TERM	_	
+95	ba-an-kux(KWU147)	_[palace.brought]	V	MID.L1-SYN.V.3-SG-S	93	acl	_	
+96	giri3	giri[foot]	N	N	97	via	_	
+97	al-la	Alla[1]	PN	PN	93	via	_	
+98	dumu	dumu[child]	N	N	97	appos	_	
+99	lu2-uru11{ki}	Lu'uru[1]	PN	PN	98	GEN	_	
+100	3(disz)	3(disz)[one]	NU	NU	105	nummod	projectivity violation	
+101	gin2	gig[unit]	N	N	102	nmod	_	
+102	ku3	kug[silver]	N	N	93	appos	_	
+103	al-la	Alla[1]	PN	PN	102	ABL	_	
+104	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	102	appos	_	
+105	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	107	LOC	_	
+106	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	107	nmod	_	
+107	tum3-dam	_[document.is.to.be.delivered]	V	V	104	acl	_	
+108	zi-ga	zig[expend]-a	V	NF.V.PT	93	acl	_	
+109	la2-ia3	la'u[arrears]	N	N	93	appos	_	
+110	1(disz)	1(disz)[one]	NU	NU	109	nummod	_	
+111	2/3(disz)	2/3(disz)[one]	NU	NU	110	nummod	_	
+112	ma-na	mana[unit]	N	N	109	appos	_	
+113	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+114	5/6(disz)	5/6(disz)[one]	NU	NU	113	nummod	_	
+115	gin2	gig[unit]	N	N	112	appos	_	
+116	lu2-bi-mu	_[Lubimu]	PN	PN	109	appos	_	
+117	3(disz)	3(disz)[one]	NU	NU	118	nummod	_	
+118	gurusz	gurusz[male]	N	N	116	appos	_	
+119	iti	iti[month]	N	N	118	DAT	_	
+120	1(u)	1(u)[ten]	NU	NU	123	nummod	projectivity violation	
+121	4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	120	nummod	_	
+122	1(disz)	1(disz)[one]	NU	NU	118	nummod	_	
+123	gurusz	gurusz[male]	N	N	118	appos	_	
+124	iti	iti[month]	N	N	118	DAT	_	
+125	6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	127	nummod	projectivity violation	
+126	1(disz)	1(disz)[one]	NU	NU	118	nummod	_	
+127	gurusz	gurusz[male]	N	N	118	appos	_	
+128	iti	iti[month]	N	N	118	DAT	_	
+129	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	130	nummod	heuristic: NU premodifying	
+130	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	118	appos	_	
+131	1/2(disz)	1/2(disz)[one]	NU	NU	93	nummod	projectivity violation	
+132	ma-na	mana[unit]	N	N	116	appos	_	
+133	8(disz)	8(disz)[one]	NU	NU	134	nummod	heuristic: NU premodifying	
+134	gin2	gig[unit]	N	N	132	appos	_	
+135	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	136	_	heuristic: NU premodifying	
+136	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	93	appos	_	
+137	la2-ia3	la'u[arrears]	N	N	136	appos	_	
+138	1/2(disz)	1/2(disz)[one]	NU	NU	139	nummod	_	
+139	ma-na	mana[unit]	N	N	137	appos	_	
+140	8(disz)	8(disz)[one]	NU	NU	141	nummod	heuristic: NU premodifying	
+141	gin2	gig[unit]	N	N	139	appos	_	
+142	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	143	_	heuristic: NU premodifying	
+143	ur-tur	Urtur[1][-e]	WN	PN	139	appos	_	
+144	szunigin	szunigin[total]	N	N	137	appos	_	
+145	1/2(disz)	1/2(disz)[one]	NU	NU	144	nummod	_	
+146	ma-na	mana[unit]	N	N	144	appos	_	
+147	9(disz)	9(disz)[one]	NU	NU	148	nummod	heuristic: NU premodifying	
+148	gin2	gig[unit]	N	N	146	appos	_	
+149	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	150	_	heuristic: NU premodifying	
+150	ku3	kug[silver]	N	N	148	appos	_	
+151	giri3	giri[foot]	N	N	152	via	_	
+152	al-la	Alla[1]	PN	PN	144	via	_	
+153	dumu	dumu[child]	N	N	144	appos	_	
+154	lu2-uru11{ki}	Lu'uru[1]	PN	PN	153	GEN	_	
+155	szunigin	szunigin[total]	N	N	137	appos	_	
+156	n	_(_)[_]	NU	NU	157	_	_	
+157	gin2	gig[unit]	N	N	155	appos	_	
+158	...	_[_]	PN	N	159	dep	_	
+159	al-la	Alla[1]	PN	PN	157	ABL	_	
+160	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	159	appos	_	
+161	kiszib3	kiszib[seal]	N	N	164	nmod	projectivity violation	
+162	zi-re-dam	_[the.sealed.document.is.to.be.destroyed]	PN	PN	157	appos	_	
+163	...	_[_]	PN	N	162	dep	heuristic: attach to last	
+164	gin2	gig[unit]	N	N	157	appos	_	
+165	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	164	nummod	_	
+166	...	_[_]	PN	N	0	dep	_
+	
+

@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Ninmar the beautiful woman the first-born daughter of Nane Szulgi the mighty man king of Ur and king of Sumer and Akkad her Munusgilsa temple he built for her	
+1	{d}nin-mar{ki}	{d}nin-mar-ki[1]	DN	DN	17	DAT	_
+2	munus	munus[woman]	N	N	1	appos	_
+3	sa6-ga	sag9[good]	V	NF.V.PT	2	amod	_
+4	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+5	{d}nansze	{d}nansze[1]	DN	DN.GEN.DAT-H	4	appos	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN	17	ERG	_
+7	nita	nita[male]	N	N	6	appos	_
+8	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_
+9	lugal	lugal[king]	N	N	6	appos	_
+10	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	6	appos	_
+12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_
+13	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	12	appos	_
+14	e2	_	_	_	0	_	_
+15	munus	_	_	_	0	_	_
+16	gil-sa-ka-ni	e2-munus-gil-sa[1]	TN	TN.3-SG-H-POSS.ABS	17	ABS	_
+17	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

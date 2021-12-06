@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P432368.atf
+# tr.en: Iddin-ilum general of Mari Zinuba is his son
+1	i-din-dingir	_[Iddin-ilum]	PN	PN	0	root	_	
+2	_szagina_	szakkanak[governor][-ak]	N	N	0	root	_	
+3	ma-ri{ki}	_[Mari]	GN	GN	0	root	_	
+4	zi-nu-ba	_[Zinuba]	PN	PN	0	root	_	
+5	_dumu_-szu	_[is.his.son]	PN	PN	0	root	_
+	
+

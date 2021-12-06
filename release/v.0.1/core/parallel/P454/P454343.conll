@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454343.atf
+# tr.en: Lu-salim son of Lugal-
+1	lu2-sza-lim	Luszalim[1]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	lugal-...	_[1][-ra]	PN	PN	2	GEN	_
+	
+

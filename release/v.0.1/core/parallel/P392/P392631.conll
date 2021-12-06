@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: talents of reeds talents of willow from Szeani did Lugal-ezem receive month House-month- of bala Lugal-ezem the scribe son of Lugal-emae the household manager
+# train/P392631.atf
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	gu2	gun[unit]	N	N	11	_	_	
+3	gi	gi[reed][-ø]	N	N	2	GEN	_	
+4	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+5	gu2	gun[unit]	N	N	2	appos	_	
+6	{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	5	GEN	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	szesz-a-ni-ta	Szeszani[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+9	lugal-ezem	Lugalezem[1]	PN	PN	11	_	_	
+10	szu	szu[hand][-e]	N	N.L3-NH	11	_	_	
+11	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+12	iti	iti[month]	N	N	13	nmod	_	
+13	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	11	nummod	_	
+14	sza3	szag[heart]	N	N	13	GEN	_	
+15	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	14	appos	_	
+16	lugal-ezem	Lugalezem[1]	PN	PN	13	appos	_	
+17	dub-sar	dubsar[scribe]	N	N	16	appos	_	
+18	dumu	dumu[child]	N	N	13	appos	_	
+19	lugal-e2-mah-e	Lugalemahe[1]	N	PN	18	GEN	_	
+20	szabra	szabra[chief_administrator][-ak]	N	N	13	appos	_
+	
+

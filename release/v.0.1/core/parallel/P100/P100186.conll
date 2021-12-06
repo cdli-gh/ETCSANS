@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket Ur-ekuga are here
+# train/P100186.atf
+1	pisan	bisag[basket]	N	N	2	nmod	_	
+2	ur-esz3-ku3-ga	_[Ur-ekuga]	PN	PN.GEN	3	ABS	_	
+3	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	0	root	_
+	
+

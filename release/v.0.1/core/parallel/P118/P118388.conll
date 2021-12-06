@@ -1,0 +1,517 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P118388.atf
+# tr.en: gur barig ban shekels butter oil gur ban sila shekels kak cheese debits of year Amar-Suen king destroyed Urbilum gur barig ban sila butter oil gur ban sila kak cheese from Lu-Zabala barig butter oil barig kak cheese from Ur-Mami gur sila butter oil gur barig ban sila kak cheese from Ur-nigar ban butter oil barig ban sila kak cheese from Duge ban butter oil barig kak cheese from Szara-amu ban butter oil barig kak cheese from Lugal-unire barig ban sila butter oil gur sila kak cheese from Szekala barig sila butter oil barig ban sila kak cheese from Ur-Suda barig ban butter oil barig ban sila kak cheese from Guzana ban butter oil barig ban sila kak cheese from Budu barig ban sila butter oil barig ban sila kak cheese from Albanidu barig ban sila butter oil barig sila kak cheese from USz ban butter oil ban kak cheese from Akiar its uGIR barig ban sila ban sila oil for Barge total gur barig ban sila shekels butter oil total gur barig ban sila shekels kak cheese therefrom barig sila butter oil ban sila sumac-cheese barig ban sila kak cheese via Ur-Szakkan gur barig ban sila yellowed milk via Kas booked out of bala of year Amar-Suen king destroyed Urbilum barig ban sila butter oil ban sila sumac-cheese barig ban sila kak cheese via Ur-Szakkan gur barig sila yellowed milk ban sila kak cheese via Kas booked out of bala of year silvery chair of Enlil was fashioned mana shekel silver the first time mana shekels silver the second time via Lukala shekels silver via Ur-Szara chief accountant shekels grains silver via Lu-Zabala its stone overhead shekel grains silver its butter oil gur barig ban sila shekels ban sila butter oil ban sila yellowed milk first sadu-allotment sila butter oil second sadu-allotment barig yellowed milk beer festival when king went to Umma their sealed documents to be entered to debit account of Lukala barig ban sila butter oil barig sila kak cheese sila yellowed milk under seal of Lukala to be entered to debit account of Ur-ee gur barig ban sila shekels butter oil gur barig ban sila sumac-cheese gur barig ban sila kak cheese gur barig ban yellowed milk under seal of Ur-Szulpae total gur barig ban sila shekels butter oil total gur sila shekels sumac-cheese its kak cheese gur ban sila shekels total gur barig ban sila kak cheese total gur barig ban sila yellowed milk its butter oil barig ban sila shekels its kak cheese barig ban sila shekels total gur ban sila shekels butter oil total gur barig ban sila shekels kak cheese booked out the deficit gur barig ban sila shekels butter oil gur barig ban sila shekels kak cheese are deficit account of butter oil and kak cheese of Atu chief cattle manager year silver-chair of Enlil was fashioned
+1	6(asz)	6(asz)[one]	NU	NU	8	nummod	projectivity violation	
+2	1(barig)	1(bariga)[unit]	NU	N	19	nummod	projectivity violation	
+3	5(ban2)	5(ban)[unit]	NU	N	0	nummod	_	
+4	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+5	7(disz)	7(disz)[one][-sze]	NU	NU	3	nummod	_	
+6	1/2(disz)	1/2(disz)[one]	NU	NU	8	nummod	_	
+7	gin2	gig[unit]	N	N	8	nmod	_	
+8	i3-nun	inun[ghee]	PN	N	5	appos	_	
+9	gur	gur[unit]	N	N	5	appos	projectivity violation	
+10	1(u)	1(u)[ten]	NU	NU	18	nummod	projectivity violation	
+11	3(asz)	3(asz)[one]	NU	NU	10	nummod	_	
+12	1(ban2)	1(ban)[unit]	NU	N	10	nummod	_	
+13	8(disz)	8(disz)[one]	NU	NU	10	nummod	_	
+14	2/3(disz)	2/3(disz)[one]	NU	NU	19	nummod	projectivity violation	
+15	sila3	sila[unit]	N	N	17	nmod	_	
+16	8(disz)	8(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+17	gin2	gig[unit]	N	N	14	appos	_	
+18	ga-UD@g	_[kak.cheese]	PN	PN	17	appos	_	
+19	gur	gur[unit]	N	N	8	appos	projectivity violation	
+20	si-i3-tum	situm[balance]	N	N	18	appos	_	
+21	mu	mu[year]	N	N	20	GEN	_	
+22	{d}amar-{d}suen	Amarsuen[1]	RN	RN	25	ERG	_	
+23	lugal-e	lugal[king]-e	N	N.ERG	22	appos	_	
+24	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	25	ABS	_	
+25	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	18	acl	_	
+26	1(asz)	1(asz)[one]	NU	NU	32	nummod	projectivity violation	
+27	1(barig)	1(bariga)[unit]	NU	N	39	nummod	projectivity violation	
+28	5(ban2)	5(ban)[unit]	NU	N	27	nummod	_	
+29	5(disz)	5(disz)[one]	NU	NU	32	nummod	_	
+30	sila3	sila[unit]	N	N	31	nmod	_	
+31	i3-nun	inun[ghee]	PN	N	29	appos	_	
+32	gur	gur[unit]	N	N	5	appos	_	
+33	2(asz)	2(asz)[one]	NU	NU	32	nummod	_	
+34	2(ban2)	2(ban)[unit]	NU	N	33	nummod	_	
+35	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+36	1/2(disz)	1/2(disz)[one]	NU	NU	38	nummod	_	
+37	sila3	sila[unit]	N	N	38	nmod	_	
+38	ga-UD@g	_[kak.cheese]	PN	PN	39	_	_	
+39	gur	gur[unit]	N	N	32	appos	_	
+40	ki	ki[place]	N	N	41	ABL	_	
+41	lu2-zabala3{ki}-ta	_[Lu-Zabala]	PN	PN.GEN.ABL	32	ABL	_	
+42	2(barig)	2(bariga)[unit]	NU	N	43	nummod	_	
+43	i3-nun	inun[ghee]	PN	N	32	appos	_	
+44	3(barig)	3(bariga)[unit]	NU	N	45	nummod	_	
+45	ga-UD@g	_[kak.cheese]	PN	PN	43	appos	_	
+46	ki	ki[place]	N	N	47	ABL	_	
+47	ur-{d}ma-mi-ta	_[Ur-Mami]	PN	PN.GEN.ABL	43	ABL	_	
+48	1(asz)	1(asz)[one]	NU	NU	51	nummod	projectivity violation	
+49	5(disz)	5(disz)[one]	NU	NU	59	nummod	projectivity violation	
+50	sila3	sila[unit]	N	N	51	nmod	_	
+51	i3-nun	inun[ghee]	PN	N	43	appos	_	
+52	gur	gur[unit]	N	N	51	appos	_	
+53	1(asz)	1(asz)[one]	NU	NU	51	nummod	_	
+54	2(barig)	2(bariga)[unit]	NU	N	53	nummod	_	
+55	3(ban2)	3(ban)[unit]	NU	N	53	nummod	_	
+56	7(disz)	7(disz)[one][-sze]	NU	NU	59	nummod	_	
+57	sila3	sila[unit]	N	N	58	nmod	_	
+58	ga-UD@g	_[kak.cheese]	PN	PN	56	appos	_	
+59	gur	gur[unit]	N	N	51	appos	_	
+60	ki	ki[place]	N	N	61	ABL	_	
+61	ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	51	ABL	_	
+62	5(ban2)	5(ban)[unit]	NU	N	63	nummod	_	
+63	i3-nun	inun[ghee]	PN	N	43	appos	_	
+64	1(barig)	1(bariga)[unit]	NU	N	63	nummod	_	
+65	1(ban2)	1(ban)[unit]	NU	N	64	nummod	_	
+66	5(disz)	5(disz)[one]	NU	NU	63	nummod	_	
+67	sila3	sila[unit]	N	N	68	nmod	_	
+68	ga-UD@g	_[kak.cheese]	PN	PN	66	appos	_	
+69	ki	ki[place]	N	N	70	ABL	_	
+70	du11-ge-ta	_[Duge]	PN	PN.GEN.ABL	63	ABL	_	
+71	4(ban2)	4(ban)[unit]	NU	N	72	nummod	_	
+72	i3-nun	inun[ghee]	PN	N	43	appos	_	
+73	1(barig)	1(bariga)[unit]	NU	N	74	nummod	_	
+74	ga-UD@g	_[kak.cheese]	PN	PN	72	appos	_	
+75	ki	ki[place]	N	N	76	ABL	_	
+76	{d}szara2-a-mu-ta	_[Szara-amu]	PN	PN.GEN.ABL	72	ABL	_	
+77	4(ban2)	4(ban)[unit]	NU	N	78	nummod	_	
+78	i3-nun	inun[ghee]	PN	N	43	appos	_	
+79	1(barig)	1(bariga)[unit]	NU	N	80	nummod	_	
+80	ga-UD@g	_[kak.cheese]	PN	PN	78	appos	_	
+81	ki	ki[place]	N	N	82	ABL	_	
+82	lugal-szu-nir-re-ta	_[Lugal-unire]	PN	PN.GEN.ABL	78	ABL	_	
+83	3(barig)	3(bariga)[unit]	NU	N	78	nummod	_	
+84	2(ban2)	2(ban)[unit]	NU	N	92	nummod	projectivity violation	
+85	5(disz)	5(disz)[one]	NU	NU	78	nummod	_	
+86	sila3	sila[unit]	N	N	87	nmod	_	
+87	i3-nun	inun[ghee]	PN	N	85	appos	_	
+88	1(asz)	1(asz)[one]	NU	NU	78	nummod	_	
+89	7(disz)	7(disz)[one][-sze]	NU	NU	88	nummod	_	
+90	1/2(disz)	1/2(disz)[one]	NU	NU	88	nummod	_	
+91	sila3	sila[unit]	N	N	92	nmod	_	
+92	ga-UD@g	_[kak.cheese]	PN	PN	78	appos	_	
+93	gur	gur[unit]	N	N	92	appos	_	
+94	ki	ki[place]	N	N	95	ABL	_	
+95	szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	78	ABL	_	
+96	1(barig)	1(bariga)[unit]	NU	N	99	nummod	_	
+97	5(disz)	5(disz)[one]	NU	NU	96	nummod	_	
+98	sila3	sila[unit]	N	N	99	nmod	_	
+99	i3-nun	inun[ghee]	PN	N	43	appos	_	
+100	1(barig)	1(bariga)[unit]	NU	N	99	nummod	_	
+101	3(ban2)	3(ban)[unit]	NU	N	100	nummod	_	
+102	7(disz)	7(disz)[one][-sze]	NU	NU	100	nummod	_	
+103	1/2(disz)	1/2(disz)[one]	NU	NU	99	nummod	_	
+104	sila3	sila[unit]	N	N	105	nmod	_	
+105	ga-UD@g	_[kak.cheese]	PN	PN	103	appos	_	
+106	ki	ki[place]	N	N	107	ABL	_	
+107	ur-{d}su4-da-ta	_[Ur-Suda]	PN	PN.GEN.GEN.ABL	99	ABL	_	
+108	1(barig)	1(bariga)[unit]	NU	N	110	nummod	_	
+109	1(ban2)	1(ban)[unit]	NU	N	108	nummod	_	
+110	i3-nun	inun[ghee]	PN	N	43	appos	_	
+111	1(barig)	1(bariga)[unit]	NU	N	110	nummod	_	
+112	4(ban2)	4(ban)[unit]	NU	N	111	nummod	_	
+113	5(disz)	5(disz)[one]	NU	NU	110	nummod	_	
+114	sila3	sila[unit]	N	N	115	nmod	_	
+115	ga-UD@g	_[kak.cheese]	PN	PN	113	appos	_	
+116	ki	ki[place]	N	N	117	ABL	_	
+117	gu-za-<na>-ta	_[Guzana]	PN	PN.GEN.ABL	110	ABL	_	
+118	5(ban2)	5(ban)[unit]	NU	N	119	nummod	_	
+119	i3-nun	inun[ghee]	PN	N	43	appos	_	
+120	1(barig)	1(bariga)[unit]	NU	N	119	nummod	_	
+121	1(ban2)!	1(ban)[unit]	NU	N	120	nummod	_	
+122	5(disz)	5(disz)[one]	NU	NU	119	nummod	_	
+123	sila3	sila[unit]	N	N	124	nmod	_	
+124	ga-UD@g	_[kak.cheese]	PN	PN	122	appos	_	
+125	ki	ki[place]	N	N	126	ABL	_	
+126	bu3-du-ta	_[Budu]	PN	PN.GEN.ABL	119	ABL	_	
+127	1(barig)	1(bariga)[unit]	NU	N	129	nummod	projectivity violation	
+128	1(ban2)	1(ban)[unit]	NU	N	135	nummod	projectivity violation	
+129	5(disz)	5(disz)[one]	NU	NU	43	nummod	_	
+130	sila3	sila[unit]	N	N	131	nmod	_	
+131	i3-nun	inun[ghee]	PN	N	129	appos	_	
+132	1(barig)	1(bariga)[unit]	NU	N	129	nummod	_	
+133	5(ban2)	5(ban)[unit]	NU	N	129	nummod	_	
+134	2(disz)	2(disz)[one]	NU	NU	129	nummod	_	
+135	1/2(disz)	1/2(disz)[one]	NU	NU	129	nummod	_	
+136	sila3	sila[unit]	N	N	137	nmod	_	
+137	ga-UD@g	_[kak.cheese]	PN	PN	135	appos	_	
+138	ki	ki[place]	N	N	139	ABL	_	
+139	al-ba-ni-du11-ta	_[Albanidu]	PN	PN.GEN.ABL	129	ABL	_	
+140	1(barig)	1(bariga)[unit]	NU	N	142	nummod	projectivity violation	
+141	2(ban2)	2(ban)[unit]	NU	N	148	nummod	projectivity violation	
+142	5(disz)	5(disz)[one]	NU	NU	43	nummod	_	
+143	sila3	sila[unit]	N	N	144	nmod	_	
+144	i3-nun	inun[ghee]	PN	N	142	appos	_	
+145	2(barig)	2(bariga)[unit]	NU	N	142	nummod	_	
+146	7(disz)	7(disz)[one][-sze]	NU	NU	148	nummod	_	
+147	sila3	sila[unit]	N	N	148	nmod	_	
+148	ga-UD@g	_[kak.cheese]	PN	PN	142	appos	_	
+149	ki	ki[place]	N	N	150	ABL	_	
+150	USZ-ta	_[USz]	PN	PN	142	ABL	_	
+151	2(ban2)	2(ban)[unit]	NU	N	152	nummod	_	
+152	i3-nun	inun[ghee]	PN	N	43	appos	_	
+153	3(ban2)	3(ban)[unit]	NU	N	154	nummod	_	
+154	ga-UD@g	_[kak.cheese]	PN	PN	152	appos	_	
+155	ki	ki[place]	N	N	156	ABL	_	
+156	a-ki-szar-ta	_[Akiar]	PN	PN.GEN.ABL	152	ABL	_	
+157	szu-GIR2@g-bi	_[its.uGIR]	N	N	43	appos	_	
+158	1(barig)	1(bariga)[unit]	NU	N	43	nummod	projectivity violation	
+159	4(ban2)	4(ban)[unit]	NU	N	167	nummod	projectivity violation	
+160	2(disz)	2(disz)[one]	NU	NU	159	nummod	_	
+161	2/3(disz)	2/3(disz)[one]	NU	NU	157	nummod	_	
+162	sila3	sila[unit]	N	N	161	appos	_	
+163	2(ban2)	2(ban)[unit]	NU	N	167	nummod	projectivity violation	
+164	2(disz)	2(disz)[one]	NU	NU	163	nummod	_	
+165	1/2(disz)	1/2(disz)[one]	NU	NU	43	nummod	projectivity violation	
+166	sila3	sila[unit]	N	N	167	nmod	_	
+167	i3	i[oil]	N	N	43	appos	projectivity violation	
+168	ma2-gur8-ra	_[for]	N	N	163	DAT	_	
+169	szunigin	szunigin[total]	N	N	43	appos	_	
+170	1(u)	1(u)[ten]	NU	NU	169	nummod	_	
+171	1(asz)	1(asz)[one]	NU	NU	170	nummod	_	
+172	4(barig)	4(bariga)[unit]	NU	N	170	nummod	_	
+173	3(ban2)	3(ban)[unit]	NU	N	170	nummod	_	
+174	5(disz)	5(disz)[one]	NU	NU	170	nummod	_	
+175	1/3(disz)	1/3(disz)[one]	NU	NU	181	nummod	_	
+176	sila3	sila[unit]	N	N	180	nmod	_	
+177	7(disz)	7(disz)[one][-sze]	NU	NU	0	nummod	_	
+178	1/2(disz)	1/2(disz)[one]	NU	NU	177	nummod	_	
+179	gin2	gig[unit]	N	N	180	nmod	_	
+180	i3-nun	inun[ghee]	PN	N	175	appos	_	
+181	gur	gur[unit]	N	N	169	appos	_	
+182	szunigin	szunigin[total]	N	N	169	appos	_	
+183	2(u)	2(u)[ten]	NU	NU	192	nummod	_	
+184	3(barig)	3(bariga)[unit]	NU	N	183	nummod	_	
+185	4(ban2)	4(ban)[unit]	NU	N	183	nummod	_	
+186	8(disz)	8(disz)[one]	NU	NU	183	nummod	_	
+187	2/3(disz)	2/3(disz)[one]	NU	NU	192	nummod	_	
+188	sila3	sila[unit]	N	N	190	nmod	_	
+189	8(disz)	8(disz)[one]	NU	NU	190	nummod	heuristic: NU premodifying	
+190	gin2	gig[unit]	N	N	187	appos	_	
+191	ga-UD@g	_[kak.cheese]	PN	PN	190	appos	_	
+192	gur	gur[unit]	N	N	169	appos	_	
+193	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	192	_	_	
+194	3(barig)	3(bariga)[unit]	NU	N	197	nummod	_	
+195	4(disz)	4(disz)[one]	NU	NU	194	nummod	_	
+196	sila3	sila[unit]	N	N	197	nmod	_	
+197	i3-nun	inun[ghee]	PN	N	192	appos	_	
+198	2(ban2)	2(ban)[unit]	NU	N	197	nummod	_	
+199	9(disz)	9(disz)[one]	NU	NU	202	nummod	projectivity violation	
+200	sila3	sila[unit]	N	N	202	nmod	projectivity violation	
+201	ga	ga[milk]	N	N	205	nummod	projectivity violation	
+202	gazi	gazi[condiment]	N	N	197	appos	_	
+203	2(barig)	2(bariga)[unit]	NU	N	197	nummod	_	
+204	4(ban2)	4(ban)[unit]	NU	N	203	nummod	_	
+205	4(disz)	4(disz)[one]	NU	NU	197	nummod	_	
+206	sila3	sila[unit]	N	N	207	nmod	_	
+207	ga-UD@g	_[kak.cheese]	PN	PN	205	appos	_	
+208	giri3	giri[foot]	N	N	209	via	_	
+209	ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	197	via	_	
+210	1(asz)	1(asz)[one]	NU	NU	216	nummod	_	
+211	3(barig)	3(bariga)[unit]	NU	N	210	nummod	_	
+212	2(ban2)	2(ban)[unit]	NU	N	210	nummod	_	
+213	8(disz)	8(disz)[one]	NU	NU	216	nummod	_	
+214	sila3	sila[unit]	N	N	215	nmod	_	
+215	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	213	appos	_	
+216	gur	gur[unit]	N	N	197	appos	_	
+217	giri3	giri[foot]	N	N	218	via	_	
+218	kas4	kas[runner][-ra]	N	N.DAT-H	216	via	_	
+219	zi-ga	zig[expend]-a	V	NF.V.PT	197	acl	_	
+220	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	219	ABL	_	
+221	mu	mu[year]	N	N	220	GEN	_	
+222	{d}amar-{d}suen	Amarsuen[1]	RN	RN	225	ERG	_	
+223	lugal-e	lugal[king]-e	N	N.ERG	222	appos	_	
+224	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	225	ABS	_	
+225	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	197	acl	_	
+226	2(barig)	2(bariga)[unit]	NU	N	229	nummod	projectivity violation	
+227	3(ban2)	3(ban)[unit]	NU	N	234	nummod	projectivity violation	
+228	8(disz)	8(disz)[one]	NU	NU	227	nummod	_	
+229	1/3(disz)	1/3(disz)[one]	NU	NU	32	nummod	_	
+230	sila3	sila[unit]	N	N	232	nmod	_	
+231	i3-nun	inun[ghee]	PN	N	232	nmod	_	
+232	4(ban2)	4(ban)[unit]	NU	N	229	nummod	_	
+233	6(disz)	6(disz)[one][-sze]	NU	NU	229	nummod	_	
+234	1/3(disz)	1/3(disz)[one]	NU	NU	229	nummod	_	
+235	sila3	sila[unit]	N	N	237	nmod	_	
+236	ga	ga[milk]	N	N	235	_	heuristic: attach to last	
+237	gazi	gazi[condiment]	N	N	234	appos	_	
+238	1(barig)	1(bariga)[unit]	NU	N	229	nummod	_	
+239	1(ban2)	1(ban)[unit]	NU	N	229	nummod	_	
+240	2(disz)	2(disz)[one]	NU	NU	229	nummod	_	
+241	sila3	sila[unit]	N	N	242	nmod	_	
+242	ga-UD@g	_[kak.cheese]	PN	PN	240	appos	_	
+243	giri3	giri[foot]	N	N	244	via	_	
+244	ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	229	via	_	
+245	1(asz)	1(asz)[one]	NU	NU	250	nummod	projectivity violation	
+246	3(barig)	3(bariga)[unit]	NU	N	254	nummod	projectivity violation	
+247	8(disz)	8(disz)[one]	NU	NU	249	nummod	_	
+248	sila3	sila[unit]	N	N	249	nmod	_	
+249	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	250	_	_	
+250	gur	gur[unit]	N	N	32	appos	_	
+251	5(ban2)	5(ban)[unit]	NU	N	250	nummod	_	
+252	4(disz)	4(disz)[one]	NU	NU	254	nummod	_	
+253	sila3	sila[unit]	N	N	254	nmod	_	
+254	ga-UD@g	_[kak.cheese]	PN	PN	250	appos	_	
+255	giri3	giri[foot]	N	N	256	via	_	
+256	kas4	kas[runner][-ra]	N	N.DAT-H	250	via	_	
+257	zi-ga	zig[expend]-a	V	NF.V.PT	32	acl	_	
+258	<bala-a>	bala[tax][-ak]-'a	N	N.GEN.L1	257	ABL	_	
+259	mu	mu[year]	N	N	258	GEN	_	
+260	ku3	kug[silver]	N	N	261	acl	_	
+261	gu-za	guza[chair][-ø]	N	N	263	ABS	_	
+262	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	261	GEN	_	
+263	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	32	acl	_	
+264	1/3(disz)	1/3(disz)[one]	NU	NU	268	nummod	heuristic: NU premodifying	
+265	ma-na	mana[unit]	N	N	268	nmod	_	
+266	1(disz)	1(disz)[one]	NU	NU	268	nummod	heuristic: NU premodifying	
+267	gin2	gig[unit]	N	N	268	nmod	_	
+268	ku3-babbar	kugbabbar[silver]	N	N	5	appos	_	
+269	a-ra2	ara[times]	N	N	268	appos	_	
+270	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	268	nummod	_	
+271	2/3(disz)	2/3(disz)[one]	NU	NU	268	nummod	_	
+272	ma-na	mana[unit]	N	N	275	nmod	_	
+273	8(disz)	8(disz)[one]	NU	NU	0	nummod	_	
+274	1/2(disz)	1/2(disz)[one]	NU	NU	273	nummod	_	
+275	gin2	gig[unit]	N	N	268	appos	_	
+276	ku3	kug[silver]	N	N	275	acl	_	
+277	a-ra2	ara[times]	N	N	276	appos	_	
+278	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	268	nummod	_	
+279	giri3	giri[foot]	N	N	280	via	_	
+280	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	268	via	_	
+281	9(disz)	9(disz)[one]	NU	NU	268	nummod	projectivity violation	
+282	gin2	gig[unit]	N	N	280	appos	_	
+283	ku3	kug[silver]	N	N	282	acl	_	
+284	giri3	giri[foot]	N	N	285	via	_	
+285	ur-{d}szara2	Urszara[1]	PN	PN	268	via	_	
+286	sza13-dub-ba	bisagdubak[archivist]	N	N	285	appos	_	
+287	9(disz)	9(disz)[one]	NU	NU	0	nummod	_	
+288	2/3(disz)	2/3(disz)[one]	NU	NU	287	nummod	_	
+289	gin2	gig[unit]	N	N	293	nmod	_	
+290	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+291	5(disz)	5(disz)[one]	NU	NU	290	nummod	_	
+292	sze	sze[barley]	N	N	293	nmod	_	
+293	ku3	kug[silver]	N	N	268	acl	_	
+294	giri3	giri[foot]	N	N	295	via	_	
+295	lu2-zabala3{ki}	_[Lu-Zabala]	PN	PN	293	via	_	
+296	sag	sag[head]	N	N	297	nmod	_	
+297	na4-bi	_[stone.overhead]	N	N	268	appos	_	
+298	1(disz)	1(disz)[one]	NU	NU	302	nummod	_	
+299	1/3(disz)	1/3(disz)[one]	NU	NU	298	nummod	_	
+300	gin2	gig[unit]	N	N	302	nmod	_	
+301	2/3(disz)	2/3(disz)[one]	NU	NU	302	nummod	heuristic: NU premodifying	
+302	sze	sze[barley]	N	N	268	appos	_	
+303	ku3	kug[silver]	N	N	302	acl	_	
+304	i3-nun-bi	_[its.butter.oil]	N	N.3-SG-NH-POSS.ABS	302	appos	_	
+305	2(asz)	2(asz)[one]	NU	NU	302	nummod	_	
+306	4(barig)	4(bariga)[unit]	NU	N	318	nummod	projectivity violation	
+307	5(ban2)	5(ban)[unit]	NU	N	306	nummod	_	
+308	5(disz)	5(disz)[one]	NU	NU	306	nummod	_	
+309	2/3(disz)	2/3(disz)[one]	NU	NU	314	nummod	_	
+310	sila3	sila[unit]	N	N	309	appos	_	
+311	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+312	2(disz)	2(disz)[one]	NU	NU	311	nummod	_	
+313	gin2	gig[unit]	N	N	310	appos	_	
+314	gur	gur[unit]	N	N	302	appos	_	
+315	1(ban2)	1(ban)[unit]	NU	N	318	nummod	_	
+316	4(disz)	4(disz)[one]	NU	NU	315	nummod	_	
+317	sila3	sila[unit]	N	N	318	nmod	_	
+318	i3-nun	inun[ghee]	PN	N	302	appos	_	
+319	2(ban2)	2(ban)[unit]	NU	N	318	nummod	_	
+320	2(disz)	2(disz)[one]	NU	NU	322	nummod	_	
+321	sila3	sila[unit]	N	N	322	nmod	_	
+322	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	318	appos	_	
+323	sa2-du11	sadug[offerings]	N	N	318	appos	_	
+324	a-ra2	ara[times]	N	N	323	acl	_	
+325	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	318	nummod	_	
+326	3(disz)	3(disz)[one]	NU	NU	325	nummod	_	
+327	sila3	sila[unit]	N	N	328	nmod	_	
+328	i3-nun	inun[ghee]	PN	N	318	appos	_	
+329	sa2-du11	sadug[offerings]	N	N	318	appos	_	
+330	a-ra2	ara[times]	N	N	329	acl	_	
+331	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	318	nummod	_	
+332	1(barig)	1(bariga)[unit]	NU	N	331	nummod	_	
+333	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	332	acl	_	
+334	gibil-sze3	_[barig]	V	NF.V.ABS.TERM	332	acl	_	
+335	kasz-de2-a	kaszdea[banquet][-sze]	N	N	318	appos	_	
+336	lugal	lugal[king]	N	N	338	ABS	_	
+337	umma{ki}-sze3	_[to.Umma]	SN	SN.GEN.TERM	338	LOC	_	
+338	gen-na	gen[go]-a	V	NF.V.PT	335	acl	_	
+339	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	318	appos	_	
+340	4(disz)-am3	4(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	318	nummod	_	
+341	ugu2	ugu[capital]	N	N	302	appos	projectivity violation	
+342	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	318	GEN	_	
+343	ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	318	acl	_	
+344	1(barig)	1(bariga)[unit]	NU	N	318	nummod	_	
+345	1(ban2)	1(ban)[unit]	NU	N	318	nummod	_	
+346	8(disz)	8(disz)[one]	NU	NU	302	nummod	_	
+347	1/2(disz)	1/2(disz)[one]	NU	NU	354	nummod	projectivity violation	
+348	sila3	sila[unit]	N	N	350	nmod	_	
+349	i3-nun	inun[ghee]	PN	N	350	nmod	_	
+350	3(barig)	3(bariga)[unit]	NU	N	302	nummod	_	
+351	5(disz)	5(disz)[one]	NU	NU	350	nummod	_	
+352	2/3(disz)	2/3(disz)[one]	NU	NU	357	nummod	projectivity violation	
+353	sila3	sila[unit]	N	N	354	nmod	_	
+354	ga-UD@g	_[kak.cheese]	PN	PN	302	appos	_	
+355	7(disz)	7(disz)[one][-sze]	NU	NU	302	nummod	_	
+356	sila3	sila[unit]	N	N	357	nmod	_	
+357	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	302	appos	_	
+358	kiszib3	kiszib[seal]	N	N	302	LOC	_	
+359	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	358	GEN	_	
+360	ugu2	ugu[capital]	N	N	302	_	heuristic: after nominal head	
+361	ur-e11-e	Ure'e[1][-ak]	PN	PN	372	acl	projectivity violation	
+362	ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	302	acl	_	
+363	3(asz)	3(asz)[one]	NU	NU	372	nummod	projectivity violation	
+364	1(barig)	1(bariga)[unit]	NU	N	381	nummod	projectivity violation	
+365	3(ban2)	3(ban)[unit]	NU	N	364	nummod	_	
+366	3(disz)	3(disz)[one]	NU	NU	372	nummod	_	
+367	sila3	sila[unit]	N	N	371	nmod	_	
+368	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+369	1/2(disz)	1/2(disz)[one]	NU	NU	368	nummod	_	
+370	gin2	gig[unit]	N	N	371	nmod	_	
+371	i3-nun	inun[ghee]	PN	N	366	appos	_	
+372	gur	gur[unit]	N	N	362	GEN	_	
+373	1(asz)	1(asz)[one]	NU	NU	372	nummod	_	
+374	3(barig)	3(bariga)[unit]	NU	N	389	nummod	projectivity violation	
+375	5(ban2)	5(ban)[unit]	NU	N	374	nummod	_	
+376	2(disz)	2(disz)[one]	NU	NU	374	nummod	_	
+377	5/6(disz)	5/6(disz)[one]	NU	NU	381	nummod	_	
+378	sila3	sila[unit]	N	N	380	nmod	_	
+379	ga	ga[milk]	N	N	378	_	heuristic: attach to last	
+380	gazi	gazi[condiment]	N	N	377	appos	_	
+381	gur	gur[unit]	N	N	372	appos	_	
+382	4(asz)	4(asz)[one]	NU	NU	372	nummod	_	
+383	3(barig)	3(bariga)[unit]	NU	N	394	nummod	projectivity violation	
+384	2(ban2)	2(ban)[unit]	NU	N	383	nummod	_	
+385	3(disz)	3(disz)[one]	NU	NU	383	nummod	_	
+386	1/3(disz)	1/3(disz)[one]	NU	NU	389	nummod	_	
+387	sila3	sila[unit]	N	N	388	nmod	_	
+388	ga-UD@g	_[kak.cheese]	PN	PN	386	appos	_	
+389	gur	gur[unit]	N	N	372	appos	_	
+390	3(asz)	3(asz)[one]	NU	NU	372	nummod	_	
+391	3(barig)	3(bariga)[unit]	NU	N	390	nummod	_	
+392	5(ban2)	5(ban)[unit]	NU	N	393	nummod	_	
+393	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	394	_	_	
+394	gur	gur[unit]	N	N	372	appos	_	
+395	kiszib3	kiszib[seal]	N	N	362	LOC	_	
+396	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	395	GEN	_	
+397	szunigin	szunigin[total]	N	N	302	appos	_	
+398	7(asz)	7(asz)[one]	NU	NU	302	nummod	projectivity violation	
+399	3(barig)	3(bariga)[unit]	NU	N	398	nummod	_	
+400	4(ban2)	4(ban)[unit]	NU	N	398	nummod	_	
+401	6(disz)	6(disz)[one][-sze]	NU	NU	398	nummod	_	
+402	2/3(disz)	2/3(disz)[one]	NU	NU	408	nummod	_	
+403	sila3	sila[unit]	N	N	402	appos	_	
+404	4(disz)	4(disz)[one]	NU	NU	0	nummod	_	
+405	1/2(disz)	1/2(disz)[one]	NU	NU	404	nummod	_	
+406	gin2	gig[unit]	N	N	407	nmod	_	
+407	i3-nun	inun[ghee]	PN	N	403	appos	_	
+408	gur	gur[unit]	N	N	397	appos	_	
+409	szunigin	szunigin[total]	N	N	302	appos	_	
+410	2(asz)	2(asz)[one]	NU	NU	417	nummod	_	
+411	8(disz)	8(disz)[one]	NU	NU	410	nummod	_	
+412	sila3	sila[unit]	N	N	414	nmod	_	
+413	1(u)	1(u)[ten]	NU	NU	414	nummod	heuristic: NU premodifying	
+414	gin2	gig[unit]	N	N	0	_	_	
+415	ga	ga[milk]	N	N	414	_	heuristic: attach to last	
+416	gazi	gazi[condiment]	N	N	414	acl	_	
+417	gur	gur[unit]	N	N	302	appos	_	
+418	ga-UD@g-bi	_[its.kak.cheese]	N	N	417	appos	_	
+419	3(asz)	3(asz)[one]	NU	NU	421	nummod	_	
+420	1(ban2)	1(ban)[unit]	NU	N	419	nummod	_	
+421	2(disz)	2(disz)[one]	NU	NU	417	nummod	_	
+422	sila3	sila[unit]	N	N	421	appos	_	
+423	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+424	5(disz)	5(disz)[one]	NU	NU	423	nummod	_	
+425	gin2	gig[unit]	N	N	422	appos	_	
+426	szunigin	szunigin[total]	N	N	421	appos	_	
+427	6(asz)	6(asz)[one]	NU	NU	432	nummod	_	
+428	1(barig)	1(bariga)[unit]	NU	N	427	nummod	_	
+429	1(ban2)	1(ban)[unit]	NU	N	427	nummod	_	
+430	9(disz)	9(disz)[one]	NU	NU	432	nummod	_	
+431	ga-UD@g	_[sila.kak.cheese]	PN	PN	430	appos	_	
+432	gur	gur[unit]	N	N	421	appos	_	
+433	szunigin	szunigin[total]	N	N	432	acl	_	
+434	7(asz)	7(asz)[one]	NU	NU	432	nummod	projectivity violation	
+435	1(barig)	1(bariga)[unit]	NU	N	434	nummod	_	
+436	5(ban2)	5(ban)[unit]	NU	N	434	nummod	_	
+437	5(disz)	5(disz)[one]	NU	NU	440	nummod	_	
+438	sila3	sila[unit]	N	N	439	nmod	_	
+439	ga-szex(SIG7)-a	_[yellowed.milk]	DN	DN	437	appos	_	
+440	gur	gur[unit]	N	N	433	appos	_	
+441	i3-nun-bi	_[its.butter.oil]	N	N.3-SG-NH-POSS.ABS	432	appos	_	
+442	1(barig)	1(bariga)[unit]	NU	N	432	nummod	_	
+443	5(ban2)	5(ban)[unit]	NU	N	432	nummod	_	
+444	2/3(disz)	2/3(disz)[one]	NU	NU	443	nummod	_	
+445	sila3	sila[unit]	N	N	432	appos	_	
+446	5(disz)	5(disz)[one]	NU	NU	447	nummod	heuristic: NU premodifying	
+447	gin2	gig[unit]	N	N	445	appos	_	
+448	ga-UD@g-bi	_[its.kak.cheese]	N	N	432	appos	_	
+449	2(barig)	2(bariga)[unit]	NU	N	432	nummod	_	
+450	4(ban2)	4(ban)[unit]	NU	N	302	nummod	projectivity violation	
+451	6(disz)	6(disz)[one][-sze]	NU	NU	450	nummod	_	
+452	sila3	sila[unit]	N	N	432	appos	_	
+453	7(disz)	7(disz)[one][-sze]	NU	NU	0	nummod	_	
+454	1/2(disz)	1/2(disz)[one]	NU	NU	453	nummod	_	
+455	gin2	gig[unit]	N	N	452	appos	_	
+456	szunigin	szunigin[total]	N	N	302	appos	_	
+457	8(asz)	8(asz)[one]	NU	NU	302	nummod	projectivity violation	
+458	3(ban2)	3(ban)[unit]	NU	N	457	nummod	_	
+459	7(disz)	7(disz)[one][-sze]	NU	NU	457	nummod	_	
+460	1/3(disz)	1/3(disz)[one]	NU	NU	466	nummod	_	
+461	sila3	sila[unit]	N	N	465	nmod	_	
+462	9(disz)	9(disz)[one]	NU	NU	0	nummod	_	
+463	1/2(disz)	1/2(disz)[one]	NU	NU	462	nummod	_	
+464	gin2	gig[unit]	N	N	465	nmod	_	
+465	i3-nun	inun[ghee]	PN	N	460	appos	_	
+466	gur	gur[unit]	N	N	456	appos	_	
+467	szunigin	szunigin[total]	N	N	302	appos	_	
+468	9(asz)	9(asz)[one]	NU	NU	478	nummod	_	
+469	4(barig)	4(bariga)[unit]	NU	N	468	nummod	_	
+470	1(ban2)	1(ban)[unit]	NU	N	468	nummod	_	
+471	7(disz)	7(disz)[one][-sze]	NU	NU	468	nummod	_	
+472	1/3(disz)	1/3(disz)[one]	NU	NU	478	nummod	_	
+473	sila3	sila[unit]	N	N	476	nmod	_	
+474	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+475	1/2(disz)	1/2(disz)[one]	NU	NU	474	nummod	_	
+476	gin2	gig[unit]	N	N	472	appos	_	
+477	ga-UD@g	_[kak.cheese]	PN	PN	476	appos	_	
+478	gur	gur[unit]	N	N	302	appos	_	
+479	zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	478	acl	_	
+480	la2-ia3	la'u[arrears]	N	N	478	appos	_	
+481	3(asz)	3(asz)[one]	NU	NU	490	nummod	projectivity violation	
+482	3(barig)	3(bariga)[unit]	NU	N	501	nummod	projectivity violation	
+483	5(ban2)	5(ban)[unit]	NU	N	482	nummod	_	
+484	7(disz)	7(disz)[one][-sze]	NU	NU	482	nummod	_	
+485	5/6(disz)	5/6(disz)[one]	NU	NU	490	nummod	_	
+486	sila3	sila[unit]	N	N	489	nmod	_	
+487	8(disz)	8(disz)[one]	NU	NU	489	nummod	heuristic: NU premodifying	
+488	gin2	gig[unit]	N	N	489	nmod	_	
+489	i3-nun	inun[ghee]	PN	N	485	appos	_	
+490	gur	gur[unit]	N	N	502	ABS	_	
+491	1(u)	1(u)[ten]	NU	NU	490	nummod	_	
+492	4(barig)	4(bariga)[unit]	NU	N	491	nummod	_	
+493	3(ban2)	3(ban)[unit]	NU	N	491	nummod	_	
+494	1(disz)	1(disz)[one]	NU	NU	491	nummod	_	
+495	1/3(disz)	1/3(disz)[one]	NU	NU	501	nummod	_	
+496	sila3	sila[unit]	N	N	499	nmod	_	
+497	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+498	1/2(disz)	1/2(disz)[one]	NU	NU	497	nummod	_	
+499	gin2	gig[unit]	N	N	495	appos	_	
+500	ga-UD@g	_[kak.cheese]	PN	PN	499	appos	_	
+501	gur	gur[unit]	N	N	490	appos	_	
+502	la2-ia3-am3	_[are.deficit]	V	V	480	_	_	
+503	nig2-ka9-ak	nigSZID[account]	N	N	502	appos	_	
+504	i3-nun	inun[ghee]	PN	N	503	GEN	_	
+505	ga-ar3	ga'ar[cheese]	N	N	504	appos	_	
+506	a-tu	Atu[1][-ak]	PN	PN	504	GEN	_	
+507	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	503	appos	_	
+508	mu	mu[year]	N	N	502	appos	_	
+509	ku3	kug[silver]	N	N	5	appos	projectivity violation	
+510	gu-za	guza[chair][-ø]	N	N	512	ABS	_	
+511	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	510	GEN	_	
+512	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	502	parataxis	_
+	
+

@@ -1,0 +1,63 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P117652.atf new_text=P117652
+# tr.en: shekels of silver its barley gur barig the harvest will remit this debt should be inundated Baamu by royal name has sworn from Nanna-igi did Baamu receive month Mekigal year en priestess of Nanna by omens was chosen shekels of silver its barley gur barig the harvest will remit this debt should be inundated by royal name he has sworn from Nanna-igi did Baamu receive month Mekigal year en priestess of Nanna by omens was chosen did Baamu son of Gudea
+# test/P117652.atf						#new_text=P117652
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	gin2	gig[unit]	N	N	0	root	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	2	GEN	_	
+4	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	7	nmod	projectivity violation	
+5	2(asz)	2(asz)[one]	NU	NU	2	nummod	_	
+6	2(barig)	2(bariga)[unit]	NU	N	7	nummod	_	
+7	gur	gur[unit]	N	N	2	appos	_	
+8	buru14	_[the.harvest]	N	N	9	ERG	_	
+9	ama-bi	_[will.remit]	N	N	2	parataxis	_	
+10	gi4-gi4	_[this.debt]	V	V	9	acl	_	
+11	su3-su3-da	_[should.be.inundated]	V	V	9	acl	_	
+12	ba-a-mu	_[Baamu]	PN	PN.GEN.ABS	15	ABS	projectivity violation	
+13	mu	mu[year]	N	N	11	appos	projectivity violation	
+14	lugal-bi	_[by.royal.name.has.sworn]	N	N	12	ERG	_	
+15	lugal-bi	_[by.royal.name.has.sworn]	V	V	11	parataxis	_	
+16	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	15	_	heuristic: attach to last	
+17	ki	ki[place]	N	N	18	ABL	_	
+18	{d}nanna-i3-gi-ta	_[Nanna-igi]	PN	PN.GEN.ABL	21	ABL	projectivity violation	
+19	ba-a-mu	_[did.Baamu]	PN	PN.GEN.ABS	18	_	heuristic: attach to last	
+20	szu	szu[hand][-e]	N	N.L3-NH	11	appos	_	
+21	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	11	parataxis	_	
+22	iti	iti[month]	N	N	23	nmod	_	
+23	me-gi8-gal2	_[Mekigal]	MN	MN	11	parataxis	_	
+24	mu	mu[year]	N	N	23	appos	_	
+25	en	en[priest]	N	N	28	ABS	_	
+26	{d}nanna	Nanna[1][-ak]	DN	DN	25	GEN	_	
+27	masz2-e	masz[goat]-e	N	N.L3-NH	25	ERG	_	
+28	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	23	acl	_	
+29	2(disz)	2(disz)[one]	NU	NU	30	nummod	_	
+30	gin2	gig[unit]	N	N	28	appos	_	
+31	ku3-babbar	kugbabbar[silver]	N	N	30	GEN	_	
+32	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	35	nmod	projectivity violation	
+33	2(asz)	2(asz)[one]	NU	NU	30	nummod	_	
+34	2(barig)	2(bariga)[unit]	NU	N	35	nummod	_	
+35	gur	gur[unit]	N	N	30	appos	_	
+36	buru14	_[the.harvest]	N	N	37	ERG	_	
+37	ama-bi	_[will.remit]	N	N	30	parataxis	_	
+38	gi4-gi4	_[this.debt]	V	V	37	acl	_	
+39	su3-su3-da	_[should.be.inundated]	V	V	37	acl	_	
+40	mu	mu[year]	N	N	37	appos	_	
+41	lugal-bi	_[by.royal.name.he.has]	N	N	37	appos	_	
+42	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	41	acl	_	
+43	ki	ki[place]	N	N	44	ABL	_	
+44	{d}nanna-i3-gi-ta	_[Nanna-igi]	PN	PN.GEN.ABL	47	ABL	projectivity violation	
+45	ba-a-mu	_[did.Baamu]	PN	PN.GEN.ABS	44	_	heuristic: attach to last	
+46	szu	szu[hand][-e]	N	N.L3-NH	37	appos	_	
+47	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	37	acl	_	
+48	iti	iti[month]	N	N	49	nmod	_	
+49	me-gi8-gal2	_[Mekigal]	MN	MN	37	parataxis	_	
+50	mu	mu[year]	N	N	49	appos	_	
+51	en	en[priest]	N	N	54	ABS	_	
+52	{d}nanna	Nanna[1][-ak]	DN	DN	51	GEN	_	
+53	masz2-e	masz[goat]-e	N	N.L3-NH	51	ERG	_	
+54	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	49	acl	_	
+55	ba-a-mu	_[did.Baamu]	PN	PN.GEN.ABS	37	acl	_	
+56	dumu	dumu[child]	N	N	55	appos	_	
+57	gu3-de2-a	Gude'a[1][-ra]	PN	PN	56	GEN	_
+	
+

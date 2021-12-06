@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P125784.atf
+# tr.en: male laborers hirelings the labor shekel each silver the fodder barig barley each its silver shekels its barley gur for month its fodder-reed talents Ikunum received month Festival of Ninazu year For rd time Simurrum was destroyed
+1	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	0	root	_	
+3	hun-ga2	hug[hire]-a	V	NF.V.PT	2	acl	_	
+4	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	2	appos	_	
+5	1/2(disz)	1/2(disz)[one]	NU	NU	7	nummod	projectivity violation	
+6	gin2-ta	gig[unit]-ta	N	N.ABL	4	appos	projectivity violation	
+7	ku3-babbar	kugbabbar[silver]	N	N	6	appos	_	
+8	sza3-gal-bi	_[the.fodder.barig]	N	N.DEM2.ABS	5	appos	_	
+9	1(barig)!	1(bariga)[unit]	NU	N	10	nummod	_	
+10	sze-ta	sze[barley]-ta	N	N.ABL	8	appos	_	
+11	ku3-babbar-bi	_[its.silver]	N	N.ABS.3-SG-NH-POSS.ABS	10	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	13	nummod	_	
+13	gin2	gig[unit]	N	N	10	appos	_	
+14	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	13	appos	_	
+15	4(asz)	4(asz)[one]	NU	NU	13	nummod	_	
+16	gur	gur[unit]	N	N	13	appos	_	
+17	iti	iti[month]	N	N	13	TERM	_	
+18	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	17	nummod	_	
+19	gi-zi-bi	_[its.fodder-reed]	N	N.GEN.3-SG-NH-POSS.ABS	17	appos	_	
+20	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	21	nummod	_	
+21	gu2	gun[unit]	N	N	17	appos	_	
+22	i-ku-num2	_[Ikunum]	PN	PN	24	ABS	projectivity violation	
+23	szu	szu[hand][-e]	N	N.L3-NH	13	appos	projectivity violation	
+24	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	21	acl	_	
+25	iti	iti[month]	N	N	27	_	_	
+26	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	27	_	_	
+27	mu	mu[year]	N	N	13	appos	_	
+28	a-ra2	ara[times]	N	N	27	appos	_	
+29	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	8	nummod	projectivity violation	
+30	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	31	ABS	_	
+31	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	27	acl	_
+	
+

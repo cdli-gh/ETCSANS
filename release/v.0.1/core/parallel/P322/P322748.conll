@@ -1,0 +1,118 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P322748.atf						#new_text=P322748
+# tr.en: bricks by Lamazatum by by -num of Lamazatum x by Handu by Ana-hepat of Szat-bizil by Ana-hepat by Aditi by Abum-ilum by Haburitum by Itar-ummi by Taturi by Ili-dumqi by Ea-nuhi of Uddurum together sar shekels of brick the length involved ninda labor of the female laborers involved days shekels hired at sila barley each the barley involved barig ban sila labor of brick transportation delivery for replacement house of of priest of Inanna-gal Bazi is foreman via Adda-tillati and Puzrum-Ninkarke in Garana month Festival of An year Szu-Suen king erected great-stele for Enlil and Ninlil
+# train/P322748.atf new_text=P322748
+1	2(gesz2)	2(gesz)[sixty]	NU	NU	0	nummod	_	
+2	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+3	sig4	szeg[brick]	N	N	0	root	_	
+4	la-ma-za-tum	_[by.Lamazatum]	PN	PN.DAT-H	3	ERG	_	
+5	5(gesz2)	5(gesz)[sixty]	NU	NU	13	nummod	projectivity violation	
+6	x-x-x	_[1]	PN	PN	5	dep	_	
+7	4(gesz2)	4(gesz)[sixty]	NU	NU	13	nummod	heuristic: NU premodifying; projectivity violation	
+8	x-x-num2	_[by]	DN	DN	14	ERG	projectivity violation	
+9	($	_	_	_	8	_	heuristic: after nominal	
+10	blank	_	N	N	0	root	_	
+11	space	_	_	_	10	_	_	
+12	$)	_	_	_	11	_	_	
+13	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	11	nummod	_	
+14	1(gesz2)	1(gesz)[sixty]	NU	NU	13	nummod	_	
+15	3(u)	3(u)[ten]	NU	NU	13	nummod	_	
+16	nam-1(u)	_	NU	NU	17	_	heuristic: NU premodifying	
+17	la-ma-za-tum	_[Lamazatum]	PN	PN.DAT-H	13	GEN	_	
+18	7(gesz2)	7(gesz)[sixty]	NU	NU	11	nummod	_	
+19	3(u)	3(u)[ten]	NU	NU	18	nummod	_	
+20	x-x-x	_[1]	PN	PN	19	dep	heuristic: attach to last	
+21	2(gesz2)	2(gesz)[sixty]	NU	NU	11	nummod	_	
+22	3(u)	3(u)[ten]	NU	NU	21	nummod	_	
+23	ha-an-du-u2	_[by.Handu]	PN	PN.GEN.ERG	11	ERG	projectivity violation	
+24	5(gesz2)	5(gesz)[sixty]	NU	NU	26	nummod	heuristic: NU premodifying	
+25	a-na-he-pa2-at	_[by.Ana-hepat]	PN	PN	26	ERG	_	
+26	($	_[by.Ana-hepat]	N	N	22	ERG	_	
+27	blank	_	_	_	26	_	heuristic: attach to last	
+28	space	_	_	_	27	_	heuristic: attach to last	
+29	$)	_	_	_	28	_	heuristic: attach to last	
+30	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+31	5(gesz2)	5(gesz)[sixty]	NU	NU	30	nummod	_	
+32	nam-1(u)	_	NU	NU	11	nummod	_	
+33	sza-at-bi-zi-il	_[Szat-bizil]	V	V	11	GEN	_	
+34	6(gesz2)	6(gesz)[sixty]	NU	NU	11	nummod	_	
+35	i-ti-rum	_[by.Ana-hepat]	PN	PN	11	ERG	_	
+36	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	11	nummod	_	
+37	a-di-ti	_[by.Aditi]	PN	PN.DAT-H	11	ERG	_	
+38	7(gesz2)	7(gesz)[sixty]	NU	NU	11	nummod	_	
+39	a-bu-um-dingir	_[by.Abum-ilum]	PN	PN	11	ERG	_	
+40	5(gesz2)	5(gesz)[sixty]	NU	NU	11	nummod	_	
+41	ha-bu-ri-tum	_[by.Haburitum]	PN	PN	11	ERG	_	
+42	5(gesz2)	5(gesz)[sixty]	NU	NU	11	nummod	_	
+43	esz18-dar-um-mi	_[by.Itar-ummi]	PN	PN.DAT-H	11	ERG	_	
+44	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	11	nummod	_	
+45	ta-tu3-ri	_[by.Taturi]	PN	PN	11	ERG	_	
+46	6(gesz2)	6(gesz)[sixty]	NU	NU	11	nummod	_	
+47	i3-li2-dum-qi2	_[by.Ili-dumqi]	PN	PN	11	ERG	_	
+48	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+49	3(u)	3(u)[ten]	NU	NU	48	nummod	_	
+50	e2-a-nu-uh3-szi	_[by.Ea-nuhi]	TN	TN	51	ERG	_	
+51	($	_[by.Ea-nuhi]	N	N	11	ERG	_	
+52	blank	_	_	_	58	_	heuristic: attach to head	
+53	space	_	_	_	58	_	heuristic: attach to head	
+54	$)	_	_	_	58	_	heuristic: attach to head	
+55	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+56	2(gesz2)	2(gesz)[sixty]	NU	NU	55	nummod	_	
+57	3(u)	3(u)[ten]	NU	NU	55	nummod	_	
+58	nam-1(u)	_	NU	NU	11	nummod	_	
+59	ud-du-ru-um	_[Uddurum]	N	N	11	GEN	_	
+60	szunigin	szunigin[total]	N	N	63	_	_	
+61	6(disz)	6(disz)[one][-sze]	NU	NU	63	nummod	_	
+62	1/2(disz)	1/2(disz)[one]	NU	NU	61	nummod	_	
+63	sar	sar[unit]	N	N	11	appos	_	
+64	5(disz)!	5(disz)[one]	NU	NU	65	nummod	heuristic: NU premodifying	
+65	gin2	gig[unit]	N	N	63	appos	_	
+66	sig4	szeg[brick]	N	N	65	GEN	_	
+67	us2-bi	_[the.length.involved]	V	NF.V.ABS	63	acl	_	
+68	1(gesz2)	1(gesz)[sixty]	NU	NU	69	nummod	_	
+69	ninda	ninda[bread]	N	N	63	appos	_	
+70	a2	a[time]	N	N	69	appos	_	
+71	3(gesz2)-ta	_	NU	NU	70	nummod	_	
+72	geme2-bi	geme[female_worker]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	69	appos	_	
+73	2(u)	2(u)[ten]	NU	NU	63	nummod	projectivity violation	
+74	3(disz)	3(disz)[one]	NU	NU	73	nummod	_	
+75	1/3(disz)	1/3(disz)[one]	NU	NU	73	nummod	_	
+76	3(disz)	3(disz)[one]	NU	NU	73	nummod	_	
+77	gin2	gig[unit]	N	N	78	_	_	
+78	u4	ud[day]	N	N	69	appos	_	
+79	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	81	nummod	heuristic: NU premodifying; projectivity violation	
+80	sze	sze[barley]	N	N	83	LOC	projectivity violation	
+81	3(disz)	3(disz)[one]	NU	NU	63	nummod	projectivity violation	
+82	sila3-ta	sila[unit]-ta	N	N.ABL	80	LOC	_	
+83	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	63	acl	_	
+84	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	63	appos	_	
+85	1(barig)	1(bariga)[unit]	NU	N	63	nummod	projectivity violation	
+86	1(ban2)	1(ban)[unit]	NU	N	84	nummod	_	
+87	9(disz)	9(disz)[one]	NU	NU	88	nummod	_	
+88	sila3	sila[unit]	N	N	63	appos	_	
+89	a2	a[time]	N	N	63	appos	_	
+90	sig4	szeg[brick]	N	N	91	nmod	_	
+91	ga6-ga2	gag[carry]-a	V	NF.V.PT	89	acl	_	
+92	mu-kux(DU)	mukur[delivery][-ø]	N	N	63	appos	_	
+93	e2-ki-ba-gar-ra	_[for.replacement.house]	TN	TN	92	DAT	_	
+94	en	en[priest]	N	N	11	appos	projectivity violation	
+95	{d}inanna-gal	_[of.priest.Inanna-gal]	DN	DN.GEN.GEN	93	GEN.GEN	_	
+96	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	97	ABS	_	
+97	ugula	ugula[overseer][-ø]	N	N	11	appos	_	
+98	giri3	giri[foot]	N	N	99	via	_	
+99	{d}iszkur-illat	_[Adda-tillati]	PN	PN	97	via	_	
+100	u3	u[and]	CNJ	CNJ	99	appos	_	
+101	puzur4-{d}nin-kar-ke3	_[Puzrum-Ninkarke]	PN	PN.GEN.TERM	99	appos	_	
+102	sza3	szag[heart]	N	N	97	appos	projectivity violation	
+103	gar-sza-an-na{ki}	_[in.Garana]	SN	SN.GEN	99	LOC	_	
+104	iti	iti[month]	N	N	106	_	_	
+105	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	106	ABS	_	
+106	mu	mu[year]	N	N	97	parataxis	_	
+107	{d}szu-{d}suen	Szusuen[1]	RN	RN	97	appos	_	
+108	lugal-e	lugal[king]-e	N	N.ERG	107	appos	_	
+109	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	107	appos	_	
+110	{d}en-lil2	Enlil[1]	DN	DN	109	DAT	_	
+111	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	110	appos	_	
+112	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	110	acl	_
+	
+

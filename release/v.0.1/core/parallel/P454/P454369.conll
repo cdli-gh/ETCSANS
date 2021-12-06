@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454369.atf
+# tr.en: Ur-abzu son of Lugal-uur Oxen manager of Szara
+1	ur!-ab-zu	Urabzu[1]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	lugal-uszurx(|LAL2.TUG2|)	_[1][-ak][-ak]	PN	PN	2	GEN	_	
+4	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	1	appos	_	
+5	{d}szara2	Szara[1][-ak]	DN	DN	4	GEN	_
+	
+

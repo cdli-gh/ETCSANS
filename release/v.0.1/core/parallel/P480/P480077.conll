@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480077.atf
+# tr.en: bur harrowed time iku each the labor of its team days field of Nin-ura foreman Ur-ama under seal of Szeani year Sz-Suen king erected Big Stele for Enlil and Ninlil Szeani scribe son of Dada
+1	5(bur3)	5(bur)[unit]	NU	N	4	nummod	projectivity violation	
+2	GAN2	gana[field]	N	N	0	root	_	
+3	gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	4	acl	_	
+4	a-ra2	ara[times]	N	N	2	appos	_	
+5	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+6	4(iku)	4(iku)[unit]	NU	N	5	nummod	_	
+7	1/2(iku)	1/2(iku)[unit]	NU	N	8	nummod	_	
+8	GAN2-ta	gana[field]-ta	N	N.ABL	2	appos	_	
+9	a2	a[time]	N	N	10	nmod	_	
+10	erin2-na-bi	_[labor.its.team]	N	N.GEN.ABS	2	appos	_	
+11	u4	ud[day]	N	N	2	appos	_	
+12	1(gesz2)	1(gesz)[sixty]	NU	NU	11	nummod	_	
+13	a-sza3	aszag[field]	N	N	11	appos	_	
+14	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	13	GEN	_	
+15	ugula	ugula[overseer][-ø]	N	N	16	nmod	_	
+16	ur-am3-ma	Uramma[1][-ak]	PN	PN	13	appos	_	
+17	kiszib3	kiszib[seal]	N	N	11	appos	_	
+18	szesz-a-ni	Szeszani[1][-ak]	PN	PN	17	GEN	_	
+19	mu	mu[year]	N	N	21	nmod	_	
+20	{d}szu-{d}suen	Szusuen[1]	RN	RN	21	nmod	_	
+21	lugal-e	lugal[king]-e	N	N.ERG	11	appos	_	
+22	na-ru2-a	narua[stele]	PN	N	21	acl	_	
+23	mah	mah[great][-ø][-ø]	V	NF.V	22	_	heuristic: attach to last	
+24	{d}en-lil2	Enlil[1]	DN	DN	22	DAT	_	
+25	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	24	appos	_	
+26	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	24	acl	_	
+27	szesz-a-ni	Szeszani[1][-ak]	PN	PN	2	appos	_	
+28	dub-sar	dubsar[scribe]	N	N	27	appos	_	
+29	dumu	dumu[child]	N	N	27	appos	_	
+30	da-da	Dada[1][-ak]	PN	PN	29	GEN	_
+	
+

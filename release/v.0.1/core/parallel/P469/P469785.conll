@@ -1,0 +1,109 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P469785.atf
+# tr.en: workdays harvested and sheaves piled up in Szulpae field in Nagatum field and in Egirgilu field workdays harvested and sheaves piled up in Audagula field in Audatur field and in Prince field workdays harvested and sheaves piled up in Oxen boot field in Ur-Ninti field and E-Ezina field workdays harvested and sheaves piled up in field Constructed Wall in Incantation priests field and in workdays harvested and sheaves piled up in field Cattle-herder-of-Nin-Arali and across from new field workdays irrigation work in Audagula field in Audatur field and in Prince field The foreman is Lu-Szara Sealed tablet by Daaga Year Simanum was destroyed Daaga scribe son of Urge-aga
+1	4(gesz2)	4(gesz)[sixty]	NU	NU	4	nummod	_	
+2	1(u)	1(u)[ten]	NU	NU	1	nummod	_	
+3	6(disz)	6(disz)[one][-sze]	NU	NU	1	nummod	_	
+4	gurusz	gurusz[male]	N	N	0	root	_	
+5	u4	ud[day]	N	N	4	_	heuristic: after nominal head	
+6	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	7	nummod	heuristic: NU premodifying	
+7	gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	4	acl	_	
+8	zar3	zar[sheaf]	N	N	7	appos	_	
+9	tab-ba	tab[grasp]-a	V	NF.V.PT	7	acl	_	
+10	a-sza3	aszag[field]	N	N	9	LOC	_	
+11	{d}szul-pa-e3	_[Szulpae]	FN	FN	10	appos	_	
+12	a-sza3	aszag[field]	N	N	7	appos	_	
+13	na-ga-tum	_[Nagatum.in]	FN	FN	12	LOC	_	
+14	u3	u[and]	CNJ	CNJ	7	appos	_	
+15	a-sza3	aszag[field]	N	N	7	appos	_	
+16	e2-gir-gi4-lu	_[in.Egirgilu]	FN	FN	15	LOC	_	
+17	5(gesz2)	5(gesz)[sixty]	NU	NU	15	nummod	_	
+18	2(u)	2(u)[ten]	NU	NU	20	nummod	_	
+19	5(disz)	5(disz)[one]	NU	NU	18	nummod	_	
+20	gurusz	gurusz[male]	N	N	4	appos	_	
+21	u4	ud[day]	N	N	20	_	heuristic: attach to last	
+22	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	23	nummod	heuristic: NU premodifying	
+23	gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	20	acl	_	
+24	zar3	zar[sheaf]	N	N	23	appos	_	
+25	tab-ba	tab[grasp]-a	V	NF.V.PT	23	acl	_	
+26	a-sza3	aszag[field]	N	N	25	LOC	_	
+27	a-u2-da-gu-la	_[in.Audagula]	FN	FN.GEN.GEN.TERM	26	LOC	_	
+28	a-sza3	aszag[field]	N	N	20	LOC	_	
+29	a-u2-da-tur	_[Audatur.in]	FN	FN.GEN.ABL	28	LOC	_	
+30	u3	u[and]	CNJ	CNJ	28	appos	_	
+31	a-sza3	aszag[field]	N	N	28	appos	_	
+32	nun-na	_[in.Prince]	FN	GN.GEN	31	LOC	_	
+33	3(gesz2)	3(gesz)[sixty]	NU	NU	31	nummod	_	
+34	1(u)	1(u)[ten]	NU	NU	36	nummod	_	
+35	5(disz)	5(disz)[one]	NU	NU	34	nummod	_	
+36	gurusz	gurusz[male]	N	N	4	appos	_	
+37	u4	ud[day]	N	N	36	_	heuristic: attach to last	
+38	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	39	nummod	heuristic: NU premodifying	
+39	gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	36	acl	_	
+40	zar3	zar[sheaf]	N	N	39	appos	_	
+41	tab-ba	tab[grasp]-a	V	NF.V.PT	39	acl	_	
+42	a-sza3	aszag[field]	N	N	36	LOC	projectivity violation	
+43	gu4-suhub2	Gusuhub[1][-ak][-sze]	N	FN	44	nmod	_	
+44	a-sza3	aszag[field]	N	N	41	LOC	projectivity violation	
+45	ur-{d}nin-ti	_[boot]	FN	FN	44	appos	_	
+46	u3	u[and]	CNJ	CNJ	4	appos	projectivity violation	
+47	a-sza3	aszag[field]	N	N	42	appos	_	
+48	e2-{d}ezina2	_[in.Ur-Ninti.and.E-Ezina]	FN	FN	42	LOC	_	
+49	2(gesz2)	2(gesz)[sixty]	NU	NU	42	nummod	_	
+50	2(u)	2(u)[ten]	NU	NU	51	nummod	_	
+51	gurusz	gurusz[male]	N	N	4	appos	_	
+52	u4	ud[day]	N	N	51	_	heuristic: attach to last	
+53	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	54	nummod	heuristic: NU premodifying	
+54	gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	51	acl	_	
+55	zar3	zar[sheaf]	N	N	54	appos	_	
+56	tab-ba	tab[grasp]-a	V	NF.V.PT	54	acl	_	
+57	a-sza3	aszag[field]	N	N	58	nmod	_	
+58	bad3-du3-a	_[in.Constructed.Wall]	FN	FN	56	LOC	_	
+59	a-sza3	aszag[field]	N	N	67	nummod	projectivity violation	
+60	iszib-e-ne	Iszibene[1][-ak][-ak][-'a]	FN	FN.GEN.GEN.L1	62	nmod	_	
+61	u3	u[and]	CNJ	CNJ	60	_	heuristic: attach to last	
+62	a-sza3	aszag[field]	N	N	51	LOC	_	
+63	u2-du-lu2-saga	_[and.in]	FN	FN	62	appos	_	
+64	1(gesz2)	1(gesz)[sixty]	NU	NU	67	nummod	projectivity violation	
+65	1(u)	1(u)[ten]	NU	NU	51	nummod	projectivity violation	
+66	5(disz)	5(disz)[one]	NU	NU	65	nummod	_	
+67	gurusz	gurusz[male]	N	N	62	appos	_	
+68	u4	ud[day]	N	N	67	_	heuristic: attach to last	
+69	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	70	nummod	heuristic: NU premodifying	
+70	gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	51	acl	_	
+71	zar3	zar[sheaf]	N	N	70	appos	_	
+72	tab-ba	tab[grasp]-a	V	NF.V.PT	70	acl	_	
+73	a-sza3	aszag[field]	N	N	72	LOC	_	
+74	u2-du-{d}nin-a-ra-li	Uduninarali[1][-ak][-sze]	FN	FN.GEN.TERM	73	appos	_	
+75	u3	u[and]	CNJ	CNJ	72	appos	_	
+76	gaba	gaba[frontier][-ak]	N	N	4	appos	projectivity violation	
+77	a-sza3	aszag[field]	N	N	72	appos	_	
+78	gibil	gibil[new][-ø]	V	NF.V.ABS	77	acl	_	
+79	3(gesz2)	3(gesz)[sixty]	NU	NU	82	nummod	_	
+80	3(u)	3(u)[ten]	NU	NU	79	nummod	_	
+81	5(disz)	5(disz)[one]	NU	NU	79	nummod	_	
+82	gurusz	gurusz[male]	N	N	4	appos	_	
+83	u4	ud[day]	N	N	82	_	heuristic: attach to last	
+84	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	85	nummod	heuristic: NU premodifying	
+85	a-da	_[irrigation.work]	PN	PN	82	appos	_	
+86	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	85	_	heuristic: attach to last	
+87	a-sza3	aszag[field]	N	N	85	LOC	_	
+88	a-u2-da-gu-la	_[in.Audagula]	FN	FN.GEN.GEN.TERM	87	LOC	_	
+89	a-sza3	aszag[field]	N	N	82	LOC	_	
+90	a-u2-da-tur	_[in.Audatur]	FN	FN.GEN.ABL	89	LOC	_	
+91	u3	u[and]	CNJ	CNJ	89	appos	_	
+92	a-sza3	aszag[field]	N	N	89	appos	_	
+93	nun-na	_[in.Prince]	FN	GN.GEN	92	LOC	_	
+94	ugula	ugula[overseer][-ø]	N	N	95	ABS	_	
+95	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	4	appos	_	
+96	kiszib3	kiszib[seal]	N	N	4	appos	projectivity violation	
+97	da-a-ga	_[Sealed.tablet.by.Daaga]	PN	PN	95	appos	_	
+98	mu	mu[year]	N	N	4	appos	_	
+99	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	100	ABS	_	
+100	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	98	acl	_	
+101	da-a-ga	_[Daaga]	PN	PN	4	appos	_	
+102	dub-sar	dubsar[scribe]	N	N	101	appos	_	
+103	dumu	dumu[child]	N	N	101	appos	_	
+104	ur-gesz-sza3-ga	_[Urge-aga]	PN	PN	103	GEN	_
+	
+

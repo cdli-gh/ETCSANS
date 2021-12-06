@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Assorted into booty I made king of into captivity I took and I did not let him escape my hand A person who order of a wicked thing shall issue against it																						
+1	x	_[_]	u	u	0	dep	_
+2	x	_[_]	u	u	1	dep	_
+3	x	_[_]	u	u	1	dep	_
+4	hi-a	hi[mix]	V	NF.V.PT.ABS	6	ABS	_
+5	nam-ra-asz	nam-ra[booty]	N	N.ADV	6	ADV	_
+6	ha-da-ak	ak[do]	V	MOD1.MID.3-SG-H-A.stem.3-SG-P	0	_	_
+7	NE-ESZ2	|NE.EŠ₂|[1]	RN	RN	10	ABS	_
+8	lugal	lugal[king]	N	N	7	appos	_
+9	x-x{ki}	x-x{ki}[1]	GN	GN.GEN.ABS	8	GEN	_
+10	szaga-a	szaga[oppressed]	V	V.L1	0	_	_
+11	he2-ni-dab5	dab5[seize]	V	MOD1.L1.1-SG-A.V.3-SG-P	10	acl	_
+12	szu-mu	dab5[seize]+szu[hand]	N	N.1-SG-POSS.ABL	13	ABL	_
+13	ba-ra-ba-ta-e3	e3[leave]	V	MOD4.MID.ABL.V.3-SG-S	7	appos	_
+14	lu2	lu2[person]	N	N	0	_	_
+15	hul-	hul[bad]	V	NF.V.ABS	14	amod	_
+16	ib2-szi-ag2-ge26-a	_[_]	u	u	1	acl	_
+

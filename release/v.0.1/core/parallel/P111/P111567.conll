@@ -1,0 +1,64 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: less female laborers from month musudu to month Grain-carried year Ibbi-Suen king female laborers from month GANma to month Festival of Baba year high-priest of Inanna with extispicy was named the labor workdays female laborers account of labor of female laborers Lu-Ningirsu son of Ur-Nane of months year high-priest of Inanna with extispicy was named
+# train/P111567.atf						#new_text=P111567
+# train/P111567.atf new_text=P111567
+1	3(gesz2)	3(gesz)[sixty]	NU	NU	4	nummod	_	
+2	la2	la[hang][-ø]	V	NF.V.ABS	0	acl	_	
+3	1/2(disz)	1/2(disz)[one]	NU	NU	2	nummod	_	
+4	geme2	geme[female_worker]	N	N	0	root	_	
+5	iti	iti[month]	N	N	4	ABL	_	
+6	mu-szu-du7-ta	_[from.musudu]	MN	MN.GEN.ABL	5	ABL	_	
+7	iti	iti[month]	N	N	4	LOC	_	
+8	sze-il2-la-sze3	Sze'illa[1]-sze	MN	MN.TERM	7	LOC	_	
+9	mu	mu[year]	N	N	4	appos	_	
+10	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	11	acl	_	
+11	lugal	lugal[king]	N	N	4	appos	_	
+12	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	_	
+13	5(u)	5(u)[ten]	NU	NU	12	nummod	_	
+14	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+15	geme2	geme[female_worker]	N	N	4	appos	_	
+16	iti	iti[month]	N	N	4	ABL	_	
+17	GAN2-masz-ta	Ganmasz[1][-ak]-ta	MN	MN.GEN.ABL	16	ABL	_	
+18	iti	iti[month]	N	N	4	LOC	_	
+19	ezem-{d}ba-ba6-sze3	_[to.Festival.Baba]	MN	MN.TERM	18	LOC	_	
+20	mu	mu[year]	N	N	4	appos	_	
+21	en	en[priest]	N	N	24	ABS	projectivity violation	
+22	{d}inanna	Inanna[1][-ak]	DN	DN	21	GEN	_	
+23	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	25	COM	projectivity violation	
+24	masz2-e	masz[goat]-e	N	N.L3-NH	4	parataxis	projectivity violation	
+25	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	21	acl	projectivity violation	
+26	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	27	nmod	_	
+27	1(szar'u)	_[the.labor]	NU	NU	24	nummod	_	
+28	7(szar2)	_	NU	NU	27	nummod	_	
+29	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	27	nummod	_	
+30	3(gesz2)	3(gesz)[sixty]	NU	NU	32	nummod	heuristic: NU premodifying	
+31	geme2	geme[female_worker]	N	N	32	nmod	_	
+32	u4	ud[day]	N	N	27	appos	_	
+33	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	40	nummod	heuristic: NU premodifying; projectivity violation	
+34	'.	_	N	N	47	nmod	projectivity violation	
+35	zi	_	N	NF.V	36	_	heuristic: attach to last	
+36	...	_[_]	PN	N	37	dep	heuristic: attach to last	
+37	'.	_	_	_	38	_	heuristic: attach to last	
+38	nig2-ka9-ak	nigSZID[account]	N	N	32	appos	_	
+39	a2	a[time]	N	N	40	GEN	_	
+40	geme2	geme[female_worker]	N	N	47	acl	_	
+41	(x)	_[_]	N	N	42	_	heuristic: attach to last	
+42	ki	ki[place]	N	N	43	_	heuristic: attach to last	
+43	(x)	_[_]	N	N	44	_	heuristic: attach to last	
+44	'.	_	_	_	45	_	heuristic: attach to last	
+45	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	41	GEN	_	
+46	dumu	dumu[child]	N	N	47	appos	_	
+47	ur-{d}nansze	Urnansze[1]	PN	PN	48	GEN	_	
+48	'.	_	_	_	51	_	_	
+49	iti	iti[month]	N	N	32	GEN	_	
+50	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+51	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	52	nummod	_	
+52	'.	_	_	_	53	_	heuristic: attach to last	
+53	mu	mu[year]	N	N	51	appos	_	
+54	en	en[priest]	N	N	59	ABS	projectivity violation	
+55	{d}inanna	Inanna[1][-ak]	DN	DN	56	GEN	_	
+56	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	60	COM	projectivity violation	
+57	masz2-e	masz[goat]-e	N	N.L3-NH	32	acl	projectivity violation	
+58	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	56	acl	_
+	
+

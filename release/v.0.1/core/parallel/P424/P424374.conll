@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P424374.atf new_text=P424374
+# train/P424374.atf						#new_text=P424374
+# tr.en: gur barig ban ration barley under seal of Adudu gur barig ration barley under seal of Lu- gur barig ban ration barley with Szara-kam barig Ur-Dumuzida son of gur ban sila Luga from threshing floor of Gabtena month Extra year Szu-Suen king erected great-stele
+1	1(asz)	1(asz)[one]	NU	NU	5	nummod	_	
+2	1(barig)	1(bariga)[unit]	NU	N	1	nummod	_	
+3	4(ban2)	4(ban)[unit]	NU	N	5	nummod	_	
+4	sze-ba	szeba[ration]	N	N	5	nmod	_	
+5	gur	gur[unit]	N	N	0	root	_	
+6	kiszib3	kiszib[seal]	N	N	5	LOC	_	
+7	a-du-du	Adudu[1]	PN	PN	6	GEN	_	
+8	2(asz)	2(asz)[one]	NU	NU	12	nummod	projectivity violation	
+9	4(barig)	4(bariga)[unit]	NU	N	11	nummod	_	
+10	sze-ba	szeba[ration]	N	N	11	nmod	_	
+11	gur	gur[unit]	N	N	5	appos	_	
+12	kiszib3	kiszib[seal]	N	N	11	LOC	_	
+13	lu2-...	_[1][-ra]	PN	PN	12	_	heuristic: attach to last	
+14	5(asz)	5(asz)[one]	NU	NU	21	nummod	projectivity violation	
+15	3(barig)	3(bariga)[unit]	NU	N	14	nummod	_	
+16	2(ban2)	2(ban)[unit]	NU	N	18	nummod	projectivity violation	
+17	sze-ba	szeba[ration]	N	N	11	appos	_	
+18	gur	gur[unit]	N	N	11	appos	projectivity violation	
+19	ki	ki[place]	N	N	21	COM	_	
+20	{d}szara2-kam	Szarakam[1]	PN	PN	21	nmod	_	
+21	1(barig)	1(bariga)[unit]	NU	N	17	nummod	_	
+22	ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	21	appos	_	
+23	dumu	dumu[child]	N	N	21	appos	_	
+24	x-x	_[_]	PN	N.2-SG-POSS.ABS	23	dep	_	
+25	6(asz)	6(asz)[one]	NU	NU	0	nummod	_	
+26	3(ban2)	3(ban)[unit]	NU	N	25	nummod	_	
+27	5(disz)	5(disz)[one]	NU	NU	29	nummod	_	
+28	sila3	sila[unit]	N	N	27	appos	_	
+29	gur	gur[unit]	N	N	23	appos	_	
+30	lu-ga2-x	_[Luga]	PN	PN	21	appos	_	
+31	ki-su7	kisur[threshing_floor]	N	N	32	ABL	_	
+32	du6-gub3-temen-na-ta	_[floor.Gabtena]	N	N	30	ABL	_	
+

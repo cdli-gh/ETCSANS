@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P452212.atf
+# tr.en: Abbakalla son of Ur-mes
+1	ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	ur-mes	Urmes[1]	PN	PN	2	GEN	_
+	
+

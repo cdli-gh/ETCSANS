@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: barig EA bitumen from Gududu under seal of Agu month First-fruits year house of Szara of Umma was erected Agu scribe son of Lugal-emae
+# train/P480657.atf
+1	2(barig)	2(bariga)[unit]	NU	N	2	nummod	_	
+2	esir2	esir[bitumen]	N	N	0	root	_	
+3	E2-A	Ea[1]	ON	ON	2	appos	_	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	gu-du-du-ta	_[Gududu]	PN	PN.GEN.ABL	2	ABL	_	
+6	kiszib3	kiszib[seal]	N	N	2	LOC	_	
+7	a-gu	Agu[1][-ak]	PN	PN	6	GEN	_	
+8	iti	iti[month]	N	N	9	nmod	_	
+9	nesag	Nesag[1][-'a]	N	MN.L1	2	appos	_	
+10	mu	mu[year]	N	N	9	appos	_	
+11	e2	e[house]	N	N	14	ABS	_	
+12	{d}szara2	Szara[1][-ak]	DN	DN	11	GEN	_	
+13	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	12	GEN	_	
+14	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	9	acl	_	
+15	a-gu	Agu[1][-ak]	PN	PN	9	appos	_	
+16	dub-sar	dubsar[scribe]	N	N	15	appos	_	
+17	dumu	dumu[child]	N	N	15	appos	_	
+18	lugal-e2-mah-e	Lugalemahe[1]	N	PN	17	GEN	_
+	
+

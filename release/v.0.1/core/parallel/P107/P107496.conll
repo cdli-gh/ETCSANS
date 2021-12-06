@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107496.atf
+# tr.en: Basket-of-tablets barley rations of new year year following en in Eridu was installed are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze-ba	szeba[ration]	N	N	1	appos	_	
+3	za3-<mu>-ka	zagmuk[new_year][-ak]	N	N.GEN	2	GEN	_	
+4	mu	mu[year]	N	N	2	appos	_	
+5	us2-sa	us[follow]-a	V	NF.V.PT	4	acl	_	
+6	en	en[priest]	N	N	8	ABS	_	
+7	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	6	LOC	_	
+8	ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	2	acl	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	8	_	_
+	
+

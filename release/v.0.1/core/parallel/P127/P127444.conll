@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: fat-tailed rams gazelle th day from Abbasaga Uta-miaram received month ki-siki of Nin-azu year En-unu-gal of Inanna of Uruk was hired
+# train/P127444.atf new_text=P127444
+# train/P127444.atf						#new_text=P127444
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+10	u2-ta2-mi-szar-ra-am	Utamiszaram[1][-ak]	PN	PN.GEN	2	appos	_	
+11	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	10	acl	_	
+12	iti	iti[month]	N	N	10	appos	_	
+13	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	10	appos	_	
+14	mu	mu[year]	N	N	10	appos	_	
+15	en-unu6-gal	Enunugal[1]	PN	PN	19	ABS	_	
+16	{d}inanna	Inanna[1][-ak]	DN	DN	15	GEN	_	
+17	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	16	GEN	_	
+18	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	19	acl	_	
+19	3(disz)	3(disz)[one]	NU	NU	10	nummod	_
+	
+2	gukkal	gukkal[fat-tailed_sheep]	N	N	20	ABS	_	
+3	1(disz)	1(disz)[one]	NU	NU	4	nummod	heuristic: NU premodifying	
+4	masz-da3	maszda[gazelle][-ø]	N	N	2	appos	_	
+5	u4	ud[day]	N	N	2	appos	_	
+6	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+7	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	ki	ki[place]	N	N	10	ABL	_	
+9	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	10	nmod	_	
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Suen strong king king of Ur Aba-Enlil-gin son of Lu-Inanna fattener is your servant	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	a-ba-{d}en-lil2-gin7	a-ba-{d}en-lil2-gin7[2]	PN	PN	10	ABS	_
+7	dumu	dumu[child]	N	N	6	appos	_
+8	lu2-{d}inanna	lu2-{d}inana[2]	PN	PN	6	GEN	_
+9	kuruszda	guruszta[fattener]	N	N.GEN.ABS	8	appos	_
+10	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

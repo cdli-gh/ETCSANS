@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful king king of Urim Ur-Nintur scribe child of Duga is your servant	
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	ur-{d}nin-tu	urim5{ki}[1]+ur-{d}nin-tur5[1]	PN	PN	4	GEN	_
+7	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+8	dumu	dumu[child]	N	N	4	GEN	_
+9	du11-ga	dug4-ga[1]	PN	PN.GEN.ABS	8	GEN	_
+10	ARAD2-zu	dug4-ga[1]+arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

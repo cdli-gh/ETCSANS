@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P384816.atf new_text=P384816
+# tr.en: barig ban sila of barley regular offerings of month Extra year Simanum was destroyed gur ban sila of barley regular offerings of th month year Amorite wall was erected regular offerings for Szara and regular offerings for Szulgi from Gududu under individual seal of Abbagina Abbagina son of Inim-	*RETOK*-1(ban2)	_	_	_	_	1(ban2)	1(ban)[unit]	NU	N	D
+# tr.en: barig ban sila of barley regular offerings of month Extra year Simanum was destroyed gur ban sila of barley regular offerings of th month year Amorite wall was erected regular offerings for Szara and regular offerings for Szulgi from Gududu under individual seal of Abbagina Abbagina son of Inim- *RETOK*-1(ban2) _ _ _ _ 1(ban2) 1(ban)[unit] NU N D
+# test/P384816.atf						#new_text=P384816
+1	diri	diri[intercalary_month]	N	N	44	_	_	
+10	1/2(disz)	1/2(disz)[one]	NU	NU	16	nummod	_	
+11	sila3	sila[unit]	N	N	16	appos	_	
+12	sze	sze[barley]	N	N	18	GEN	_	
+13	sa2-du11	sadug[offerings]	N	N	16	appos	_	
+14	iti	iti[month]	N	N	20	GEN	_	
+15	1(u)	1(u)[ten]	NU	NU	21	nummod	_	
+16	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	22	nummod	_	
+17	mu	mu[year]	N	N	21	appos	_	
+18	bad3	bad[wall]	N	N	44	_	_	
+19	mar-tu	Martu[1][-ø]	EN	EN.ABS	27	ABS	_	
+2	mu	mu[year]	N	N	44	_	_	
+20	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	16	acl	_	
+21	sa2-du11	sadug[offerings]	N	N	44	_	_	
+22	{d}szara2	Szara[1][-ak]	DN	DN	28	DAT	_	
+23	u3	u[and]	CNJ	CNJ	29	appos	_	
+24	sa2-du11	sadug[offerings]	N	N	29	appos	_	
+25	{d}szul-gi	Szulgir[1]	RN	RN	28	DAT	_	
+26	ki	ki[place]	N	N	34	ABL	_	
+27	gu-du-du-ta	_[Gududu]	PN	PN.GEN.ABL	44	ABL	_	
+28	kiszib3	kiszib[seal]	N	N	44	LOC	_	
+29	asz-a	_[individual]	NU	NF.V.L1	35	nummod	_	
+3	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	11	ABS	_	
+30	ab-ba-gi-na	Abbagina[1]	PN	PN	35	GEN	_	
+31	ab-ba-gi-na	Abbagina[1]	PN	PN	39	nmod	_	
+32	dumu	dumu[child]	N	N	44	_	_	
+33	inim-{d}x	_[Inim-]	PN	PN	39	appos	_	
+34	x-x-x	_[1]	PN	PN	39	dep	_
+	
+4	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	44	acl	_	
+5	2(u)	2(u)[ten]	NU	NU	16	nummod	_	
+6	4(asz)	4(asz)[one]	NU	NU	12	nummod	_	
+7	1(ban2)	1(ban)[unit]	NU	N	13	nummod	_	
+8	...	_[_]	PN	N	16	dep	heuristic: attach to head	
+9	4(disz)	4(disz)[one]	NU	NU	11	nummod	_	
+

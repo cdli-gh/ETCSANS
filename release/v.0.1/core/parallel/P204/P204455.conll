@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204455.atf
+# tr.en: Basket-of-tablets cows donkeys sheep of the house of consignments of Nigin Guabba are here year chair of Enlil was fashioned
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	ab2	ab[cow][-ø]	N	N	8	ABS	_	
+3	ansze	ansze[donkey]	N	N	2	appos	_	
+4	udu	udu[sheep]	N	N	2	appos	_	
+5	e2-szu-szum2-ma	_[the.house.consignments]	PN	PN	4	GEN	_	
+6	nigin6{ki}-ke4	_[of.Nigin]	SN	SN.GEN.GEN.ERG	5	GEN	_	
+7	gu2-ab-ba{ki}-ke4	_[Guabba]	SN	SN.GEN.GEN.ERG	6	appos	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	acl	_	
+9	mu	mu[year]	N	N	8	appos	_	
+10	{gesz}gu-za	guza[chair]	N	N	12	ABS	_	
+11	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	10	GEN	_	
+12	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	9	acl	_
+	
+

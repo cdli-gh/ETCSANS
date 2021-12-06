@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P273488.atf						#new_text=P273488
+# tr.en: sheep ewes nanny goats kitchen on th day Booked out from Ur-kununa Month Akitu Year after Kima was destroyed
+# test/P273488.atf new_text=P273488
+1	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+4	u8	u[ewe]	N	N	2	appos	_	
+5	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+6	ud5	uzud[goat]	N	N	2	appos	_	
+7	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	2	appos	_	
+8	u4	ud[day]	N	N	2	LOC	_	
+9	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+10	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	9	nummod	_	
+11	zi-ga	zig[expend]-a	V	NF.V.PT	2	acl	_	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	11	ABL	_	
+

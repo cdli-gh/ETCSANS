@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: The temple After I placed recumbent lions and bulls by residence That bed from Mardu mountains to place KAL he brought and KAL for Ninsun he shall stretch out a snare	*RETOK*-x	_	_	_	_	x	_[_]	N	N	D
+# tr.en: The temple After I placed recumbent lions and bulls by residence That bed from Mardu mountains to place KAL he brought and KAL for Ninsun he shall stretch out a snare *RETOK*-x _ _ _ _ x _[_] N N D
+# test/P432332.atf						#new_text=P432332
+# test/P432332.atf new_text=P432332
+1	'.	_[_]	PN	N	0	nmod	_	
+2	e2	e[house]	N	N	0	nmod	_	
+3	...	_[_]	PN	N	0	dep	_	
+4	'.	_	_	_	0	_	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	x	_[_]	N	N	0	dep	_	
+7	x	_[_]	N	N	0	dep	_	
+8	...	_[_]	PN	N	0	dep	_	
+9	'.	_	_	_	12	_	_	
+10	pirig	_[After]	N	N	12	_	_	
+11	gu4	gud[ox]	N	N	12	_	heuristic: before verbal head	
+12	nu2	_[I.placed]	V	V	0	acl	_	
+13	ki!(NA)-tusz	_[recumbent.lions.and.bulls]	N	N	12	ABS	_	
+14	u3-gar	_[by.residence]	N	N	12	ERG	_	
+15	'.	_[_]	PN	N	12	_	heuristic: attach to head	
+16	gesznu2-bi	_[That.bed]	N	N.3-SG-NH-POSS.ABS	12	appos	_	
+17	'.	_	_	_	16	_	heuristic: after nominal head	
+18	kur	kur[east]	N	N	16	_	heuristic: after nominal head	
+19	mar-tu-ta	_[from.Mardu.mountains]	N	N	16	ABL	_	
+20	'.	_	_	_	16	_	heuristic: after nominal head	
+21	KAL{ki}-sze3	_[to.place.KAL]	SN	SN	16	LOC	_	
+22	'.	_	_	_	21	_	heuristic: after nominal head	
+23	ba-an-tum3	_[he.brought]	V	MID.3-SG-H-A.V.3-SG-P	21	acl	_	
+24	'.	_	N	N	12	appos	_	
+25	KAL{ki}	_[and]	SN	SN	12	appos	projectivity violation	
+26	DU	gin[quality_designation][-ø]	PN	NF.V.ABS	24	appos	_	
+27	x	_[_]	N	N	0	dep	_	
+28	'.	_	_	_	0	_	_	
+29	{d}nin-sun2-ra	_[for.Ninsun]	DN	DN.GEN	28	DAT	_	
+30	'.	_	_	_	38	_	heuristic: before verb	
+31	...	_[_]	PN	N	38	dep	heuristic: before verb	
+32	u3	u[and]	CNJ	CNJ	38	_	heuristic: before verb	
+33	x	_[_]	N	N	38	dep	heuristic: before verb	
+34	ab-x-x	_	PN	PN	38	_	heuristic: before verb	
+35	'.	_	_	_	38	_	heuristic: before verb	
+36	gu	gu[cord]	N	N	38	_	heuristic: before verb	
+37	ab-la2-e	_[he.shall.stretch.out.a.snare]	V	V	28	acl	_
+	
+

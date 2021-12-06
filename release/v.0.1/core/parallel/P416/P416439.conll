@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed regular rations of Geme-Enlila daughter of high-priest the st day from Nalu booked out in Nippur via Lu-Ninubur scribe month Festival of Szu-Sin year Szu-Suen king western wall muriq-tidnim erected
+# train/P416439.atf						#new_text=P416439
+# train/P416439.atf new_text=P416439
+27	3(disz)	3(disz)[one]	NU	NU	0	nummod	_
+	
+

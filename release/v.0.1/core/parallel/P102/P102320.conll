@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P102320.atf new_text=P102320
+# tr.en: ox grain-fed th day from Abbasaga Au-wer accepted month Festival of An year Enmagalana priestess of Nanna was installed
+# test/P102320.atf						#new_text=P102320
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	iti	iti[month]	N	N	12	_	_	
+11	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	12	ABS	_	
+12	mu	mu[year]	N	N	2	appos	_	
+13	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	17	ABS	_	
+14	en	en[priest]	N	N	13	appos	_	
+15	{d}nanna	Nanna[1][-ak]	DN	DN	14	GEN	_	
+16	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	17	acl	_	
+17	1(disz)	1(disz)[one]	NU	NU	12	nummod	_
+	
+2	gu4	gud[ox]	N	N	18	_	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+6	ki	ki[place]	N	N	8	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	8	nmod	_	
+8	a-hu-we-er	_[Au-wer]	PN	PN	2	ABL	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	8	acl	_	
+

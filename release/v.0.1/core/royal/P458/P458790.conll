@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful king king of Urim Iim-Szulgi courier child of Ur-lugal is your servant
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	appos	_
+6	i-szim-{d}szul-gi	i-szim-{d}szul-gi[1]	PN	PN	5	GEN	_
+7	lu2	_	_	_	6	_	_
+8	kas4	{lu2}kasz4[runner]	N	N	6	appos	_
+9	dumu	dumu[child]	N	N	6	appos	_
+10	ur-lugal	ur-lugal[1]	PN	PN.GEN.ABS	9	GEN	_
+11	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

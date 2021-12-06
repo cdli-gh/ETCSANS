@@ -1,0 +1,55 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jug of common wort sila fine beer ban bread shekels oil shekels alkali-plant fish bundles onions for Nr-Adda to frontier jug of common wort sila common beer ban bread shekels oil shekels alkali-plant fish bundles onions for Id-Adda th day month Barley at quay
+# train/P101253.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	dug	dug[pot]	N	N	0	root	_	
+3	dida	dida[sweet_wort]	N	N	2	GEN	_	
+4	du	gin[quality_designation][-ø]	V	NF.V.ABS	3	acl	_	
+5	3(disz)	3(disz)[one]	NU	NU	10	nummod	projectivity violation	
+6	sila3	sila[unit]	N	N	7	nmod	_	
+7	kasz	kasz[beer]	N	N	2	appos	_	
+8	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	_	
+9	1(ban2)	1(ban)[unit]	NU	N	10	nummod	_	
+10	ninda	ninda[bread]	N	N	2	appos	_	
+11	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+12	gin2	gig[unit]	N	N	13	nmod	_	
+13	i3	i[oil]	N	N	2	appos	_	
+14	2(disz)	2(disz)[one]	NU	NU	18	nummod	projectivity violation	
+15	gin2	gig[unit]	N	N	16	nmod	_	
+16	naga	naga[potash]	N	N	2	acl	_	
+17	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+18	ku6	kud[fish]	N	N	2	appos	_	
+19	3(disz)	3(disz)[one]	NU	NU	21	nummod	heuristic: NU premodifying	
+20	sa	sa[bundle]	N	N	21	nmod	_	
+21	szum2	szum[garlic]	N	N	2	appos	_	
+22	nu-ur2-{d}iszkur	_[for.Nr-Adda]	PN	PN	2	DAT	_	
+23	gaba-asz	gaba[frontier]-sze	N	N.TERM	2	LOC	_	
+24	1(disz)	1(disz)[one]	NU	NU	25	nummod	_	
+25	dug	dug[pot]	N	N	2	appos	_	
+26	dida	dida[sweet_wort]	N	N	25	GEN	_	
+27	du	gin[quality_designation][-ø]	V	NF.V.ABS	26	acl	_	
+28	5(disz)	5(disz)[one]	NU	NU	33	nummod	projectivity violation	
+29	sila3	sila[unit]	N	N	30	nmod	_	
+30	kasz	kasz[beer]	N	N	25	appos	_	
+31	du	gin[quality_designation][-ø]	V	NF.V.ABS	30	acl	_	
+32	1(ban2)	1(ban)[unit]	NU	N	33	nummod	_	
+33	ninda	ninda[bread]	N	N	25	appos	_	
+34	2(disz)	2(disz)[one]	NU	NU	25	nummod	_	
+35	gin2	gig[unit]	N	N	36	nmod	_	
+36	i3	i[oil]	N	N	25	appos	_	
+37	2(disz)	2(disz)[one]	NU	NU	41	nummod	projectivity violation	
+38	gin2	gig[unit]	N	N	39	nmod	_	
+39	naga	naga[potash]	N	N	25	acl	_	
+40	3(disz)	3(disz)[one]	NU	NU	25	nummod	_	
+41	ku6	kud[fish]	N	N	25	appos	_	
+42	3(disz)	3(disz)[one]	NU	NU	44	nummod	heuristic: NU premodifying	
+43	sa	sa[bundle]	N	N	44	nmod	_	
+44	szum2	szum[garlic]	N	N	25	appos	_	
+45	i-di3-{d}iszkur	Idi'iszkur[1]	PN	PN	25	DAT	_	
+46	u4	ud[day]	N	N	25	appos	_	
+47	1(u)	1(u)[ten]	NU	NU	46	nummod	_	
+48	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	47	nummod	_	
+49	iti	iti[month]	N	N	46	appos	_	
+50	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	46	appos	_
+	
+

@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P123120.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	pisan	bisag[basket]	N	N	1	_	heuristic: after nominal head	
+3	ur-sur-ra	_	PN	PN	1	appos	_	
+4	giri3	giri[foot]	N	N	1	_	heuristic: after nominal head	
+5	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	13	nmod	_	
+6	dumu	dumu[child]	N	N	5	_	heuristic: attach to last	
+7	a-ba-szu-na	_[xxx]	PN	PN	13	nmod	_	
+8	mu	mu[year]	N	N	7	_	heuristic: attach to last	
+9	us2-sa	us[follow]-a	V	NF.V.PT	8	_	heuristic: attach to last	
+10	e2	e[house]	N	N	9	_	heuristic: attach to last	
+11	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	10	_	heuristic: attach to last	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	1	_	_
+	
+

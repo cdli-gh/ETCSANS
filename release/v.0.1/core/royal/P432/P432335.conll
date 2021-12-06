@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Namma king of Ur when Susa he conquered and into his booty had made for him for his life he dedicated to him																						
+1	...	ur-{d}namma[1]	RN	RN	2	dep	_
+2	x-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	4	LOC	_
+3	nam-ra-asz	nam-ra[booty]	N	N.ADV	4	ADV	_
+4	mu-na-ak-a	ak[do]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	7	LOC	_
+5	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	7	TERM	_
+6	a	a[water]	N	N.ABS	7	ABS	_
+7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

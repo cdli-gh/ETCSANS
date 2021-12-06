@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: nanny goat its milk to feed piglet from Abbasaga did Lu-dingira accept under seal of Ea-bani month Akitu year divine chair was fashioned nanny goat its milk to feed piglet from Abbasaga did Lu-dingira take command of under seal of Ea-mlik month Akitu year divine chair was fashioned servant of
+# train/P108699.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	ud5	uzud[goat]	N	N	0	root	_	
+3	ga-bi	_[its]	V	V	4	nmod	_	
+4	ze2-da	_[milk]	V	V	2	acl	_	
+5	szah2	szah[pig][-ak]	N	N	6	_	_	
+6	gu7-de3	gu[eat]-ed-e	V	NF.V.F.DAT-NH	4	acl	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+9	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	10	_	_	
+10	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+11	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+12	e2-a-ba-ni	E'abani[1][-ra]	PN	PN	11	GEN	_	
+13	iti	iti[month]	N	N	11	appos	_	
+14	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	11	appos	_	
+15	mu	mu[year]	N	N	11	appos	_	
+16	{d}gu-<za>	guza[chair]	PN	N	17	ABS	_	
+17	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	15	acl	_	
+18	1(disz)	1(disz)[one]	NU	NU	19	nummod	_	
+19	ud5	uzud[goat]	N	N	17	acl	_	
+20	ga-bi	_[its]	V	V	21	acl	_	
+21	szah2	szah[pig][-ak]	N	N	19	appos	_	
+22	ze2-da	_[to]	V	V	23	_	_	
+23	gu7-de3	gu[eat]-ed-e	V	NF.V.F.DAT-NH	21	acl	_	
+24	ki	ki[place]	N	N	25	ABL	_	
+25	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	19	ABL	_	
+26	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	19	acl	_	
+27	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	26	acl	_	
+28	kiszib3	kiszib[seal]	N	N	26	LOC	_	
+29	e2!-a-ma-li2-ik	_[Ea-mlik]	PN	PN	28	GEN	_	
+30	iti	iti[month]	N	N	28	appos	_	
+31	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	28	appos	_	
+32	mu	mu[year]	N	N	28	appos	_	
+33	{d}gu-za	guza[chair]	PN	N	36	ABS	_	
+34	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	33	_	heuristic: attach to last	
+35	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	36	acl	_	
+36	...	_[_]	PN	N	32	dep	_	
+37	ARAD2	arad[slave]	N	N	36	ABS	_	
+38	{d}...	_[1][-'a]	MN	DN.GEN	37	GEN	_
+	
+

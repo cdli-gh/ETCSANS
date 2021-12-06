@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of Luduga foreman year house of Szara was erected
+# train/P339724.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	5	_	_	
+3	lu2-du10-ga	Luduga[1]	PN	PN	2	GEN	_	
+4	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+5	mu	mu[year]	N	N	1	appos	_	
+6	e2	e[house]	N	N	8	ABS	_	
+7	{d}szara2	Szara[1][-ak]	DN	DN	6	GEN	_	
+8	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	5	acl	_
+	
+

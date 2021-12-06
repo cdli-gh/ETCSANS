@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: k-equids ugid offerings for Great-festival th day from Ur-kununa booked out month Ubi-feast year Szu-Suen king of Ur Great-barge of Enlil and Ninlil fashioned
+# train/P102355.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	0	root	_	
+3	szu-gid2	szugid[animal_designation][-ø]	N	N	2	appos	_	
+4	ezem-mah-sze3	_[for.Great-festival]	N	N	2	DAT	_	
+5	u4	ud[day]	N	N	2	appos	_	
+6	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+7	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+10	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	9	acl	_	
+11	iti	iti[month]	N	N	12	_	_	
+12	u5-bi2{muszen}-gu7	Ubigu[1][-'a]	MN	MN.L1	2	appos	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	{d}szu-{d}suen	Szusuen[1]	RN	RN	20	ABS	_	
+15	lugal	lugal[king]	N	N	14	appos	_	
+16	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	15	GEN	_	
+17	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	14	appos	_	
+18	{d}en-lil2	Enlil[1]	DN	DN	17	GEN	_	
+19	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	18	appos	_	
+20	mu-ne-dim2	mu-nnee[-a][-n]-dim[create][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	12	acl	_
+	
+

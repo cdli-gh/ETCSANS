@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204045.atf
+# tr.en: Basket-of-tablets long-tablets sealed documents house of are here year Amar-Suen is king
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	5	nmod	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: attach to last	
+4	kiszib3	kiszib[seal]	N	N	5	acl	_	
+5	sze	sze[barley]	N	N	12	ABS	_	
+6	x	_[_]	N	N	5	dep	_	
+7	da	da[unknown]	N	N	5	appos	_	
+8	e2	e[house]	N	N	5	appos	_	
+9	x	_[_]	N	N	8	dep	_	
+10	x	_[_]	N	N	9	dep	heuristic: attach to last	
+11	NE	ne[unknown]	MN	MN	9	GEN	_	
+12	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+13	mu	mu[year]	N	N	15	_	_	
+14	{d}amar-suen	_[Amar-Suen.is]	PN	PN	15	ABS	_	
+15	lugal	lugal[king]	N	N	1	parataxis	_
+	
+

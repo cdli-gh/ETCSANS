@@ -1,0 +1,216 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Enlil indeed gave to him to Sz-Sin the mighty the king of Ur and king of world quarters the four favorite of Enlil and Sin the lands of Simaki He destroyed the land of Zabali the land of Sigri the land of Nibulmat the land of Alumiddatim the land of Garta and land Szatilu a total of six lands Azaar Bulma Nuumar Nuganelum Zizirtum Arair Indasu and life of in order with his life to escape and deity and deity and gods the whole and Ninurta as bailiff in From gold which he plundered a statue of himself he created and to Enlil his lord for his life he dedicated it The one who tablet this shall remove may Enlil and Ninlil his foundation tear out and his seed pluck up Inscription on hip of Indasu the captive king Indasu governor of Zabali Inscription on his shoulder Sz-Sin beloved of Enlil the king whom Enlil as one beloved of his heart did choose the mighty king king of Ur and king of four world quarters Inscription on back of a man of Indasu the captive king with a foot pressed down on him Titi governor of Nuumar Inscription on his right shoulder Samri governor of -li-x Inscription on his foot Nu-x-li governor of Alumiddatum Inscription on his chest Bunirni governor of Sigri Inscription on his left shoulder behind it Bariiza governor of Arair Inscription behind his left shoulder Waburtum governor of Lulubum Inscription on his left shoulder They are six captured men written upon and their six guards not written upon Nenibzu governor of Zizirtum Inscription behind his right side Tirubiu governor of Nuganelum Inscription behind his right shoulder -amti governor of Garta Inscription on his right shoulder-top Dungat governor of Nibulmat Inscription on his right shoulder-top They are four captured men written upon and their four guards not written upon In front of him behind him on his right and left sides Inscriptions the captive kings and Sz-Sin who upon Indasu has pressed down his foot
+# train/P465388.atf						#new_text=P465388
+# train/P465388.atf new_text=P465388
+1	{d}en-lil2	Enlil[1]	DN	DN	2	ERG	_	
+2	_i-di-szum-ma_	_[indeed.gave.to.him]	PN	PN.GEN.GEN.ABS	0	root	_	
+6	lugal	lugal[king]	N	N	2	ABS	_	
+7	uri5{ki}	Urim[1][-ak]	SN	SN.GEN	6	appos	_	
+8	u3	u[and]	CNJ	CNJ	6	appos	_	
+9	lugal	lugal[king]	N	N	6	appos	_	
+10	_ki-ib-ra-tim_	_[world.quarters]	N	N	6	GEN	_	
+11	_ar-ba-im_	_[the.four]	PN	PN	6	appos	_	
+12	_mi-gir_	_[favorite]	PN	PN	11	appos	_	
+13	{d}en-lil2	Enlil[1]	DN	DN	12	GEN	_	
+14	_u3_	u[and]	CNJ	CNJ	13	appos	_	
+15	{d}suen	_[Sin]	DN	DN	13	appos	_	
+16	_ma-ta-at_	_[the]	PN	PN	17	nmod	_	
+17	si-masz-ki-im{ki}	_[lands.Simaki]	SN	SN.GEN.ABS	11	appos	_	
+18	_u3-ha-li-iq_	_[He.destroyed]	PN	PN.ERG	2	parataxis	_	
+19	ma-da	mada[land][-ak][-ø]	N	N	18	ABS	_	
+20	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	19	GEN	_	
+21	...	_[_]	PN	N	18	dep	_	
+22	_ma-at_	_[the.land]	PN	PN	18	ABS	_	
+23	ni-bu-ul-ma-at{ki}	_[Nibulmat]	PN	PN.GEN.ABS	22	GEN	_	
+24	_ma-at_	_[the.land]	PN	PN	23	appos	_	
+25	a-lu-mi-id-da-tim{ki}	_[Alumiddatim]	GN	GN	24	GEN	_	
+26	_ma-at_	_[the.land]	PN	PN	23	appos	_	
+27	ga-ar-ta{ki}	_[Garta]	SN	SN	26	GEN	_	
+28	_ma-at_	_[and.land]	PN	PN	22	appos	_	
+29	sza-ti-lu{ki}	_[Szatilu]	SN	SN.GEN.GEN.ABS	22	appos	_	
+30	szu-nigin	_[a.total.six]	N	N	29	appos	_	
+31	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	projectivity violation	
+32	ma-da	mada[land][-ak][-ø]	N	N	30	GEN	_	
+33	a-za-ha-ar{ki}	_[Azaar]	PN	PN	47	ABS	_	
+34	bu-ul-ma{ki}	_[Bulma]	PN	PN	33	appos	_	
+35	nu-szu-usz-ma-ar{ki}	_[Nuumar]	PN	PN	33	appos	_	
+36	nu-usz-ga-ne-lu-um{ki}	_[Nuganelum]	PN	PN.GEN.ABS	33	appos	_	
+37	zi-zi-ir-tum{ki}	_[Zizirtum]	GN	GN	33	appos	_	
+38	a-ra-hi-ir{ki}	_[Arair]	GN	GN	33	appos	_	
+39	in-da-su2	_[Indasu]	N	N	40	nmod	_	
+40	...	_[_]	PN	N	33	dep	_	
+41	u3	u[and]	CNJ	CNJ	33	appos	_	
+42	ni-isz	_[life.of]	PN	PN	33	appos	_	
+43	...	_[_]	PN	N	42	dep	_	
+44	_a-na	_[in]	DET	DET	45	LOC	_	
+45	na-'a3-s'i-im_	_[order.with.his.life]	V	V	33	acl	_	
+46	sa-tu_-e	_[to.escape]	N	N.ABL	47	_	_	
+47	...	_[_]	PN	N	2	dep	_	
+48	u3	u[and]	CNJ	CNJ	47	appos	_	
+49	{d}...	_[1][-'a]	MN	DN.GEN	47	appos	_	
+50	u3	u[and]	CNJ	CNJ	47	appos	_	
+51	{d}...	_[1][-'a]	MN	DN.GEN	47	appos	_	
+52	{d}...	_[1][-'a]	MN	DN.GEN	47	appos	_	
+53	szar2-ra	_[the.whole]	V	V	47	acl	_	
+54	...	_[_]	PN	N	47	dep	_	
+55	u3	u[and]	CNJ	CNJ	47	appos	_	
+56	{d}nin-urta	Ninurta[1][-ra]	DN	DN	47	appos	_	
+57	maszkim	maszkim[administrator]	N	N.ABS	56	LOC	_	
+58	...	_[_]	PN	N	56	dep	_	
+59	_in_	_[in]	N	N	61	LOC	_	
+60	...	_[_]	PN	N	59	dep	heuristic: attach to last	
+61	x	_[_]	N	N	56	dep	_	
+62	...	_[_]	PN	N	61	dep	heuristic: attach to last	
+63	_i-na_	_[From]	PN	PN	64	ABL	_	
+64	ku3-sig17	kugsig[gold]	N	N	61	ABL	_	
+65	_sza	_	N	N	64	_	heuristic: attach to last	
+66	isz-lu-lu_	_[which.he.plundered]	PN	PN	64	acl	_	
+67	alan-_szu_	_[a.statue.himself]	N	N	66	ABS	_	
+68	_ib-ni-ma_	_[he.created.and]	PN	PN	67	acl	_	
+69	_a-na_	_[to]	DET	DET	70	_	_	
+70	{d}en-lil2	Enlil[1]	DN	DN	47	appos	_	
+71	_be-li2-szu_	_[his.lord]	PN	PN	70	ABS	_	
+72	_a-na_	_[for]	DET	DET	73	DAT	_	
+73	_na-'a3-s'i-szu_	_[his.life]	PN	PN	70	DAT	_	
+74	a	a[water][-ø]	N	N.ABS	75	ABS	_	
+75	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	73	acl	_	
+76	_sza	_[The]	N	N	77	nmod	_	
+77	t,up-pa2-am_	_[one.who.tablet]	PN	PN	79	ERG	_	
+78	_szu-a-ti_	_[this]	PN	PN	77	ABS	_	
+79	_u3-sza-sa3-ku_	_[shall.remove]	PN	PN	2	parataxis	_	
+80	{d}en-lil2	Enlil[1]	DN	DN	79	_	heuristic: attach to last	
+81	u3	u[and]	CNJ	CNJ	80	_	heuristic: attach to last	
+82	_{d}nin-lil2_-tum	_[and.Ninlil]	PN	PN	88	nmod	_	
+83	suhusz-_su2_	_[his.foundation]	PN	PN	84	ABS	_	
+84	_li-su2-ha_	_[tear.out]	PN	PN.GEN.DAT-H	88	acl	_	
+85	u3	u[and]	CNJ	CNJ	84	appos	_	
+86	sze-numun-_szu_	_[his.seed]	PN	PN	87	ABS	_	
+87	_li-il-qu2-ta2_	_[pluck.up]	PN	PN	84	appos	_	
+88	mu-sar-ra	_[Inscription]	PN	PN	79	ABS	_	
+89	ur2	_[on]	N	N	90	LOC	_	
+90	in-da-su	_[hip.Indasu]	V	V	88	acl	_	
+91	lugal	lugal[king]	N	N	88	appos	_	
+92	szaga	_[the.captive]	N	N	91	appos	_	
+93	in-da-su2	_[Indasu]	N	N	94	nmod	_	
+94	ensi2	ensik[ruler]	N	N	88	appos	_	
+95	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	94	GEN	_	
+96	mu-sar-ra	_[Inscription]	PN	PN	94	appos	_	
+97	za3-ga-na	_[on.his.shoulder]	N	N.GEN.3-SG-H-POSS.L1	96	LOC	_	
+98	{d}szu-{d}suen	Szusuen[1]	RN	RN	97	appos	_	
+99	ki-ag2	ki'ag[love][-ø]	V	NF.V	97	acl	_	
+100	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	99	GEN	_	
+101	lugal	lugal[king]	N	N	97	appos	_	
+102	{d}en-lil2-le	_[the.whom.Enlil]	DN	DN.ERG	101	appos	_	
+103	ki-ag2	ki'ag[love][-ø]	V	NF.V	105	LOC	_	
+104	sza3-ga-na	Szagana[1]	N	N.3-SG-H-POSS.L1	103	GEN	_	
+105	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	101	acl	_	
+106	lugal	lugal[king]	N	N	97	appos	_	
+107	kal-ga	kalag[strong]-a	V	NF.V.SUB	106	acl	_	
+108	lugal	lugal[king]	N	N	97	appos	_	
+109	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	108	GEN	_	
+110	lugal	lugal[king]	N	N	108	appos	_	
+111	an	An[1][-ra]	N	N	113	nummod	_	
+112	ub-da	_[world]	N	N	113	nmod	_	
+113	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	110	nummod	_	
+114	mu-sar-ra	_[Inscription]	PN	PN	88	appos	_	
+115	murgu	_[on]	N	N	116	LOC	_	
+116	x-KI	_[back]	PN	PN	114	LOC	_	
+117	lu2	lu[person]	N	N	88	appos	_	
+118	in-da-su2	_[Indasu]	N	N	117	GEN	_	
+119	lugal	lugal[king]	N	N	117	appos	_	
+120	szaga	_[the.captive]	N	N	119	appos	_	
+121	giri3	giri[foot]	N	N	88	appos	projectivity violation	
+122	an-us2-sa	_[with.a.foot.pressed.down.on.him]	PN	PN	119	COM	_	
+123	ti-ti	Titi[1][-ra]	PN	PN.DAT-H	88	appos	_	
+124	ensi2	ensik[ruler]	N	N	123	appos	_	
+125	nu-szu-usz-ma-ar{ki}	_[of.Nuumar]	PN	PN	124	GEN	_	
+126	mu-sar-ra	_[Inscription]	PN	PN	88	appos	_	
+127	za3	_[on]	N	N	128	LOC	_	
+128	zi-da-na	_[his.right.shoulder]	V	NF.V.ABS.GEN.GEN	126	acl	_	
+129	sa-am-ri	_[Samri]	PN	PN	128	appos	_	
+130	ensi2	ensik[ruler]	N	N	128	appos	_	
+131	x-x-li-x{ki}	_[-li-x]	GN	GN.GEN.ABS	130	GEN	_	
+132	mu-sar-ra	_[Inscription]	PN	PN	88	appos	_	
+133	giri3-na	_[on.his.foot]	N	N	132	LOC	_	
+134	nu-x-li	_[Nu-x-li]	PN	PN	133	appos	_	
+135	ensi2	ensik[ruler]	N	N	133	appos	_	
+136	a-lu-mi-id-da-tim	_[of.Alumiddatum]	N	N	137	GEN	_	
+137	mu-sar-ra	_[Inscription]	PN	PN	135	GEN	_	
+138	gaba-na	_[on.his.chest]	N	N	135	LOC	_	
+139	bu-ni-ir-ni	_[Bunirni]	PN	PN	138	appos	_	
+140	ensi2	ensik[ruler]	N	N	138	appos	_	
+141	si-ig-ri2-isz{ki}	_[of.Sigri]	GN	GN	140	GEN	_	
+142	mu-sar-ra	_[Inscription]	PN	PN	88	appos	_	
+143	za3	_[on.his]	N	N	144	LOC	_	
+144	gub3-bu	_[left.shoulder]	V	NF.V.PT.GEN.ABS	142	acl	_	
+145	egir-ra-na	_[behind.it]	PN	PN	142	LOC	_	
+146	ba-ri-hi-za	_[Bariiza]	PN	PN	149	nmod	_	
+147	ensi2	ensik[ruler]	N	N	146	appos	_	
+148	a-ra-hi-ir{ki}	_[of.Arair]	GN	GN	147	GEN	_	
+149	mu-sar-ra	_[Inscription]	PN	PN	2	parataxis	_	
+150	egir	_[behind]	N	N.ABS	152	LOC	_	
+151	za3	_[his]	N	N	152	nmod	_	
+152	gub3-bu-na	_[left.shoulder]	V	NF.V.PT.GEN	149	acl	_	
+153	wa-bur-tum	_[Waburtum]	PN	PN	156	nmod	_	
+154	ensi2	ensik[ruler]	N	N	153	appos	_	
+155	lu-lu-bi-im{ki}	_[of.Lulubum]	GN	GN	154	GEN	_	
+156	mu-sar-ra	_[Inscription]	PN	PN	152	appos	_	
+157	za3	_[on]	N	N	158	LOC	_	
+158	gub3-bu-na	_[his.left.shoulder]	V	NF.V.PT.GEN	156	acl	_	
+159	6(disz)	6(disz)[one][-sze]	NU	NU	162	nummod	heuristic: NU premodifying	
+160	lu2	lu[person]	N	N	159	_	heuristic: attach to last	
+161	szu-du8-a-me-esz	_[They.are]	N	N.3-SG-H-POSS.GEN	162	ABS	_	
+162	a-ab-sar	_[six.captured.men.written.upon]	N	N	149	appos	_	
+163	6(disz)	6(disz)[one][-sze]	NU	NU	167	nummod	_	
+164	lu2	lu[person]	N	N	163	_	heuristic: attach to last	
+165	en-nu-ug3-bi	_[and]	N	N.GEN.3-SG-H-POSS.ABS	167	nmod	_	
+166	nu-ub-sar	_[their.six.guards.not.written.upon]	PN	PN	167	nmod	_	
+167	nu-ub-sar	_[their.six.guards.not.written.upon]	V	V	162	acl	_	
+168	ne-ni-ib2-zu	_[Nenibzu]	PN	PN.	171	nmod	_	
+169	ensi2	ensik[ruler]	N	N	168	appos	_	
+170	zi-zi-ir-tum{ki}	_[of.Zizirtum]	GN	GN	169	GEN	_	
+171	mu-sar-ra	_[Inscription]	PN	PN	167	ABS	_	
+172	egir	_[behind]	N	N.ABS	173	LOC	_	
+173	zi-da-na	_[his.right.side]	V	NF.V.ABS.GEN.GEN	171	acl	_	
+174	ti-ru-bi-u2	_[Tirubiu]	PN	PN.GEN.ERG	173	appos	_	
+175	ensi2	ensik[ruler]	N	N	173	appos	_	
+176	nu-usz-ga-ne-lu-um{ki}	_[of.Nuganelum]	PN	PN.GEN.ABS	175	GEN	_	
+177	mu-sar-ra	_[Inscription]	PN	PN	167	appos	_	
+178	egir	_[behind]	N	N.ABS	180	LOC	_	
+179	za3	_[his]	N	N	180	nmod	_	
+180	zi-da-ni	_[right.shoulder]	V	V	177	acl	_	
+181	x-am-ti	_[-amti]	PN	PN	180	appos	_	
+182	ensi2	ensik[ruler]	N	N	180	appos	_	
+183	ga-ar-ta{ki}	_[of.Garta]	SN	SN	182	GEN	_	
+184	mu-sar-ra	_[Inscription]	PN	PN	177	appos	_	
+185	za3-si	_[on.his]	N	N	186	LOC	_	
+186	zi-da-ni	_[right.shoulder-top]	V	V	184	acl	_	
+187	dun-ga2-at	_[Dungat]	PN	PN	186	appos	_	
+188	ensi2	ensik[ruler]	N	N	186	appos	_	
+189	ni-bu-ul-ma-at{ki}	_[of.Nibulmat]	PN	PN.GEN.ABS	188	GEN	_	
+190	mu-sar-ra	_[Inscription]	PN	PN	184	appos	_	
+191	za3-si	_[on.his]	N	N	192	LOC	_	
+192	zi-da-ni	_[right.shoulder-top]	V	V	190	acl	_	
+193	4(disz)	4(disz)[one]	NU	NU	196	nummod	heuristic: NU premodifying	
+194	lu2	lu[person]	N	N	193	_	heuristic: attach to last	
+195	szu-du8-a-me-esz	_[They.are]	N	N.3-SG-H-POSS.GEN	196	ABS	_	
+196	a-ab-sar	_[four.captured.men.written.upon]	N	N	162	parataxis	_	
+197	4(disz)	4(disz)[one]	NU	NU	200	nummod	_	
+198	lu2	lu[person]	N	N	197	_	heuristic: attach to last	
+199	en-nu-ug3-bi	_[four]	N	N.GEN.3-SG-H-POSS.ABS	200	nummod	_	
+200	nu-ub-sar	_[and.their.guards.not.written.upon]	PN	PN	196	acl.ADV	_	
+201	igi-na	_[In.front]	N	N	200	LOC	_	
+202	egir-ra-na	_[him.behind.him]	PN	PN	201	GEN	_	
+203	zi-da	zid[right]-a	V	NF.V.PT	201	acl	_	
+204	gub3-bu-na	_[and.left.sides]	V	NF.V.PT.GEN	203	appos	_	
+205	mu-sar-ra	_[Inscriptions]	PN	PN	203	appos	_	
+206	lugal	lugal[king]	N	N	205	_	heuristic: attach to last	
+207	szaga-me-esz	_[the.captive.kings]	N	N	205	appos	_	
+208	u3	u[and]	CNJ	CNJ	207	appos	_	
+209	{d}szu-{d}suen	Szusuen[1]	RN	RN	207	appos	_	
+210	lu2	lu[person]	N	N	209	_	heuristic: attach to last	
+211	in-da-su	_[who.upon.Indasu]	V	V	213	acl	projectivity violation	
+212	giri3	giri[foot]	N	N	2	appos	projectivity violation	
+213	an-us2-sa	_[has.pressed.down.his.foot]	PN	PN	207	acl	_
+	
+

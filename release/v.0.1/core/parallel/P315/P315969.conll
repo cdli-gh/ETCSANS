@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of of Ennungal- Lu-Ningirsu son of Bazi month Festival-of-Mekigal of month are here year Simurum Lulubu
+# train/P315969.atf new_text=P315969
+# train/P315969.atf						#new_text=P315969
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	en-nun-gal	_[Ennungal-]	N	N.GEN	2	GEN.GEN	_	
+4	x	_[_]	N	N	3	dep	_	
+5	x	_[_]	N	N	4	dep	heuristic: attach to last	
+6	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	3	appos	_	
+7	dumu	dumu[child]	N	N	3	appos	_	
+8	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	7	GEN	_	
+9	iti	iti[month]	N	N	3	appos	_	
+10	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	2	appos	_	
+11	iti	iti[month]	N	N	10	GEN	_	
+12	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	heuristic: NU premodifying; projectivity violation	
+13	...-ga2	_	V	V	12	_	heuristic: attach to last	
+14	...	_[_]	PN	N	13	dep	heuristic: attach to last	
+15	x	_[_]	N	N	14	dep	heuristic: attach to last	
+16	sze	sze[barley]	N	N	10	appos	heuristic: after nominal head	
+17	...{ki}	_[1][-ø]	SN	SN.ABS	10	appos	_	
+18	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	10	_	_	
+19	mu	mu[year]	N	N	23	_	_	
+20	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	23	nmod	_	
+21	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	10	parataxis	_
+	
+

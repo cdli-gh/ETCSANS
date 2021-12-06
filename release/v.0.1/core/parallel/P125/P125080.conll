@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P125080.atf
+# tr.en: bundles of fodder reed under seal of Ratface from Elder did Pretty receive year Wall was built
+1	8(szar2)	8(szar)[thirty-six_hundred][-ø]	NU	NU.ABS	4	nummod	_	
+2	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	1	nummod	_	
+3	6(gesz2)	6(gesz)[sixty]	NU	NU	1	nummod	_	
+4	sa	sa[bundle]	N	N	12	_	_	
+5	gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	4	GEN	_	
+6	kiszib3	kiszib[seal]	N	N	4	LOC	_	
+7	igi-pesz2	_[Ratface]	PN	PN	6	GEN	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	ab-ba-ta	_[Elder]	PN	PN.GEN.ABL	4	ABL	_	
+10	ba-sa6	Basa[1][-ak]	PN	PN.GEN	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	bad3	bad[wall]	N	N	15	ABS	_	
+15	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

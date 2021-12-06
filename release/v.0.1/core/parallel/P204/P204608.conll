@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204608.atf
+# tr.en: Basket-of-tablets long-tablets of Lu-melam son of Baya Ur-Igalim scribe of messengers and ARADmu son of Lugal-nemur are here year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	14	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: attach to last	
+4	lu2-me-lam2	_[Lu-melam]	PN	PN.GEN.ABL	2	GEN	_	
+5	dumu	dumu[child]	N	N	2	appos	_	
+6	ba-a	ba[allot]-a	PN	NF.V.PT	5	GEN	_	
+7	ur-{d}ig-alim	Urigalim[1]	FN	PN	6	appos	_	
+8	dub-sar	dubsar[scribe]	N	N	6	appos	_	
+9	kas4	kas[runner][-ra]	N	N.DAT-H	8	GEN	_	
+10	u3	u[and]	CNJ	CNJ	6	appos	_	
+11	ARAD2-mu	Aradmu[1]	PN	PN	6	appos	_	
+12	dumu	dumu[child]	N	N	2	appos	_	
+13	lugal-nemurx(|PIRIG.TUR|)	_[Lugal-nemur]	PN	PN	12	GEN	_	
+14	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+15	mu	mu[year]	N	N	18	_	_	
+16	en	en[priest]	N	N	18	_	_	
+17	x	_[_]	N	N	18	dep	_	
+18	ki	ki[place]	N	N	14	parataxis	_	
+19	x	_[_]	N	N	1	dep	heuristic: after nominal head	
+20	x	_[_]	N	N	1	dep	_	
+21	en	en[priest]	N	N	1	appos	_	
+22	x	_[_]	N	N	0	dep	_	
+23	...	_[_]	PN	N	0	dep	_	
+24	ba-...	_	PN	PN.GEN	0	_	_
+	
+

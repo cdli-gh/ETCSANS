@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Nanibgal governor of Nibru Lugal-mea messenger overseer of soldiers your servant
+1	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	lugal-me3-a	lugal-me3-a[1]	PN	PN	1	_	_
+5	sukkal	sukkal[secretary]	N	N	4	appos	_
+6	kas4	kasz4[runner]	N	N.GEN	5	appos	_
+7	ugula	ugula[overseer]	N	N	4	appos	_
+8	aga3-us2	aga3-us2[soldier]	N	N.GEN.ABS	7	GEN	_
+9	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	4	appos	_
+

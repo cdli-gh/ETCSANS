@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Sumer and Akkad for his life he dedicated it to himher A person who this inscription shall erase																						
+1	lugal	lugal[king]	N	N	6	ERG	_
+2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_
+3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_
+4	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	6	TERM	_
+5	a	a[water]	N	N.ABS	6	ABS	_
+6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+7	lu2	lu2[person]	N	N	10	LOC	_
+8	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	7	appos	_
+9	szu	szu[hand]	N	N.ABS	10	ABS	_
+10	bi2-ib2-ur3-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	ABS	_
+

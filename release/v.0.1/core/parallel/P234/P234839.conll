@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P234839.atf
+# tr.en: sila beer sila bread shekels oil Abuni gone away to capture runaways sila beer sila bread shekels oil shekels tallow Idizu big-gendarme sila beer sila bread shekels oil Szu-Erra booked out th day month Grain lifted
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	sila3	sila[unit]	N	N	3	nmod	_	
+3	kasz	kasz[beer]	N	N	0	_	_	
+4	2(disz)	2(disz)[one]	NU	NU	9	nummod	projectivity violation	
+5	sila3	sila[unit]	N	N	2	appos	_	
+6	ninda	ninda[bread]	N	N	2	appos	_	
+7	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+8	gin2	gig[unit]	N	N	9	nmod	_	
+9	i3	i[oil]	N	N	2	appos	_	
+10	a-bu-ni	Abuni[1][-ak]	PN	PN.GEN	2	appos	_	
+11	lu2	zah[disappear][-a]	V	NF.V.PT	0	_	_	
+12	zah3	_	V	V	18	acl	_	
+13	dab5-de3	gen[go]-a	V	NF.V.PT	18	acl	heuristic: attach to head	
+14	2(disz)	2(disz)[one]	NU	NU	18	nummod	_	
+15	sila3	sila[unit]	N	N	18	nmod	_	
+16	kasz	kasz[beer]	N	N	0	parataxis	_	
+17	2(disz)	2(disz)[one]	NU	NU	24	nummod	projectivity violation	
+18	sila3	sila[unit]	N	N	21	nmod	_	
+19	ninda	ninda[bread]	N	N	18	appos	_	
+20	2(disz)	2(disz)[one]	NU	NU	27	nummod	projectivity violation	
+21	gin2	gig[unit]	N	N	24	nmod	_	
+22	i3	i[oil]	N	N	18	appos	_	
+23	2(disz)	2(disz)[one]	NU	NU	26	nummod	heuristic: NU premodifying	
+24	gin2	gig[unit]	N	N	18	appos	_	
+25	i3-udu	i'udu[sheep_fat]	N	N	26	appos	_	
+26	i-di3-zu	_	PN	PN	27	appos	_	
+27	lu2	lu[person]	N	N	33	nummod	projectivity violation	
+28	{gesz}tukul-gu-la	tukulgal[big_weapon_carrier][-ra]	N	N.DAT-H	27	appos	_	
+29	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+30	sila3	sila[unit]	N	N	33	nmod	_	
+31	kasz	kasz[beer]	N	N	27	appos	_	
+32	2(disz)	2(disz)[one]	NU	NU	39	nummod	projectivity violation	
+33	sila3	sila[unit]	N	N	36	nmod	_	
+34	<ninda>	ninda[bread]	N	N	33	appos	_	
+35	2(disz)	2(disz)[one]	NU	NU	33	nummod	_	
+36	gin2	gig[unit]	N	N	39	nmod	_	
+37	i3	i[oil]	N	N	33	appos	_	
+38	szu-er3-ra	Szu'era[1][-e]	PN	PN	33	appos	_	
+39	zi-ga	zig[expend]-a	V	NF.V.PT	27	acl	_	
+40	u4	ud[day]	N	N	41	appos	_	
+41	2(u)	2(u)[ten]	NU	NU	41	nummod	_	
+42	5(disz)	5(disz)[one]	NU	NU	43	nummod	_	
+43	iti	iti[month]	N	N	41	date	_	
+44	sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	41	parataxis	_
+	
+

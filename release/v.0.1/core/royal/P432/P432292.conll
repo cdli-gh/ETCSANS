@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Sin beloved of Enlil the king whom Enlil as beloved in his heart did choose the strong king king of Ur and king of four world quarters his beloved temple he built
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	2	ABS	_
+2	ki-ag2	ki[place]+ag2[measure]	V	NF.V	6	ERG	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	2	appos	_
+5	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	4	appos	_
+6	ki-ag2	ag2[measure]	V	NF.V	8	LOC	_
+7	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	6	appos	_
+8	in-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+9	lugal	lugal[king]	N	N	18	ERG	_
+10	kal-ga	kalag[strong]	V	NF.V.PT	9	amod	_
+11	lugal	lugal[king]	N	N	9	appos	_
+12	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_
+13	lugal	lugal[king]	N	N	9	appos	_
+14	an	_	_	_	13	_	_
+15	ub-da	an-ub-da[quarter]	N	N	13	appos	_
+16	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	15	nummod	_
+17	e2	e2[house]	N	N	18	ABS	_
+18	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	19	ABS	_
+19	mu-du3	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+

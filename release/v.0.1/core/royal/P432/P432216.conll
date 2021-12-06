@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nanna his master Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life he dedicated to him Of this statue Nanna is My Wall is its name																						
+1	{d}nanna	{d}nanna[1]	DN	DN	13	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	szul-gi	szul-gi[1]	RN	RN	13	ERG	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_
+10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_
+11	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	13	TERM	_
+12	a	a[water]	N	N.ABS	13	ABS	_
+13	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+14	alan-ba	alan[statue]	N	N.DEM2.GEN	1	GEN	_
+15	{d}nanna	{d}nanna[1]	DN	DN.ABS	14	GEN	_
+16	bad3-x-mu	bad3[wall]	N	N.1-SG-POSS.ABS	1	parataxis	_
+17	mu-bi-im	_[is.its.name]	N	N	16	_	_
+

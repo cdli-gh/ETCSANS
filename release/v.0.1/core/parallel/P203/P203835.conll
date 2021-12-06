@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203835.atf
+# tr.en: Basket-of-tablets accounts of Lu-Baba son of Lu-Utu oxen and donkeys of nagabtum from house of sheep and plow-oxen grand totals chairholders debts shepherds of nagabtum sheep sacrifice sheep of sacrifice are here year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	23	ABS	_	
+3	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	2	GEN	_	
+4	dumu	dumu[child]	N	N	3	appos	_	
+5	lu2-{d}utu	Lu'utu[1]	PN	PN	4	GEN	_	
+6	gu4	gud[ox]	N	N	5	appos	_	
+7	ansze	ansze[donkey]	N	N	5	appos	_	
+8	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	5	GEN	_	
+9	e2	e[house]	N	N	4	ABL	_	
+10	udu	udu[sheep]	N	N	9	GEN	_	
+11	gu4-apin-ta	_[from.and.plow-oxen]	N	N.GEN.ABL	9	ABL	_	
+12	nigin-na	_[grand.totals]	V	V	3	acl	_	
+13	gu-za-la2	guzala[throne_bearer]	N	N	3	appos	_	
+14	la2-ia3	la'u[arrears]	N	N	3	appos	_	
+15	e3	e[leave][-a]	V	NF.V.PT	14	_	heuristic: attach to last	
+16	du3-a-bi	_	V	NF.V.PT.3-SG-NH-POSS	15	_	heuristic: attach to last	
+17	sipa	sipa[shepherd]	N	N	3	appos	_	
+18	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	19	nmod	_	
+19	udu	udu[sheep]	N	N	17	GEN	_	
+20	siskur2	siszkur[offering]	N	N	19	appos	_	
+21	udu	udu[sheep]	N	N	19	appos	_	
+22	siskur2-ra	_[sacrifice.sacrifice]	N	N.GEN.3-SG-H-POSS.L1	19	appos	_	
+23	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+24	mu	mu[year]	N	N	23	appos	_
+	
+

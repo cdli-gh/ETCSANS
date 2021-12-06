@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ea-nia beloved lukur of king Inzuzu your servant	
+1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	root	_
+2	lukur	lukur[priestess]	N	N	3	ABS	_
+3	ki-ag2	ki[place]+ag2[measure]	V	NF.V	1	amod	_
+4	lugal	lugal[king]	N	N.GEN.ABS	3	GEN	_
+5	in-zu-zu	in-zu-zu[1]	PN	PN.ABS	6	nmod	_
+6	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

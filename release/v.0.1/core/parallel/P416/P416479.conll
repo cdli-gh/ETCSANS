@@ -1,0 +1,56 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: buck barley-fed good quality bucks barley-fed nd grade bucks barley-fed th grade female kids barley-fed th grade female kids barley-fed unweaned kid female kids delivery and to give from Aba-Enlilgin Duyudu accepted year Szu-Sin king of Ur erected grand-stele for Enlil Ninlil small cattle
+# train/P416479.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	masz2-gal	maszgal[billy_goat]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	2	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	9	nummod	projectivity violation	
+6	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	9	acl	projectivity violation	
+8	saga	saga[good][-ø]	V	NF.V.ABS	11	acl	projectivity violation	
+9	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+10	7(disz)	7(disz)[one][-sze]	NU	NU	9	nummod	_	
+11	masz2-gal	maszgal[billy_goat]	N	N	9	appos	_	
+12	niga	niga[fattened][-ø]	V	NF.V.ABS	9	appos	_	
+13	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	16	nummod	projectivity violation	
+14	us2	us[follow][-ø]	V	NF.V.ABS	9	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	9	nummod	_	
+16	{munus}asz2-gar3	aszgar[female_kid]	PN	N	9	appos	_	
+17	niga	niga[fattened][-ø]	V	NF.V.ABS	9	appos	_	
+18	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	21	nummod	projectivity violation	
+19	us2	us[follow][-ø]	V	NF.V.ABS	9	appos	_	
+20	2(disz)	2(disz)[one]	NU	NU	9	nummod	_	
+21	{munus}asz2-gar3	aszgar[female_kid]	PN	N	9	appos	_	
+22	niga	niga[fattened][-ø]	V	NF.V.ABS	9	appos	_	
+23	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+24	masz2	masz[goat]	N	N	9	appos	_	
+25	gaba	gaba[frontier][-ak]	N	N	24	acl	_	
+26	2(disz)	2(disz)[one]	NU	NU	9	nummod	_	
+27	{munus}asz2-gar3	aszgar[female_kid]	PN	N	26	acl	_	
+28	...	_[_]	PN	N	26	dep	_	
+29	mu-kux(DU)	mukur[delivery][-ø]	N	N	9	appos	_	
+30	u3	u[and]	CNJ	CNJ	2	appos	projectivity violation	
+31	...	_[_]	PN	N	30	dep	heuristic: attach to last	
+32	tesz2-a	_[and]	N	N	9	appos	_	
+33	szum2-de3	_[to]	V	V	32	_	heuristic: attach to last	
+34	gesz-bur2	_	N	N	2	appos	projectivity violation	
+35	nu-su-su	_[give]	V	NF.V.RDP.PF	9	acl	_	
+36	ki	ki[place]	N	N	37	ABL	_	
+37	a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1][-ak]-ta	PN	PN.GEN.ABL	2	appos	_	
+38	du-u2-du	_[Duyudu]	PN	PN.GEN.ABS	39	ABS	_	
+39	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	37	acl	_	
+40	mu	mu[year]	N	N	44	date	_	
+41	{d}szu-{d}suen	Szusuen[1]	RN	RN	44	_	_	
+42	lugal	lugal[king]	N	N	44	ERG	_	
+43	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	42	GEN	_	
+44	na-ru2-a	narua[stele]	PN	N	37	parataxis	_	
+45	mah	mah[great][-ø][-ø]	V	NF.V	44	_	heuristic: attach to last	
+46	{d}en-lil2	Enlil[1]	DN	DN	47	DAT	_	
+47	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	44	DAT	_	
+48	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	44	acl	_	
+49	2(u)	2(u)[ten]	NU	NU	2	nummod	projectivity violation	
+50	5(disz)	5(disz)[one]	NU	NU	49	nummod	_	
+51	udu	udu[sheep]	N	N	37	appos	_
+	
+

@@ -1,0 +1,54 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P404808.atf
+# tr.en: male lamb Enlil male lamb Ninlil delivery Szedada household manager the zabar-dab official deputy cows rams ewe male lamb male kids nanny goats u-gid for kitchen domestic jennies slaughtered for warehouse booked out th day month Big Festival year Sulgi king heads of Urbilum Simurrum Lullubu and Karar in a single campaign did smash
+1	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+2	sila4	sila[lamb]	N	N	6	acl	_	
+3	{d}en-lil2	Enlil[1]	DN	DN	6	nmod	_	
+4	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+5	sila4	sila[lamb]	N	N	6	nmod	_	
+6	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	0	root	_	
+7	mu-kux(DU)	mukur[delivery][-ø]	N	N	8	nmod	_	
+8	szesz-da-da	Szeszdada[1]	PN	PN	6	appos	_	
+9	sanga	sagga[temple_administrator]	N	N	6	appos	_	
+10	zabar-dab5	zabardab[official][-e]	N	N	11	nmod	_	
+11	maszkim	maszkim[administrator]	N	N.ABS	6	appos	_	
+12	2(disz)	2(disz)[one]	NU	NU	13	nummod	_	
+13	ab2	ab[cow][-ø]	N	N	11	appos	_	
+14	1(u)	1(u)[ten]	NU	NU	19	nummod	projectivity violation	
+15	la2	la[hang][-ø]	V	NF.V.ABS	14	_	_	
+16	1(disz@t)	1(disz)[one]	NU	NU	15	nummod	_	
+17	udu	udu[sheep]	N	N	13	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+19	u8	u[ewe]	N	N	13	appos	_	
+20	1(disz)	1(disz)[one]	NU	NU	23	nummod	projectivity violation	
+21	sila4	sila[lamb]	N	N	13	appos	_	
+22	7(disz)	7(disz)[one][-sze]	NU	NU	13	nummod	_	
+23	masz2	masz[goat]	N	N	13	appos	_	
+24	2(disz)	2(disz)[one]	NU	NU	25	nummod	heuristic: NU premodifying	
+25	ud5	uzud[goat]	N	N	23	appos	_	
+26	szu-gid2	szugid[animal_designation][-ø]	N	N	13	appos	_	
+27	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	26	TERM	_	
+28	2(disz)	2(disz)[one]	NU	NU	29	nummod	_	
+29	dusu2-munus	_[domestic.jennies]	N	N	11	appos	_	
+30	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	29	acl	_	
+31	e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	29	TERM	_	
+32	zi-ga	zig[expend]-a	V	NF.V.PT	11	acl	_	
+33	u4	ud[day]	N	N	32	appos	_	
+34	2(u)	2(u)[ten]	NU	NU	11	nummod	_	
+35	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	34	nummod	_	
+36	iti	iti[month]	N	N	37	nmod	_	
+37	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	11	appos	_	
+38	mu	mu[year]	N	N	37	appos	_	
+39	{d}szul-gi	Szulgir[1]	RN	RN	6	appos	projectivity violation	
+40	lugal-e	lugal[king]-e	N	N.ERG	47	nmod	projectivity violation	
+41	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	48	GEN	projectivity violation	
+42	lu-lu-bu	Lulubu[1][-ø]	SN	SN.ABS	41	appos	_	
+43	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	41	appos	_	
+44	u3	u[and]	CNJ	CNJ	41	appos	_	
+45	kar2-har	_[Karar]	GN	GN	41	appos	_	
+46	asz-sze3	asz[one]-sze	NU	NU.TERM	48	nummod	projectivity violation	
+47	sagdu-bi	_[Sulgi]	N	N.3-SG-NH-POSS.ABS	37	appos	_	
+48	szu-bur2-a	_[heads]	N	N	49	ABS	_	
+49	bi2-ra-a	_[campaign.did.smash]	V	V	47	acl	_
+	
+

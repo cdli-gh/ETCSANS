@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P320378.atf
+# tr.en: Basket-of-tablets from fields sent out house of Ninmar are here year Ibbi-Suen is king
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	6	ABS	_	
+2	a-sza3-ta	_[from.fields]	N	N.ABL	1	ABL	_	
+3	e11-da	_[sent.out]	PN	PN	2	acl	_	
+4	e2	e[house]	N	N	2	appos	_	
+5	{d}nin-mar{ki}	_[Ninmar]	DN	DN	4	GEN	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	0	root	_	
+7	mu	mu[year]	N	N	9	_	_	
+8	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	9	ABS	_	
+9	lugal	lugal[king]	N	N	6	parataxis	_
+	
+

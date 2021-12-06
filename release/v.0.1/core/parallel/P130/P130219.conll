@@ -1,0 +1,91 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P130219.atf						#new_text=P130219
+# dev/P130219.atf new_text=P130219
+# tr.en: male laborer for workdays from Umma-harbor to Irisagrig barge punted for workday barley transferred and barley in barge loaded from Irisagrig two workdays to reservoir of Vineyard barge punted for workday at Uriru-village barley transferred for workdays from Uriru-village to reservoir of Amar-Suentum canal barley carried from reservoir of Amar-Suentum canal for workdays to Irisagrig barge punted and transfer done for workdays from Irisagrig to mouth of Damimama barge punted for workdays to Umma barge floated for workday barge unloaded for workday barley transferred foreman Lugal-Emae under seal of Adumu year boat of Enki was caulked Ur-Suen scribe son of Ur-gigir official
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	gurusz	gurusz[male]	N	N	9	ABS	_	
+3	u4	ud[day]	N	N	2	DAT	_	
+4	4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+5	kar	_[from]	N	N	6	ABL	_	
+6	umma{ki}-ta	Umma[1][-ak]-ta	SN	SN.GEN.ABL	2	ABL	_	
+7	iri-sa12-rig7{ki}-sze3	_[to.Irisagrig]	SN	SN.GEN.TERM	8	LOC	_	
+8	ma2	ma[ship]	N	N	6	LOC	_	
+9	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	0	root	_	
+10	u4	ud[day]	N	N	12	DAT	projectivity violation	
+11	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	9	nummod	_	
+12	sze	sze[barley]	N	N	9	DAT	_	
+13	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	12	appos	_	
+14	u3	u[and]	CNJ	CNJ	12	appos	_	
+15	sze	sze[barley]	N	N	12	appos	_	
+16	ma2-a	ma[ship]-'a	N	N.L1	12	LOC	_	
+17	si-ga	sig[load]-a	N	NF.V.PT	16	acl	_	
+18	iri-sa12-rig7{ki}-ta	Irisagrig[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	9	ABL	_	
+19	u4	ud[day]	N	N	18	_	heuristic: attach to last	
+20	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	25	nummod	heuristic: NU premodifying	
+21	kun-zi-da	kunzida[weir]	N	N	25	ABS	_	
+22	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	21	_	heuristic: attach to last	
+23	gesztin-sze3	_[Vineyard]	N	N.3-SG-H-POSS.TERM	24	nmod	_	
+24	ma2	ma[ship]	N	N	21	GEN	_	
+25	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	18	acl	_	
+26	u4	ud[day]	N	N	25	appos	_	
+27	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	29	nummod	heuristic: NU premodifying	
+28	e2-duru5	eduru[village]	N	N	29	DAT	_	
+29	uri3-ru2-a-ka	_[workday.at.Uriru-village]	GN	GN	25	DAT	_	
+30	sze	sze[barley]	N	N	29	LOC	_	
+31	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	30	acl	_	
+32	u4	ud[day]	N	N	52	DAT	_	
+33	7(disz)-sze3	7(disz)[one]-sze	NU	NU.TERM	36	nummod	heuristic: NU premodifying	
+34	e2-duru5	eduru[village]	N	N	36	ABL	_	
+35	szesz	szesz[brother]	N	N	34	_	heuristic: attach to last	
+36	du3-a-ta	_[Uriru-village]	V	V	32	acl	_	
+37	kun-zi-da	kunzida[weir]	N	N	32	LOC	_	
+38	i7	id[river]	N	N	37	_	heuristic: after nominal head	
+39	{d}amar-{d}suen-ni-tum-sze3	_[Amar-Suentum.canal]	WN	WN	40	nmod	_	
+40	sze	sze[barley]	N	N	37	GEN	_	
+41	ga6-ga2	gag[carry]-a	V	NF.V.PT	52	ccomp 	_	
+42	kun-zi-da	kunzida[weir]	N	N	41	_	heuristic: attach to last	
+43	i7	id[river]	N	N	42	_	heuristic: attach to last	
+44	{d}amar-{d}suen-ni-tum-ta	_[from.reservoir.Amar-Suentum.canal]	DN	DN	41	ABL	_	
+45	u4	ud[day]	N	N	44	DAT	_	
+46	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	48	nummod	heuristic: NU premodifying	
+47	iri-sa12-rig7-sze3	_[to.Irisagrig]	N	N	48	LOC	_	
+48	ma2	ma[ship]	N	N	45	LOC	_	
+49	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	52	_	_	
+50	u3	u[and]	CNJ	CNJ	49	appos	_	
+51	bala	bala[turn][-'a]	N	N.L1	49	appos	_	
+52	ak	ak[excavate][-a][-ak]	V	NF.V.PT	25	parataxis	_	
+53	u4	ud[day]	N	N	64	DAT	_	
+54	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	55	nummod	heuristic: NU premodifying	
+55	iri-sa12-rig7{ki}-ta	Irisagrig[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	53	ABL	_	
+56	ka	kag[mouth]	N	N	57	LOC	_	
+57	da-mi-ma-ma-sze3	_[mouth.Damimama]	V	V	53	acl	_	
+58	ma2	ma[ship]	N	N	57	GEN	_	
+59	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	64	ABS	_	
+60	u4	ud[day]	N	N	59	TERM	_	
+61	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	64	nummod	projectivity violation	
+62	umma{ki}-sze3	_[to.Umma]	SN	SN.GEN.TERM	63	LOC	_	
+63	ma2	ma[ship]	N	N	60	LOC	_	
+64	diri-ga!(DA)	_[floated]	V	NF.V.PT.GEN	52	appos	_	
+65	u4	ud[day]	N	N	67	DAT	projectivity violation	
+66	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	52	nummod	projectivity violation	
+67	ma2	ma[ship]	N	N	64	DAT	_	
+68	ba-al-la	bala[transfer]-a	V	NF.V.PT	67	acl	_	
+69	u4	ud[day]	N	N	71	DAT	projectivity violation	
+70	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	52	nummod	_	
+71	sze	sze[barley]	N	N	52	appos	_	
+72	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	71	appos	_	
+73	ugula	ugula[overseer][-ø]	N	N	52	appos	_	
+74	lugal-e2-mah-e	Lugalemahe[1]	N	PN	77	nmod	_	
+75	kiszib3	kiszib[seal]	N	N	77	LOC	_	
+76	a-du-mu	Adumu[1][-ra]	PN	PN.GEN	75	GEN	_	
+77	mu	mu[year]	N	N	73	appos	_	
+78	ma2	ma[ship]	N	N	80	ABS	_	
+79	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	78	GEN	_	
+80	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	77	acl	_	
+81	ur-{d}suen	Ursuen[1]	PN	PN	77	appos	_	
+82	dub-sar	dubsar[scribe]	N	N	81	appos	_	
+83	dumu	dumu[child]	N	N	81	appos	_	
+84	ur-{gesz}gigir	Urgigir[1]	PN	PN	83	GEN	_	
+85	sza3-tam	_[official]	N	N.ABS	84	appos	_
+	
+

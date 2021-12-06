@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the strong man king of Ur and king of four world quarters for his life thirty minas he standardized for him	
+1	nita	nita[male]	N	N	0	root	_
+2	kal-ga	kalag[strong]	V	NF.V.PT	1	amod	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	3	GEN	_
+5	lugal	lugal[king]	N	N	1	appos	_
+6	an	_	_	_	5	_	_
+7	ub-da	an-ub-da[quarter]	N	N	5	appos	_
+8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	nummod	_
+9	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	5	root	_
+10	3(u@c)	nam-til3[life]+_[_]	NU	n	0	nummod	_
+11	ma-na	ma-na[unit]	N	N.ABS	12	ABS	_
+12	mu-na-gi-in	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	_	_
+

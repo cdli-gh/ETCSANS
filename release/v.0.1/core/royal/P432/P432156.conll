@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ningublaga his master Ur-Namma the mighty man the lord of Uruk king of Ur and king of Sumer and Akkad for his life he dedicated it to him
+1	{d}nin-gubalag	{d}nin-gublaga[1]	DN	DN	15	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	en	en[lord]	N	N	3	appos	_
+7	unu{ki}-ga	unug{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	uri{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	3	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_
+14	a	a[water]	N	N.ABS	15	ABS	_
+15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ruler of Laga built his E-dura	
+1	...-x-x	_[_]	u	u	7	dep	_
+2	ensi2	ensi2[ruler]	N	N	7	ERG	_
+3	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	2	GEN	_
+4	e2	_	_	_	7	_	_
+5	ansze	_	_	_	7	_	_
+6	dur9{ur3}-ka-ni	e2-{ansze}du24-ur3[1]	TN	TN.3-SG-H-POSS.ABS	7	ABS	_
+7	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

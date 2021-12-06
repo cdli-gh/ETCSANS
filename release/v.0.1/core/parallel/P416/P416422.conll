@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P416422.atf
+# tr.en: hybrid goat nann goats wild suckling lamb of a hybrid mouflon gazelles gazelle fawn slaughtered th day from Lu-dingira Ur-nigar received month Gazelle feast year after Kima and urti were destroyed
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+2	masz2	masz[goat]	N	N	5	nummod	projectivity violation	
+3	a-dara4	_[hybrid.goat]	N	N	0	root	_	
+4	4(disz)	4(disz)[one]	NU	NU	3	nummod	_	
+5	ud5	uzud[goat]	N	N	3	appos	projectivity violation	
+6	dara4	_[nann.wild]	V	V	5	acl	_	
+7	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+8	sila4	sila[lamb]	N	N	4	appos	_	
+9	ga	ga[milk]	N	N	8	appos	_	
+10	a-udu	_[a.hybrid]	N	N	11	nmod	_	
+11	hur-sag	_[mouflon]	N	N	8	GEN	_	
+12	3(disz)	3(disz)[one]	NU	NU	8	nummod	_	
+13	masz-da3	maszda[gazelle][-ø]	N	N	8	appos	_	
+14	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+15	amar	amar[calf][-ak]	N	N	8	_	heuristic: after nominal head	
+16	masz-da3	maszda[gazelle][-ø]	N	N	8	appos	_	
+17	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	8	acl	_	
+18	u4	ud[day]	N	N	8	appos	_	
+19	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+20	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_	
+21	ki	ki[place]	N	N	25	ABL	projectivity violation	
+22	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	21	_	heuristic: attach to last	
+23	ur-nigar{gar}	Urnigar[1]	PN	PN	22	_	heuristic: attach to last	
+24	szu	szu[hand][-e]	N	N.L3-NH	8	appos	projectivity violation	
+25	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	18	acl	_	
+26	iti	iti[month]	N	N	27	nmod	_	
+27	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	8	appos	_	
+28	mu	mu[year]	N	N	27	_	_	
+29	us2-sa	us[follow]-a	V	NF.V.PT	28	acl	_	
+30	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	27	appos	_	
+31	u3	u[and]	CNJ	CNJ	33	nmod	_	
+32	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	33	nmod	_	
+33	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	27	acl	_
+	
+

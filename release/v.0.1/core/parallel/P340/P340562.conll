@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets things for credits nd bala silos year Karhar for rd time was destroyed and year princess to governor of Anan was married
+# train/P340562.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2	_	N	N	3	_	_	
+3	zi-zi	_[things.for.credits]	V	NEG.NF.V.RDP.PT.ABS	1	_	_	
+4	bala	bala[turn][-'a]	N	N.L1	3	appos	_	
+5	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	3	nummod	_	
+6	i3-dub	idub[granary]	N	N	3	appos	_	
+7	mu	mu[year]	N	N	3	appos	_	
+8	kar2-har{ki}	_[Karhar]	GN	SN.GEN	11	ABS	_	
+9	a-ra2	ara[times]	N	N	8	DAT	_	
+10	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	11	nummod	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_	
+12	u3	u[and]	CNJ	CNJ	11	appos	_	
+13	mu	mu[year]	N	N	11	appos	_	
+14	dumu-munus	dumumunus[daughter]	N	N	18	ABS	projectivity violation	
+15	lugal	lugal[king]	N	N	1	appos	projectivity violation	
+16	ensi2	ensik[ruler]	N	N	14	LOC	_	
+17	an-sza-an-na	_[Anan]	N	N	16	GEN	_	
+18	ba-an-tuku	_[to.was.married]	V	MID.3-SG-H.DAT.V.3-SG-S	13	acl	_
+	
+

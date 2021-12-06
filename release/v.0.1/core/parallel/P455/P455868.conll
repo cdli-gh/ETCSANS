@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-Ningirsu scribe son of Lu-Baba
+# dev/P455868.atf
+1	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	3	GEN	_
+	
+

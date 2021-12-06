@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For god Ningizida his lord for life of Szulgi the mighty man Nikala the shepherd of fattened sheep dedicated	
+1	{d}nin-gesz-zi-da	{d}nin-gesz-zid-da[1]	DN	DN	12	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	12	TERM	_
+4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	GEN	_
+5	nita	nita[male]	N	N	4	GEN	_
+6	kal-ga-sze3	kalag[strong]	V	NF.V.PT.GEN.TERM	5	amod	_
+7	nig2-kal-la	nig2-kal-la[1]	PN	PN	12	ERG	_
+8	sipa	sipad[shepherd]	N	N	7	appos	_
+9	udu	udu[sheep]	N	N	8	GEN	_
+10	niga-ke4	niga[fattened]	V	NF.V.GEN.ERG	9	amod	_
+11	a	a[water]	N	N.ABS	12	ABS	_
+12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

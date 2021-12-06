@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416403.atf
+# tr.en: barig barley ration of new year from milling house Addamu gardener received at place of Lugal-ukkene month Festival of Szulgi year Kima was destroyed
+1	2(barig)	2(bariga)[unit]	NU	N	8	nummod	_	
+2	sze-ba	szeba[ration]	N	N	1	appos	_	
+3	za3-mu	Zamu[1][-ak]	PN	N	2	GEN	_	
+4	e2-kikken-ta	_[from.milling.house]	TN	TN	1	ABL	_	
+5	ad-da-mu	Addamu[1][-ak]	PN	PN	4	appos	_	
+6	<nu>-{gesz}kiri6	_[gardener]	N	N	4	appos	_	
+7	szu	szu[hand][-e]	N	N.L3-NH	8	_	heuristic: before verbal head	
+8	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+9	ki	ki[place]	N	N	8	appos	_	
+10	lugal-ukken-ne2	Lugalukkene[1][-ø]	PN	PN.DAT-H	8	LOC	_	
+11	iti	iti[month]	N	N	13	nmod	_	
+12	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	11	appos	_	
+13	mu	mu[year]	N	N	8	appos	_	
+14	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	13	appos	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

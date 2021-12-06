@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ninurta the great farmer of Enlil	
+1	{d}nin-urta	{d}nin-urta[1]	DN	DN	0	root	_
+2	ensi2	ensi2-gal[governor]	N	N	1	appos	_
+3	gal	ensi2-gal[governor]	N	N	1	appos	_
+4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	2	GEN	_
+

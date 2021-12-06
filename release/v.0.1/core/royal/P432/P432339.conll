@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Ur and king of four world quarters ten minas he standardized for him	
+1	lugal	lugal[king]	N	N	0	root	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	an	_	_	_	3	_	_
+5	ub-da	an-ub-da[quarter]	N	N	3	appos	_
+6	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	5	nummod	_
+7	1(u)	_[_]	NU	n	0	nummod	_
+8	ma-na	ma-na[unit]	N	N.ABS	9	ABS	_
+9	mu-na-gi-in	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	_	_
+

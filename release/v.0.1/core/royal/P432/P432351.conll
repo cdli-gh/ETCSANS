@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Ur and king of Sumer and Akkad Nanna-kuzu the overseer of guard dedicated to himher
+1	lugal	lugal[king]	N	N	10	TERM	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_
+5	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	4	appos	_
+6	{d}nanna-ku3-zu	{d}nanna-kug-zu[1]	PN	PN	10	ERG	_
+7	nu-banda3	nu-banda3[overseer]	N	N	6	appos	_
+8	en-nu-ke4	en-nu[imprisonment]	N	N.GEN.ERG	7	GEN	_
+9	a	a[water]	N	N.ABS	10	ABS	_
+10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

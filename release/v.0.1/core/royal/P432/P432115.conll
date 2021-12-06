@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For An king of gods his master Ur-Namma king of Ur a large garden he set up for him and a dais on a pure place he built for him
+1	an	an[1]	DN	DN	9	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	dingir-re-ne	digir[deity]	N	N.PL.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	9	ERG	_
+6	lugal	lugal[king]	N	N	5	appos	_
+7	uri5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_
+8	{gesz}kiri6-mah	kiri6[orchard]	N	N	9	ABS	_
+9	mu-na-gub	gub[stand]	V	VEN.3-SG-H.DAT.3-SG-H-A.gub.3-SG-P	0	_	_
+10	bara2	barag[dais]	N	N.ABS	13	ABS	_
+11	ki	ki[place]	N	N	13	LOC	_
+12	sikil-la	sikil[pure]	V	NF.V.L2-NH	11	amod	_
+13	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

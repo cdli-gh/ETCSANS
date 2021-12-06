@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P316280.atf
+# tr.en: Basket-of-tablets inspections of shepherds and cowherds in Kinunir Nigin and Guabba of herders of equids shepherds and cowherds of Szulgi and head-plowmen of house of Ninursag are here year arsi was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	17	ABS	_	
+3	sipa	sipa[shepherd]	N	N	2	GEN	_	
+4	unu3	_[and.cowherds]	GN	GN	3	appos	_	
+5	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	2	LOC	_	
+6	nigin6{ki}	_[Nigin]	SN	SN.GEN.GEN.TERM	5	appos	_	
+7	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	5	appos	_	
+8	sipa	sipa[shepherd]	N	N	9	GEN	_	
+9	szaganx(AMA){gan}	_[herders.equids]	N	N	2	appos	_	
+10	sipa	sipa[shepherd]	N	N	9	GEN	_	
+11	unu3	_[and.cowherds]	GN	GN	10	appos	_	
+12	{d}szul-gi	Szulgir[1]	RN	RN	10	GEN	_	
+13	u3	u[and]	CNJ	CNJ	2	appos	_	
+14	sag-apin	_[head-plowmen]	N	N	2	appos	_	
+15	e2	e[house]	N	N	14	GEN	_	
+16	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	15	GEN	_	
+17	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+18	mu	mu[year]	N	N	20	_	_	
+19	ha-ar-szi{ki}	Harszi[1]	SN	SN	20	_	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	17	parataxis	_
+	
+

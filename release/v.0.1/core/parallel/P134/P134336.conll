@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P134336.atf
+# tr.en: shekel silver labor of Ur-Ikur from Lugal-azida did Geme-Nungal and Szu-durul her son receive before Ur-Ikur before son of Ur-Suen before Lu-Ikur before Tulta son of Lugal-egal if there is a work loss barley sila per will be measured out did he royal name invoke month Harvest year Big-Barge of Enlil was caulked Szutul son of Geme-Nungal Geme-Ningal son of Bagina
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	gin2	gig[unit]	N	N	3	nmod	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	13	ABS	_	
+4	a2	a[time]	N	N	3	appos	_	
+5	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	4	GEN	_	
+6	ki	ki[place]	N	N	3	_	heuristic: after nominal head	
+7	lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	3	ABL	_	
+8	geme2-{d}nun-gal-ke4	_[did.Geme-Nungal]	PN	PN	13	_	_	
+9	u3	u[and]	CNJ	CNJ	13	nmod	_	
+10	szu-dur-ul3	_[Szu-durul]	N	N	13	nmod	_	
+11	dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	13	nmod	_	
+12	szu	szu[hand][-e]	N	N.L3-NH	13	_	_	
+13	ba-ti-esz2	ba[-n]-teg[accept][-esz]	V	MID.3-SG-H-A.V.3-PL	0	root	_	
+14	igi	igi[eye][-ø]	N	N	15	LOC	_	
+15	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	34	LOC	projectivity violation	
+16	igi	igi[eye][-ø]	N	N	17	LOC	_	
+17	dumu	dumu[child]	N	N	15	LOC	_	
+18	ur-{d}suen	Ursuen[1]	PN	PN	17	GEN	_	
+19	igi	igi[eye][-ø]	N	N	20	LOC	_	
+20	lu2-{d}iszkur	_[Lu-Ikur]	PN	PN	15	LOC	_	
+21	igi	igi[eye][-ø]	N	N	22	LOC	_	
+22	tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	15	LOC	_	
+23	dumu	dumu[child]	N	N	15	appos	_	
+24	lugal-he2-gal2	Lugalhegal[1]	PN	PN	23	GEN	_	
+25	tukum-bi	tukumbi[if]	CNJ	CNJ	27	_	_	
+26	ga2-la	_[there]	N	N.2-SG-POSS.ABS	27	_	_	
+27	ba-dag	_[is.a.work.loss]	V	MID.V.3-SG-S	23	acl	_	
+28	sze	sze[barley]	N	N	27	appos	_	
+29	6(disz)	6(disz)[one][-sze]	NU	NU	15	nummod	projectivity violation	
+30	sila3-ta	sila[unit]-ta	N	N.ABL	27	appos	_	
+31	a-ag2-dam	_[per.will.be.measured.out]	PN	PN.GEN	30	acl	_	
+32	mu	mu[year]	N	N	13	appos	_	
+33	lugal-bi	_[he.royal.name]	N	N	34	ABS	_	
+34	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	13	parataxis	_	
+35	iti	iti[month]	N	N	13	parataxis	_	
+36	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	35	appos	_	
+37	mu	mu[year]	N	N	36	appos	_	
+38	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	40	ABS	_	
+39	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	38	GEN	_	
+40	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	36	acl	_	
+41	szu-tu-ul	_[Szutul]	PN	PN	36	appos	_	
+42	dumu	dumu[child]	N	N	41	appos	_	
+43	geme2-{d}nun-gal	_[Geme-Nungal]	PN	PN	42	GEN	_	
+44	geme2-{d}nin-gal	_[Geme-Ningal]	PN	PN	43	appos	_	
+45	dumu	dumu[child]	N	N	43	appos	_	
+46	ba-gi-na	_[Bagina]	PN	PN	45	GEN	_
+	
+

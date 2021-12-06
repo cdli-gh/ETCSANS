@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: white fat-tailed sheep white impregnated sheep fat-tailed sheep ewes sheep lamb male goat female goat on th day from Abbasaga Szulgi-aamu took into his command Month eating Ubi year Amar-Suen king destroyed Urbilum
+# train/P392642.atf
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	gukkal	gukkal[fat-tailed_sheep]	N	N	0	root	_	
+3	babbar2	_[white]	FN	FN	2	acl	_	
+4	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+5	gukkal	gukkal[fat-tailed_sheep]	N	N	2	appos	_	
+6	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	9	nummod	projectivity violation	
+7	babbar2	_[white.impregnated]	FN	FN	5	acl	_	
+8	3(disz)	3(disz)[one]	NU	NU	9	nummod	_	
+9	gukkal	gukkal[fat-tailed_sheep]	N	N	25	ABS	projectivity violation	
+10	2(disz)	2(disz)[one]	NU	NU	9	nummod	_	
+11	|U8+HUL2|	_[ewes]	PN	PN	9	appos	_	
+12	7(disz)	7(disz)[one][-sze]	NU	NU	9	nummod	_	
+13	udu	udu[sheep]	N	N	9	appos	_	
+14	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+15	sila4	sila[lamb]	N	N	9	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+17	masz2	masz[goat]	N	N	9	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+19	ud5	uzud[goat]	N	N	9	appos	_	
+20	u4	ud[day]	N	N	9	LOC	projectivity violation	
+21	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	projectivity violation	
+22	ki	ki[place]	N	N	24	ABL	_	
+23	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	24	nmod	_	
+24	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	PN.ERG	9	ABL	projectivity violation	
+25	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	projectivity violation	
+26	iti	iti[month]	N	N	2	appos	projectivity violation	
+27	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	26	acl	_	
+28	mu	mu[year]	N	N	27	appos	_	
+29	{d}amar-{d}suen	Amarsuen[1]	RN	RN	32	ERG	_	
+30	lugal-e	lugal[king]-e	N	N.ERG	29	appos	_	
+31	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	32	ABS	_	
+32	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	27	acl	_	
+33	2(u)	2(u)[ten]	NU	NU	34	nummod	heuristic: NU premodifying	
+34	la2	la[hang][-ø]	V	NF.V.ABS	19	acl	projectivity violation	
+35	1(disz@t)	1(disz)[one]	NU	NU	20	nummod	_
+	
+

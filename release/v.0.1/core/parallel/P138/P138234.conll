@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P138234.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	1	_	heuristic: after nominal head	
+3	szuku-ra	szukur[ration]-ak	N	N.GEN	1	_	heuristic: after nominal head	
+4	LAGAB	_	N	N.GEN	1	appos	_	
+5	i3-in-gal2	_[xxx]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	9	acl	_	
+6	e2	e[house]	N	N	5	_	heuristic: attach to last	
+7	en	en[priest]	N	N	9	nmod	_	
+8	{d}nanna	Nanna[1][-ak]	DN	DN	7	_	heuristic: attach to last	
+9	kar-zi-da-ka	_[xxx]	PN	PN	1	appos	_
+	
+

@@ -1,0 +1,59 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127966.atf						#new_text=P127966
+# tr.en: xxx basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P127966.atf new_text=P127966
+1	9(asz)	9(asz)[one]	NU	NU	0	nummod	_	
+2	gu2	gun[unit]	N	N	0	_	_	
+3	ku6	kud[fish]	N	N	0	_	_	
+4	duru5	_[xxx]	V	V	6	acl	_	
+5	1(disz)	1(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+6	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+7	szu-na	Szuna[1]	N	N.3-SG-H-POSS.L2-NH	6	_	heuristic: attach to last	
+8	1(disz)	1(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+9	{uruda}szen	_[xxx]	N	N	8	_	heuristic: attach to last	
+10	2(disz)	2(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+11	{kusz}NIG2-ezem	_	N	N	10	_	heuristic: attach to last	
+12	a-ga2-la2	_[xxx]	N	N	0	_	_	
+13	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+14	{gesz}gu-za	guza[chair]	N	N	13	_	heuristic: attach to last	
+15	du10-us2	dus[path]	N	N	14	_	heuristic: attach to last	
+16	2(disz)	2(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+17	dug	dug[pot]	N	N	16	_	heuristic: attach to last	
+18	i3-gesz	igesz[oil]	V	N	17	_	heuristic: attach to last	
+19	4(disz)	4(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+20	dug	dug[pot]	N	N	19	_	heuristic: attach to last	
+21	gir16-su3	_[xxx]	PN	PN	20	_	heuristic: attach to last	
+22	1(disz)	1(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+23	dug	dug[pot]	N	N	22	_	heuristic: attach to last	
+24	ga-a	_[xxx]	PN	PN.GEN.L1	23	_	heuristic: attach to last	
+25	1(disz)	1(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+26	dug	dug[pot]	N	N	25	_	heuristic: attach to last	
+27	unu3	_	GN	GN	26	_	heuristic: attach to last	
+28	mun	mun[salt]	N	N	27	_	heuristic: attach to last	
+29	al-gaz-ga2	_[xxx]	V	V	28	_	heuristic: attach to last	
+30	a-ra2	ara[times]	N	N	29	_	heuristic: attach to last	
+31	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+32	la2	la[hang][-ø]	V	NF.V.ABS	31	_	_	
+33	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	32	nummod	_	
+34	giri3	giri[foot]	N	N	33	_	heuristic: attach to last	
+35	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	34	_	heuristic: attach to last	
+36	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+37	2(asz)	2(asz)[one]	NU	NU	36	nummod	_	
+38	dabin	dabin[semolina]	N	N	37	_	heuristic: attach to last	
+39	gur	gur[unit]	N	N	38	_	heuristic: attach to last	
+40	a-ra2	ara[times]	N	N	39	_	heuristic: attach to last	
+41	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	50	nummod	heuristic: NU premodifying	
+42	giri3	giri[foot]	N	N	41	_	heuristic: attach to last	
+43	lu2-sa6-ga	_[xxx]	PN	PN	42	_	heuristic: attach to last	
+44	nig2-gu2-na	_	N	N.GEN	43	_	heuristic: attach to last	
+45	ma2-a	ma[ship]-'a	N	N.L1	44	_	heuristic: attach to last	
+46	gar-ra	_[xxx]	V	V	50	acl	_	
+47	sza3	szag[heart]	N	N	46	_	heuristic: attach to last	
+48	ba-ba-az{ki}-ta	_[xxx]	SN	SN	50	nmod	_	
+49	e2-gal	egal[palace][-ak][-'a]	N	N	48	_	heuristic: attach to last	
+50	TUM{ki}-sze3	_[xxx]	GN	GN	6	ABS	_	
+51	mu	mu[year]	N	N	6	_	heuristic: after nominal head	
+52	{d}szu-{d}suen	Szusuen[1]	RN	RN	6	appos	_	
+53	lugal	lugal[king]	N	N	0	_	_
+	
+

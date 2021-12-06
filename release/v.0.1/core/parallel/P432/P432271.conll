@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432271.atf new_text=P432271
+# train/P432271.atf						#new_text=P432271
+# tr.en: For Nanna of Karzida his beloved master Amar-Suena whom Enlil in Nippur chose by name the constant supporter of temple of Enlil true god the Utu of his land the mighty king king of Ur and king of four world quarters in Karzida where since ancient times its Gipar residence had not been built and no en-priestess had lived therein Amar-Suena the beloved of Nanna his sacred Gipar he built for him and his beloved en-priestess he made enter it for him Amar-Suena shall therewith prolong his days For his life he dedicated it to him
+1	{d}nanna	Nanna[1][-ak]	DN	DN	0	root	_	
+2	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	1	GEN	_	
+

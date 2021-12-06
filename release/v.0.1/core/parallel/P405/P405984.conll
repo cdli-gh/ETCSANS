@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P405984.atf						#new_text=P405984
+# train/P405984.atf new_text=P405984
+# tr.en: barges gur barges gur for straw to Gae via Bazi son of Dingira month Festival of Lisi th day completed year high-priest at Eridu was installed
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	ma2	ma[ship]	N	N	0	root	_	
+3	1(gesz2)	1(gesz)[sixty]	NU	NU	6	nummod	projectivity violation	
+4	gur	gur[unit]	N	N	2	appos	_	
+5	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+6	ma2	ma[ship]	N	N	2	appos	_	
+7	1(gesz2)	1(gesz)[sixty]	NU	NU	8	nummod	heuristic: NU premodifying	
+8	in-nu-da	_[gur.for.straw]	N	N.GEN.ERG	2	appos	_	
+10	giri3	giri[foot]	N	N	11	via	_	
+11	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	2	via	_	
+12	dumu	dumu[child]	N	N	11	appos	_	
+13	dingir-ra	Dingira[1]	PN	PN	12	GEN	_	
+14	iti	iti[month]	N	N	19	nmod	_	
+15	ezem-{d}li9-si4	_[Festival.Lisi]	MN	MN	19	_	_	
+16	u4	ud[day]	N	N	19	_	_	
+17	2(u)	2(u)[ten]	NU	NU	19	nummod	_	
+18	7(disz)	7(disz)[one][-sze]	NU	NU	17	nummod	_	
+19	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	2	_	_	
+20	mu	mu[year]	N	N	19	appos	_	
+21	en	en[priest]	N	N	23	ABS	_	
+22	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	21	LOC	_	
+23	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	19	acl	_
+	
+

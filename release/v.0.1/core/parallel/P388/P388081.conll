@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P388081.atf
+# tr.en: sheep th day sheep grass-fed ewe grass-fed th day slaughtered with Balli month Big-festival
+1	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	u4	ud[day]	N	N	2	_	heuristic: after nominal head	
+4	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+5	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	3(disz)	3(disz)[one]	NU	NU	4	nummod	projectivity violation	
+7	udu	udu[sheep]	N	N	5	appos	_	
+8	u2	u[grass]	N	N	5	acl	_	
+9	1(disz)	1(disz)[one]	NU	NU	4	nummod	projectivity violation	
+10	u8	u[ewe]	N	N	9	_	heuristic: attach to last	
+11	u2	u[grass]	N	N	4	nummod	projectivity violation	
+12	u4	ud[day]	N	N	5	appos	_	
+13	2(u)	2(u)[ten]	NU	NU	14	nummod	_	
+14	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	15	nummod	_	
+15	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	5	acl	_	
+16	ki	ki[place]	N	N	17	COM	_	
+17	ba-al-li2	_[Balli]	PN	PN	15	COM	_	
+18	iti	iti[month]	N	N	19	_	_	
+19	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	2	appos	_
+	
+

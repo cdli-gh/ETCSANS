@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep Liptum received sheep ewes n bucks responsible official of Uruk the th day from Duga booked out via Ur-Baba scribe month Festival of An year en-priestess of Eridu was hired small cattle
+# test/P416453.atf
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	3	nmod	_	
+3	li-ip-tum	_[Liptum]	N	N	5	ERG	projectivity violation	
+4	szu	szu[hand][-e]	N	N.L3-NH	8	nummod	projectivity violation	
+5	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+6	2(gesz2)	2(gesz)[sixty]	NU	NU	8	nummod	projectivity violation	
+7	5(disz)	5(disz)[one]	NU	NU	10	nummod	projectivity violation	
+8	udu	udu[sheep]	N	N	5	ABS	_	
+9	1(u)	1(u)[ten]	NU	NU	10	nummod	heuristic: NU premodifying	
+10	u8	u[ewe]	N	N	8	appos	_	
+11	n	_(_)[_]	NU	NU	8	nummod	_	
+12	masz2-gal	maszgal[billy_goat]	N	N	8	appos	_	
+13	...	_[_]	PN	N	12	dep	heuristic: attach to last	
+14	x-mu	_	PN	PN	13	_	heuristic: attach to last	
+15	...	_[_]	PN	N	14	dep	heuristic: attach to last	
+16	...	_[_]	PN	N	15	dep	heuristic: attach to last	
+17	x-x	_[_]	PN	N.2-SG-POSS.ABS	16	dep	heuristic: attach to last	
+18	...	_[_]	PN	N	17	dep	heuristic: attach to last	
+19	maszkim	maszkim[administrator]	N	N.ABS	8	appos	_	
+20	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	8	GEN	_	
+21	u4	ud[day]	N	N	20	appos	_	
+22	2(u)	2(u)[ten]	NU	NU	20	nummod	_	
+23	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	22	nummod	_	
+24	ki	ki[place]	N	N	25	ABL	_	
+25	du11-ga-ta	_[Duga]	PN	PN.GEN.ABL	20	ABL	_	
+26	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	20	acl	_	
+27	giri3	giri[foot]	N	N	28	via	_	
+28	ur-{d}ba-ba6	Urbaba[1]	PN	PN	8	via	_	
+29	dub-sar	dubsar[scribe]	N	N	28	appos	_	
+30	iti	iti[month]	N	N	32	nmod	_	
+31	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	30	appos	_	
+32	mu	mu[year]	N	N	5	appos	_	
+33	en	en[priest]	N	N	36	ABS	_	
+34	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	33	GEN	_	
+35	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	36	acl	_	
+36	2(gesz2)	2(gesz)[sixty]	NU	NU	32	nummod	_	
+37	3(u)	3(u)[ten]	NU	NU	5	nummod	_	
+38	1(disz)	1(disz)[one]	NU	NU	37	nummod	_	
+39	udu	udu[sheep]	N	N	5	ABS	_
+	
+

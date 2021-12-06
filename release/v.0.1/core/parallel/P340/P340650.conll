@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P340650.atf new_text=P340650
+# tr.en: in Nippur	*RETOK*-sze-sag11-ku5	_	_	_	_	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+# train/P340650.atf						#new_text=P340650
+# tr.en: in Nippur *RETOK*-sze-sag11-ku5 _ _ _ _ sze-sag11-ku5 Szesagku[1][-'a] MN MN.L1 D
+1	sza3	szag[heart]	N	N	2	LOC	_	
+2	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	0	root	_
+	
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets year Simurum was destroyed
+# train/P203046.atf new_text=P203046
+# train/P203046.atf						#new_text=P203046
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	nig2	_	N	N	0	_	_	
+3	x	_[_]	N	N	0	dep	_	
+4	...	_[_]	PN	N	0	dep	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	...	_[_]	PN	N	0	dep	_	
+

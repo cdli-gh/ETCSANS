@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P497981.atf
+# tr.en: wort fine quality from Ur-endursag did Erra-bani receive month Festival-of-Baba Erra-bani servant of Ur-Baba
+1	1(asz)	1(asz)[one]	NU	NU	3	nummod	_	
+2	kasz	kasz[beer]	N	N	3	_	heuristic: attach to head	
+3	dida	dida[sweet_wort]	N	N	9	ERG	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ur-{d}hendur-sag-ta	_[Ur-endursag]	PN	PN	3	ABL	_	
+7	er3-ra-ba-ni	Erabani[1]	PN	PN	9	_	_	
+8	szu	szu[hand][-e]	N	N.L3-NH	9	_	_	
+9	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+10	iti	iti[month]	N	N	11	_	_	
+11	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	9	parataxis	_	
+12	er3-ra-ba-ni	Erabani[1]	PN	PN	9	ABS	_	
+13	ARAD2	arad[slave]	N	N	12	appos	_	
+14	ur-{d}ba-ba6	Urbaba[1]	PN	PN	13	GEN	_
+	
+

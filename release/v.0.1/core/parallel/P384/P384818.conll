@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384818.atf
+# tr.en: n reed bundles bundles for threshing floor by levee from Szekalla udner seal of Dingira month Harvest year Enunugalana was hired
+1	n	_(_)[_]	NU	NU	3	nummod	projectivity violation	
+2	sa	sa[bundle]	N	N	3	ABS	_	
+3	gi	gi[reed][-ø]	N	N	0	root	_	
+4	ti-um	_[bundles]	PN	PN	2	appos	projectivity violation	
+5	sa	sa[bundle]	N	N	2	appos	projectivity violation	
+6	ki-su7	kisur[threshing_floor]	N	N	3	DAT	_	
+7	e-sze3	_[by.levee]	PN	PN	3	ERG	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	3	ABL	_	
+10	kiszib3	kiszib[seal]	N	N	9	appos	_	
+11	dingir-ra	Dingira[1]	PN	PN	10	appos	_	
+12	iti	iti[month]	N	N	3	appos	_	
+13	sze-sag-ku5	Szesagku[1][-'a]	MN	MN.L1	12	appos	_	
+14	mu	mu[year]	N	N	13	appos	_	
+15	en-unu6-gal-an-na	_[Enunugalana]	PN	PN.ABS	16	ABS	_	
+16	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

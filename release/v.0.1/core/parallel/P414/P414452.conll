@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P414452.atf
+# tr.en: carcass of a grain-fed sheep carcasses of grass-fed sheep as rations of Szara of Apisal deliveries via Habaluge Month house-sixth-month year Szu-Suen king erected house of Szara Szu-Suen strong man king of Ur king of four corners PN scribe son of PN is your servant
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	ad3	_[carcass.a]	N	N	0	root	_	
+3	udu	udu[sheep]	N	N	2	GEN	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	3	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+6	ad3	_[carcasses]	N	N	2	appos	_	
+7	udu	udu[sheep]	N	N	6	GEN	_	
+8	u2	u[grass]	N	N	7	acl	_	
+9	sa2-du11	sadug[offerings]	N	N	2	LOC	_	
+10	{d}szara2	Szara[1][-ak]	DN	DN	9	GEN	_	
+11	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	10	GEN	_	
+12	mu-kux(DU)	mukur[delivery][-ø]	N	N	11	appos	_	
+13	giri3	giri[foot]	N	N	14	via	_	
+14	ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	2	via	_	
+15	iti	iti[month]	N	N	14	appos	_	
+16	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	14	nummod	_	
+17	mu	mu[year]	N	N	16	appos	_	
+18	{d}szu-{d}suen	Szusuen[1]	RN	RN	19	nmod	_	
+19	lugal-e	lugal[king]-e	N	N.ERG	22	ERG	projectivity violation	
+20	e2	e[house]	N	N	22	ABS	projectivity violation	
+21	{d}szara2	Szara[1][-ak]	DN	DN	14	appos	_	
+22	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	14	acl	_	
+23	{d}szu-{d}suen	Szusuen[1]	RN	RN	14	appos	_	
+24	nita	nita[male]	N	N	14	appos	_	
+25	kal-ga	kalag[strong]-a	V	NF.V.SUB	14	_	_	
+26	lugal	lugal[king]	N	N	14	appos	_	
+27	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	26	GEN	_	
+28	lugal	lugal[king]	N	N	14	appos	_	
+29	an	An[1][-ra]	N	N	31	nummod	projectivity violation	
+30	ub-da	_	N	N	14	appos	projectivity violation	
+31	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	28	nummod	_	
+32	x-x-x	_[1]	PN	PN	36	dep	_	
+33	dub-sar	dubsar[scribe]	N	N	32	appos	_	
+34	dumu	dumu[child]	N	N	32	appos	_	
+35	da-x	_[PN]	PN	PN	34	GEN	_	
+36	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	14	appos	_
+	
+

@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: small new combed garments their weight is mana sagubar garments their weight is mana n ubar garment itstheir weight is mana n mug itstheir weight is mana from Anana delivery Iddin-Erra fuller received them Month uea year Hari and Kima were destroyed
+# train/P345964.atf
+1	4(disz)	4(disz)[one]	NU	NU	11	nummod	projectivity violation	
+2	tug2	tug[textile]	N	N	1	_	heuristic: attach to last	
+3	di4-di4-la	_[small]	V	V	4	acl	_	
+4	gibil4	_[new.garments]	V	NF.V.ABS.GEN	0	_	detached for projectivity	
+5	{gesz}garig2	_[combed]	N	N.ABS	4	acl	_	
+6	ak	ak[excavate][-a][-ak]	V	NF.V.PT	5	_	heuristic: attach to last	
+7	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	11	ABS	projectivity violation	
+8	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+9	2(disz)	2(disz)[one]	NU	NU	13	nummod	projectivity violation	
+10	1/3(disz)	1/3(disz)[one]	NU	NU	9	nummod	_	
+11	ma-na	mana[unit]	N	N	0	root	_	
+12	7(disz)	7(disz)[one][-sze]	NU	NU	13	nummod	_	
+13	tug2	tug[textile]	N	N	11	appos	_	
+14	sag	sag[head]	N	N	13	acl	_	
+15	usz-bar	uszbar[weaver][-ak]	N	N	14	_	heuristic: attach to last	
+16	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	19	ABS	_	
+17	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+18	5(disz)	5(disz)[one]	NU	NU	17	nummod	_	
+19	ma-na	mana[unit]	N	N	13	acl	_	
+20	n	_(_)[_]	NU	NU	13	nummod	_	
+21	tug2	tug[textile]	N	N	25	ABS	_	
+22	usz-bar	uszbar[weaver][-ak]	N	N	21	appos	_	
+23	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	21	appos	_	
+24	5(disz)	5(disz)[one]	NU	NU	25	nummod	heuristic: NU premodifying	
+25	ma-na	mana[unit]	N	N	13	appos	_	
+26	n	_(_)[_]	NU	NU	25	nummod	_	
+27	tug2	tug[textile]	N	N	25	appos	_	
+28	mug	mug[inferior_wool]	N	N	27	nummod	_	
+29	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	31	ABS	projectivity violation	
+30	4(disz)	4(disz)[one]	NU	NU	25	nummod	projectivity violation	
+31	ma-na	mana[unit]	N	N	27	acl	_	
+32	ki	ki[place]	N	N	33	ABL	_	
+33	a2-na-na-ta	_[Anana]	PN	PN.GEN.ABL	25	ABL	_	
+34	mu-kux(DU)	mukur[delivery][-ø]	N	N	33	appos	_	
+35	i-di3-er3-ra	_[Iddin-Erra]	PN	PN.GEN.ABS	33	appos	_	
+36	lu2	lu[person]	N	N	33	appos	_	
+37	azlag2	azlag[fuller][-ra]	N	N.DAT-H	33	appos	_	
+38	szu	szu[hand][-e]	N	N.L3-NH	11	appos	projectivity violation	
+39	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	33	acl	_	
+40	iti	iti[month]	N	N	11	appos	_	
+41	szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	11	appos	_	
+42	mu	mu[year]	N	N	11	appos	_	
+43	ha-ar-szi{ki}	Harszi[1]	SN	SN	42	appos	_	
+44	u3	u[and]	CNJ	CNJ	46	nmod	_	
+45	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	46	nmod	_	
+46	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	42	acl	_
+	
+

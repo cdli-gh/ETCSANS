@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Inana lady of E-ana his lady Ea-nia consort dedicated this for well-being of Szulgi powerful man king of Urim king of Sumer and Akkad
+1	{d}inanna	{d}inana[1]	DN	DN	16	DAT	_
+2	nin-e2-an-na	e2-an-na[1]	TN	TN.GEN	1	GEN	_
+3	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+4	nam-ti	nam-til3[life]	N	N	16	TERM	_
+5	{d}szul-gi	{d}szul-gi[1]	RN	RN	4	GEN	_
+6	nita	nita[male]	N	N	4	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	4	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	appos	_
+10	lugal	lugal[king]	N	N	4	GEN	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	11	appos	_
+13	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	16	ERG	_
+14	lukur-ra-ni	lukur[priestess]	N	N.3-SG-H-POSS.ERG	13	appos	_
+15	a	a[water]	N	N.ABS	16	ABS	_
+16	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

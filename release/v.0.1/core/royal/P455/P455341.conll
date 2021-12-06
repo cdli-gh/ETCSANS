@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Kalamu governor of Enunna Lu-Suena scribe son of E-kigala your servant
+1	kal-la-mu	kal-la-gu10[1]	PN	PN	0	_	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN.ABS	2	GEN	_
+4	lu2-{d}suen	lu2-{d}suen[1]	PN	PN	2	_	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	dumu	dumu[child]	N	N	4	appos	_
+7	e2-ki-gal-la	e2-ki-gal-la[1]	PN	PN.GEN.ABS	6	GEN	_
+8	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	4	appos	_
+

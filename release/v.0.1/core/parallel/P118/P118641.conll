@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P118641.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	1	appos	_	
+3	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	1	_	heuristic: after nominal head	
+4	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+5	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+6	ur-{d}nanna	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+7	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+8	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	1	_	heuristic: after nominal head	
+9	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+10	ezem-{d}szu-{d}suen-sze3	_[xxx]	MN	MN.TERM	20	nmod	projectivity violation	
+11	iti	iti[month]	N	N	20	nmod	projectivity violation	
+12	9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	13	nummod	heuristic: NU premodifying	
+13	mu	mu[year]	N	N	1	appos	_	
+14	{d}szu-{d}suen	Szusuen[1]	RN	RN	13	_	heuristic: attach to last	
+15	lugal	lugal[king]	N	N	14	_	heuristic: attach to last	
+16	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	15	_	heuristic: attach to last	
+17	bad3	bad[wall]	N	N	16	_	heuristic: attach to last	
+18	mar-tu	Martu[1][-ø]	EN	EN.ABS	17	_	heuristic: attach to last	
+19	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	18	_	heuristic: attach to last	
+20	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

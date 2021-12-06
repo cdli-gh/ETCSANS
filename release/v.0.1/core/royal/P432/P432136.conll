@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Enlil the king of all lands his master Ur-Namma king of Ur and king of Sumer and Akkad his temple he built for him and Enerinnun canal his canal of offerings he dug for him	
+1	{d}en-lil2	{d}en-lil2[1]	DN	DN	12	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kur-kur-ra	kur-kur[mountain]	N	N-RDP.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	12	ERG	_
+6	lugal	lugal[king]	N	N	5	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_
+10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_
+11	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	12	ABS	_
+12	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+13	i7	_	_	_	0	_	_
+14	en-erin2-nun	id2-en-eren2-nun[1]	WN	WN	3	appos	_
+15	i7	id2[river]	N	N	17	ABS	_
+16	nidba-ka-ni	nindaba[offering]	N	N.GEN.3-SG-H-POSS.ABS	15	appos	_
+17	mu-na-ba-al	ba-al[dig]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

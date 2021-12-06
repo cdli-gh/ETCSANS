@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets fields inspected of chief household administrators and chief temple administrators are here year urti was destroyed
+# dev/P209340.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	GAN2	gana[field]	N	N	3	_	_	
+3	kab2	_[fields.inspected]	N	N	7	ABS	_	
+4	du11-ga	dug[irrigate]-a	V	PN	3	_	heuristic: attach to last	
+5	szabra	szabra[chief_administrator][-ak]	N	N	3	appos	_	
+6	sanga-me	_[chief.household.administrators.and.chief.temple.administrators]	V	V	3	acl	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	10	_	_	
+9	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	10	_	_	
+10	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

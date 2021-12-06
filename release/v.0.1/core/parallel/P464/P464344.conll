@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P464344.atf
+# tr.en: Nr-il scribe son of Ur-Dumuzi scribe
+1	nu-ur2-i3-li2	Nurili[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	3	GEN	_	
+5	dub-sar	dubsar[scribe]	N	N	4	appos	_
+	
+

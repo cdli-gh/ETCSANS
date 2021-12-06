@@ -1,0 +1,230 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P131739.atf
+# tr.en: gur barig ban barley gur emmer gur barig ban wheat from ARAD gur barley deficit restored by Bida total barley involved gur barig ban female laborers ban from month First-offering year Hari and Kima were destroyed to month Dumuzi completed day labor involved it is debit Therefrom female laborer workdays labor of female laborers free days gur barig sila dabin flour gur barig ban sila dabin flour for loss into household filled gur ban rough ground flour gur barig sila pounded flour gur barig sila barley labor involved female laborer workdays under seal of Lu-dingira sar of soil per hoe shekels labor involved days under seal of Ur-Namnunka female laborer workdays female laborers who lifted barley sealed tablets involved under seal of ARAD female laborer workdays straw carried to house of Szulgi under seal of Akalla nubanda female laborer workdays female laborers for arzana-flour under seal of Lugal-nig-lagare total gur ban sila flour total gur barig ban sila sig-flour total gur barig sila barley barley involved gur barig ban total female laborer workdays booked out the deficit gur barig ban barley minus female laborer workdays are deficit account of Dingira labor of female laborers Month Dumuzi year Hari and Kima were destroyed
+1	3(gesz2)	3(gesz)[sixty]	NU	NU	6	nummod	projectivity violation	
+2	4(asz)	4(asz)[one]	NU	NU	1	nummod	_	
+3	4(barig)	4(bariga)[unit]	NU	N	10	nummod	projectivity violation	
+4	4(ban2)	4(ban)[unit]	NU	N	5	nummod	_	
+5	sze	sze[barley]	N	N	6	nmod	_	
+6	gur	gur[unit]	N	N	0	root	_	
+7	lugal	lugal[king]	N	N	6	_	heuristic: after nominal head	
+8	3(u)	3(u)[ten]	NU	NU	6	nummod	_	
+9	5(asz)	5(asz)[one]	NU	NU	17	nummod	projectivity violation	
+10	ziz2	ziz[emmer]	N	N	6	appos	_	
+11	gur	gur[unit]	N	N	10	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	6	nummod	_	
+13	6(asz)	6(asz)[one]	NU	NU	12	nummod	_	
+14	1(barig)	1(bariga)[unit]	NU	N	12	nummod	_	
+15	5(ban2)	5(ban)[unit]	NU	N	16	nummod	_	
+16	gig	gig[resin_type]	N	N	6	appos	_	
+17	gur	gur[unit]	N	N	6	appos	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	6	ABL	_	
+20	3(asz)	3(asz)[one]	NU	NU	21	nummod	_	
+21	sze	sze[barley]	N	N	6	appos	_	
+22	gur	gur[unit]	N	N	21	appos	_	
+23	la2-ia3	la'u[arrears]	N	N	21	appos	_	
+24	su-ga	sug[repay]-a	V	NF.V.PT	23	acl	_	
+25	bi2-da	_[by.Bida]	PN	PN	24	ERG	_	
+26	szunigin	szunigin[total]	N	N	28	date	_	
+27	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	28	ABS	_	
+28	4(gesz2)	4(gesz)[sixty]	NU	NU	6	nummod	_	
+29	1(u)	1(u)[ten]	NU	NU	33	nummod	projectivity violation	
+30	5(asz)	5(asz)[one]	NU	NU	36	nummod	projectivity violation	
+31	3(barig)	3(bariga)[unit]	NU	N	30	nummod	_	
+32	2(ban2)	2(ban)[unit]	NU	N	33	nummod	_	
+33	gur	gur[unit]	N	N	28	appos	_	
+34	3(u)	3(u)[ten]	NU	NU	36	nummod	_	
+35	6(disz)	6(disz)[one][-sze]	NU	NU	34	nummod	_	
+36	geme2	geme[female_worker]	N	N	33	appos	_	
+37	3(ban2)	3(ban)[unit]	NU	N	36	nummod	_	
+38	iti	iti[month]	N	N	36	ABL	_	
+39	nesag	Nesag[1][-'a]	N	MN.L1	38	ABL	_	
+40	mu	mu[year]	N	N	43	_	_	
+41	ha-ar-<szi>	Harszi[1][-ø]	PN	SN.ABS	43	_	_	
+42	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	43	nmod	_	
+43	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	38	acl	_	
+44	iti	iti[month]	N	N	36	LOC	_	
+45	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	44	LOC	_	
+46	u4	ud[day]	N	N	48	nummod	projectivity violation	
+47	2(u)-am3	2(u)[ten][-ø]-am	NU	NU.ABS.COP-3-SG	36	nummod	_	
+48	zal-la-asz	_[completed.day]	V	NF.V.PT.TERM	36	acl	_	
+49	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	36	appos	_	
+50	2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	36	nummod	_	
+51	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	50	nummod	_	
+52	6(gesz2)-kam	_	NU	NU.GEN.COP-3-SG	33	nummod	_	
+53	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	33	appos	_	
+54	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	53	appos	_	
+55	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	58	nummod	_	
+56	6(gesz2)	6(gesz)[sixty]	NU	NU	55	nummod	_	
+57	geme2	geme[female_worker]	N	N	58	acl	_	
+58	u4	ud[day]	N	N	54	appos	_	
+59	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	60	nummod	heuristic: NU premodifying	
+60	a2	a[time]	N	N	58	appos	_	
+61	geme2	geme[female_worker]	N	N	60	GEN	_	
+62	u4-du8-a	uduh[days_off]-'a	N	N.L1	63	_	_	
+63	2(gesz2)	2(gesz)[sixty]	NU	NU	58	nummod	_	
+64	4(u)	4(u)[ten]	NU	NU	77	nummod	projectivity violation	
+65	5(asz)	5(asz)[one]	NU	NU	64	nummod	_	
+66	4(barig)	4(bariga)[unit]	NU	N	64	nummod	_	
+67	4(disz)	4(disz)[one]	NU	NU	69	nummod	_	
+68	sila3	sila[unit]	N	N	69	nmod	_	
+69	dabin	dabin[semolina]	N	N	70	nmod	_	
+70	gur	gur[unit]	N	N	58	appos	projectivity violation	
+71	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+72	1(barig)	1(bariga)[unit]	NU	N	71	nummod	_	
+73	4(ban2)	4(ban)[unit]	NU	N	71	nummod	_	
+74	7(disz)	7(disz)[one][-sze]	NU	NU	70	nummod	_	
+75	sila3	sila[unit]	N	N	76	nmod	_	
+76	dabin	dabin[semolina]	N	N	74	appos	_	
+77	gur	gur[unit]	N	N	69	appos	projectivity violation	
+78	bi2-gu7-sze3	_[for.loss.household]	V	3-SG-NH.L2.V.3-SG-P.SUB.TERM	74	acl	_	
+79	e2-a	e[house][-ak]-'a	GN	N.L1	78	TERM	_	
+80	si-ga	sig[load]-a	N	NF.V.PT	78	acl	_	
+81	1(u)	1(u)[ten]	NU	NU	86	nummod	projectivity violation	
+82	6(asz)	6(asz)[one]	NU	NU	94	nummod	projectivity violation	
+83	4(ban2)	4(ban)[unit]	NU	N	82	nummod	_	
+84	zi3	zid[flour]	N	N	86	nmod	_	
+85	sig15	sig[flour_type]	V	N	84	acl	_	
+86	gur	gur[unit]	N	N	58	appos	_	
+87	1(u)	1(u)[ten]	NU	NU	92	nummod	projectivity violation	
+88	7(asz)!	7(asz)[one]	NU	NU	100	nummod	projectivity violation	
+89	4(barig)	4(bariga)[unit]	NU	N	88	nummod	_	
+90	5(disz)	5(disz)[one]	NU	NU	91	nummod	_	
+91	sila3	sila[unit]	N	N	86	appos	_	
+92	zi3	zid[flour]	N	N	58	appos	projectivity violation	
+93	gazx(KUM)	gaz[thresh][-ø]	V	NF.V.PT	92	acl	_	
+94	gur	gur[unit]	N	N	86	appos	projectivity violation	
+95	3(asz)	3(asz)[one]	NU	NU	92	nummod	_	
+96	1(barig)	1(bariga)[unit]	NU	N	95	nummod	_	
+97	9(disz)	9(disz)[one]	NU	NU	99	nummod	_	
+98	sila3	sila[unit]	N	N	99	nmod	_	
+99	sze	sze[barley]	N	N	92	appos	_	
+100	gur	gur[unit]	N	N	92	appos	_	
+101	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	92	appos	_	
+102	1(szar2)	1(szar)[unit]	NU	N	54	nummod	projectivity violation	
+103	4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	102	nummod	_	
+104	3(u)	3(u)[ten]	NU	NU	102	nummod	_	
+105	3(disz)	3(disz)[one]	NU	NU	102	nummod	_	
+106	1/2(disz)	1/2(disz)[one]	NU	NU	102	nummod	_	
+107	geme2	geme[female_worker]	N	N	108	acl	_	
+108	u4	ud[day]	N	N	92	appos	_	
+109	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	110	nummod	heuristic: NU premodifying	
+110	kiszib3	kiszib[seal]	N	N	54	LOC	_	
+111	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	110	GEN	_	
+112	2(u)	2(u)[ten]	NU	NU	115	nummod	_	
+113	2(disz)	2(disz)[one]	NU	NU	112	nummod	_	
+114	1/2(disz)	1/2(disz)[one]	NU	NU	112	nummod	_	
+115	sar	sar[unit]	N	N	53	appos	_	
+116	sahar	sahar[earth][-ø]	N	N.GEN	115	GEN	_	
+117	al-e	_[per.hoe]	V	V	119	acl	_	
+118	1(u)	1(u)[ten]	NU	NU	119	nummod	_	
+119	gin2-ta	gig[unit]-ta	N	N.ABL	115	LOC	_	
+120	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	119	appos	_	
+121	u4	ud[day]	N	N	53	appos	_	
+122	4(gesz2)	4(gesz)[sixty]	NU	NU	33	nummod	_	
+123	3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	122	nummod	_	
+124	kiszib3	kiszib[seal]	N	N	33	appos	_	
+125	ur-{d}nam2-nun-ka	_[Ur-Namnunka]	PN	PN	124	GEN	_	
+126	4(gesz2)	4(gesz)[sixty]	NU	NU	125	nummod	_	
+127	4(u)	4(u)[ten]	NU	NU	130	nummod	_	
+128	3(disz)	3(disz)[one]	NU	NU	127	nummod	_	
+129	geme2	geme[female_worker]	N	N	130	acl	_	
+130	u4	ud[day]	N	N	124	appos	_	
+131	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	132	nummod	heuristic: NU premodifying	
+132	geme2	geme[female_worker]	N	N	130	appos	_	
+133	sze	sze[barley]	N	N	134	ABS	_	
+134	zi-ga	zig[expend]-a	V	NF.V.PT	132	acl	_	
+135	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	130	appos	_	
+136	3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	130	nummod	_	
+137	kiszib3	kiszib[seal]	N	N	130	LOC	_	
+138	ARAD2	arad[slave]	N	N	137	GEN	_	
+139	2(u)	2(u)[ten]	NU	NU	141	nummod	_	
+140	geme2	geme[female_worker]	N	N	141	acl	_	
+141	u4	ud[day]	N	N	124	appos	_	
+142	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	144	nummod	heuristic: NU premodifying	
+143	in-u	innu[straw]	N	N	144	ABS	_	
+144	ga6-ga2	gag[carry]-a	V	NF.V.PT	141	acl	_	
+145	e2	e[house]	N	N	144	LOC	_	
+146	{d}szul-gi-ra-sze3	_[to.Szulgi]	DN	DN	145	LOC	_	
+147	kiszib3	kiszib[seal]	N	N	141	LOC	_	
+148	a-kal-la	Akala[1]	PN	PN	147	GEN	_	
+149	nu-banda3	nubanda[overseer][-ø]	N	N	141	appos	projectivity violation	
+150	3(gesz2)	3(gesz)[sixty]	NU	NU	148	nummod	_	
+151	5(u)	5(u)[ten]	NU	NU	154	nummod	_	
+152	4(disz)	4(disz)[one]	NU	NU	151	nummod	_	
+153	geme2	geme[female_worker]	N	N	154	acl	_	
+154	u4	ud[day]	N	N	124	appos	_	
+155	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	156	nummod	heuristic: NU premodifying	
+156	geme2	geme[female_worker]	N	N	154	appos	_	
+157	ar-za-na-sze3	_[for.arzana-flour]	N	N.3-SG-H-POSS.GEN.TERM	156	TERM	_	
+158	kiszib3	kiszib[seal]	N	N	154	LOC	_	
+159	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	158	GEN	_	
+160	szunigin	szunigin[total]	N	N	124	appos	_	
+161	2(gesz2)	2(gesz)[sixty]	NU	NU	124	nummod	projectivity violation	
+162	4(u)	4(u)[ten]	NU	NU	161	nummod	_	
+163	7(asz)	7(asz)[one]	NU	NU	161	nummod	_	
+164	5(ban2)	5(ban)[unit]	NU	N	161	nummod	_	
+165	1(disz)	1(disz)[one]	NU	NU	167	nummod	_	
+166	sila3	sila[unit]	N	N	167	nmod	_	
+167	dabin	dabin[semolina]	N	N	168	nmod	_	
+168	gur	gur[unit]	N	N	160	appos	_	
+169	szunigin	szunigin[total]	N	N	124	appos	_	
+170	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+171	3(asz)	3(asz)[one]	NU	NU	170	nummod	_	
+172	4(barig)	4(bariga)[unit]	NU	N	170	nummod	_	
+173	4(ban2)	4(ban)[unit]	NU	N	170	nummod	_	
+174	5(disz)	5(disz)[one]	NU	NU	178	nummod	projectivity violation	
+175	sila3	sila[unit]	N	N	179	nmod	projectivity violation	
+176	zi3	zid[flour]	N	N	175	_	heuristic: attach to last	
+177	sig15	sig[flour_type]	V	N	179	acl	projectivity violation	
+178	gur	gur[unit]	N	N	124	appos	projectivity violation	
+179	szunigin	szunigin[total]	N	N	174	appos	projectivity violation	
+180	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+181	1(barig)	1(bariga)[unit]	NU	N	180	nummod	_	
+182	9(disz)	9(disz)[one]	NU	NU	186	nummod	projectivity violation	
+183	sila3	sila[unit]	N	N	186	nmod	projectivity violation	
+184	sze	sze[barley]	N	N	186	nmod	projectivity violation	
+185	gur	gur[unit]	N	N	178	appos	_	
+186	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	185	appos	_	
+187	3(gesz2)	3(gesz)[sixty]	NU	NU	186	nummod	_	
+188	5(u)	5(u)[ten]	NU	NU	187	nummod	_	
+189	8(asz)	8(asz)[one]	NU	NU	187	nummod	_	
+190	1(barig)	1(bariga)[unit]	NU	N	187	nummod	_	
+191	3(ban2)	3(ban)[unit]	NU	N	193	nummod	projectivity violation	
+192	gur	gur[unit]	N	N	185	appos	_	
+193	szunigin	szunigin[total]	N	N	192	appos	_	
+194	2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	0	nummod	_	
+195	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	194	nummod	_	
+196	1/2(disz)	1/2(disz)[one]	NU	NU	194	nummod	_	
+197	geme2	geme[female_worker]	N	N	198	acl	_	
+198	u4	ud[day]	N	N	192	appos	_	
+199	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	200	nummod	heuristic: NU premodifying	
+200	zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	198	acl	_	
+201	la2-ia3	la'u[arrears]	N	N	192	appos	_	
+202	1(u)	1(u)[ten]	NU	NU	207	nummod	projectivity violation	
+203	7(asz)	7(asz)[one]	NU	NU	213	nummod	projectivity violation	
+204	1(barig)	1(bariga)[unit]	NU	N	203	nummod	_	
+205	5(ban2)	5(ban)[unit]	NU	N	206	nummod	_	
+206	sze	sze[barley]	N	N	207	nmod	_	
+207	gur	gur[unit]	N	N	215	ABS	projectivity violation	
+208	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	207	nummod	_	
+209	6(gesz2)	6(gesz)[sixty]	NU	NU	208	nummod	_	
+210	la2	la[hang][-ø]	V	NF.V.ABS	203	acl	projectivity violation	
+211	1/2(disz)	1/2(disz)[one]	NU	NU	210	nummod	_	
+212	geme2	geme[female_worker]	N	N	213	acl	_	
+213	u4	ud[day]	N	N	207	appos	_	
+214	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	215	nummod	heuristic: NU premodifying	
+215	la2-ia3-am3	_[are.deficit]	V	V	201	_	_	
+216	nig2-ka9-ak	nigSZID[account]	N	N	215	appos	_	
+217	dingir-ra-ka	_[Dingira]	GN	GN	216	GEN	_	
+218	a2	a[time]	N	N	217	appos	_	
+219	geme2-ka	_[female.laborers]	N	N	218	GEN	_	
+220	iti	iti[month]	N	N	215	appos	_	
+221	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	215	appos	_	
+222	mu	mu[year]	N	N	221	appos	_	
+223	ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	221	appos	_	
+224	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	225	nmod	_	
+225	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	221	acl	_
+	
+

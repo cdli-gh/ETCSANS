@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For goddess DN her mistress Tarm-Uram daughter of Apil-kn the king of Mari bride of Ur-Namma king of Ur
+1	x	_[_]	u	u	2	dep	_
+2	x	_[_]	u	u	0	dep	_
+3	nin-a-ni-ir	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	root	_
+4	da-ra-am-uri5{ki}-am	ta2-ra-am-urim2{ki}[1]	PN	PN	3	appos	_
+5	dumu-munus	dumu-munus[daughter]	N	N	3	appos	_
+6	a-pil-ki-in	a-pil-ki-in[1]	RN	RN	5	GEN	_
+7	lugal	lugal[king]	N	N	6	GEN	_
+8	ma-ri2{ki}-ka	ma-ri2{ki}[1]	SN	SN.GEN.GEN	7	GEN	_
+9	e2-gi4-a	e2-gi4-a[bride]	N	N	8	appos	_
+10	ur-{d}namma	ur-{d}namma[1]	RN	RN	9	GEN	_
+11	lugal	lugal[king]	N	N	8	appos	_
+12	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_
+

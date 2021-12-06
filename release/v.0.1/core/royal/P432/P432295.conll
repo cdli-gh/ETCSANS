@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: minas verified Sz-Sin the strong king king of Ur and king of four world quarters
+1	5(disz)	_[_]	NU	n	3	nummod	_
+2	ma-na	ma-na[unit]	N	N.ABS	3	ABS	_
+3	gi-na	gen6[establish]	V	NF.V.PT.ABS	0	_	_
+4	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	_	_
+5	lugal	lugal[king]	N	N	4	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	4	appos	_
+8	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_
+9	lugal	lugal[king]	N	N	4	appos	_
+10	an	_	_	_	9	_	_
+11	ub-da	an-ub-da[quarter]	N	N	9	appos	_
+12	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	11	nummod	_
+

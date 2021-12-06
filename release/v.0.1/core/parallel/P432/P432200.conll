@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432200.atf
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad
+1	{d}szul-gi	Szulgir[1]	RN	RN	0	root	_	
+2	nita	nita[male]	N	N	3	nmod	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	4	GEN	_	
+6	lugal	lugal[king]	N	N	4	appos	_	
+7	ki-en-gi	ki'engi[1]	GN	GN	6	GEN	_	
+8	ki-uri	ki'uri[1][-ak]	GN	GN.GEN	4	appos	_
+	
+

@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P464346.atf
+# tr.en: Szara-kam scribe Szulgi-muda your servant
+1	{d}szara2-kam	Szarakam[1]	PN	PN	0	_	_	
+2	dub-sar	dubsar[scribe]	N	N	0	root	_	
+3	{d}szul-gi-mu-dah	Szulgirmudah[1]	PN	PN	4	_	_	
+4	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	0	root	_
+	
+

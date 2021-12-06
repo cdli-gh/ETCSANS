@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: One ox Bel overseer one ox Ikalla oxen from Apilum in its place put for him bvia Lu-Enki xxx n cows sheep sheep goats slaughtered for kitchen for soldiers nd day booked out of Duga via Nur-Adad scribe month uea year boat Ibex-of-Abzu was caulked oxen and cows small cattle
+# train/P273415.atf						#new_text=P273415
+# train/P273415.atf new_text=P273415
+11	ki-ba	ki[place]-bi-'a	PN	N.3-SG-NH-POSS.L1	12	LOC	_	
+12	ba-na-a-ga2-ar	_[its.place.put.for.him]	V	MID.V.3-SG-S.SUB.GEN.DAT-H	0	root	_	
+13	giri3	giri[foot]	N	N	12	_	heuristic: attach to head	
+14	lu2-{d}en-ki	_[bvia.Lu-Enki]	PN	PN	12	_	_	
+15	x	_[_]	N	N	12	dep	heuristic: attach to head	
+16	x	_[_]	N	N	12	dep	heuristic: attach to head	
+17	x	_[_]	N	N	12	dep	heuristic: attach to head	
+18	n	_(_)[_]	NU	NU	19	nummod	_	
+19	ab2	ab[cow][-ø]	N	N	12	parataxis	_	
+20	5(disz)	5(disz)[one]	NU	NU	19	nummod	_	
+21	udu	udu[sheep]	N	N	19	appos	_	
+22	x	_[_]	N	N	19	dep	heuristic: after nominal head	
+23	2(u)	2(u)[ten]	NU	NU	27	nummod	projectivity violation	
+24	8(disz)	8(disz)[one]	NU	NU	19	nummod	_	
+25	udu	udu[sheep]	N	N	19	appos	_	
+26	3(disz)	3(disz)[one]	NU	NU	27	nummod	heuristic: NU premodifying	
+27	ud5	uzud[goat]	N	N	19	appos	_	
+28	x	_[_]	N	N	19	dep	heuristic: after nominal head	
+29	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	19	acl	_	
+30	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	29	TERM	_	
+31	mu	mu[year]	N	N	19	appos	_	
+32	aga3-us2-e-ne-sze3	_[for.soldiers]	N	N.PL.GEN.TERM	19	TERM	_	
+33	u4	ud[day]	N	N	19	appos	_	
+34	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_	
+35	ki	ki[place]	N	N	37	_	_	
+36	du11-ga-ta	_[Duga]	PN	PN.GEN.ABL	37	ABL	_	
+37	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	19	acl	_	
+38	giri3	giri[foot]	N	N	39	via	_	
+39	nu-ur2-{d}iszkur	_[Nur-Adad]	PN	PN	37	via	_	
+40	dub-sar	dubsar[scribe]	N	N	37	ABS	_	
+41	iti	iti[month]	N	N	42	_	_	
+42	szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	19	appos	_	
+43	mu	mu[year]	N	N	42	appos	_	
+44	ma2	ma[ship]	N	N	45	nmod	_	
+45	dara4-abzu	_[Ibex-of-Abzu]	DN	DN	46	ABS	_	
+46	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	19	acl	_	
+47	3(disz)	3(disz)[one]	NU	NU	12	nummod	projectivity violation	
+48	gu4	gud[ox]	N	N	19	appos	_	
+49	ab2	ab[cow][-ø]	N	N	48	appos	_	
+50	3(u)!	3(u)[ten]	NU	NU	0	nummod	_	
+51	6(disz)	6(disz)[one][-sze]	NU	NU	50	nummod	_	
+52	udu	udu[sheep]	N	N	48	appos	_
+	
+

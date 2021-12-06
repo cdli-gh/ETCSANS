@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi powerful man Duga temple administrator of Szara is your servant																						
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	du10-ga	dug3-ga[2]	PN	PN	1	appos	_
+5	szabra	szabra[administrator]	N	N	1	appos	_
+6	{d}szara2	{d}szara2[1]	DN	DN.GEN.ABS	5	GEN	_
+7	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204383.atf
+# tr.en: Basket-of-tablets sheep distribution and sheep are here year Amar-Suen king Urbilum destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	udu	udu[sheep]	N	N	7	ABS	_	
+3	szuku-ra	szukur[ration]-ak	N	N.GEN	2	appos	_	
+4	u3	u[and]	CNJ	CNJ	2	appos	_	
+5	udu	udu[sheep]	N	N	6	nmod	_	
+6	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	acl	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	12	_	_	
+9	{d}amar-{d}suen	Amarsuen[1]	RN	RN	12	ABS	_	
+10	lugal-e	lugal[king]-e	N	N.ERG	9	appos	_	
+11	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	12	ABS	_	
+12	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	7	parataxis	_
+	
+

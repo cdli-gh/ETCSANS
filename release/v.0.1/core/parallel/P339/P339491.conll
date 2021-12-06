@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sealed documents of dab labor of troops Ur-Ninsu manager of oxen months are here year Amorite wall was erected
+# train/P339491.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	3	acl	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	11	ABS	_	
+4	a2	a[time]	N	N	3	appos	_	
+5	erin2-na	erin[people]	N	N.GEN	4	GEN	_	
+6	ur-{d}nin-su	_[Ur-Ninsu]	PN	PN	5	appos	_	
+7	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	5	appos	_	
+8	iti	iti[month]	N	N	4	appos	_	
+9	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+10	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	bad3	bad[wall]	N	N	1	appos	projectivity violation	
+14	mar-tu	Martu[1][-ø]	EN	EN.ABS	15	ABS	_	
+15	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	11	parataxis	_
+	
+

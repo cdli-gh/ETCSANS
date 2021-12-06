@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P101049.atf
+# tr.en: barges of gur ban each their skippers piloting for days its barley gur barig ban from Apisal to Nippur with wool filled via Ur-ee year Urbilum was destroyed
+1	2(disz)	2(disz)[one]	NU	NU	7	nummod	projectivity violation	
+2	ma2	ma[ship]	N	N	0	root	_	
+3	1(gesz2)	1(gesz)[sixty]	NU	NU	4	nummod	_	
+4	gur	gur[unit]	N	N	2	GEN	projectivity violation	
+5	2(ban2)-ta	_	NU	NU	6	nummod	heuristic: NU premodifying	
+6	ma2-lah5-bi	_[each]	N	N.ABS	3	appos	projectivity violation	
+7	i3-ib2-u3	_[their.skippers.piloting]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	4	acl	_	
+8	u4	ud[day]	N	N	7	DAT	_	
+9	3(u)	3(u)[ten]	NU	NU	4	nummod	_	
+10	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	9	nummod	_	
+11	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	4	appos	_	
+12	4(asz)	4(asz)[one]	NU	NU	2	nummod	projectivity violation	
+13	1(barig)	1(bariga)[unit]	NU	N	12	nummod	_	
+14	2(ban2)	2(ban)[unit]	NU	N	15	nummod	_	
+15	gur	gur[unit]	N	N	11	appos	_	
+16	a-pi4-sal4{ki}-ta	Apisal[1]-ta	GN	SN.ABL	2	ABL	_	
+17	nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	16	LOC	_	
+18	siki	siki[wool][-'a]	N	N	16	COM	_	
+19	ba-a-si	_[with.filled]	V	V	18	acl	_	
+20	giri3	giri[foot]	N	N	21	via	_	
+21	ur-e11-e	Ure'e[1][-ak]	PN	PN	16	via	_	
+22	mu	mu[year]	N	N	24	_	_	
+23	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	24	ABS	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	21	acl	_
+	
+

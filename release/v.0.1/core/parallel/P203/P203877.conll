@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203877.atf
+# tr.en: Basket-of-tablets credits from accounts are here year following its year following
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	zi-ga	zig[expend]-a	V	NF.V.PT	6	ABS	_	
+3	nig2-ka9-ak-ta	_[from.accounts]	PN	PN	4	ABL	_	
+4	szu	szu[hand][-e]	N	N.L3-NH	2	ABL	_	
+5	su-ba	su[body]-bi-'a	V	NF.V.PT	4	_	heuristic: attach to last	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+7	mu	mu[year]	N	N	6	appos	_	
+8	u2-sa	_[following.its]	N	N	7	acl	_	
+9	mu	mu[year]	N	N	8	date	_	
+10	us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	9	acl	_
+	
+

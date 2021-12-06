@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ibbi-Suen god of his land powerful king king of Urim Suen-bani cook child of Itiya is your servant																						
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	root	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	appos	_
+8	{d}suen-ba-ni	{d}suen-ba-ni[1]	PN	PN	6	GEN	_
+9	muhaldim	muhaldim[cook]	N	N	6	appos	_
+10	dumu	dumu[child]	N	N	6	appos	_
+11	i-di3-a	i-ti-a[1]	PN	PN.GEN.ABS	10	GEN	_
+12	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

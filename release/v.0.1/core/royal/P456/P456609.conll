@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Nammah shepherd of Szulgi
+1	nam-mah	nam-mah[1]	PN	PN	0	root	_
+2	sipa	sipad[shepherd]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	2	GEN	_
+

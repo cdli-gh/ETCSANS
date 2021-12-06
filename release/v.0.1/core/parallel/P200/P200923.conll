@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P200923.atf new_text=P200923
+# Native memory allocation (mmap) failed to map 2097152 bytes for Failed to commit area from 0x00000000f6600000 to 0x00000000f6800000 of length 2097152. 1(disz) 1(disz)[one] NU NU D
+# There is insufficient memory for the Java Runtime Environment to continue. ab-sin2-bi _ N N POS
+# C:\Users\chiarcos\Desktop\corpus\sumerian\consolidate\full_corpus\parallel\hs_err_pid168356.log 1(u)-ta 1(u)[ten]-ta NU NU.ABL D
+# An error report file with more information is saved as: ninda ninda[bread] N N D
+# GAN2 gana[field] N N D
+								
+

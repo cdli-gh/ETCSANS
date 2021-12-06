@@ -1,0 +1,130 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed for dais of An sheep barley-fed of rd grade sheep barley-fed of th grade for Nanna buck barley-fed of th grade for Dublama sheep barley-fed bucks barley-fed following oxen Festival of An sheep barley-fed of th grade for Mound of Roof sheep barley-fed of rd grade sheep barley-fed of th grade for Nungal sheep barley-fed for Dublama sheep barley-fed following oxen for ANdur sheep barley-fed for Szulgi n for Dandanda n for Ningal n following oxen for Ninuri n Szu-Suen-kiag n for sheep barley-fed for -kalla sheep barley-fed for Ninkununa sheep barley-fed of nd grade for Gula sheep barley-fed lamb for Nin-egal via Suen-abuu cup-bearer the th day booked out from Aba-Enlilgin in Ur via Ur-Szulgi arabdu month Ubi feast year Szu-Suen king of Ur grand-stele for Enlil Ninlil erected
+# dev/P416415.atf						#new_text=P416415
+# dev/P416415.atf new_text=P416415
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	bara2-an-na	_[for.dais.An]	PN	PN	2	DAT	_	
+5	2(disz)	2(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+6	udu	udu[sheep]	N	N	1	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	heuristic: NU premodifying	
+9	us2	us[follow][-ø]	V	NF.V.ABS	6	acl	_	
+10	3(disz)	3(disz)[one]	NU	NU	11	nummod	heuristic: NU premodifying	
+11	udu	udu[sheep]	N	N	6	appos	_	
+12	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+13	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	14	nummod	heuristic: NU premodifying	
+14	us2	us[follow][-ø]	V	NF.V.ABS	6	acl	_	
+15	{d}nanna	Nanna[1][-ak]	DN	DN	14	DAT	_	
+16	1(disz)	1(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+17	masz2-gal	maszgal[billy_goat]	N	N	6	appos	_	
+18	niga	niga[fattened][-ø]	V	NF.V.ABS	17	acl	_	
+19	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	24	nummod	projectivity violation	
+20	us2	us[follow][-ø]	V	NF.V.ABS	17	acl	_	
+21	dub-la2-mah	dublamah[magnificent_tower][-sze]	TN	TN.TERM	22	TERM	_	
+22	uzu-a-bala	_[for.Dublama]	PN	PN	20	TERM	_	
+23	2(disz)	2(disz)[one]	NU	NU	32	nummod	projectivity violation	
+24	udu	udu[sheep]	N	N	17	appos	_	
+25	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+26	2(disz)	2(disz)[one]	NU	NU	32	nummod	projectivity violation	
+27	masz2-gal	maszgal[billy_goat]	N	N	24	appos	_	
+28	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+29	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	24	appos	_	
+30	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	32	nmod	projectivity violation	
+31	2(disz)	2(disz)[one]	NU	NU	36	nummod	projectivity violation	
+32	udu	udu[sheep]	N	N	29	appos	_	
+33	niga	niga[fattened][-ø]	V	NF.V.ABS	32	_	_	
+34	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	36	nummod	projectivity violation	
+35	us2	us[follow][-ø]	V	NF.V.ABS	29	acl	_	
+36	du6-ur3	du’ur[cultic_mound][-ak][-ra]	PN	N.GEN.DAT-H	29	appos	_	
+37	2(disz)	2(disz)[one]	NU	NU	38	nummod	_	
+38	udu	udu[sheep]	N	N	36	appos	_	
+39	niga	niga[fattened][-ø]	V	NF.V.ABS	38	acl	_	
+40	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	41	nummod	heuristic: NU premodifying	
+41	us2	us[follow][-ø]	V	NF.V.ABS	38	acl	_	
+42	2(disz)	2(disz)[one]	NU	NU	43	nummod	heuristic: NU premodifying	
+43	udu	udu[sheep]	N	N	38	appos	_	
+44	niga	niga[fattened][-ø]	V	NF.V.ABS	38	acl	_	
+45	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	46	_	heuristic: NU premodifying	
+46	us2	us[follow][-ø]	V	NF.V.ABS	38	acl	_	
+47	{d}nun-gal	_[for.Nungal]	DN	DN	38	DAT	_	
+48	1(disz)	1(disz)[one]	NU	NU	49	nummod	_	
+49	udu	udu[sheep]	N	N	38	appos	_	
+50	niga	niga[fattened][-ø]	V	NF.V.ABS	49	acl	_	
+51	dub-la2-mah	dublamah[magnificent_tower][-sze]	TN	TN.TERM	49	TERM	_	
+52	1(disz)	1(disz)[one]	NU	NU	49	nummod	_	
+53	udu	udu[sheep]	N	N	49	appos	_	
+54	niga	niga[fattened][-ø]	V	NF.V.ABS	53	acl	_	
+55	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	53	acl	_	
+56	AN-dur	_[for.ANdur]	PN	PN.DAT-H	53	DAT	_	
+57	1(disz)	1(disz)[one]	NU	NU	58	nummod	_	
+58	udu	udu[sheep]	N	N	49	appos	projectivity violation	
+59	niga	niga[fattened][-ø]	V	NF.V.ABS	58	acl	_	
+60	...	_[_]	PN	N	59	dep	heuristic: attach to last	
+61	{d}szul-gi	Szulgir[1]	RN	RN	57	appos	projectivity violation	
+62	TUR	_[for]	N	N	57	DAT	projectivity violation	
+63	...	_[_]	PN	N	62	dep	heuristic: attach to last	
+64	n	_(_)[_]	NU	NU	58	nummod	_	
+65	...	_[_]	PN	N	64	dep	heuristic: attach to last	
+66	da-an-da-an-da	_[for.Dandanda]	PN	PN	58	DAT	_	
+67	n	_(_)[_]	NU	NU	58	nummod	_	
+68	...	_[_]	PN	N	58	dep	_	
+69	{d}nin-gal	Ningal[1]	DN	DN	68	DAT	_	
+70	...	_[_]	PN	N	68	dep	_	
+71	n	_(_)[_]	NU	NU	58	nummod	_	
+72	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	58	appos	_	
+73	{d}nin-uri5{ki}	_[for.Ninuri]	DN	DN	72	DAT	_	
+74	n	_(_)[_]	NU	NU	58	nummod	_	
+75	...	_[_]	PN	N	74	dep	heuristic: attach to last	
+76	{d}szu-{d}suen-ki-ag2-...	_[Szu-Suen-kiag]	DN	DN	58	appos	_	
+77	n	_(_)[_]	NU	NU	76	nummod	_	
+78	...	_[_]	PN	N	0	dep	_	
+82	1(disz)	1(disz)[one]	NU	NU	83	nummod	heuristic: NU premodifying	
+83	udu	udu[sheep]	N	N	78	appos	_	
+84	niga	niga[fattened][-ø]	V	NF.V.ABS	83	acl	_	
+85	...-kal-la	_[for.-kalla]	PN	PN	83	DAT	_	
+86	2(disz)	2(disz)[one]	NU	NU	58	nummod	_	
+87	udu	udu[sheep]	N	N	58	appos	_	
+88	niga	niga[fattened][-ø]	V	NF.V.ABS	87	acl	_	
+89	...	_[_]	PN	N	88	dep	heuristic: attach to last	
+90	{d}nin-ku3-nun-na	_[for.Ninkununa]	DN	DN	87	DAT	_	
+91	2(disz)	2(disz)[one]	NU	NU	92	nummod	_	
+92	udu	udu[sheep]	N	N	58	appos	_	
+93	niga	niga[fattened][-ø]	V	NF.V.ABS	92	acl	_	
+94	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	98	nummod	projectivity violation	
+95	us2	us[follow][-ø]	V	NF.V.ABS	92	acl	_	
+96	{d}gu-la	Gula[1][-ak][-ra]	DN	DN	92	DAT	_	
+97	1(disz)	1(disz)[one]	NU	NU	58	nummod	projectivity violation	
+98	udu	udu[sheep]	N	N	92	appos	_	
+99	niga	niga[fattened][-ø]	V	NF.V.ABS	98	acl	_	
+100	1(disz)	1(disz)[one]	NU	NU	101	nummod	heuristic: NU premodifying	
+101	sila4	sila[lamb]	N	N	98	appos	_	
+102	{d}nin-e2-gal	Ninegal[1][-ra]	DN	DN.DAT-H	98	DAT	_	
+103	giri3	giri[foot]	N	N	104	via	_	
+104	{d}suen-a-bu-szu	Suenabuszu[1]	PN	PN	58	via	_	
+105	sagi	sagi[cup_bearer][-ø]	N	N	104	appos	_	
+106	u4	ud[day]	N	N	104	appos	_	
+107	2(u)	2(u)[ten]	NU	NU	104	nummod	_	
+108	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	107	nummod	_	
+109	ki	ki[place]	N	N	110	ABL	_	
+110	a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1][-ak]-ta	PN	PN.GEN.ABL	111	ABL	_	
+111	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	104	acl	_	
+112	sza3	szag[heart]	N	N	113	LOC	_	
+113	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	104	LOC	_	
+114	giri3	giri[foot]	N	N	115	via	_	
+115	ur-{d}szul-gi-ra	_[Ur-Szulgi]	PN	PN	104	via	_	
+116	szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	115	appos	_	
+117	iti	iti[month]	N	N	118	nmod	_	
+118	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	38	appos	_	
+119	mu	mu[year]	N	N	118	appos	_	
+120	{d}szu-{d}suen	Szusuen[1]	RN	RN	119	appos	_	
+121	lugal	lugal[king]	N	N	120	appos	_	
+122	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	121	GEN	_	
+123	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	126	ABS	_	
+124	{d}en-lil2	Enlil[1]	DN	DN	125	DAT	_	
+125	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	123	DAT	_	
+126	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	120	acl	projectivity violation	
+127	4(u)	4(u)[ten]	NU	NU	122	nummod	_
+	
+

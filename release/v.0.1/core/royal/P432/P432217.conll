@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: and having put in order subsistance ration expenditures Szulgi the mighty man king of Ur and king of four world quarters to Ninsun of Ur he presented	
+1	u3	u3[and]	CNJ	CNJ	3	nmod	_
+2	a2	_[_]	u	u	3	_	_
+3	szuku-ra-ke4	szag4[heart]	N	N	0	root	_
+4	si	si[horn]	N	N.ABS	5	mwe	_
+5	mu-sa2	_[_]	u	u	3	LOC	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	appos	_
+7	nita	nita[male]	N	N	6	appos	_
+8	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_
+9	lugal	lugal[king]	N	N	6	appos	_
+10	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	6	appos	_
+12	an	_	_	_	11	_	_
+13	ub-da	an-ub-da[quarter]	N	N	11	appos	_
+14	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	13	nummod	_
+15	{d}nin-sun2	{d}nin-sumun2[1]	DN	DN	3	LOC	_
+16	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.DAT-H	15	GEN	_
+17	in-na-ba	_[_]	u	u	15	acl	_
+

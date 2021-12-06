@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ibbi-Suen god of land strong king king of Ur king of four quarters Dada governor of Nippur son of Ur-Nisaba governor of Nippur your servant
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	root	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	1	appos	_
+9	an	_	_	_	8	_	_
+10	ub-da	an-ub-da[quarter]	N	N	8	GEN	_
+11	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	10	nummod	_
+12	da-da	da-da[1]	PN	PN	1	_	_
+13	ensi2	ensi2[ruler]	N	N	12	appos	_
+14	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	13	GEN	_
+15	dumu	dumu[child]	N	N	12	appos	_
+16	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	12	GEN	_
+17	ensi2	ensi2[ruler]	N	N	16	appos	_
+18	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	17	GEN	_
+19	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	13	appos	_
+

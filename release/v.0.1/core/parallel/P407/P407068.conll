@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P407068.atf						#new_text=P407068
+# tr.en: oxen ugid-type th day from Abbasaga Enlila accepted month Festival-of-An year high priest of Eridu was installed
+# dev/P407068.atf new_text=P407068
+1	2(disz)	2(disz)[one]	NU	NU	4	nummod	projectivity violation	
+10	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	9	acl	_	
+11	iti	iti[month]	N	N	12	nmod	_	
+12	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	2	appos	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	en	en[priest]	N	N	17	ABS	_	
+15	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	14	GEN	_	
+16	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	17	acl	_	
+17	2(disz)	2(disz)[one]	NU	NU	12	nummod	_
+	
+2	gu4	gud[ox]	N	N	18	ABS	_	
+3	szu-gid2	szugid[animal_designation][-ø]	N	N	4	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+6	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	5	nummod	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	9	nmod	_	
+9	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	2	ABL	_	
+

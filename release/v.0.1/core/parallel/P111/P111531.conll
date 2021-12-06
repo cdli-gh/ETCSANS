@@ -1,0 +1,54 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep city gate dais of Utu sheep city gate of Baba sheep city gate palace sheep city gate of Nane sheep House-of-Uruk sheep cabin of barge of Ningezida sheep Gudea sheep Ur-Lamma governor offering for milk-feeding via Akalla man of testimony booked out of place of Lugal-namma month Festival of Dumuzi day year Great-barge was fashioned
+# dev/P111531.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	abul	_[city.gate]	N	N	2	appos	_	
+4	bara2	_[dais]	N	N.ABS	2	appos	_	
+5	{d}utu	Utu[1][-ra]	DN	DN	4	GEN	_	
+6	2(disz)	2(disz)[one]	NU	NU	7	nummod	_	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	abul	_[city.gate]	N	N	7	appos	_	
+9	{d}ba-ba6	_[Baba]	DN	DN	8	GEN	_	
+10	2(disz)	2(disz)[one]	NU	NU	11	nummod	_	
+11	udu	udu[sheep]	N	N	7	appos	_	
+12	abul	_[city.gate]	N	N	11	appos	_	
+13	e2-gal	egal[palace][-ak][-'a]	N	N	11	appos	_	
+14	2(disz)	2(disz)[one]	NU	NU	11	nummod	_	
+15	udu	udu[sheep]	N	N	11	appos	_	
+16	abul	_[city.gate]	N	N	15	appos	_	
+17	{d}nansze	Nansze[1]	DN	DN	16	GEN	_	
+18	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+19	udu	udu[sheep]	N	N	11	appos	_	
+20	e2-unu{ki}-sze3	_[House-of-Uruk]	SN	SN	19	appos	_	
+21	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+22	udu	udu[sheep]	N	N	11	appos	_	
+23	ga2	ga[house]	N	N	22	appos	_	
+24	ma2-gur8-ra	_[barge]	N	N	23	GEN	_	
+25	{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	24	GEN	_	
+26	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+27	udu	udu[sheep]	N	N	11	appos	_	
+28	{d}gu3-de2-a	_[Gudea]	DN	DN	27	appos	_	
+29	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+30	udu	udu[sheep]	N	N	11	appos	_	
+31	ur-{d}lamma	Urlamma[1]	PN	PN	30	appos	_	
+32	ensi2	ensik[ruler]	N	N	30	appos	_	
+33	siskur2	siszkur[offering]	N	N	11	acl	_	
+34	ga	ga[milk]	N	N	7	appos	projectivity violation	
+35	gu7-sze3	_[milk-feeding]	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	33	acl	_	
+36	giri3	giri[foot]	N	N	37	via	_	
+37	a-kal-la	Akala[1]	PN	PN	7	via	_	
+38	lu2-inim-ma	_[man.testimony]	N	N	37	appos	_	
+39	zi-ga	zig[expend]-a	V	NF.V.PT	7	acl	_	
+40	ki	ki[place]	N	N	2	appos	projectivity violation	
+41	lugal-nam2-mah	_[place.Lugal-namma]	PN	PN	39	ABL	_	
+42	iti	iti[month]	N	N	44	nmod	_	
+43	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	44	_	_	
+44	u4	ud[day]	N	N	2	appos	_	
+45	1(u)	1(u)[ten]	NU	NU	44	nummod	_	
+46	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	45	nummod	_	
+47	mu	mu[year]	N	N	44	appos	_	
+48	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	49	ABS	_	
+49	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

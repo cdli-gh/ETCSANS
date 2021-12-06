@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145647.atf
+# tr.en: to Dingir-igi-du speak barig dates sila ghee sila big-cheese ban spelt barig flour to Lu-Szara may he give His sealed document may he not receive
+1	dingir-igi-du	_[to.Dingir-igi-du]	PN	PN	2	_	_	
+2	u3-na-du11	_[speak]	N	N	0	root	_	
+3	1(barig)	1(bariga)[unit]	NU	N	4	nummod	_	
+4	zu2-lum	zulum[date]	N	N	17	_	_	
+5	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+6	sila3	sila[unit]	N	N	7	nmod	_	
+7	i3-nun	inun[ghee]	PN	N	4	appos	_	
+8	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+9	sila3	sila[unit]	N	N	11	nmod	projectivity violation	
+10	ga	ga[milk]	N	N	13	nummod	projectivity violation	
+11	gal	gal[big][-ø]	V	NF.V.ABS	4	acl	_	
+12	2(ban2)	2(ban)[unit]	NU	N	4	nummod	_	
+13	imgaga3	_[ban.spelt]	N	N	4	appos	_	
+14	1(barig)	1(bariga)[unit]	NU	N	4	nummod	_	
+15	dabin	dabin[semolina]	N	N	4	appos	_	
+16	lu2-{d}szara2-ra	_[to.Lu-Szara]	PN	PN	4	LOC	_	
+17	he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	2	acl	_	
+18	kiszib3-ba-ni	_[His.sealed.document]	PN	PN	20	ABS	projectivity violation	
+19	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+20	na-ba!-ab-ti-ti	_[may.he.not.receive]	V	V	17	parataxis	_
+	
+

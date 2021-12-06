@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lambs th day from Abbasaga Intaea accepted month Piglet-feast year en-priestess of Nanna was installed
+# train/P102317.atf
+1	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+5	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	ki	ki[place]	N	N	8	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	8	nmod	_	
+8	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	2	ABL	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	8	acl	_	
+10	iti	iti[month]	N	N	11	nmod	_	
+11	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	2	appos	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	en	en[priest]	N	N	16	ABS	_	
+14	{d}nanna	Nanna[1][-ak]	DN	DN	13	GEN	_	
+15	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	16	acl	_	
+16	7(disz)	7(disz)[one][-sze]	NU	NU	11	nummod	_
+	
+

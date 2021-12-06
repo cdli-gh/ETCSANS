@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102333.atf						#new_text=P102333
+# train/P102333.atf new_text=P102333
+# tr.en: sheep grain-fed rd grade alum sheep grain-fed rd grade nd day from Abbasaga Szu-Mama accepted month festival of Mekigal Year unuri was destroyed
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	udu	udu[sheep]	N	N	3	_	heuristic: before verbal head	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	0	root	_	
+4	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	heuristic: NU premodifying	
+5	us2	us[follow][-ø]	V	NF.V.ABS	6	_	heuristic: attach to head	
+6	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+

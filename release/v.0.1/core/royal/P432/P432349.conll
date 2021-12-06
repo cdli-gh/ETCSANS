@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the mighty king king of Ur Lugal-inim-gina son of Ur-Utu his servant dedicated to him	
+1	lugal	lugal[king]	N	N	10	TERM	_
+2	kal-ga	kalag[strong]	V	NF.V.PT	1	amod	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	3	GEN	_
+5	lugal-inim-gi-na	urim5{ki}[1]+lugal-ka-gen6-na[2]	PN	PN	10	ERG	_
+6	dumu	dumu[child]	N	N	5	appos	_
+7	ur-{d}utu	ur-{d}utu[2]	PN	PN.GEN	6	GEN	_
+8	ARAD2-da-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	5	appos	_
+9	a	a[water]	N	N.ABS	10	ABS	_
+10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

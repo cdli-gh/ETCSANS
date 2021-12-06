@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: iku field area ee iku field area ee field area iku field area field area
+# train/P315604.atf
+1	...	_[_]	PN	N	0	dep	_	
+2	ki	ki[place]	N	N	0	_	_	
+3	...	_[_]	PN	N	0	dep	_	
+4	5(iku)	5(iku)[unit]	NU	N	0	nummod	_	
+5	GAN2	gana[field]	N	N	0	_	_	
+6	...	_[_]	PN	N	0	dep	_	
+7	x	_[_]	N	N	0	dep	_	
+8	...	_[_]	PN	N	0	dep	_	
+9	...	_[_]	PN	N	8	dep	heuristic: after nominal head	
+10	4(iku)	4(iku)[unit]	NU	N	15	nummod	heuristic: NU premodifying; projectivity violation	
+11	GAN2	gana[field]	N	N	8	root	heuristic: after nominal head	
+12	...	_[_]	PN	N	11	dep	heuristic: attach to last	
+13	1(esze3)	1(esze)[unit]	NU	N	15	nummod	heuristic: NU premodifying; projectivity violation	
+14	4(iku)	4(iku)[unit]	NU	N	19	nummod	projectivity violation	
+15	GAN2	gana[field]	N	N	8	appos	_	
+16	x	_[_]	N	N	15	dep	heuristic: after nominal head	
+17	...	_[_]	PN	N	15	dep	heuristic: after nominal head	
+18	1(esze3)	1(esze)[unit]	NU	N	19	nummod	heuristic: NU premodifying	
+19	GAN2	gana[field]	N	N	15	appos	_	
+20	...	_[_]	PN	N	19	dep	heuristic: after nominal head	
+21	5(iku)	5(iku)[unit]	NU	N	22	nummod	heuristic: NU premodifying	
+22	GAN2	gana[field]	N	N	19	appos	_	
+23	x	_[_]	N	N	22	dep	heuristic: after nominal head	
+24	...	_[_]	PN	N	22	dep	heuristic: after nominal head	
+25	...	_[_]	PN	N	22	dep	heuristic: after nominal head	
+26	GAN2	gana[field]	N	N	22	appos	_
+	
+

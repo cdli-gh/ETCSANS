@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P212349.atf						#new_text=P212349
+# tr.en: sheep nanny goats ugid offerings the th day from Tahi-atal ox cow the th day from Intaea Duga accepted Month Akitu year boat of Enki was fashioned
+# train/P212349.atf new_text=P212349
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+4	ud5	uzud[goat]	N	N	2	appos	_	
+5	szu-gid2	szugid[animal_designation][-ø]	N	N	2	appos	_	
+6	u4	ud[day]	N	N	2	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+8	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	7	nummod	_	
+9	ki	ki[place]	N	N	10	ABL	_	
+10	ta2-hi-isz-a-tal-ta	Tahiszatal[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+11	1(disz)	1(disz)[one]	NU	NU	10	nummod	_	
+12	gu4	gud[ox]	N	N	10	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	14	nummod	heuristic: NU premodifying	
+14	ab2	ab[cow][-ø]	N	N	10	appos	_	
+15	u4	ud[day]	N	N	10	appos	_	
+16	1(u)	1(u)[ten]	NU	NU	10	nummod	_	
+17	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	16	nummod	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	10	ABL	_	
+20	du11-ga	dug[irrigate]-a	V	PN	21	ABS	_	
+21	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	10	acl	_	
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P416464.atf new_text=P416464
+# tr.en: kids the th day from Abbasaga Intaea accepted month year Enmagalana high-priestess of Nanna was hired
+# dev/P416464.atf						#new_text=P416464
+3	...	_[_]	PN	N	0	dep	_	
+4	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+5	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+6	...	_[_]	PN	N	0	dep	_	
+7	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+

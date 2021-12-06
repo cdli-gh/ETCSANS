@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: full-grown cows from Lu-dingira son of ARAD-ula Szulgi-ayamu accepted of month th day passed month Piglet feast year Amar-Suen Urbilum destroyed
+# train/P212342.atf
+1	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+2	ab2-mah2	abmah[mature_cow]	N	N	0	root	_	
+3	ki	ki[place]	N	N	4	ABL	_	
+4	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	2	ABL	_	
+5	dumu	dumu[child]	N	N	2	appos	_	
+6	ARAD2-hul3-la-ta	_[ARAD-ula]	PN	PN.GEN.ABL	5	GEN	_	
+7	{d}szul-gi-a-mu	_[Szulgi-ayamu]	PN	PN.ERG	8	ABS	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+9	iti	iti[month]	N	N	2	GEN	_	
+10	u4	ud[day]	N	N	13	nmod	projectivity violation	
+11	2(u)	2(u)[ten]	NU	NU	2	nummod	projectivity violation	
+12	8(disz)	8(disz)[one]	NU	NU	11	nummod	_	
+13	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	9	acl	_	
+14	iti	iti[month]	N	N	15	_	_	
+15	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	2	parataxis	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	{d}amar-{d}suen-ke4	_[Amar-Suen]	DN	RN.GEN.ERG	18	nmod	_	
+18	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	19	ABS	_	
+19	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	15	acl	_
+	
+

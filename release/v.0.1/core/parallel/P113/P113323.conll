@@ -1,0 +1,62 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sila date syrup its silver shekel a -ducklings their silver shekel k its silver shekel less less bandicoot rats their silver grains a -crow its silver grains reservoir fish fine quality their silver shekels grains first fruits of Enlil under seal of alulu year Puzri-Dagan Lugal-ezem scribe son of Lugal-emae the chief household manager
+# dev/P113323.atf
+1	5/6(disz)	5/6(disz)[one]	NU	NU	3	nummod	_	
+2	sila3	sila[unit]	N	N	3	nmod	_	
+3	lal3	lal[syrup]	N	N	0	root	_	
+4	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	3	appos	_	
+5	2/3(disz)	2/3(disz)[one]	NU	NU	9	nummod	projectivity violation	
+6	gin2	gig[unit]	N	N	3	appos	_	
+7	4(disz)	4(disz)[one]	NU	NU	9	nummod	_	
+8	amar-sag	_[a]	N	N	7	_	heuristic: attach to last	
+9	uz-tur	_[-ducklings]	PN	PN	6	appos	_	
+10	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	9	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	13	nummod	projectivity violation	
+12	gin2	gig[unit]	N	N	9	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+14	ku5-da	kuda[1]	PN	PN	13	_	heuristic: attach to last	
+15	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	13	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	17	nummod	_	
+17	gin2	gig[unit]	N	N	13	appos	projectivity violation	
+18	la2	la[hang][-ø]	V	NF.V.ABS	16	acl	projectivity violation	
+19	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	17	nummod	_	
+20	1(u)	1(u)[ten]	NU	NU	23	nummod	_	
+21	la2	la[hang][-ø]	V	NF.V.ABS	20	acl	_	
+22	1(disz)	1(disz)[one]	NU	NU	21	nummod	_	
+23	pesz2-gesz-gi	_[bandicoot.rats]	PN	PN	17	appos	_	
+24	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	23	appos	_	
+25	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	24	_	heuristic: attach to last	
+26	6(disz)	6(disz)[one][-sze]	NU	NU	30	nummod	projectivity violation	
+27	sze	sze[barley]	N	N	23	appos	_	
+28	1(disz)	1(disz)[one]	NU	NU	30	nummod	_	
+29	amar-sag	_[a]	N	N	28	_	heuristic: attach to last	
+30	u2-ga{muszen}	_[-crow]	N	N	27	appos	_	
+31	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	30	appos	_	
+32	1(u)	1(u)[ten]	NU	NU	34	nummod	projectivity violation	
+33	6(disz)	6(disz)[one][-sze]	NU	NU	37	nummod	projectivity violation	
+34	sze	sze[barley]	N	N	30	appos	_	
+35	3(gesz2)	3(gesz)[sixty]	NU	NU	37	nummod	_	
+36	2(u)	2(u)[ten]	NU	NU	35	nummod	_	
+37	ku6	kud[fish]	N	N	34	appos	_	
+38	kun-zi	_[reservoir.quality]	N	N	37	appos	_	
+39	saga	saga[good][-ø]	V	NF.V.ABS	37	acl	_	
+40	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	37	appos	_	
+41	2(disz)	2(disz)[one]	NU	NU	42	nummod	_	
+42	gin2	gig[unit]	N	N	37	appos	_	
+43	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	45	_	heuristic: NU premodifying	
+44	1(u)	1(u)[ten]	NU	NU	45	nummod	heuristic: NU premodifying	
+45	sze	sze[barley]	N	N	42	appos	_	
+46	nesag	Nesag[1][-'a]	N	MN.L1	42	appos	_	
+47	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	46	GEN	_	
+48	kiszib3	kiszib[seal]	N	N	46	LOC	_	
+49	ha-lu5-lu5	_[alulu]	PN	PN.GEN	48	GEN	_	
+50	mu	mu[year]	N	N	49	_	heuristic: attach to last	
+51	e2	e[house]	N	N	3	appos	projectivity violation	
+52	puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	42	appos	_	
+53	lugal-ezem	Lugalezem[1]	PN	PN	3	appos	_	
+54	dub-sar	dubsar[scribe]	N	N	3	appos	_	
+55	dumu	dumu[child]	N	N	3	appos	_	
+56	lugal-e2-mah-e	Lugalemahe[1]	N	PN	55	GEN	_	
+57	szabra	szabra[chief_administrator][-ak]	N	N	3	appos	_
+	
+

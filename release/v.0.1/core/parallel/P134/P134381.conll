@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P134381.atf
+# tr.en: gur barley barley for of Enlil to be stored in that place from Lugal-namtare did Ur-aya receive the extra month Harvest year En-magal-ana as en priestess of Innana was installed the harvest will remit this barley into household of Enlil which he is entering That My field by storm was ruined or by flood water was ruined to king or to chief administrator he will not say by royal name he swore Ur-aya scribe son of Engar-du cupbearer
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	sze	sze[barley]	N	N	4	nmod	_	
+3	gur	gur[unit]	N	N	4	nmod	_	
+4	sze	sze[barley]	N	N	12	ABS	_	
+5	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	4	DAT	_	
+6	ki-ba	ki[place]-bi-'a	PN	N.3-SG-NH-POSS.L1	7	_	_	
+7	se-ge-de3	_[be.stored.in.that.place]	V	NF.V.PF.DAT-NH	4	acl	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	lugal-nam-tar-re-ta	_[Lugal-namtare]	PN	PN.GEN.ABL	4	ABL	_	
+10	ur-{d}ha-ia3-ke4	_[did.Ur-aya]	PN	PN.GEN.ERG	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+13	iti	iti[month]	N	N	15	_	_	
+14	diri	diri[intercalary_month]	N	N	13	appos	_	
+15	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	12	parataxis	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	20	ABS	_	
+18	en	en[priest]	N	N	17	EQU	_	
+19	{d}inanna	Inanna[1][-ak]	DN	DN	18	GEN	_	
+20	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	15	acl	_	
+21	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	22	nmod	_	
+22	buru14	_[harvest]	N	N	23	ABS	_	
+23	ama-bi	_[will.remit]	N	N	12	parataxis	_	
+24	gi4-gi4	_[this]	V	V	23	acl	_	
+25	e2	e[house]	N	N	23	TERM	_	
+26	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	DN.GEN.ABS	25	TERM	_	
+27	i3-ni-kux(KWU636)-kux(KWU636)-a	_[which.he.is.entering]	PN	PN	25	acl	_	
+28	a-sza3-mu	_[That.My]	N	N.GEN	29	nmod	_	
+29	u4-de3	_[field.by.storm]	N	N.L3-NH	30	ABS	_	
+30	ba-ab-de3	_[was.ruined.or]	V	V	12	parataxis	_	
+31	a-e	_[by]	N	N	32	ERG	_	
+32	ba-ab-de3	_[flood.water.was.ruined]	V	V	30	appos	_	
+33	lugal-ra	_[to.king.or]	N	N	30	LOC	_	
+34	u3	u[and]	CNJ	CNJ	33	_	heuristic: attach to last	
+35	sanga	sagga[temple_administrator]	N	N	34	_	heuristic: attach to last	
+36	nu-un-na-be2-a	_[say.to.chief.administrator.he.will.not]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	33	acl	_	
+37	mu	mu[year]	N	N	12	appos	projectivity violation	
+38	lugal-bi	_[by.royal.name.he.swore]	N	N	36	ERG	_	
+39	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	12	_	heuristic: attach to head	
+40	ur-{d}ha-ia3	Urha'ia[1][-ak][-ø]	PN	PN.GEN.ABS	12	parataxis	_	
+41	dub-sar	dubsar[scribe]	N	N	40	appos	_	
+42	dumu	dumu[child]	N	N	40	appos	_	
+43	engar-du10	_[Engar-du]	PN	PN	42	GEN	_	
+44	sagi	sagi[cup_bearer][-ø]	N	N	43	appos	_
+	
+

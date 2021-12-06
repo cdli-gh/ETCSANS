@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P452219.atf
+# tr.en: talents of mountain wool from governor Dadaga received month Paue year after Kima was destroyed
+1	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+2	gu2	gun[unit]	N	N	8	ABS	_	
+3	siki-kur-ra	sikikurra[type_of_wool]	N	N	2	GEN	_	
+4	ki	ki[place]	N	N	6	ABL	_	
+5	ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	6	nmod	_	
+6	da-da-ga	Dadaga[1][-ak]	PN	PN	2	ABL	_	
+7	szu	szu[hand][-e]	N	N.L3-NH	8	_	_	
+8	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+9	iti	iti[month]	N	N	8	appos	_	
+10	pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	9	appos	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	us2-sa	us[follow]-a	V	NF.V.PT	11	acl	_	
+13	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	10	appos	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	10	acl	_
+	
+

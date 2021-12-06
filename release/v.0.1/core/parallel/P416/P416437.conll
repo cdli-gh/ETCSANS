@@ -1,0 +1,88 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed of th grade sheep barley-fed for Inanna in n bucks in Ur sheep barley-fed sheep barley-fed for Enki sheep barley-fed at Dublama in Eridu Atu rider responsible official sheep barley-fed for Inanna of Uruk Auni cupbearer responsible official of month day elapsed from Nalu booked out in Ur month Festival of An year high-priestess of Nanna in Karzida was hired Amar-Suen strong king king of Ur king of four quarters Ur-Szulpae scribe son of Ur-aya your servant
+# train/P416437.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	7	nummod	projectivity violation	
+5	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+6	2(disz)	2(disz)[one]	NU	NU	7	nummod	_	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	{d}inanna	Inanna[1][-ak]	DN	DN	7	DAT	_	
+10	sza3	szag[heart]	N	N	7	LOC	_	
+11	x	_[_]	N	N	10	dep	heuristic: attach to last	
+12	x	_[_]	N	N	11	dep	heuristic: attach to last	
+13	x	_[_]	N	N	12	dep	heuristic: attach to last	
+14	lugal-ki-x	_[in]	PN	PN.GEN.GEN.ABS	10	LOC	_	
+15	n	_(_)[_]	NU	NU	7	nummod	_	
+16	masz2	masz[goat]	N	N	7	appos	_	
+17	x	_[_]	N	N	16	dep	heuristic: attach to last	
+18	...	_[_]	PN	N	17	dep	heuristic: attach to last	
+19	x	_[_]	N	N	0	dep	_	
+20	UD	_	PN	PN	0	root	_	
+21	x	_[_]	N	N	20	dep	heuristic: attach to last	
+22	lugal	lugal[king]	N	N	20	appos	_	
+23	x	_[_]	N	N	22	dep	heuristic: attach to last	
+24	sza3	szag[heart]	N	N	25	LOC	_	
+25	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	19	LOC	projectivity violation	
+26	2(disz)	2(disz)[one]	NU	NU	27	nummod	_	
+27	udu	udu[sheep]	N	N	16	appos	projectivity violation	
+28	niga	niga[fattened][-ø]	V	NF.V.ABS	27	acl	_	
+29	3(disz)	3(disz)[one]	NU	NU	30	nummod	heuristic: NU premodifying	
+30	...	_[_]	PN	N	27	dep	_	
+31	2(disz)	2(disz)[one]	NU	NU	34	nummod	projectivity violation	
+32	udu	udu[sheep]	N	N	27	appos	_	
+33	niga	niga[fattened][-ø]	V	NF.V.ABS	27	acl	_	
+34	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	27	DAT	_	
+35	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+36	udu	udu[sheep]	N	N	34	appos	_	
+37	niga	niga[fattened][-ø]	V	NF.V.ABS	34	acl	_	
+38	dub-la-mah	_[at.Dublama]	PN	PN	34	LOC	_	
+39	sza3	szag[heart]	N	N	40	LOC	_	
+40	eridu{ki}-ga	Eridug[1]-ak[-ø]	SN	SN.GEN.ABS	34	LOC	_	
+41	a-tu	Atu[1][-ak]	PN	PN	40	appos	_	
+42	ra2-gaba	ragaba[rider]	N	N.ABS	34	appos	_	
+43	maszkim	maszkim[administrator]	N	N.ABS	27	appos	_	
+44	2(disz)	2(disz)[one]	NU	NU	48	nummod	projectivity violation	
+45	udu	udu[sheep]	N	N	27	appos	_	
+46	niga	niga[fattened][-ø]	V	NF.V.ABS	45	acl	_	
+47	{d}inanna	Inanna[1][-ak]	DN	DN	45	DAT	_	
+48	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	47	GEN	_	
+49	a-hu!-ni	Ahuni[1][-ra]	PN	PN.DAT-H	48	appos	_	
+50	sagi	sagi[cup_bearer][-ø]	N	N	48	appos	_	
+51	maszkim	maszkim[administrator]	N	N.ABS	48	appos	_	
+52	iti	iti[month]	N	N	27	GEN	_	
+53	u4	ud[day]	N	N	52	appos	_	
+54	1(u)	1(u)[ten]	NU	NU	52	nummod	_	
+55	la2	la[hang][-ø]	V	NF.V.ABS	54	_	_	
+56	1(disz@t)	1(disz)[one]	NU	NU	55	nummod	_	
+57	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	52	acl	_	
+58	ki	ki[place]	N	N	59	ABL	_	
+59	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	52	ABL	_	
+60	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	59	acl	_	
+61	sza3	szag[heart]	N	N	62	LOC	_	
+62	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	60	LOC	_	
+63	iti	iti[month]	N	N	65	nmod	_	
+64	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	65	ABS	_	
+65	mu	mu[year]	N	N	7	appos	projectivity violation	
+66	en	en[priest]	N	N	69	ABS	_	
+67	{d}nanna	Nanna[1][-ak]	DN	DN	66	GEN	_	
+68	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	66	LOC	_	
+69	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	65	acl	_	
+70	{d}amar-{d}suen	Amarsuen[1]	RN	RN	20	appos	_	
+71	lugal	lugal[king]	N	N	70	appos	_	
+72	kal-ga	kalag[strong]-a	V	NF.V.SUB	71	acl	_	
+73	lugal	lugal[king]	N	N	70	appos	_	
+74	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	73	GEN	_	
+75	lugal	lugal[king]	N	N	70	appos	_	
+76	an	An[1][-ra]	N	N	78	nummod	projectivity violation	
+77	ub-da	_	N	N	70	appos	projectivity violation	
+78	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	75	nummod	_	
+79	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	70	appos	_	
+80	dub-sar	dubsar[scribe]	N	N	70	appos	_	
+81	dumu	dumu[child]	N	N	80	appos	_	
+82	ur-{d}ha-ia3	Urha'ia[1][-ak][-ø]	PN	PN.GEN.ABS	81	GEN	_	
+83	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	80	appos	_
+	
+

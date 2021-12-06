@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Suen strong king king of Ur king of four corners to Babati chief accountant royal official general of Magan-arruma governor of Awal governor household manager of two queens in land irrigation manager chief temple manager of Belat-suner and Belat-teraban brother of Ab-simt his beloved mother his servant he gifted
+1	{d}szu-{d}suen	sz-suen[1]	PN	PN	0	root	_
+2	lugal	_	N	N	1	appos	_
+3	kal-ga	_[strong.king]	N	N	1	appos	_
+4	lugal	_[king]	_	_	3	_	_
+5	uri5{ki}-ma	_[Ur]	N	N	2	GEN	_
+6	lugal	_[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	_	_	_	7	_	_
+9	limmu2-ba-ke4	_[four.corners]	NU	N	6	nummod	_
+10	ba-ba-ti	_[to.Babati]	PN	PN	1	LOC	_
+11	sza13-dub-ba	_[chief.accountant]	N	N	10	appos	_
+12	sza3-tam	_[royal.official]	N	N	10	appos	_
+13	lugal	_	_	_	10	_	_
+14	szagina	_[general]	N	N	10	appos	_
+15	masz-kan2-szar-ru-um{ki}-ma	_[of.Magan-arruma]	N	N	14	GEN	_
+16	ensi2	_[governor]	N	N	10	appos	_
+17	a-wa-al{ki}	_[of.Awal]	PN	PN	16	GEN	_
+18	ensi2	_[governor]	N	N	17	appos	_
+19	szabra	_[household.manager]	N	N	17	appos	_
+20	nin	_	_	_	19	_	_
+21	min-a-bi	_[two.queens]	NU	NU	22	nummod	_
+22	ku3-gal2	_[two.queens]	N	N	19	GEN	_
+23	ma-da	_	_	_	24	_	_
+24	a-du11-ga	_[in.land.irrigation.manager]	N	N	22	LOC	_
+25	sanga	_[chief.temple.manager]	N	N	24	appos	_
+26	{d}be-la-at-suh6-ner	_[Belat-suner]	N	N	25	GEN	_
+27	u3	_	CC	_	24	cc	_
+28	{d}be-la-at-te-ra-ba-an	_[and.Belat-teraban]	N	N	24	conj	_
+29	szesz	_[brother]	N	N	24	conj	_
+30	a-bi2-si2-im-ti	_[Ab-simt]	N	N	29	GEN	_
+31	ama	_	_	_	22	_	_
+32	ki-ag2-na	_[his.beloved.mother]	N	N	22	appos	_
+33	ARAD2-da-ni-ir	_[his.servant]	N	N	22	appos	_
+34	in-na-ba	_[he.gifted]	V	V	22	acl	_
+

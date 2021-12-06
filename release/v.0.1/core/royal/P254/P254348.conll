@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Bau his lady Geme-girnuna spouse of Amarsu child of Alla dedicated this for well-being of Ur-Ninmarki governor of Laga and for her own well-being
+1	{d}ba-ba6	{d}ba-u2[1]	DN	DN	7	LOC	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	0	_	_
+4	ur-{d}nin-mar{ki}	nam-til3[life]+ur-{d}nin-mar-ki[2]	PN	PN	3	appos	_
+5	ensi2	ensi2[ruler]	N	N	4	appos	_
+6	lagasz{ki}-ka-sze3	lagasz{ki}[1]	SN	SN.GEN.GEN.TERM	5	GEN	_
+7	geme2-gir2-nun	geme2-gir2-nun[1]	PN	PN	0	root	_
+8	dam	dam[spouse]	N	N	7	appos	_
+9	amar-su4	amar-su4[1]	PN	PN.GEN	8	GEN	_
+10	dumu	dumu[child]	N	N	7	appos	_
+11	al-ke4	al[3]	PN	PN.GEN.ERG	10	appos	_
+12	u3	u3[and]	CNJ	CNJ	4	appos	_
+13	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_
+14	a	a[water]	N	N.ABS	15	ABS	_
+15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	appos	_
+

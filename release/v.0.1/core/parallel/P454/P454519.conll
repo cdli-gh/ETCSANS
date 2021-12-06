@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454519.atf
+# tr.en: Alulu son of Inim-Szara fattener of Szara
+1	a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	2	GEN	_	
+4	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	1	appos	_	
+5	{d}szara2-ka	_[Szara]	DN	DN	4	GEN	_
+	
+

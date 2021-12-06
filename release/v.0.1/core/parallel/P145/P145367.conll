@@ -1,0 +1,47 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145367.atf new_text=P145367
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P145367.atf						#new_text=P145367
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+4	gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	1	appos	_	
+5	i7-pa-e3	Ipa'e[1][-ø]	PN	PN	4	_	heuristic: attach to last	
+6	dumu	dumu[child]	N	N	5	_	heuristic: attach to last	
+7	lugal-...	_[1][-ra]	PN	PN	6	_	heuristic: attach to last	
+8	da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	7	_	heuristic: attach to last	
+9	lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	8	_	heuristic: attach to last	
+10	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	9	_	heuristic: attach to last	
+11	dumu	dumu[child]	N	N	10	_	heuristic: attach to last	
+12	da-a-ga	_[xxx]	PN	PN	11	_	heuristic: attach to last	
+13	lugal-ukken-ne2	Lugalukkene[1][-ø]	PN	PN.DAT-H	12	_	heuristic: attach to last	
+14	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	13	_	heuristic: attach to last	
+15	ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	14	_	heuristic: attach to last	
+16	ba-sa6	Basa[1][-ak]	PN	PN.GEN	15	_	heuristic: attach to last	
+17	lugal-{d}isztaran	_[xxx]	PN	PN	16	_	heuristic: attach to last	
+18	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	17	_	heuristic: attach to last	
+19	dumu	dumu[child]	N	N	18	_	heuristic: attach to last	
+20	da-da	Dada[1][-ak]	PN	PN	19	_	heuristic: attach to last	
+21	ur-{gesz}gigir	Urgigir[1]	PN	PN	20	_	heuristic: attach to last	
+22	dumu	dumu[child]	N	N	21	_	heuristic: attach to last	
+23	bar-ra-an	_[xxx]	PN	PN	22	_	heuristic: attach to last	
+24	ur-mes	Urmes[1]	PN	PN	23	_	heuristic: attach to last	
+25	i7-pa-e3	Ipa'e[1][-ø]	PN	PN	24	_	heuristic: attach to last	
+26	ur-{d}nin-su	_[xxx]	PN	PN	25	_	heuristic: attach to last	
+27	szesz-a-ni	Szeszani[1][-ak]	PN	PN	26	_	heuristic: attach to last	
+28	a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	27	_	heuristic: attach to last	
+29	lugal-ezem	Lugalezem[1]	PN	PN	28	_	heuristic: attach to last	
+30	ur-{gesz}gigir	Urgigir[1]	PN	PN	29	_	heuristic: attach to last	
+31	dumu	dumu[child]	N	N	30	_	heuristic: attach to last	
+32	lugal-lu2-ni	_[xxx]	PN	PN.GEN.ERG	31	_	heuristic: attach to last	
+33	ab-ba-gi-na	Abbagina[1]	PN	PN	32	_	heuristic: attach to last	
+34	dumu	dumu[child]	N	N	33	_	heuristic: attach to last	
+35	ur-...	_[1][-ak]	PN	PN.GEN.ABS	34	_	heuristic: attach to last	
+36	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	39	nmod	_	
+37	...	_[_]	PN	N	36	dep	heuristic: attach to last	
+38	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	39	acl	_	
+39	mu	mu[year]	N	N	1	appos	_	
+40	en	en[priest]	N	N	1	appos	_	
+41	{d}...	_[1][-'a]	MN	DN.GEN	0	_	_
+	
+

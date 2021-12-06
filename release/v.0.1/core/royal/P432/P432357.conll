@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Inanna Paplal son of Amarsumun temple administrator of Enlil
+1	{d}inanna	{d}inana[1]	DN	DN.DAT-H	0	root	_
+2	pap-lal3	pap-lal3[1]	PN	PN	1	appos	_
+3	dumu	dumu[child]	N	N	1	appos	_
+4	amar-sumun	amar-sumun[1]	PN	PN	3	GEN	_
+5	x	_[_]	u	u	1	dep	_
+6	sanga	sagga[official]	N	N	1	appos	_
+7	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_
+8	...	_[of.Enlil]	PN	PN	6	dep	_
+

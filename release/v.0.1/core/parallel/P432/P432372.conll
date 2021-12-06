@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P432372.atf						#new_text=P432372
+# dev/P432372.atf new_text=P432372
+# tr.en: broken the king of Mari son of Puzur-Etar the king before the Divine River his lord the Twin Gods and Itaran The Divine River Itaran and Twin Gods his seed may they pluck up as far as his According to wording of an old stone stela which in Sippar Remutum junior scribe Su- examined and excerpted
+1	he-pi	_[broken]	N	N	26	acl.ADV	_	
+2	...	_[_]	PN	N	1	dep	heuristic: attach to last	
+3	_lugal_	lugal[king]	N	N	26	ABS	_	
+4	<ma>-ri2{ki}	_[Mari]	SN	SN.GEN.GEN.L1	3	GEN	_	
+5	_dumu_	dumu[child]	N	N	7	_	_	
+6	puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	5	GEN	_	
+7	_lugal_	lugal[king]	N	N	4	appos	_	
+8	i-na	_	PN	PN	3	_	heuristic: after nominal head	
+9	mah-ri	_[before]	V	V	10	acl	_	
+10	{d}i7	_[the.Divine.River]	DN	DN	3	LOC	_	
+11	be-li2-szu	_[his.lord]	PN	PN	10	appos	_	
+12	{d}masz-tab-ba	_[the.Twin.Gods]	DN	DN	10	appos	_	
+13	u3	u[and]	CNJ	CNJ	10	appos	_	
+14	{d}isztaran	Isztaran[1]	DN	DN	10	appos	_	
+15	...	_[_]	PN	N	14	dep	heuristic: attach to last	
+26	li-il-qu3-tu3	_[may.they.pluck.up]	PN	PN	0	root	_	
+27	'.	_	N	N	29	LOC	_	
+28	a-di3	_[as]	PN	PN	29	_	_	
+29	si-dar-ki-szu	_[far.as.his]	PN	PN	0	_	detached for projectivity	
+30	'.	_	_	_	27	_	heuristic: after nominal head	
+31	ki-ma	_[According]	SN	SN	32	TERM	_	
+32	pi2-i	_[to.wording]	N	N.ABS	27	DAT	_	
+33	_{na4}na-ru2-a	_[an]	PN	PN	35	nmod	_	
+34	libir-ra_	_[old.stone]	V	NF.V.ABS.ABS.COP-3-SG.DAT-H	35	acl	_	
+35	sza2	_[stela]	N	N	32	GEN	_	
+36	ina	_[which]	PN	PN	35	acl	_	
+37	{iri}sip-par2{ki}	_[in.Sippar]	GN	GN	40	LOC	_	
+38	'.	_	_	_	40	_	_	
+39	1(disz)	1(disz)[one]	NU	NU	40	nummod	_	
+40	re-mu-tum	_[Remutum]	PN	PN	36	LOC	_	
+41	_dub-sar	dubsar[scribe]	N	N	42	acl	_	
+42	banda3{da}_	_[scribe]	N	NF.V	40	appos	_	
+43	1(disz)	1(disz)[one]	NU	NU	40	nummod	_	
+44	su-x-...	_[Su-]	PN	PN	40	_	heuristic: after nominal head	
+45	'.	_	_	_	40	_	heuristic: after nominal head	
+46	u2-s,ab-bi-ma	_[examined]	N	N	40	acl	_	
+47	is-su-uh	_[and.excerpted]	N	N	46	appos	_
+	
+

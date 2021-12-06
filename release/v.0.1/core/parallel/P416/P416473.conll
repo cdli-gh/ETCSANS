@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P416473.atf
+# tr.en: sheep buck nanny goat slaughtered th day from Nalu Ur-nigar received month Gazelle feast year after Kima and urti were destroyed
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	7	ABS	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+5	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+6	ud5	uzud[goat]	N	N	2	appos	_	
+7	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	0	root	_	
+8	u4	ud[day]	N	N	7	appos	_	
+9	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	7	nummod	_	
+10	ki	ki[place]	N	N	9	_	heuristic: attach to last	
+11	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	14	ABS	projectivity violation	
+12	ur-nigar{gar}	Urnigar[1]	PN	PN	11	_	heuristic: attach to last	
+13	szu	szu[hand][-e]	N	N.L3-NH	7	appos	_	
+14	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	7	acl.ADV	_	
+15	iti	iti[month]	N	N	7	appos	_	
+16	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	15	appos	_	
+17	mu	mu[year]	N	N	16	appos	_	
+18	us2-sa	us[follow]-a	V	NF.V.PT	17	acl	_	
+19	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	16	appos	_	
+20	u3	u[and]	CNJ	CNJ	22	nmod	_	
+21	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	22	nmod	_	
+22	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	acl	_
+	
+

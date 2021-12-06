@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P465778.atf						#new_text=P465778
+# tr.en: leather stoppers the mouths of jugs of fine baba to bind from Akalla under seal of Lu-bala-saga month Extra year after Kima was destroyed Lu-bala-saga scribe son of Mama
+# train/P465778.atf new_text=P465778
+1	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	_	
+2	1(u)	1(u)[ten]	NU	NU	1	nummod	_	
+3	kusz	kusz[leather]	N	N	4	nmod	_	
+4	gar	_[stoppers]	V	V	0	root	_	
+5	ka	kag[mouth]	N	N	6	nmod	_	
+6	<dug>	dug[pot]	N	N	4	appos	_	
+7	ba-ba	baba[porridge]	N	N	6	GEN	_	
+8	saga	saga[good][-ø]	V	NF.V.ABS	9	acl	_	
+9	kesz2-de3	_[baba.to.bind]	V	V	7	acl	_	
+10	ki	ki[place]	N	N	11	ABL	_	
+11	a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	6	ABL	_	
+12	kiszib3	kiszib[seal]	N	N	6	LOC	_	
+13	lu2-bala-saga	_[Lu-bala-saga]	PN	PN	12	GEN	_	
+20	lu2-bala-sa6-ga	_[Lu-bala-saga]	PN	PN	4	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	ma-ma	_[Mama]	PN	PN	22	GEN	_
+	
+

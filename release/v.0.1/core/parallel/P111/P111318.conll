@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111318.atf						#new_text=P111318
+# train/P111318.atf new_text=P111318
+# tr.en: labor of Ur-kalam of year each year shekels silver its silver shekels shall be weighed out Andaga to Nin-ana was confirmed responsible official
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	_	_	
+2	a2	a[time]	N	N	0	root	_	
+3	ur-kalam-ka	_[Ur-kalam]	PN	PN	2	GEN	_	
+4	'.	_	_	_	2	_	_	
+5	mu	mu[year]	N	N	2	GEN	_	
+6	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	7	nummod	heuristic: NU premodifying	
+7	mu-a	_[year.shekels.silver]	N	N	2	appos	_	
+8	3(disz)	3(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	gin2-ta	gig[unit]-ta	N	N.ABL	7	appos	_	
+10	'.	_	_	_	2	_	heuristic: after nominal head	
+11	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	2	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+13	2(disz)	2(disz)[one]	NU	NU	12	nummod	_	
+14	gin2	gig[unit]	N	N	15	ABS	_	
+15	la2-e-de3	_[shall.be.weighed.out]	V	NF.V.PF.DAT-NH	2	acl	_	
+16	an-da-ga	_[Andaga]	PN	PN.GEN	19	ABS	_	
+17	nin-a-na-ra	_[to.Nin-ana]	PN	PN	16	LOC	_	
+18	ba-na-gi-in	ba-nn-a-gin[comfirm][-ø]	V	MID.3-SG-H.DAT.V.3-SG-S	19	acl	_	
+19	...	_[_]	PN	N	15	dep	_	
+20	maszkim	maszkim[administrator]	N	N.ABS	19	appos	_
+	
+

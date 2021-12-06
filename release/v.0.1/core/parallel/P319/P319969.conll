@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P319969.atf new_text=P319969
+# train/P319969.atf						#new_text=P319969
+# tr.en: Basket-of-tablets long-tablets sheep with grain exchanged are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	7	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	_	
+4	udu	udu[sheep]	N	N	2	appos	_	
+5	sze-ta	sze[barley]-ta	N	N.ABL	4	_	heuristic: attach to last	
+6	sa10	_[with.grain.exchanged]	V	NF.V.3-SG-NH-POSS.GEN	4	acl	_	
+7	sa10	_[with.grain.exchanged]	V	V	1	acl	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	7	_	_
+	
+

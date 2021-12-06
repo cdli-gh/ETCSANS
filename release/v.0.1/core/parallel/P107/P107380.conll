@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107380.atf new_text=P107380
+# train/P107380.atf						#new_text=P107380
+# tr.en: Basket-of-tablets barley of oxen-fields barley of ploughs into silo delivered threshing center for its silo of Umma Guedina Mubiana and Apisal its threshed barley are here month Sowing year silver chair of Enlil was fashioned
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	19	ABS	_	
+3	GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	2	GEN	_	
+4	sze	sze[barley]	N	N	2	appos	_	
+5	apin-la2	apinla[tenancy]	N	N	4	GEN	_	
+6	guru7-a	guru[store]-'a	N	N.L1	2	TERM	_	
+7	mu-kux(DU)	mukur[delivery][-ø]	N	N	6	acl	_	
+8	i3-dub	idub[granary]	N	N	2	appos	_	
+9	guru7-bi-sze3	_[for.its.silo]	N	N.3-SG-H-POSS.TERM	2	TERM	_	
+19	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+20	iti	iti[month]	N	N	21	_	_	
+21	szu-numun	Szunumun[1][-'a]	MN	MN.L1	19	parataxis	_	
+22	mu	mu[year]	N	N	21	appos	_	
+23	gu-za	guza[chair][-ø]	N	N	26	ABS	_	
+24	ku3	kug[silver]	N	N	23	appos	_	
+25	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	23	GEN	_	
+26	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	21	acl	_
+	
+

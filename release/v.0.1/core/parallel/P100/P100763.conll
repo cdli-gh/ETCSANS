@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P100763.atf
+# tr.en: Basket-of-tablets sealed documents official ones of chief house administrator of oxen in Apisal Mubiana Gu-edina are here year Amar-Suen is king
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	9	ABS	_	
+3	nam-sza3-tam	namszatam[administration]	N	N	5	acl	projectivity violation	
+4	szabra	szabra[chief_administrator][-ak]	N	N	2	appos	_	
+5	gu4-ke4-ne	_[oxen.ones.chief.house.administrator]	N	N.GEN.PL	2	appos	_	
+6	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	2	LOC	_	
+7	musz-bi-an-na	Muszbi'anna[1][-ak]	FN	FN.L1	8	nmod	_	
+8	gu2-de3-na	Gudena[1][-ak]	PN	PN.GEN	6	appos	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+10	mu	mu[year]	N	N	12	_	_	
+11	{d}amar-{d}suen	Amarsuen[1]	RN	RN	12	ABS	_	
+12	lugal	lugal[king]	N	N	9	parataxis	_
+	
+

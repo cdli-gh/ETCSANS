@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416466.atf
+# tr.en: white kid in wadaltum sheep ewes nanny goats lambs suckling lambs slaughtered th day from Szulgi-ayamu Szulgi-irimu received month Harvest year Enmagalana high-priestess of Nanna was hired small cattle
+1	1(disz)	1(disz)[one]	NU	NU	35	nummod	_	
+2	masz2	masz[goat]	N	N	7	nummod	projectivity violation	
+3	babbar	_[white.kid]	AJ	AJ	35	ABS	_	
+4	sza3	szag[heart]	N	N	5	LOC	_	
+5	wa-da-al-tum	_[wadaltum]	PN	PN	35	LOC	_	
+6	4(disz)	4(disz)[one]	NU	NU	7	nummod	_	
+7	udu	udu[sheep]	N	N	35	_	_	
+8	2(disz)	2(disz)[one]	NU	NU	7	nummod	_	
+9	u8	u[ewe]	N	N	7	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	7	nummod	_	
+11	ud5	uzud[goat]	N	N	7	appos	_	
+12	3(disz)	3(disz)[one]	NU	NU	7	nummod	_	
+13	sila4	sila[lamb]	N	N	7	appos	_	
+14	2(disz)	2(disz)[one]	NU	NU	7	nummod	_	
+15	sila4	sila[lamb]	N	N	7	appos	_	
+16	ga	ga[milk]	N	N	15	appos	_	
+17	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	7	acl	_	
+18	u4	ud[day]	N	N	7	appos	_	
+19	1(u)	1(u)[ten]	NU	NU	7	nummod	_	
+20	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_	
+21	ki	ki[place]	N	N	23	ABL	_	
+22	{d}szul-gi-a-a-mu-ta	_[Szulgi-ayamu]	PN	PN.GEN.GEN.ABL	23	nmod	_	
+23	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	7	ABL	_	
+24	szu	szu[hand][-e]	N	N.L3-NH	7	appos	projectivity violation	
+25	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	23	acl	_	
+26	iti	iti[month]	N	N	27	nmod	_	
+27	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	7	appos	_	
+28	mu	mu[year]	N	N	32	_	_	
+29	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	32	ABS	_	
+30	en	en[priest]	N	N	29	appos	_	
+31	{d}nanna	Nanna[1][-ak]	DN	DN	30	GEN	_	
+32	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	27	acl	_	
+33	1(u)	1(u)[ten]	NU	NU	35	nummod	_	
+34	4(disz)	4(disz)[one]	NU	NU	33	nummod	_	
+35	udu	udu[sheep]	N	N	0	root	_
+	
+

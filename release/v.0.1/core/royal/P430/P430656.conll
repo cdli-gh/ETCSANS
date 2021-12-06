@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful man king of Urim Naram-ili overseer of doorkeepers is your servant
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	appos	_
+6	na-ra-am-i3-li2	na-ra-am-i3-li2[1]	PN	PN	5	GEN	_
+7	sukkal	sukkal[secretary]	N	N	6	appos	_
+8	i3-du8	i3-du8[doorkeeper]	N	N.GEN.ABS	7	appos	_
+9	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

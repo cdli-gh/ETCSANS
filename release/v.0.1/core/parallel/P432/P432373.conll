@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432373.atf						#new_text=P432373
+# train/P432373.atf new_text=P432373
+# tr.en: Anun-Dagn king of Mari
+1	'a3-nim-{d}da-gan	_[Anun-Dagn]	PN	PN	6	appos	_	
+2	lugal	lugal[king]	N	N	6	_	_	
+3	ma-ri2{ki}	_[Mari]	SN	SN.GEN.GEN.L1	2	GEN	_	
+4	za-x	_	PN	PN.GEN	3	GEN	_
+	
+

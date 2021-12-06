@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna his master Ur-Namma	
+1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_
+2	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	root	_
+

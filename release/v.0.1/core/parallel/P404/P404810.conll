@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P404810.atf
+# tr.en: male kid Szezimu male lamb Puzur-Edar male lamb Kalla male lambs Nuid male lambs zabar-dab official male lamb Ur-Suen prince male lambs governor of Nippur delivery month Szuea year Simurrum and Lullubu for th time were destroyed th day
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	masz2	masz[goat]	N	N	3	acl	_	
+3	szesz-zi-mu	_[Szezimu]	PN	PN	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+5	sila4	sila[lamb]	N	N	6	acl	_	
+6	puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	3	appos	_	
+7	1(disz)	1(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+8	sila4	sila[lamb]	N	N	9	acl	_	
+9	kal-la	Kala[1]	PN	PN	3	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	9	nummod	_	
+11	sila4	sila[lamb]	N	N	9	acl	_	
+12	nu-i3-da	_[lambs.Nuid]	V	V	9	acl	_	
+13	2(disz)	2(disz)[one]	NU	NU	15	nummod	projectivity violation	
+14	sila4	sila[lamb]	N	N	9	appos	_	
+15	zabar-dab5!	zabardab[official][-e]	N	N	14	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	19	nummod	projectivity violation	
+17	sila4	sila[lamb]	N	N	18	acl	_	
+18	ur-{d}suen	Ursuen[1]	PN	PN	15	appos	_	
+19	dumu-lugal	_[prince]	N	N	15	appos	_	
+20	2(disz)	2(disz)[one]	NU	NU	23	nummod	projectivity violation	
+21	sila4	sila[lamb]	N	N	19	appos	_	
+22	ensi2	ensik[ruler]	N	N	21	appos	_	
+23	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	22	GEN	_	
+24	mu-kux(DU)	mukur[delivery][-ø]	N	N	23	appos	_	
+25	iti	iti[month]	N	N	26	nmod	_	
+26	szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	9	appos	_	
+27	mu	mu[year]	N	N	26	appos	_	
+28	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	35	ABS	_	
+29	u3	u[and]	CNJ	CNJ	28	appos	_	
+30	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	28	appos	_	
+31	a-ra2	ara[times]	N	N	28	DAT	_	
+32	1(u)	1(u)[ten]	NU	NU	35	nummod	_	
+33	la2	la[hang][-ø]	V	NF.V.ABS	32	_	_	
+34	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	33	nummod	_	
+35	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	26	acl	_	
+36	u4	ud[day]	N	N	35	appos	_	
+37	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+38	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	37	nummod	_
+	
+

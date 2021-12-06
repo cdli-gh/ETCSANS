@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Ninmar the queen of Munus-gilsa temple his mistress for life of Szulgi the mighty man king of Ur and king of four world quarters Ur-Ningirsu En-mezi-ana the ennu-priest beloved high priest of Nane dedicated to her
+1	{d}nin-mar{ki}	{d}nin-mar-ki[1]	DN	DN	22	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	munus-gil-sa	munus-gil-sa[1]	TN	TN.GEN	2	GEN	_
+4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	nam-ti	nam-til3[life]	N	N	22	TERM	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	GEN	_
+7	nita	nita[male]	N	N	5	appos	_
+8	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_
+9	lugal	lugal[king]	N	N	5	appos	_
+10	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	9	GEN	_
+12	an	_	_	_	11	_	_
+13	ub-da	an-ub-da[quarter]	N	N	11	appos	_
+14	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	13	nummod	_
+15	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	22	ERG	_
+16	en-me-zi-an-na	en-me-zid-an-na[1]	PN	PN	15	appos	_
+17	szennux(|ME.AD.KU3|)	en-me-zid-an-na[1]+šennuₓ(|ME.AD.KU₃|)[priest]	N	N	15	appos	_
+18	en	en[priest]	N	N	19	ABS	_
+19	ki-ag2	ag2[measure]	V	NF.V	17	amod	_
+20	{d}nansze-ka	{d}nansze[1]	DN	DN.GEN.ERG	19	GEN	_
+21	a	a[water]	N	N.ABS	22	ABS	_
+22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

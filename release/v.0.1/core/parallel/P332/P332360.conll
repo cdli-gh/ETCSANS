@@ -1,0 +1,96 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P332360.atf
+# tr.en: fattened lamb Nanna delivery of Lu-Nanna household manager fattened lamb Ningal delivery of Lu-Ninubur lamb Enlil delivery of Ur-Ningal lamb Ninlil delivery of Indaya household manager lamb Utu delivery of Ur-mes manager fattened nanny goat Ninsun delivery of Szezimu lamb Lugal-banda delivery of Manaya manager fattened lamb Nanna delivery of Lugal-inimgina son of Igianakezu lamb Ningal delivery of Giriniisa household manager of Nin-ursag manager lamb Enlil lamb Ninlil delivery of Szedada sanga-priest lamb Getinana-ama-lugal officiant for fattening house officiant from was booked out month Festival of An year after ari and Kima were destroyed
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	sila4	sila[lamb]	N	N	5	nmod	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	5	acl	_	
+4	{d}nanna	Nanna[1][-ak]	DN	DN	5	nmod	_	
+5	mu-kux(DU)	mukur[delivery][-ø]	N	N	0	root	_	
+6	lu2-{d}nanna	Lunanna[1]	PN	PN	5	GEN	_	
+7	szabra	szabra[chief_administrator][-ak]	N	N	6	appos	_	
+8	1(disz)	1(disz)[one]	NU	NU	12	nummod	heuristic: NU premodifying	
+9	sila4	sila[lamb]	N	N	12	nmod	_	
+10	niga	niga[fattened][-ø]	V	NF.V.ABS	12	acl	_	
+11	{d}nin-gal	Ningal[1]	DN	DN	12	nmod	_	
+12	mu-kux(DU)	mukur[delivery][-ø]	N	N	5	appos	_	
+13	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	12	GEN	_	
+14	1(disz)	1(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+15	sila4	sila[lamb]	N	N	17	nmod	_	
+16	{d}en-lil2	Enlil[1]	DN	DN	17	nmod	_	
+17	mu-kux(DU)	mukur[delivery][-ø]	N	N	5	appos	_	
+18	ur-{d}nin-gal	_[Ur-Ningal]	PN	PN	17	GEN	_	
+19	1(disz)	1(disz)[one]	NU	NU	22	nummod	heuristic: NU premodifying	
+20	sila4	sila[lamb]	N	N	22	nmod	_	
+21	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	22	nmod	_	
+22	mu-kux(DU)	mukur[delivery][-ø]	N	N	5	appos	_	
+23	in-da-a	_[Indaya]	PN	PN	22	GEN	_	
+24	szabra	szabra[chief_administrator][-ak]	N	N	23	appos	_	
+25	1(disz)	1(disz)[one]	NU	NU	28	nummod	heuristic: NU premodifying	
+26	sila4	sila[lamb]	N	N	28	nmod	_	
+27	{d}utu	Utu[1][-ra]	DN	DN	28	nmod	_	
+28	mu-kux(DU)	mukur[delivery][-ø]	N	N	5	appos	_	
+29	ur-mes	Urmes[1]	PN	PN	28	GEN	_	
+30	nu-banda3	nubanda[overseer][-ø]	N	N	29	appos	_	
+31	1(disz)	1(disz)[one]	NU	NU	35	nummod	heuristic: NU premodifying	
+32	{munus}asz2-gar3	aszgar[female_kid]	PN	N	31	_	heuristic: attach to last	
+33	niga	niga[fattened][-ø]	V	NF.V.ABS	35	acl	_	
+34	{d}nin-sun2	Ninsun[1][-ra]	FN	DN	35	nmod	_	
+35	mu-kux(DU)	mukur[delivery][-ø]	N	N	5	appos	_	
+36	szesz-zi-mu	_[Szezimu]	PN	PN	35	GEN	_	
+37	1(disz)	1(disz)[one]	NU	NU	39	nummod	_	
+38	sila4	sila[lamb]	N	N	39	nmod	_	
+39	{d}lugal-banda3{da}	Lugalbanda[1][-ak][-ra]	PN	DN	5	appos	_	
+40	mu-kux(DU)	mukur[delivery][-ø]	N	N	39	appos	_	
+41	ma-na-a	_[Manaya]	PN	PN	40	GEN	_	
+42	nu-banda3	nubanda[overseer][-ø]	N	N	83	ABS	_	
+43	1(disz)	1(disz)[one]	NU	NU	46	nummod	_	
+44	sila4	sila[lamb]	N	N	46	nmod	_	
+45	niga	niga[fattened][-ø]	V	NF.V.ABS	46	acl	_	
+46	{d}nanna	Nanna[1][-ak]	DN	DN	42	appos	_	
+47	mu-kux(DU)	mukur[delivery][-ø]	N	N	46	appos	_	
+48	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	47	GEN	_	
+49	dumu	dumu[child]	N	N	46	appos	_	
+50	igi-an-na-ke4-zu	_[Igianakezu]	PN	PN	49	GEN	_	
+51	1(disz)	1(disz)[one]	NU	NU	54	nummod	heuristic: NU premodifying	
+52	sila4	sila[lamb]	N	N	54	nmod	_	
+53	{d}nin-gal	Ningal[1]	DN	DN	54	acl	_	
+54	mu-kux(DU)	mukur[delivery][-ø]	N	N	42	appos	_	
+55	giri3-ni-i3-sa6	Girini'isa[1]	PN	PN	56	nmod	_	
+56	szabra	szabra[chief_administrator][-ak]	N	N	54	GEN	_	
+57	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	56	GEN	_	
+58	nu-banda3	nubanda[overseer][-ø]	N	N	42	appos	_	
+59	1(disz)	1(disz)[one]	NU	NU	65	nummod	_	
+60	sila4	sila[lamb]	N	N	65	nmod	_	
+61	{d}en-lil2	Enlil[1]	DN	DN	65	nmod	_	
+62	1(disz)	1(disz)[one]	NU	NU	65	nummod	heuristic: NU premodifying	
+63	sila4	sila[lamb]	N	N	65	nmod	_	
+64	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	65	nmod	_	
+65	mu-kux(DU)	mukur[delivery][-ø]	N	N	42	appos	_	
+66	szesz-da-da	Szeszdada[1]	PN	PN	65	GEN	_	
+67	sanga	sagga[temple_administrator]	N	N	42	appos	_	
+68	1(disz)	1(disz)[one]	NU	NU	42	nummod	_	
+69	sila4	sila[lamb]	N	N	68	appos	_	
+70	{d}gesztin-an-na-ama-lugal	_[Getinana-ama-lugal]	DN	DN.GEN.DAT-H	68	acl	_	
+71	...	_[_]	PN	N	42	dep	_	
+72	maszkim	maszkim[administrator]	N	N.ABS	42	appos	projectivity violation	
+73	...	_[_]	PN	N	72	dep	heuristic: attach to last	
+74	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	71	TERM	_	
+75	...	_[_]	PN	N	74	dep	heuristic: attach to last	
+76	maszkim	maszkim[administrator]	N	N.ABS	71	appos	_	
+77	...	_[_]	PN	N	76	dep	heuristic: attach to last	
+78	ZU	_	_	_	77	_	heuristic: attach to last	
+79	...	_[_]	PN	N	78	dep	heuristic: attach to last	
+80	gi	gi[reed][-ø]	N	N	79	_	heuristic: attach to last	
+81	ki	ki[place]	N	N	42	ABL	_	
+82	...-ta	_[_]-ta	PN	PN.GEN.ABL	83	_	_	
+83	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	40	acl	_	
+84	iti	iti[month]	N	N	85	nmod	_	
+85	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	5	appos	_	
+86	mu	mu[year]	N	N	91	_	_	
+87	us2-sa	us[follow]-a	V	NF.V.PT	91	_	_	
+88	ha-ar-szi{ki}	Harszi[1]	SN	SN	91	_	_	
+89	u3	u[and]	CNJ	CNJ	91	nmod	_	
+90	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	91	nmod	_	
+91	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	85	acl	_
+	
+

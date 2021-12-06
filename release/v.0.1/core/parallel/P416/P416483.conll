@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lamb th day from Abba-saga Nalu accepted month Gazelle feast year Szaru was destroyed
+# test/P416483.atf						#new_text=P416483
+# test/P416483.atf new_text=P416483
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+11	iti	iti[month]	N	N	10	date	_	
+12	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	2	appos	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	12	appos	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	acl	_	
+16	1(disz)	1(disz)[one]	NU	NU	12	nummod	_
+	
+2	sila4	sila[lamb]	N	N	17	_	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	3(u)	3(u)[ten]	NU	NU	2	nummod	_	
+5	la2	la[hang][-ø]	V	NF.V.ABS	4	_	_	
+6	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	5	nummod	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+9	na-lu5	Nalu[1][-e]	PN	PN.ERG	10	ABS	_	
+

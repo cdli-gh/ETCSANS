@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Fruit jar of Szulgi king	
+1	gurun	gurun[fruit]	N	N	0	root	_
+2	dug	dug[pot]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	GEN	_
+4	lugal	lugal[king]	N	N.GEN.ABS	3	GEN	_
+

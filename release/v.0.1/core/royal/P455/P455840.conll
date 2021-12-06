@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-Narua gardener of Ea-nia	
+1	lu2-{d}na-ru2-a	lu2-{d}na-ru2-a[1]	PN	PN	0	root	_
+2	nu-{gesz}kiri6	nu-{gesz}kiri6[gardener]	N	N	1	appos	_
+3	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN.GEN.ABS	2	GEN	_
+

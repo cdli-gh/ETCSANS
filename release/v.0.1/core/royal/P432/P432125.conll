@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna Ninkununa his mistress Ur-Namma the king of Ur her temple he built for her	
+1	{d}inanna	{d}inana[1]	DN	DN	10	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	ku3	_	_	_	2	_	_
+4	nun-na	kug-nun[1]	GN	GN.GEN	2	GEN	_
+5	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+6	ur-{d}namma	ur-{d}namma[1]	RN	RN	10	ERG	_
+7	lugal	lugal[king]	N	N	6	appos	_
+8	uri5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	7	appos	_
+9	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	10	ABS	_
+10	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P125188.atf new_text=P125188
+# train/P125188.atf						#new_text=P125188
+# tr.en: Deficit shekels workdays female laborers from Dadaga to Ur-Urbartab will be repaid year ari and Kima were destroyed Ur-Urbartab scribe son of Dingira
+1	la2-ia3	la'u[arrears]	N	N	0	root	_	
+9	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	13	nummod	heuristic: NU premodifying	
+13	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	1	acl	_	
+14	mu	mu[year]	N	N	13	appos	_	
+15	ha-ar-szi{ki}	Harszi[1]	SN	SN	14	appos	_	
+16	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	17	nmod	_	
+17	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_	
+18	ur-{d}ur3-bar-tab	_[Ur-Urbartab]	PN	PN	1	appos	_	
+19	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+20	dumu	dumu[child]	N	N	18	appos	_	
+21	dingir-ra	Dingira[1]	PN	PN	20	GEN	_
+	
+

@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful king king of Urim Ti-emahta																						
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	appos	_
+6	ti-e2-mah-ta	ti-e2-mah-ta[1]	PN	PN	5	GEN	_
+7	...	_[Urim.Ti-emahta]	N	N	0	dep	_
+8	ARAD2-zu	_	_	_	0	_	_
+

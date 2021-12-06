@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: n ban barley fodder of sheep th day barig barley bran barig ban barley groats ban barley dabin-flour th day mua loaded from storage facility under seal of Lu-Suen month Aktu year Great-barge was fashioned gur barig ban Lu-Suen son of Ur-saga herdsman of grain-fed oxen
+# train/P102361.atf
+1	1(barig)	1(bariga)[unit]	NU	N	3	nummod	_	
+2	1(ban2)	1(ban)[unit]	NU	N	1	nummod	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	sza3-gal	szaggal[food]	N	N	3	nummod	_	
+5	udu	udu[sheep]	N	N	3	GEN	_	
+6	u4	ud[day]	N	N	3	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	8	nummod	heuristic: NU premodifying	
+8	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+9	3(barig)	3(bariga)[unit]	NU	N	8	nummod	_	
+10	sze	sze[barley]	N	N	9	appos	_	
+11	duh	duh[bran]	N	N	9	appos	_	
+12	3(barig)	3(bariga)[unit]	NU	N	8	nummod	projectivity violation	
+13	2(ban2)	2(ban)[unit]	NU	N	14	nummod	_	
+14	sze	sze[barley]	N	N	9	appos	_	
+15	nig2-ar3-ra	nigara[groats]	N	N	14	appos	_	
+16	5(ban2)	5(ban)[unit]	NU	N	17	nummod	_	
+17	sze	sze[barley]	N	N	9	appos	_	
+18	dabin	dabin[semolina]	N	N	17	appos	_	
+19	u4	ud[day]	N	N	23	date	_	
+20	1(u)	1(u)[ten]	NU	NU	23	nummod	_	
+21	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	mu-sza	_[mua]	PN	PN	23	ABS	_	
+23	si-ga	sig[load]-a	N	NF.V.PT	9	appos	_	
+24	e2-kiszib3-ba-ta!	_[from.storage.facility]	TN	TN	23	ABL	_	
+25	kiszib3	kiszib[seal]	N	N	9	appos	_	
+26	lu2-{d}suen	Lusuen[1]	PN	PN	25	GEN	_	
+27	iti	iti[month]	N	N	28	nmod	_	
+28	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	9	appos	_	
+29	mu	mu[year]	N	N	31	_	_	
+30	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	31	ABS	_	
+31	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	28	acl	_	
+32	1(asz)	1(asz)[one]	NU	NU	8	nummod	projectivity violation	
+33	3(barig)	3(bariga)[unit]	NU	N	8	nummod	projectivity violation	
+34	2(ban2)	2(ban)[unit]	NU	N	35	nummod	_	
+35	gur	gur[unit]	N	N	9	appos	_	
+36	lu2-{d}suen	Lusuen[1]	PN	PN	37	acl	_	
+37	dumu	dumu[child]	N	N	9	appos	_	
+38	ur-sa6!-ga	Ursaga[1][-ak]	PN	PN	37	GEN	_	
+39	sipa	sipa[shepherd]	N	N	37	appos	_	
+40	gu4	gud[ox]	N	N	39	GEN	_	
+41	niga	niga[fattened][-ø]	V	NF.V.ABS	40	acl	_
+	
+

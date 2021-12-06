@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P405118.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	uzu	uzu[body]	N	N	1	_	heuristic: after nominal head	
+4	{d}iszkur-ra-bi2	_	PN	PN.DAT-H	1	_	heuristic: after nominal head	
+5	agrig	_[xxx]	N	N	1	_	heuristic: after nominal head	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	heuristic: after nominal head	
+7	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+8	szu-gar-ra	_[xxx]	MN	MN	1	_	heuristic: after nominal head	
+9	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+10	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	1	_	heuristic: after nominal head	
+11	lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	1	_	heuristic: after nominal head	
+12	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+13	diri	diri[intercalary_month]	N	N	1	_	heuristic: after nominal head	
+14	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+15	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+16	{d}inanna	Inanna[1][-ak]	DN	DN	1	_	heuristic: after nominal head	
+17	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	1	_	heuristic: after nominal head	
+18	masz2-e	masz[goat]-e	N	N.L3-NH	1	_	heuristic: after nominal head	
+19	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	1	_	heuristic: after nominal head	
+20	mu-bi	mu[name]-bi[-ø]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	31	nmod	projectivity violation	
+21	mu	mu[year]	N	N	20	_	heuristic: attach to last	
+22	2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	27	nummod	heuristic: NU premodifying; projectivity violation	
+23	iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	31	nmod	projectivity violation	
+24	iti	iti[month]	N	N	23	_	heuristic: attach to last	
+25	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+26	5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	25	nummod	_	
+27	iti	iti[month]	N	N	1	appos	_	
+28	diri	diri[intercalary_month]	N	N	27	_	heuristic: attach to last	
+29	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	31	nummod	heuristic: NU premodifying	
+30	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	29	_	heuristic: attach to last	
+31	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

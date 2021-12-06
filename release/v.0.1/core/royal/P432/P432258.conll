@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Enlil king of all lands his master Amar-Suena one whom in Nippur Enlil nominated the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters the Ekura-igigal the ziggurat temple his beloved temple he built for him
+1	{d}en-lil2	{d}en-lil2[1]	DN	DN	9	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kur-kur-ra	kur-kur[mountain]	N	N-RDP.GEN	2	GEN	_
+4	lugal-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	9	LOC	_
+6	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	5	appos	_
+7	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	9	ERG	_
+8	mu	mu[name]	N	N.ABS	9	ABS	_
+9	pa3-da	pad3[find]	V	NF.V.PT	25	ERG	_
+10	sag-us2	sag-us2[constant]	V	NF.V	9	appos	_
+11	e2	e2[house]	N	N	10	GEN	_
+12	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	11	GEN	_
+13	lugal	nita[male]	N	N	9	appos	_
+14	kal-ga	kalag[strong]	V	NF.V.PT	13	amod	_
+15	lugal	lugal[king]	N	N	9	appos	_
+16	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	15	GEN	_
+17	lugal	lugal[king]	N	N	9	appos	_
+18	an	_	_	_	17	_	_
+19	ub-da	an-ub-da[quarter]	N	N	17	appos	_
+20	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	19	nummod	_
+21	e2-kur-ra-igi-gal2	kur-ra-igi-gal2[1]	TN	TN	10	appos	_
+22	e2	e2[house]	N	N	21	appos	_
+23	u6-nir-x	u6-nir[ziggurat]	N	N.X	21	appos	_
+24	e2	e2[house]	N	N	25	ABS	_
+25	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	26	ABS	_
+26	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

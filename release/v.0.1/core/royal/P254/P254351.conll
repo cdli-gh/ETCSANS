@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To dedicated this name of this bowl is My master did look at me with favour																						
+1	a	_[this.bowl]	N	N	2	ABS	_
+2	mu-na-ru	_[dedicated]	V	V	0	root	_
+3	bur-ba	_[this.bowl]	_	_	8	GEN	_
+4	lugal-mu	_[my.master]	V	V	7	_	_
+5	igi	_	N	N	7	_	_
+6	du10	_[with.favour]	N	N	7	_	_
+7	ha-mu-du8	_[did.look.at.me]	V	V	8	parataxis	_
+8	mu-bi-im	_[name]	V	V	2	parataxis	_
+

@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi powerful man king of Urim king of four quarters presented this to Ea-nia his accompanying consort	
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	13	ERG	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	8	nummod	_
+10	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	13	DAT	_
+11	lukur	lukur[priestess]	N	N	10	appos	_
+12	kaskal-la-ka-ni-ir	kaskal[way]	N	N.GEN.3-SG-H-POSS.DAT-H	10	appos	_
+13	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

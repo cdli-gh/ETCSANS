@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborer workdays grain from Irisagrig booked out foreman Alaya under seal of Ur-mes month Szuea year unuri was destroyed Ur-mes scribe son of Ur-Suen
+# dev/P470071.atf
+1	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	_	
+2	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	4	acl	_	
+4	u4	ud[day]	N	N	0	root	_	
+5	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	8	nummod	heuristic: NU premodifying	
+6	sze	sze[barley]	N	N	8	ABS	_	
+7	iri-sa12-rig7{ki}-ta	Irisagrig[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	6	ABL	_	
+8	zi-ga	zig[expend]-a	V	NF.V.PT	4	acl	_	
+9	ugula	ugula[overseer][-ø]	N	N	8	appos	_	
+10	a-la-a	_[Alaya]	PN	PN.GEN.GEN	13	nmod	_	
+11	kiszib3	kiszib[seal]	N	N	13	LOC	_	
+12	ur-mes	Urmes[1]	PN	PN	11	GEN	_	
+13	iti	iti[month]	N	N	9	appos	_	
+14	szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	13	appos	_	
+15	mu	mu[year]	N	N	13	date	_	
+16	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	17	ABS	_	
+17	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	acl	_	
+18	ur-mes	Urmes[1]	PN	PN	13	appos	_	
+19	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+20	dumu	dumu[child]	N	N	18	appos	_	
+21	ur-{d}suen	Ursuen[1]	PN	PN	20	GEN	_
+	
+

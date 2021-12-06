@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P132240.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	udu	udu[sheep]	N	N	1	_	heuristic: after nominal head	
+3	gi	gi[reed][-ø]	N	N	1	_	heuristic: after nominal head	
+4	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	1	_	_	
+5	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+6	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	1	_	heuristic: after nominal head	
+7	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+8	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+9	nigin6{ki}	_[xxx]	SN	SN.GEN.GEN.TERM	19	nmod	projectivity violation	
+10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	19	nmod	projectivity violation	
+11	mu	mu[year]	N	N	1	appos	_	
+12	us2-sa	us[follow]-a	V	NF.V.PT	11	_	heuristic: attach to last	
+13	{d}szu-{d}suen	Szusuen[1]	RN	RN	12	_	heuristic: attach to last	
+14	lugal	lugal[king]	N	N	13	_	heuristic: attach to last	
+15	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	14	_	heuristic: attach to last	
+16	bad3	bad[wall]	N	N	15	_	heuristic: attach to last	
+17	mar-tu	Martu[1][-ø]	EN	EN.ABS	16	_	heuristic: attach to last	
+18	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	17	_	heuristic: attach to last	
+19	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

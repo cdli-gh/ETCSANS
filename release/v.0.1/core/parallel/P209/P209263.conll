@@ -1,0 +1,163 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P209263.atf
+# tr.en: ninda length cubits width cubits depth its volume sar shekels ninda cubits length cubits width cubits depth its volume sar less shekel ninda length cubits width cubits depth its volume sar shekels ninda length cubits width cubit depth its volume sar ninda cubits length cubits width cubits depth its volume sar ninda cubit length cubits width cubits depth its volume shekels ninda length cubits width cubits depth its volume shekels ninda length cubits width cubits depth its volume shekels ninda cubits length unfinished ninda cubit length cubits width cubits depth its volume sar shekels shekels DUBla total sar shekel earthwork pis walls for household of Nig-lagar
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	1/2(disz)	1/2(disz)[one]	NU	NU	1	nummod	_	
+3	ninda	ninda[bread]	N	N	0	root	_	
+4	gid2	gid[length]	V	N	3	_	_	
+5	3(disz)	3(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+6	kusz3	kusz[unit]	N	N	3	appos	_	
+7	dagal	dagal[wide][-ø]	V	NF.V.ABS	6	_	_	
+8	2(disz)	2(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	kusz3	kusz[unit]	N	N	3	appos	_	
+10	bur3	_[depth]	N	N	9	appos	_	
+11	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	3	appos	_	
+12	2/3(disz)	2/3(disz)[one]	NU	NU	13	nummod	_	
+13	sar	sar[unit]	N	N	3	appos	_	
+14	5(disz)	5(disz)[one]	NU	NU	17	nummod	projectivity violation	
+15	gin2	gig[unit]	N	N	13	appos	_	
+16	1/2(disz)	1/2(disz)[one]	NU	NU	23	nummod	projectivity violation	
+17	ninda	ninda[bread]	N	N	19	ERG	_	
+18	4(disz)	4(disz)[one]	NU	NU	19	nummod	heuristic: NU premodifying	
+19	kusz3	kusz[unit]	N	N	13	parataxis	_	
+20	gid2	gid[length]	V	N	19	acl	_	
+21	4(disz)	4(disz)[one]	NU	NU	22	nummod	heuristic: NU premodifying	
+22	kusz3	kusz[unit]	N	N	19	appos	_	
+23	dagal	dagal[wide][-ø]	V	NF.V.ABS	22	_	_	
+24	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+25	1/3(disz)	1/3(disz)[one]	NU	NU	24	nummod	_	
+26	kusz3	kusz[unit]	N	N	23	appos	_	
+27	bur3	_[depth]	N	N	26	appos	_	
+28	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	23	appos	_	
+29	2/3(disz)	2/3(disz)[one]	NU	NU	30	nummod	_	
+30	sar	sar[unit]	N	N	23	appos	_	
+31	la2	la[hang][-ø]	V	NF.V.ABS	33	acl	projectivity violation	
+32	1(disz)	1(disz)[one]	NU	NU	35	nummod	projectivity violation	
+33	gin2	gig[unit]	N	N	30	appos	_	
+34	2(disz)	2(disz)[one]	NU	NU	35	nummod	_	
+35	ninda	ninda[bread]	N	N	30	appos	_	
+36	gid2	gid[length]	V	N	35	_	_	
+37	4(disz)	4(disz)[one]	NU	NU	38	nummod	heuristic: NU premodifying	
+38	kusz3	kusz[unit]	N	N	35	appos	_	
+39	dagal	dagal[wide][-ø]	V	NF.V.ABS	38	_	_	
+40	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+41	2/3(disz)	2/3(disz)[one]	NU	NU	40	nummod	_	
+42	kusz3	kusz[unit]	N	N	35	appos	_	
+43	bur3	_[depth]	N	N	42	appos	_	
+44	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	35	appos	_	
+45	1(disz)	1(disz)[one]	NU	NU	30	nummod	projectivity violation	
+46	sar	sar[unit]	N	N	44	appos	_	
+47	6(disz)	6(disz)[one][-sze]	NU	NU	51	nummod	projectivity violation	
+48	2/3(disz)	2/3(disz)[one]	NU	NU	47	nummod	_	
+49	gin2	gig[unit]	N	N	46	appos	_	
+50	2(disz)	2(disz)[one]	NU	NU	51	nummod	_	
+51	ninda	ninda[bread]	N	N	30	appos	_	
+52	gid2	gid[length]	V	N	51	_	_	
+53	4(disz)	4(disz)[one]	NU	NU	54	nummod	heuristic: NU premodifying	
+54	kusz3	kusz[unit]	N	N	51	appos	_	
+55	dagal	dagal[wide][-ø]	V	NF.V.ABS	54	_	_	
+56	1(disz)	1(disz)[one]	NU	NU	57	nummod	heuristic: NU premodifying	
+57	kusz3	kusz[unit]	N	N	51	appos	_	
+58	bur3	_[depth]	N	N	57	appos	_	
+59	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	51	appos	_	
+60	2/3(disz)	2/3(disz)[one]	NU	NU	64	nummod	projectivity violation	
+61	sar	sar[unit]	N	N	51	appos	_	
+62	3(disz)	3(disz)[one]	NU	NU	70	nummod	projectivity violation	
+63	1/2(disz)	1/2(disz)[one]	NU	NU	62	nummod	_	
+64	ninda	ninda[bread]	N	N	66	ERG	_	
+65	3(disz)	3(disz)[one]	NU	NU	66	nummod	heuristic: NU premodifying	
+66	kusz3	kusz[unit]	N	N	61	parataxis	_	
+67	gid2	gid[length]	V	N	66	acl	_	
+68	4(disz)	4(disz)[one]	NU	NU	69	nummod	heuristic: NU premodifying	
+69	kusz3	kusz[unit]	N	N	66	appos	_	
+70	dagal	dagal[wide][-ø]	V	NF.V.ABS	69	_	_	
+71	2(disz)	2(disz)[one]	NU	NU	72	nummod	heuristic: NU premodifying	
+72	kusz3	kusz[unit]	N	N	70	appos	_	
+73	bur3	_[depth]	N	N	72	appos	_	
+74	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	70	appos	_	
+75	2(disz)	2(disz)[one]	NU	NU	77	nummod	projectivity violation	
+76	1/2(disz)	1/2(disz)[one]	NU	NU	79	nummod	projectivity violation	
+77	sar	sar[unit]	N	N	70	appos	_	
+78	1/2(disz)	1/2(disz)[one]	NU	NU	86	nummod	projectivity violation	
+79	ninda	ninda[bread]	N	N	81	ERG	_	
+80	1(disz)	1(disz)[one]	NU	NU	81	nummod	heuristic: NU premodifying	
+81	kusz3	kusz[unit]	N	N	77	parataxis	_	
+82	gid2	gid[length]	V	N	81	acl	_	
+83	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+84	2/3(disz)	2/3(disz)[one]	NU	NU	83	nummod	_	
+85	kusz3	kusz[unit]	N	N	81	appos	_	
+86	dagal	dagal[wide][-ø]	V	NF.V.ABS	85	_	_	
+87	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+88	1/3(disz)	1/3(disz)[one]	NU	NU	87	nummod	_	
+89	kusz3	kusz[unit]	N	N	86	appos	_	
+90	bur3	_[depth]	N	N	89	appos	_	
+91	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	86	appos	_	
+92	1(u)	1(u)[ten]	NU	NU	94	nummod	projectivity violation	
+93	1/3(disz)	1/3(disz)[one]	NU	NU	96	nummod	projectivity violation	
+94	gin2	gig[unit]	N	N	86	appos	_	
+95	1/2(disz)	1/2(disz)[one]	NU	NU	96	nummod	_	
+96	ninda	ninda[bread]	N	N	94	appos	_	
+97	gid2	gid[length]	V	N	96	_	_	
+98	3(disz)	3(disz)[one]	NU	NU	99	nummod	heuristic: NU premodifying	
+99	kusz3	kusz[unit]	N	N	96	appos	_	
+100	dagal	dagal[wide][-ø]	V	NF.V.ABS	99	_	_	
+101	2(disz)	2(disz)[one]	NU	NU	102	nummod	heuristic: NU premodifying	
+102	kusz3	kusz[unit]	N	N	96	appos	_	
+103	bur3	_[depth]	N	N	102	appos	_	
+104	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	96	appos	_	
+105	1(u)	1(u)[ten]	NU	NU	107	nummod	projectivity violation	
+106	5(disz)	5(disz)[one]	NU	NU	109	nummod	projectivity violation	
+107	gin2	gig[unit]	N	N	96	appos	_	
+108	1/2(disz)	1/2(disz)[one]	NU	NU	107	nummod	_	
+109	ninda	ninda[bread]	N	N	107	appos	_	
+110	gid2	gid[length]	V	N	109	_	_	
+111	3(disz)	3(disz)[one]	NU	NU	112	nummod	heuristic: NU premodifying	
+112	kusz3	kusz[unit]	N	N	109	appos	_	
+113	dagal	dagal[wide][-ø]	V	NF.V.ABS	112	_	_	
+114	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+115	1/3(disz)	1/3(disz)[one]	NU	NU	114	nummod	_	
+116	kusz3	kusz[unit]	N	N	109	appos	_	
+117	bur3	_[depth]	N	N	116	appos	_	
+118	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	107	appos	_	
+119	1(u)	1(u)[ten]	NU	NU	123	nummod	projectivity violation	
+120	gin2	gig[unit]	N	N	118	appos	_	
+121	1(disz)	1(disz)[one]	NU	NU	107	nummod	_	
+122	1/2(disz)	1/2(disz)[one]	NU	NU	129	nummod	projectivity violation	
+123	ninda	ninda[bread]	N	N	125	ERG	_	
+124	2(disz)	2(disz)[one]	NU	NU	125	nummod	heuristic: NU premodifying	
+125	kusz3	kusz[unit]	N	N	107	acl	_	
+126	gid2	gid[length]	V	N	125	acl	_	
+127	nu-ak	_[unfinished]	V	V	126	_	heuristic: attach to last	
+128	1(disz)	1(disz)[one]	NU	NU	107	nummod	_	
+129	ninda	ninda[bread]	N	N	131	ERG	_	
+130	1(disz)	1(disz)[one]	NU	NU	131	nummod	heuristic: NU premodifying	
+131	kusz3	kusz[unit]	N	N	107	acl	_	
+132	gid2	gid[length]	V	N	131	acl	_	
+133	3(disz)	3(disz)[one]	NU	NU	134	nummod	heuristic: NU premodifying	
+134	kusz3	kusz[unit]	N	N	131	appos	_	
+135	dagal	dagal[wide][-ø]	V	NF.V.ABS	134	_	_	
+136	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+137	2/3(disz)	2/3(disz)[one]	NU	NU	136	nummod	_	
+138	kusz3	kusz[unit]	N	N	135	appos	_	
+139	bur3	_[depth]	N	N	138	appos	_	
+140	a-sza3-bi	_[its.volume]	N	N.3-SG-NH-POSS.ABS	107	appos	_	
+141	1/3(disz)	1/3(disz)[one]	NU	NU	107	nummod	projectivity violation	
+142	sar	sar[unit]	N	N	144	nmod	projectivity violation	
+143	7(disz)	7(disz)[one][-sze]	NU	NU	147	nummod	projectivity violation	
+144	gin2	gig[unit]	N	N	140	appos	_	
+145	8(disz)	8(disz)[one]	NU	NU	107	nummod	_	
+146	gin2	gig[unit]	N	N	145	_	heuristic: attach to last	
+147	DUB-la2	_[DUBla]	PN	PN	107	appos	_	
+148	szunigin	szunigin[total]	N	N	107	appos	_	
+149	6(disz)	6(disz)[one][-sze]	NU	NU	107	nummod	projectivity violation	
+150	2/3(disz)	2/3(disz)[one]	NU	NU	149	nummod	_	
+151	sar	sar[unit]	N	N	154	nmod	_	
+152	1(disz)	1(disz)[one]	NU	NU	154	nummod	heuristic: NU premodifying	
+153	gin2	gig[unit]	N	N	154	nmod	_	
+154	kin	kig[work]	N	N	148	appos	_	
+155	sahar	sahar[earth][-ø]	N	N.GEN	154	_	heuristic: attach to last	
+156	im-du8-a	imdua[wall]	V	N	158	acl	projectivity violation	
+157	e2	e[house]	N	N	3	appos	projectivity violation	
+158	nig2-lagar-ka	_[walls.for.household.Nig-lagar]	FN	FN	107	appos	_
+	
+

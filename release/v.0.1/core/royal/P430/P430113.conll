@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen beloved of Enlil king whom Enlil chose in his heart powerful king king of Urim Adalal child of is your servant																						
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_
+2	sag-us2	ki[place]	N	N.ABS	1	appos	_
+3	e2	ag2[measure]	V	NF.V	9	ERG	_
+4	{d}en-lil2-la2-ka	{d}en-lil2[1]	DN	DN.GEN	3	appos	_
+5	nibru{ki}-a	lugal[king]	N	N	3	appos	_
+6	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.ERG	5	appos	_
+7	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	9	LOC	_
+8	mu	_	_	_	7	_	_
+9	pa3-da	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+10	lugal	lugal[king]	N	N	0	_	_
+11	kal-ga	kalag[strong]	V	NF.V.PT	10	amod	_
+12	lugal	lugal[king]	N	N	10	appos	_
+13	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	12	appos	_
+14	a-da-lal3	a-da-lal3[3]	PN	PN	13	GEN	_
+15	dumu	dumu[child]	N	N	17	nmod	_
+16	nu-banda3	_[_]	u	u	15	_	_
+17	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

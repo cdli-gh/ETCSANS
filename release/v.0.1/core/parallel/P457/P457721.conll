@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P457721.atf
+# tr.en: Ur-Lamma scribe son Ur-Baba
+1	ur-{d}lamma	Urlamma[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	4	nmod	_	
+4	ur-{d}ba-ba6	Urbaba[1]	PN	PN	1	appos	_
+	
+

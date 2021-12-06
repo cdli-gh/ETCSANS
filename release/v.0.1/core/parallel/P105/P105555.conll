@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P105555.atf						#new_text=P105555
+# tr.en: Buka slave of Alala Alala examined him by royal name On day I flee let it be a crime he swore Zan-MENI his mother and Geme-Enlil his wife as guarantors of not fleeing went carried Lugal-gur Namani Ur-Gagia Szekalla Ur-Ebadu Usani allimu are witnesses month Harvest second year after Martu wall was erected
+# train/P105555.atf new_text=P105555
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	u4	ud[day]	N	N	6	_	heuristic: after nominal head	
+11	ba-zah3-de3-na-ga2	_[by.royal.name.day.I.flee]	V	MID.V.3-SG-S.SUB	6	acl	_	
+12	szer7-da	_[let.it.be.a]	N	N.GEN	14	acl	_	
+13	he2-a	_[crime]	N	MOD1.FIN.COP.3-SG-S	12	parataxis	_	
+14	bi2-in-du11	b-i-n-dug[speak][-ø]	PN	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	11	acl	_	
+15	za-an-ME-NI	_[Zan-MENI]	PN	PN	14	ABS	_	
+16	ama-ni	ama[mother]-ani	N	N.3-SG-H-POSS	15	appos	_	
+17	u3	u[and]	CNJ	CNJ	15	appos	_	
+18	geme2-{d}en-lil2	_[Geme-Enlil.his]	PN	PN.GEN.GEN	15	appos	_	
+19	dam-na-ni	_[wife]	N	N.3-SG-H-POSS.ABS	18	appos	_	
+2	bu-ka	_[Buka]	PN	PN.GEN.GEN	46	_	_	
+20	szu-du2	_[as.guarantors]	N	N	15	LOC	_	
+21	nu-zah3-da	_[not.fleeing]	V	NEG.NF.V.GEN	20	acl	_	
+22	ba-an-de6-esz2	_[went.carried]	PN	PN	14	acl	_	
+23	1(disz)	1(disz)[one]	NU	NU	24	nummod	_	
+24	lugal-gur4	_[Lugal-gur]	PN	PN	14	appos	_	
+25	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+26	nam-ha-ni	Namhani[1]	N	PN	24	appos	_	
+27	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+28	ur-ga2-gi4-a	_[Ur-Gagia]	PN	PN	26	appos	_	
+29	1(disz)	1(disz)[one]	NU	NU	30	nummod	_	
+3	ARAD2	arad[slave]	N	N	1	appos	_	
+30	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	24	appos	_	
+31	1(disz)	1(disz)[one]	NU	NU	30	nummod	_	
+32	ur3-e-ba-du7	_[Ur-Ebadu]	PN	PN	30	appos	_	
+33	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+34	us2-a-ni	_[Usani]	V	NF.V.3-SG-H-POSS.ABS	37	acl	_	
+35	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+36	hal-li2-mu	_[allimu]	PN	PN.GEN	34	appos	_	
+37	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	24	parataxis	_	
+38	iti	iti[month]	N	N	39	nmod	_	
+39	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	24	appos	_	
+4	a2-la-la-kam	_[Alala]	PN	PN.GEN.COP-3-SG	3	GEN	_	
+40	min	_[second]	N	N	39	appos	_	
+41	mu	mu[year]	N	N	39	_	_	
+42	us2-sa	us[follow]-a	V	NF.V.PT	41	acl	_	
+43	bad3	bad[wall]	N	N	3	appos	projectivity violation	
+44	mar-tu	Martu[1][-ø]	EN	EN.ABS	45	ABS	_	
+45	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	39	acl	_
+	
+5	a2-la-la	_[Alala]	PN	PN	6	ABS	_	
+6	igi-ni	_[examined]	N	N	3	parataxis	_	
+7	i3-szi-gar	_[him]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	6	acl	_	
+8	mu	mu[year]	N	N	6	_	heuristic: after nominal head	
+9	lugal	lugal[king]	N	N	6	_	heuristic: after nominal head	
+

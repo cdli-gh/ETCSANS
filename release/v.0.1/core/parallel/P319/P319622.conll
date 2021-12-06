@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P319622.atf
+# tr.en: Basket-of-tablets years barley rations of female weavers in Guabba year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	mu	mu[year]	N	N	1	appos	_	
+3	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+4	sze-ba	szeba[ration]	N	N	2	appos	_	
+5	geme2	geme[female_worker]	N	N	6	acl	_	
+6	usz-bar	uszbar[weaver][-ak]	N	N	4	GEN	_	
+7	sza3	szag[heart]	N	N	8	LOC	_	
+8	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	6	LOC	_	
+9	mu	mu[year]	N	N	8	appos	_
+	
+

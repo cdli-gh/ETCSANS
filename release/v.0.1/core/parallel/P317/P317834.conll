@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P317834.atf
+# tr.en: Basket-of-tablets inspections workmen house of Dumuzi
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+4	gurusz	gurusz[male]	N	N	2	appos	_	
+5	e2	e[house]	N	N	4	appos	_	
+6	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	5	GEN	_
+	
+

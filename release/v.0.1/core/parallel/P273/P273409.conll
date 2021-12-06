@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273409.atf						#new_text=P273409
+# train/P273409.atf new_text=P273409
+# tr.en: mina of agu from ADU Lanimu received year Amar-Suen king
+1	1/3(disz)	1/3(disz)[one]	NU	NU	2	nummod	_	
+2	ma-na	mana[unit]	N	N	0	root	_	
+5	ki	ki[place]	N	N	7	ABL	_	
+6	a-du-ta	_[ADU]	PN	PN.GEN.ABL	7	nmod	_	
+7	la-ni-mu	Lanimu[1]	PN	PN	2	ABL	_	
+8	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+9	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	7	acl	_	
+10	mu	mu[year]	N	N	12	_	_	
+11	{d}amar-{d}suen	Amarsuen[1]	RN	RN	12	acl	_	
+12	lugal	lugal[king]	N	N	2	parataxis	_
+	
+

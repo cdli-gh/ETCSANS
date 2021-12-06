@@ -1,0 +1,69 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P134626.atf new_text=P134626
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P134626.atf						#new_text=P134626
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	sze	sze[barley]	N	N	1	_	heuristic: after nominal head	
+4	siki	siki[wool][-'a]	N	N	1	_	heuristic: after nominal head	
+5	i3	i[oil]	N	N	1	_	heuristic: after nominal head	
+6	zu2-lum	zulum[date]	N	N	1	_	heuristic: after nominal head	
+7	sza3-gal	szaggal[food]	N	N	1	_	heuristic: after nominal head	
+8	amar	amar[calf][-ak]	N	N	1	_	heuristic: after nominal head	
+9	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+10	apin-na	_[xxx]	N	N	1	_	heuristic: after nominal head	
+11	sze-ba	szeba[ration]	N	N	1	_	heuristic: after nominal head	
+12	giri3-se3-ga	girsiga[attendant]	N	N	1	_	heuristic: after nominal head	
+13	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	1	_	heuristic: after nominal head	
+14	di4-di4-la	_[xxx]	V	V	1	_	heuristic: after nominal head	
+15	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+16	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	1	_	heuristic: after nominal head	
+17	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+18	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+19	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	18	nummod	_	
+20	sze-numun	szenumun[seed]	N	N	1	_	heuristic: after nominal head	
+21	mur-gu4	murgu[fodder]	N	N	1	_	heuristic: after nominal head	
+22	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+23	lu2	lu[person]	N	N	1	_	heuristic: after nominal head	
+24	hun-ga2	hug[hire]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+25	al	al[hoeing]	N	N	1	_	heuristic: after nominal head	
+26	ak	ak[excavate][-a][-ak]	V	NF.V.PT	1	_	heuristic: after nominal head	
+27	u2	u[grass]	N	N	1	_	heuristic: after nominal head	
+28	ku5-a	_	V	V	1	_	heuristic: after nominal head	
+29	ansze	ansze[donkey]	N	N	1	_	heuristic: after nominal head	
+30	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+31	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	1	_	heuristic: after nominal head	
+32	a-sza3-ta	_	N	N.ABL	1	_	heuristic: after nominal head	
+33	e11-da-bi	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+34	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+35	5(bur3)	5(bur)[unit]	NU	N	0	nummod	_	
+36	3(iku)	3(iku)[unit]	NU	N	35	nummod	_	
+37	GAN2	gana[field]	N	N	1	_	heuristic: after nominal head	
+38	gu4-bi	_[xxx]	N	N.ABS	1	_	heuristic: after nominal head	
+39	nig2-ka9-ak	nigSZID[account]	N	N	1	_	heuristic: after nominal head	
+40	udu	udu[sheep]	N	N	1	_	heuristic: after nominal head	
+41	eme!-gi-ra	_[xxx]	N	N	1	_	heuristic: after nominal head	
+42	udu	udu[sheep]	N	N	1	_	heuristic: after nominal head	
+43	gukkal	gukkal[fat-tailed_sheep]	N	N	1	_	heuristic: after nominal head	
+44	gu2-gar-ra	_[xxx]	N	N	1	_	heuristic: after nominal head	
+45	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	1	_	heuristic: after nominal head	
+46	kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+47	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	1	_	heuristic: after nominal head	
+48	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+49	erin2-na	erin[people]	N	N.GEN	1	_	heuristic: after nominal head	
+50	engar	engar[farmer]	N	N	1	_	heuristic: after nominal head	
+51	sza3-gu4	szagu[ox-driver]	PN	N	1	_	heuristic: after nominal head	
+52	sza3-sahar	szagsahar[earth_worker][-ak][-ak]	N	N.GEN.GEN	1	_	heuristic: after nominal head	
+53	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+54	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+55	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	54	nummod	_	
+56	im	im[clay][-ø]	N	N	1	_	heuristic: after nominal head	
+57	szuku	szukur[prebend_land]	N	N	1	_	heuristic: after nominal head	
+58	ha-la-a	_[xxx]	PN	PN.GEN.GEN	63	nmod	projectivity violation	
+59	e2	e[house]	N	N	58	_	heuristic: attach to last	
+60	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	63	nmod	projectivity violation	
+61	u3	u[and]	CNJ	CNJ	1	appos	_	
+62	e2	e[house]	N	N	61	_	heuristic: attach to last	
+63	nin-munus-zi-da	_[xxx]	FN	FN	1	appos	_
+	
+

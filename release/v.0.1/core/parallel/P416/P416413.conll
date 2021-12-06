@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ban sila of dabin-flour th day ban sila of dabin-flour th day ban sila th day ban of flour cup-bearer from Lu-dingira under seal of governor month Laying bricks in mold year after Szu-Suen king
+# train/P416413.atf
+1	5(ban2)	5(ban)[unit]	NU	N	3	nummod	projectivity violation	
+10	la2	sila[unit]	N	N	17	appos	_	
+11	1(disz@t)-kam	dabin[semolina]	NU	N	18	nummod	_	
+12	5(disz)	ud[day]	NU	N	1	nummod	_	
+13	2(ban2)	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	3	nummod	projectivity violation	
+14	zi3	3(ban)[unit]	NU	N	20	nummod	_	
+15	sagi	8(disz)[one]	NU	NU	21	nummod	_	
+16	ki	ud[day]	N	N	24	ABL	_	
+17	lu2-dingir-ra-ta	1(u)[ten]	NU	NU	3	nummod	projectivity violation	
+18	kiszib3	la[hang][-ø]	V	NF.V.ABS	24	acl	_	
+19	ensi2-ka	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	25	nummod	_	
+2	sila3	5(disz)[one]	NU	NU	3	_	projectivity violation	
+20	iti	2(ban)[unit]	NU	N	3	_	projectivity violation	
+21	sig4-{gesz}i3-szub-ba-gar	zid[flour]	N	N	27	appos	_	
+22	mu	sagi[cup_bearer][-ø]	N	N	28	appos	_	
+23	1/2(disz)	ki[place]	NU	N	2	nummod	projectivity violation	
+24	us2-sa	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	29	LOC	projectivity violation	
+25	{d}szu-{d}suen	kiszib[seal]	N	N	32	acl	_	
+26	lugal	ensik[ruler]-ak	N	N.GEN	28	appos	projectivity violation	
+27	sila3	iti[month]	N	N	3	appos	_	
+28	dabin	Sigiszubbagar[1][-'a]	MN	MN.L1	4	GEN	_	
+29	u4	mu[year]	N	N	7	acl	_	
+3	dabin	1/2(disz)[one]	NU	NU	12	nummod	_	
+30	7(disz)-kam	us[follow]-a	NU	NF.V.PT	3	nummod	_	
+31	5(ban2)	Szusuen[1]	NU	RN	7	nummod	_	
+32	8(disz)	lugal[king]	NU	N	8	nummod	_
+	
+4	u4	sila[unit]	N	N	10	GEN	_	
+5	8(disz)-kam	dabin[semolina]	NU	N	3	nummod	projectivity violation	
+6	3(ban2)	ud[day]	NU	N	13	nummod	_	
+7	8(disz)	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	14	nummod	_	
+8	u4	5(ban)[unit]	NU	N	15	nummod	_	
+9	1(u)	8(disz)[one]	NU	NU	20	nummod	projectivity violation	
+

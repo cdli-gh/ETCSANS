@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P337372.atf						#new_text=P337372
+# train/P337372.atf new_text=P337372
+# tr.en: Basket-of-tablets sealed documents of wool rations of New Years of Ur-Ikur Kugani Lu-saga Szara-amu ARAD Nig-ul-pae Lugal-mumag Ayakalla son of Duranie Lu-Sara son of ANbaAN are here year en in Eridu was installed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	19	ABS	_	
+3	siki-ba	_[wool.rations]	V	V	2	acl	_	
+4	za3-mu	Zamu[1][-ak]	PN	N	3	GEN.GEN	_	
+5	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	4	GEN	_	
+6	ku3-ga-ni	Kugani[1]	PN	PN	5	appos	_	
+7	lu2-saga	Lusaga[1][-e]	PN	PN.ERG	4	appos	_	
+8	{d}szara2-a-mu	Szara'amu[1]	PN	PN	7	appos	_	
+9	ARAD2	arad[slave]	N	N	7	appos	_	
+10	nig2-ul-pa-e3	_[Nig-ul-pae]	PN	PN	7	appos	_	
+11	lugal-mu-mu-ag2	_[Lugal-mumag]	N	N	7	appos	_	
+12	a-a-kal-la	Ayakala[1]	PN	PN	7	appos	_	
+13	dumu	dumu[child]	N	N	7	appos	_	
+14	dur2-ra-ni-sze3	_[Duranie]	PN	PN	13	GEN	_	
+15	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	14	appos	_	
+16	dumu	dumu[child]	N	N	14	appos	_	
+17	AN-ba-AN	_[ANbaAN]	PN	PN.DAT-H	16	GEN	_	
+18	'.	_	_	_	19	_	_	
+19	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+20	'.	_	_	_	24	_	heuristic: before verb	
+21	mu	mu[year]	N	N	24	_	_	
+22	en	en[priest]	N	N	24	ABS	_	
+23	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	22	LOC	_	
+24	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	19	parataxis	_
+	
+

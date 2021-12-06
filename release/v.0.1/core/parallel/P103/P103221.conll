@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P103221.atf
+# tr.en: rams regular offerings of Gula rams ewes billy goats slaughtered because of dogs Il-bani received booked out from Ur-kununa month Festival-of-Szulgi year after Kima was destroyed
+1	3(u)	3(u)[ten]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	sa2-du11	sadug[offerings]	N	N	2	appos	_	
+4	{d}gu-la	Gula[1][-ak][-ra]	DN	DN	3	GEN	_	
+5	1(u)	1(u)[ten]	NU	NU	7	nummod	projectivity violation	
+6	3(disz)	3(disz)[one]	NU	NU	10	nummod	projectivity violation	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	1(u)	1(u)[ten]	NU	NU	7	nummod	_	
+9	2(disz)	2(disz)[one]	NU	NU	12	nummod	projectivity violation	
+10	u8	u[ewe]	N	N	7	appos	_	
+11	4(disz)	4(disz)[one]	NU	NU	7	nummod	_	
+12	masz2	masz[goat]	N	N	7	appos	_	
+13	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	7	acl	_	
+14	mu	mu[year]	N	N	7	appos	_	
+15	ur-gi7	_[because.dogs]	N	N.GEN	7	GEN.TERM	_	
+16	dingir-ba-ni	_[Il-bani]	PN	PN	18	_	_	
+17	szu	szu[hand][-e]	N	N.L3-NH	18	_	_	
+18	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	7	acl	_	
+19	zi-ga	zig[expend]-a	V	NF.V.PT	18	appos	_	
+20	ki	ki[place]	N	N	21	ABL	_	
+21	ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	19	ABL	_	
+22	iti	iti[month]	N	N	18	appos	_	
+23	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	18	appos	_	
+24	mu	mu[year]	N	N	23	appos	_	
+25	us2-sa	us[follow]-a	V	NF.V.PT	24	acl	_	
+26	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	23	appos	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	23	acl	_
+	
+

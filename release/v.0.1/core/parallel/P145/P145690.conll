@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145690.atf
+# tr.en: To Nabasa speak The slave girl whom Lu-dumu-zi married to a nose-rope he shall not attach she is slave girl of Duganizi
+1	na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	2	LOC	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	geme2	geme[female_worker]	N	N	5	_	_	
+4	lu2-{d}dumu-zi-ke4	_[The.slave]	PN	PN.GEN.ERG	5	nmod	_	
+5	in-tuku-a	_[girl.whom.Lu-dumu-zi.married]	V	V	2	acl	_	
+6	esz2-giri17-sze3	_[to.a.nose-rope]	N	N.3-SG-H-POSS.TERM	5	LOC	_	
+7	na-ba-du3	nan-ba[-e]-du[hold][-ed][-ø]	PN	MOD.MID.L2.V.PF.3-SG-S	6	acl	_	
+8	geme2	geme[female_worker]	N	N	2	appos	_	
+9	du11-ga-ni-zi-kam	_[she.is.slave.girl.Duganizi]	N	N	2	parataxis	_
+	
+

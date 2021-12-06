@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful king king of Urim king of four quarters Ur-kugnuna envoy child of Aradani judge is your servant
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	ur-ku3-nun-na	ur-kug-nun-na[1]	PN	PN	15	ABS	_
+11	sukkal	sukkal[secretary]	N	N	10	appos	_
+12	dumu	dumu[child]	N	N	10	appos	_
+13	ARAD2-da-ni	arad2-da-ni[1]	PN	PN	10	appos	_
+14	di-ku5	di-kud[judge]	N	N.GEN.ABS	13	GEN	_
+15	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

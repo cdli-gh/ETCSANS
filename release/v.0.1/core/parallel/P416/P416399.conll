@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-balaya Nur-Ikur has been released Akalla scribe son of Ur-nigar chief livestock administrator
+# dev/P416399.atf
+1	lu2-bala-a	_[Lu-balaya]	PN	PN.GEN.GEN	0	root	_	
+2	nu-ur2-{d}iszkur-ka	_[Nur-Ikur]	PN	PN.GEN.GEN.GEN	4	ABS	_	
+3	szu	szu[hand][-e]	N	N.L3-NH	4	_	_	
+4	i3-ib2-ba	_[has.been.released]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	1	acl	_	
+5	a-kal-la	Akala[1]	PN	PN	4	appos	_	
+6	dub-sar	dubsar[scribe]	N	N	5	appos	_	
+7	dumu	dumu[child]	N	N	5	appos	_	
+8	ur-nigar{gar}	Urnigar[1]	PN	PN	9	acl	_	
+9	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	7	GEN	_
+	
+

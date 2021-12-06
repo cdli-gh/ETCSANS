@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: cadaver ram grain-fed from Baaga fattener did Adda-rabi agrig receive month Festival of Lisi day elapsed year priest of Inanna of Uruk by goat was chosen
+# train/P479370.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	ad3	_[cadaver]	N	N	11	ABS	_	
+3	udu	udu[sheep]	N	N	2	appos	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ba-a-ga	Bayaga[1]	PN	PN	2	ABL	_	
+7	kuruszda-ta	_[fattener]	N	N.ABL	6	appos	_	
+8	{d}iszkur-ra-bi2	_[did.Adda-rabi]	PN	PN.DAT-H	11	_	_	
+9	agrig	_[agrig]	N	N	11	nmod	_	
+10	szu	szu[hand][-e]	N	N.L3-NH	11	_	_	
+11	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+12	iti	iti[month]	N	N	13	nmod	_	
+13	ezem-{d}li9-si4	_[Festival.Lisi]	MN	MN	11	parataxis	_	
+14	u4	ud[day]	N	N	17	date	_	
+15	2(u)	2(u)[ten]	NU	NU	17	nummod	_	
+16	5(disz)	5(disz)[one]	NU	NU	15	nummod	_	
+17	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	13	acl	_	
+18	mu	mu[year]	N	N	17	appos	_	
+19	en	en[priest]	N	N	23	ABS	_	
+20	{d}inanna	Inanna[1][-ak]	DN	DN	19	GEN	_	
+21	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	20	GEN	_	
+22	masz2-e	masz[goat]-e	N	N.L3-NH	19	ERG	_	
+23	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	13	acl	_
+	
+

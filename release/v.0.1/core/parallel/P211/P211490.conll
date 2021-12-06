@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P211490.atf						#new_text=P211490
+# tr.en: Basket-of-tablets accounts of sesame delivered barley rations of troops labor are here year following -Suen king Urbilum destroyed
+# train/P211490.atf new_text=P211490
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	2	GEN	_	
+4	gal2-la	gal[be]-a[-ø]	V	NF.V.PT	2	acl	_	
+5	sze-ba	szeba[ration]	N	N	2	appos	_	
+6	erin2	erin[people]	N	N	5	GEN	_	
+7	a2	a[time]	N	N	6	appos	_	
+8	...	_[_]	PN	N	6	dep	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	6	acl	_	
+10	mu	mu[year]	N	N	2	appos	_	
+11	us2-sa	us[follow]-a	V	NF.V.PT	10	acl	_	
+12	...-suen	_	RN	RN	2	appos	_	
+

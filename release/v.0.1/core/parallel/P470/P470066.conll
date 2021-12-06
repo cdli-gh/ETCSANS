@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P470066.atf						#new_text=P470066
+# tr.en: niglam garment fine quality k-vessel of Szulgi-ayamu month Lisi year after Szu-Suen is king
+# test/P470066.atf new_text=P470066
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	tug2	tug[textile]	N	N	3	_	heuristic: attach to head	
+3	nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	0	root	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	dug	dug[pot]	N	N	3	_	heuristic: after nominal head	
+6	kur-ku-du3	_[k-vessel]	N	N-RDP.GEN	3	appos	_	
+7	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	PN.ERG	6	GEN	_	
+

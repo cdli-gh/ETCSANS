@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur barig ban sila semolina gur barig ban sila barley debt grain gur barig ban sila barley gur barig ban sila emmer barig ban sila wheat grain credits in carried over debits new loaned grain gur barig ban sila flour gur barig ban sila barley gur barig ban harvest barley gur barig ban sila wheat debt grain in uuma household gur ban sila barley gur ban emmer deficit of account n gur barig ban sila barley gur offerings gur barig gur fleece-less sheep female kids minas shekels of gold under seal of Lugal-niglagare son of Ur-enun gur barig ban flour gur barig ban barley new loaned grains barig ban sila flour gur barig ban sila barley gur barig flour deficit of account grain booked out deficit its head barley In basket year western wall was erected gur barig ban flour gur barig harvest barley gur barig debt grain no interest sealed by Egalesi gur barig ban flour gur barig ban sila barley deficit of account gur barig harvest barley under seal of Gududu Year Szu-Suen king of Ur erected grand-stele for Enlil and Ninlil A copy of sealed documents in sealed document house	*RETOK*-2(u)	_	_	_	_	2(u)	2(u)[ten]	NU	NU	D
+# train/P388298.atf						#new_text=P388298
+# tr.en: gur barig ban sila semolina gur barig ban sila barley debt grain gur barig ban sila barley gur barig ban sila emmer barig ban sila wheat grain credits in carried over debits new loaned grain gur barig ban sila flour gur barig ban sila barley gur barig ban harvest barley gur barig ban sila wheat debt grain in uuma household gur ban sila barley gur ban emmer deficit of account n gur barig ban sila barley gur offerings gur barig gur fleece-less sheep female kids minas shekels of gold under seal of Lugal-niglagare son of Ur-enun gur barig ban flour gur barig ban barley new loaned grains barig ban sila flour gur barig ban sila barley gur barig flour deficit of account grain booked out deficit its head barley In basket year western wall was erected gur barig ban flour gur barig harvest barley gur barig debt grain no interest sealed by Egalesi gur barig ban flour gur barig ban sila barley deficit of account gur barig harvest barley under seal of Gududu Year Szu-Suen king of Ur erected grand-stele for Enlil and Ninlil A copy of sealed documents in sealed document house *RETOK*-2(u) _ _ _ _ 2(u) 2(u)[ten] NU NU D
+# train/P388298.atf new_text=P388298
+1	4(ban2)	4(ban)[unit]	NU	N	0	nummod	_	
+2	7(disz)	7(disz)[one][-sze]	NU	NU	49	nummod	_	
+3	5(asz)	5(asz)[one]	NU	NU	0	nummod	_	
+4	4(barig)	4(bariga)[unit]	NU	N	97	nummod	_	
+5	...-x-ka	_	PN	PN	0	_	_	
+6	n	_(_)[_]	NU	NU	0	_	_	
+7	x	_[_]	N	N	0	dep	_	
+8	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+9	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+10	masz2	masz[goat]	N	N	0	_	_
+	
+

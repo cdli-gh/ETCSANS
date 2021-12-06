@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: queen of his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad PN
+1	nin	nin[lady]	N	N	0	root	_
+2	x	e2-kur[prison]	N	N.GEN	1	dep	_
+3	x	_	_	_	1	dep	_
+4	x	e2-kur[prison]	_	_	1	dep	_
+5	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+6	nam-ti	nam-til3[life]	N	N	1	TERM	_
+7	{d}szul-gi	{d}szul-gi[1]	RN	RN	6	GEN	_
+8	nita	nita[male]	N	N	6	appos	_
+9	kal-ga	kalag[strong]	V	NF.V.PT	8	amod	_
+10	lugal	lugal[king]	N	N	6	appos	_
+11	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_
+12	lugal	lugal[king]	N	N	6	appos	_
+13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_
+14	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	13	appos	_
+15	AN	pn[1]	PN	PN	1	appos	_
+16	zi	_	_	_	0	_	_
+17	gi4	ba-zig3-ge4[1]	PN	PN	0	_	_
+18	...	ba-zig3-ge4[1]	_	_	0	dep	_
+

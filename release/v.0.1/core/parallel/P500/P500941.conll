@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Szara jewel of heaven beloved child of Inanna his lord for life of Szu-Suen strong king king of Ur king of four quarters did Ur- royal soldier son of Ur-abba this fashion
+# train/P500941.atf
+1	{d}szara2	Szara[1][-ak]	DN	DN	5	DAT	_	
+2	nir-gal2	_[jewel]	AJ	NF.V	5	_	_	
+3	an-na	An[1][-ak][-ak][sze]	PN	DN.GEN	2	GEN	_	
+4	dumu	dumu[child]	N	N	5	_	heuristic: before verbal head	
+5	ki-ag2	ki'ag[love][-ø]	V	NF.V	0	root	_	
+6	{d}inanna	Inanna[1][-ak]	DN	DN	5	GEN	_	
+7	lugal-a-ni-ir	_[his.lord]	N	N.3-SG-H-POSS.DAT-H	6	appos	_	
+8	nam-ti	namtil[life]	PN	N	5	TERM	_	
+9	{d}szu-{d}suen	Szusuen[1]	RN	RN	8	GEN	_	
+10	lugal	lugal[king]	N	N	9	appos	_	
+11	kal-ga	kalag[strong]-a	V	NF.V.SUB	10	acl	_	
+12	lugal	lugal[king]	N	N	9	appos	_	
+13	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	12	GEN	_	
+14	lugal	lugal[king]	N	N	9	appos	_	
+15	an	An[1][-ra]	N	N	17	nummod	projectivity violation	
+16	ub-da	_	N	N	9	appos	projectivity violation	
+17	limmu2-ba-ka-sze3	_[quarters]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	14	nummod	_	
+18	ur-{d}...	_[1][-ra]	PN	PN.GEN	5	acl	_	
+19	aga3-us2	aga'us[soldier]	N	N	18	ABS	_	
+20	lugal	lugal[king]	N	N	19	acl	_	
+21	dumu	dumu[child]	N	N	19	appos	_	
+22	ur-ab-ba-ke4	_[Ur-abba]	PN	PN.GEN.ERG	21	GEN	_	
+23	mu-na-dim2	mu-nn-a-dim[create][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	19	acl	_
+	
+

@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nane the powerful lady the lady of boundary marker his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Temple Established by Brothers her beloved temple he built for her	
+1	{d}nansze	{d}nansze[1]	DN	DN	19	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	uru16	uru16[exalted]	V	NF.V	2	amod	_
+4	nin	nin[lady]	N	N	1	appos	_
+5	in-dub-ba	in-dub-ba[boundary]	N	N.GEN	4	appos	_
+6	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+7	szul-gi	szul-gi[1]	RN	RN	19	ERG	_
+8	nita	nita[male]	N	N	7	appos	_
+9	kal-ga	kalag[strong]	V	NF.V.PT	8	amod	_
+10	lugal	lugal[king]	N	N	7	appos	_
+11	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_
+12	lugal	lugal[king]	N	N	7	appos	_
+13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_
+14	ki-uri-ke4	ki-uri[1]+e2-szesz-szesz-e-ga2-ra[1]	GN	GN.GEN.ERG	13	appos	_
+15	e2	e2[house]	N	N	18	ABS	_
+16	szesz-szesz-a-ga2-ra	_[Temple.Established.by.Brothers]	PN	PN	3	appos	_
+17	e2	ki[place]	N	N.ABS	15	appos	_
+18	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	19	amod	_
+19	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

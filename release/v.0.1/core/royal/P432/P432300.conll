@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Sin the beloved of Enlil the king whom Enlil as beloved in his heart did choose	
+1	x	_[_]	u	u	0	dep	_
+2	...	_[_]	u	u	0	dep	_
+3	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	4	ABS	_
+4	ki-ag2	ki[place]+ag2[measure]	V	NF.V	8	ERG	_
+5	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	4	appos	_
+7	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	6	appos	_
+8	ki-ag2	ag2[measure]	V	NF.V	10	LOC	_
+9	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	appos	_
+10	in-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+

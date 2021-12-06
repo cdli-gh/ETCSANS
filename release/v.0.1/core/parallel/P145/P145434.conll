@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P145434.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	1	_	_	
+4	ku-li	Kuli[1]	PN	PN	1	_	heuristic: after nominal head	
+5	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+6	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+7	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	iti	iti[month]	N	N	14	nmod	projectivity violation	
+9	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	8	_	heuristic: attach to last	
+10	iti	iti[month]	N	N	9	_	heuristic: attach to last	
+11	diri-sze3	diri[intercalary_month]-sze	V	N.TERM	14	acl	projectivity violation	
+12	mu	mu[year]	N	N	1	appos	_	
+13	e2	e[house]	N	N	12	_	heuristic: attach to last	
+14	{d}szara2	Szara[1][-ak]	DN	DN	1	appos	_	
+15	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

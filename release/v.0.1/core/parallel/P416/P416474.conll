@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lambs rd day from Abbasaga Intaea accepted month ki-siki of Ninazu year Szaru was destroyed
+# train/P416474.atf
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	u4	ud[day]	N	N	2	date	_	
+4	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+5	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	ki	ki[place]	N	N	7	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+8	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	7	appos	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	7	acl	_	
+10	iti	iti[month]	N	N	9	appos	_	
+11	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	10	appos	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	11	appos	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_	
+15	2(disz)	2(disz)[one]	NU	NU	11	nummod	_
+	
+

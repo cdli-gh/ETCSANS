@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P475380.atf
+# tr.en: barig barley rations Ur-Mami from silo of Apisal from Gududu seal of Lugal-inimgina month Paue year Simanum was destroyed Lugal-inimgina son of Lugal-nesage
+1	2(barig)	2(bariga)[unit]	NU	N	3	nummod	_	
+2	sze	sze[barley]	N	N	3	nmod	_	
+3	szuku-ra	szukur[ration]-ak	N	N.GEN	0	root	_	
+4	ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	3	appos	_	
+5	guru7	guru[grain_heap]	N	N	3	ABL	_	
+6	a-pi4-sal4{ki}-ta	Apisal[1]-ta	GN	SN.ABL	5	ABL	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	gu-du-du-ta	_[Gududu]	PN	PN.GEN.ABL	9	nmod	_	
+9	kiszib3	kiszib[seal]	N	N	3	ABL	_	
+10	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	9	GEN	_	
+11	iti	iti[month]	N	N	12	nmod	_	
+12	pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	3	appos	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	si-ma-num{ki}	_[Simanum]	GN	GN	15	ABS	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	12	acl	_	
+16	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	18	acl	_	
+17	dub-sar	dubsar[scribe]	N	N	16	_	heuristic: attach to last	
+18	dumu	dumu[child]	N	N	12	appos	_	
+19	lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	18	GEN	_
+	
+

@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P123097.atf new_text=P123097
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P123097.atf						#new_text=P123097
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2	gurum[inspection]	N	N	1	_	heuristic: after nominal head	
+3	ak	ak[excavate][-a][-ak]	V	NF.V.PT	1	_	_	
+4	simug	simug[smith][-ra]	N	N.DAT-H	1	_	heuristic: after nominal head	
+5	dub-sar	dubsar[scribe]	N	N	1	_	heuristic: after nominal head	
+6	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	1	_	heuristic: after nominal head	
+7	gala	_	V	NF.V.3-SG-NH-POSS.GEN	1	_	heuristic: after nominal head	
+8	nigin6{ki}	_[xxx]	SN	SN.GEN.GEN.TERM	1	_	heuristic: after nominal head	
+9	nu-banda3	nubanda[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+10	ur-{d}nansze	Urnansze[1]	PN	PN	1	_	heuristic: after nominal head	
+11	nu-banda3	nubanda[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+12	ur-{d}utu	Urutu[1]	PN	PN	1	_	heuristic: after nominal head	
+13	nu-banda3	nubanda[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+14	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	1	_	heuristic: after nominal head	
+15	sagi	sagi[cup_bearer][-ø]	N	N	1	_	heuristic: after nominal head	
+16	ab-ba-iri	abba'iri[city_elder]	N	N	1	_	heuristic: after nominal head	
+17	e2-kuruszda	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+18	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	1	_	heuristic: after nominal head	
+19	nu-banda3	nubanda[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+20	a-hu-a	Ahuya[1]	PN	PN	1	_	heuristic: after nominal head	
+21	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+22	{d}nansze	Nansze[1]	DN	DN	1	_	heuristic: after nominal head	
+23	esz3	esz[shrine]	N	N	1	_	heuristic: after nominal head	
+24	didli-bi	_[xxx]	V	NF.V.3-SG-NH-POSS.ABS	1	_	heuristic: after nominal head	
+25	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	1	_	heuristic: after nominal head	
+26	gala	_	V	NF.V.3-SG-NH-POSS.GEN	1	_	heuristic: after nominal head	
+27	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	1	_	heuristic: after nominal head	
+28	u2-du-lu	_[xxx]	PN	PN	36	nmod	projectivity violation	
+29	dub-sar	dubsar[scribe]	N	N	28	_	heuristic: attach to last	
+30	gu4	gud[ox]	N	N	29	_	heuristic: attach to last	
+31	udu	udu[sheep]	N	N	30	_	heuristic: attach to last	
+32	lu2	lu[person]	N	N	31	_	heuristic: attach to last	
+33	kas4	kas[runner][-ra]	N	N.DAT-H	32	_	heuristic: attach to last	
+34	sa12-du5	sagDUN[land_recorder][-ak]	N	N	36	nmod	projectivity violation	
+35	szu-ku6	szukud[fisherman][-ak][-ak]	N	N	1	appos	_	
+36	muszen-du3	muszendu[bird_catcher]	N	N	1	appos	_
+	
+

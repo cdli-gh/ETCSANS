@@ -1,0 +1,188 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102365.atf new_text=P102365
+# tr.en: -da scribe oxen sheep repaid by Auni Szu-Ninazu ox sheep sheep nanny goats ewes female lambs rams male lambs nanny goat deficit restored by Lu- sheep lambs ewes female lambs nanny goat deficit restored by son of sheep from Ug-IL via Il-ma month Harvest total oxen grain-fed total oxen total cows total total total
+# train/P102365.atf						#new_text=P102365
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	...	_[_]	PN	N	0	dep	_	
+3	x	_[_]	N	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	'.	_	_	_	0	_	_	
+7	...	_[_]	PN	N	0	dep	_	
+8	x	_[_]	N	N	0	dep	_	
+9	x	_[_]	N	N	0	dep	_	
+10	'.	_	_	_	0	_	_	
+11	...	_[_]	PN	N	0	dep	_	
+12	x	_[_]	N	N	0	dep	_	
+13	...	_[_]	PN	N	0	dep	_	
+14	'.	_	_	_	0	_	_	
+15	...-da	_[_]	PN	PN	0	root	_	
+16	dub-sar	dubsar[scribe]	N	N	15	appos	_	
+17	'.	_	_	_	15	_	heuristic: after nominal head	
+18	...	_[_]	PN	N	20	dep	_	
+19	3(disz)	3(disz)[one]	NU	NU	20	nummod	heuristic: NU premodifying	
+20	gu4	gud[ox]	N	N	0	nmod	_	
+21	3(u)	3(u)[ten]	NU	NU	22	nummod	heuristic: NU premodifying	
+22	udu	udu[sheep]	N	N	20	appos	_	
+23	'.	_	_	_	22	_	heuristic: attach to last	
+24	x	_[_]	N	N	23	dep	heuristic: attach to last	
+25	su-ga	sug[repay]-a	V	NF.V.PT	18	acl	_	
+26	a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	25	ERG	_	
+27	'.	_	_	_	15	_	heuristic: after nominal head	
+28	x	_[_]	N	N	15	dep	heuristic: after nominal head	
+29	x	_[_]	N	N	15	dep	heuristic: after nominal head	
+30	szu-{d}nin-a-zu	_[Szu-Ninazu]	PN	PN	0	_	detached for projectivity	
+31	'.	_	_	_	30	_	heuristic: attach to last	
+32	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+33	gu4	gud[ox]	N	N	30	appos	_	
+34	4(disz)	4(disz)[one]	NU	NU	49	nummod	heuristic: NU premodifying; projectivity violation	
+35	udu	udu[sheep]	N	N	15	nmod	heuristic: after nominal head	
+36	...	_[_]	PN	N	35	dep	heuristic: attach to last	
+37	'.	_	_	_	36	_	heuristic: attach to last	
+38	2(asz)	2(asz)[one]	NU	NU	49	nummod	heuristic: NU premodifying; projectivity violation	
+39	...	_[_]	PN	N	38	dep	heuristic: attach to last	
+40	{d}ba-...	_	PN	PN.GEN	39	_	heuristic: attach to last	
+41	'.	_	_	_	40	_	heuristic: attach to last	
+42	1(disz)	1(disz)[one]	NU	NU	49	nummod	heuristic: NU premodifying; projectivity violation	
+43	...	_[_]	PN	N	42	dep	heuristic: attach to last	
+44	'.	_	_	_	43	_	heuristic: attach to last	
+45	2(disz)	2(disz)[one]	NU	NU	49	nummod	heuristic: NU premodifying; projectivity violation	
+46	...-kam	_(_)[_]-ak-am	PN	NU.GEN.COP-3-SG	45	_	heuristic: attach to last	
+47	'.	_	_	_	46	_	heuristic: attach to last	
+48	x	_[_]	N	N	15	dep	heuristic: after nominal head	
+49	sza3	szag[heart]	N	N	15	appos	_	
+50	x	_[_]	N	N	52	dep	_	
+51	...	_[_]	PN	N	0	dep	_	
+52	'.	_	_	_	0	_	_	
+53	ki	ki[place]	N	N	0	_	_	
+54	{d}en-lil2-x	_	DN	DN	0	_	_	
+55	'.	_	_	_	0	_	_	
+56	giri3	giri[foot]	N	N	0	_	_	
+57	ur-x-...	_[1][-ak]	PN	PN.GEN	59	_	heuristic: after nominal head	
+58	'.	_	_	_	59	_	heuristic: after nominal head	
+59	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+60	'.	_	_	_	59	_	heuristic: after nominal head	
+61	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+62	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+63	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+64	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+65	'.	_	_	_	59	_	heuristic: after nominal head	
+66	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+67	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+68	'.	_	_	_	59	_	heuristic: after nominal head	
+69	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+70	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+71	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+72	'.	_	_	_	59	_	heuristic: after nominal head	
+73	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+74	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+75	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+76	'.	_	_	_	59	_	heuristic: after nominal head	
+77	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+78	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+79	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+80	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+81	'.	_	_	_	59	_	heuristic: after nominal head	
+82	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+83	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+84	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+85	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+86	'.	_	_	_	59	_	heuristic: after nominal head	
+87	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+88	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+89	...	_[_]	PN	N	59	dep	heuristic: after nominal head	
+90	'.	_	_	_	59	_	heuristic: after nominal head	
+91	1(disz)	1(disz)[one]	NU	NU	95	nummod	heuristic: NU premodifying	
+92	udu	udu[sheep]	N	N	59	appos	_	
+93	x	_[_]	N	N	59	dep	heuristic: after nominal head	
+94	mu	mu[year]	N	N	0	_	_	
+95	...	_[_]	PN	N	97	dep	heuristic: attach to last	
+96	'.	_	_	_	98	_	heuristic: attach to last	
+97	x	_[_]	N	N	99	dep	heuristic: attach to last	
+98	x	_[_]	N	N	100	dep	heuristic: attach to last	
+99	en	en[priest]	N	N	101	_	heuristic: attach to last	
+100	...	_[_]	PN	N	102	dep	heuristic: attach to last	
+101	'.	_	_	_	103	_	heuristic: attach to last	
+102	x	_[_]	N	N	104	dep	heuristic: attach to last	
+103	x	_[_]	N	N	105	dep	heuristic: attach to last	
+104	x	_[_]	N	N	106	dep	heuristic: attach to last	
+105	...	_[_]	PN	N	107	dep	heuristic: attach to last	
+106	'.	_	_	_	108	_	heuristic: attach to last	
+107	...	_[_]	PN	N	109	dep	heuristic: attach to last	
+108	5(disz)	5(disz)[one]	NU	NU	117	nummod	heuristic: NU premodifying	
+109	...	_[_]	PN	N	111	dep	heuristic: attach to last	
+110	'.	_	_	_	112	_	heuristic: attach to last	
+111	x	_[_]	N	N	113	dep	heuristic: attach to last	
+112	...	_[_]	PN	N	114	dep	heuristic: attach to last	
+113	5(disz)	5(disz)[one]	NU	NU	117	nummod	heuristic: NU premodifying	
+114	ud5	uzud[goat]	N	N	97	appos	_	
+115	2(disz)	2(disz)[one]	NU	NU	59	nummod	_	
+116	x	_[_]	N	N	59	dep	_	
+117	3(disz)	3(disz)[one]	NU	NU	59	nummod	_	
+118	u8	u[ewe]	N	N	59	appos	_	
+119	3(disz)	3(disz)[one]	NU	NU	125	nummod	projectivity violation	
+120	kir11	kir[female_lamb]	N	N	59	appos	_	
+121	2(disz)	2(disz)[one]	NU	NU	59	nummod	_	
+122	udu	udu[sheep]	N	N	59	appos	_	
+123	2(disz)	2(disz)[one]	NU	NU	129	nummod	projectivity violation	
+124	sila4	sila[lamb]	N	N	59	appos	_	
+125	1(disz)	1(disz)[one]	NU	NU	59	nummod	_	
+126	ud5	uzud[goat]	N	N	59	appos	_	
+127	la2-ia3	la'u[arrears]	N	N	59	appos	_	
+128	su-ga	sug[repay]-a	V	NF.V.PT	130	acl	_	
+129	lu2-{d}x-x	_[by]	PN	PN.GEN.DAT-H	131	ERG	_	
+130	2(disz)	2(disz)[one]	NU	NU	134	nummod	_	
+131	udu	udu[sheep]	N	N	59	appos	_	
+132	2(disz)	2(disz)[one]	NU	NU	138	nummod	projectivity violation	
+133	sila4	sila[lamb]	N	N	134	appos	_	
+134	3(disz)	3(disz)[one]	NU	NU	134	nummod	_	
+135	u8	u[ewe]	N	N	134	appos	_	
+136	2(disz)	2(disz)[one]	NU	NU	142	nummod	projectivity violation	
+137	kir11	kir[female_lamb]	N	N	134	appos	_	
+138	1(disz)	1(disz)[one]	NU	NU	134	nummod	_	
+139	ud5	uzud[goat]	N	N	134	appos	_	
+140	la2-ia3	la'u[arrears]	N	N	134	appos	_	
+141	su-ga	sug[repay]-a	V	NF.V.PT	143	acl	_	
+142	x	_[_]	N	N	144	dep	heuristic: attach to last	
+143	...	_[_]	PN	N	145	dep	heuristic: attach to last	
+144	dumu	dumu[child]	N	N	146	_	heuristic: attach to last	
+145	KA-...	_	PN	PN	147	_	heuristic: attach to last	
+146	x	_[_]	N	N	148	dep	heuristic: attach to last	
+147	...	_[_]	PN	N	149	dep	heuristic: attach to last	
+148	7(disz)	7(disz)[one][-sze]	NU	NU	144	nummod	_	
+149	udu	udu[sheep]	N	N	59	appos	_	
+150	ki	ki[place]	N	N	154	ABL	_	
+151	ug3-IL2-ta	_[Ug-IL]	PN	PN	152	ABL	_	
+152	giri3	giri[foot]	N	N	152	via	_	
+153	i3-li2-mah-ri2	_	PN	PN	59	appos	_	
+154	iti	iti[month]	N	N	59	appos	_	
+155	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	157	appos	_	
+156	szunigin	szunigin[total]	N	N	59	appos	_	
+157	7(disz)	7(disz)[one][-sze]	NU	NU	161	nummod	_	
+158	gu4	gud[ox]	N	N	159	appos	_	
+159	niga	niga[fattened][-ø]	V	NF.V.ABS	161	acl	_	
+160	szunigin	szunigin[total]	N	N	161	acl	_	
+161	3(gesz2)	3(gesz)[sixty]	NU	NU	161	nummod	projectivity violation	
+162	5(u)	5(u)[ten]	NU	NU	164	nummod	_	
+163	6(disz)	6(disz)[one][-sze]	NU	NU	164	nummod	_	
+164	gu4	gud[ox]	N	N	163	appos	_	
+165	szunigin	szunigin[total]	N	N	161	appos	_	
+166	1(u)	1(u)[ten]	NU	NU	171	nummod	_	
+167	8(disz)	8(disz)[one]	NU	NU	169	nummod	_	
+168	ab2	ab[cow][-ø]	N	N	161	appos	_	
+169	szunigin	szunigin[total]	N	N	171	appos	_	
+170	1(disz)	1(disz)[one]	NU	NU	171	nummod	_	
+171	x	_[_]	N	N	173	dep	heuristic: attach to last	
+172	...	_[_]	PN	N	174	dep	heuristic: attach to last	
+173	szunigin	szunigin[total]	N	N	175	_	heuristic: attach to last	
+174	2(disz)	2(disz)[one]	NU	NU	180	nummod	heuristic: NU premodifying	
+175	x	_[_]	N	N	177	dep	heuristic: attach to last	
+176	...	_[_]	PN	N	178	dep	heuristic: attach to last	
+177	szunigin	szunigin[total]	N	N	171	appos	_	
+178	9(disz)	9(disz)[one]	NU	NU	182	nummod	heuristic: NU premodifying	
+179	...	_[_]	PN	N	180	dep	_	
+180	x	_[_]	N	N	184	dep	_	
+181	x	_[_]	N	N	180	dep	_	
+182	...	_[_]	PN	N	184	dep	_
+	
+

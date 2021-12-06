@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Aallium son of Namani
+# train/P454274.atf
+1	a2-al-li-mu	_[Aallium]	PN	PN	2	nmod	_	
+2	dumu	dumu[child]	N	N	0	root	_	
+3	nam-ha-ni	Namhani[1]	N	PN	2	GEN	_
+	
+

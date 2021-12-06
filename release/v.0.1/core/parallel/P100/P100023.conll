@@ -1,0 +1,192 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P100023.atf
+# tr.en: female laborers ban female laborers half-labor ban month Harvest female laborers ban female laborers half-labor ban month Bricks in moulds set female laborers ban female laborers half-labor ban month Barley at quay female laborers ban female laborers half-labor ban month First-fruits female laborers ban female laborers half-labor ban month Flight female laborers ban female laborers half-labor ban month Sowing female laborers ban female laborers half-labor ban month mine female laborers ban female laborers half-labor ban month House of month female laborers ban female laborers half-labor ban month Lisi female laborers ban female laborers half-labor ban month Festival of Szulgi female laborers ban female laborers half-labor ban month paue female laborers ban female laborers half-labor ban month Dumuzi total less female laborers ban total female laborers half-labor ban of months female laborers ban their th shekels female laborers half-labor their th debits of labor of female laborers foreman of weaving from month Harvest to month Dumuzi year Ibbi-Suen king
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	3	nummod	projectivity violation	
+2	7(disz)	7(disz)[one][-sze]	NU	NU	6	nummod	projectivity violation	
+3	geme2	geme[female_worker]	N	N	0	root	_	
+4	3(ban2)	3(ban)[unit]	NU	N	3	nummod	_	
+5	7(disz)	7(disz)[one][-sze]	NU	NU	6	nummod	_	
+6	geme2	geme[female_worker]	N	N	3	appos	_	
+7	a2	a[time]	N	N	6	appos	_	
+8	1/2(disz)	1/2(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+9	3(ban2)	3(ban)[unit]	NU	N	6	nummod	_	
+10	iti	iti[month]	N	N	11	nmod	_	
+11	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	6	appos	_	
+12	1(gesz2)	1(gesz)[sixty]	NU	NU	14	nummod	projectivity violation	
+13	7(disz)	7(disz)[one][-sze]	NU	NU	17	nummod	projectivity violation	
+14	geme2	geme[female_worker]	N	N	3	appos	_	
+15	3(ban2)	3(ban)[unit]	NU	N	14	nummod	_	
+16	7(disz)	7(disz)[one][-sze]	NU	NU	15	nummod	_	
+17	geme2	geme[female_worker]	N	N	14	appos	_	
+18	a2	a[time]	N	N	14	appos	_	
+19	1/2(disz)	1/2(disz)[one]	NU	NU	20	nummod	heuristic: NU premodifying	
+20	3(ban2)	3(ban)[unit]	NU	N	14	nummod	_	
+21	iti	iti[month]	N	N	14	appos	_	
+22	sig4-u3-szub-ba-gar-ra	_[Bricks.in.moulds]	MN	MN	14	ABS	_	
+23	1(gesz2)	1(gesz)[sixty]	NU	NU	22	nummod	_	
+24	7(disz)	7(disz)[one][-sze]	NU	NU	25	nummod	_	
+25	geme2	geme[female_worker]	N	N	3	appos	_	
+26	3(ban2)	3(ban)[unit]	NU	N	25	nummod	_	
+27	7(disz)!	7(disz)[one][-sze]	NU	NU	26	nummod	_	
+28	geme2	geme[female_worker]	N	N	25	appos	_	
+29	a2	a[time]	N	N	25	appos	_	
+30	1/2(disz)	1/2(disz)[one]	NU	NU	31	nummod	heuristic: NU premodifying	
+31	3(ban2)	3(ban)[unit]	NU	N	25	nummod	_	
+32	iti	iti[month]	N	N	33	nmod	_	
+33	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	25	appos	_	
+34	1(gesz2)	1(gesz)[sixty]	NU	NU	33	nummod	_	
+35	7(disz)	7(disz)[one][-sze]	NU	NU	36	nummod	_	
+36	geme2	geme[female_worker]	N	N	25	appos	_	
+37	3(ban2)	3(ban)[unit]	NU	N	36	nummod	_	
+38	7(disz)	7(disz)[one][-sze]	NU	NU	37	nummod	_	
+39	geme2	geme[female_worker]	N	N	36	appos	_	
+40	a2	a[time]	N	N	36	appos	_	
+41	1/2(disz)	1/2(disz)[one]	NU	NU	42	nummod	heuristic: NU premodifying	
+42	3(ban2)	3(ban)[unit]	NU	N	36	nummod	_	
+43	iti	iti[month]	N	N	44	nmod	_	
+44	nesag	Nesag[1][-'a]	N	MN.L1	36	appos	_	
+45	1(gesz2)	1(gesz)[sixty]	NU	NU	47	nummod	projectivity violation	
+46	7(disz)	7(disz)[one][-sze]	NU	NU	50	nummod	projectivity violation	
+47	geme2	geme[female_worker]	N	N	36	appos	_	
+48	3(ban2)	3(ban)[unit]	NU	N	47	nummod	_	
+49	7(disz)	7(disz)[one][-sze]	NU	NU	48	nummod	_	
+50	geme2	geme[female_worker]	N	N	47	appos	_	
+51	a2	a[time]	N	N	47	appos	_	
+52	1/2(disz)	1/2(disz)[one]	NU	NU	53	nummod	heuristic: NU premodifying	
+53	3(ban2)	3(ban)[unit]	NU	N	47	nummod	_	
+54	iti	iti[month]	N	N	55	nmod	_	
+55	dal	Dal[1][-'a]	MN	MN.L1	47	appos	_	
+56	1(gesz2)	1(gesz)[sixty]	NU	NU	55	nummod	_	
+57	7(disz)	7(disz)[one][-sze]	NU	NU	61	nummod	projectivity violation	
+58	geme2	geme[female_worker]	N	N	55	appos	_	
+59	3(ban2)	3(ban)[unit]	NU	N	55	nummod	_	
+60	7(disz)	7(disz)[one][-sze]	NU	NU	59	nummod	_	
+61	geme2	geme[female_worker]	N	N	55	appos	_	
+62	a2	a[time]	N	N	55	appos	_	
+63	1/2(disz)	1/2(disz)[one]	NU	NU	64	nummod	heuristic: NU premodifying	
+64	3(ban2)	3(ban)[unit]	NU	N	62	nummod	_	
+65	iti	iti[month]	N	N	66	nmod	_	
+66	szu-numun-na	_[Sowing]	MN	MN	55	appos	_	
+67	1(gesz2)	1(gesz)[sixty]	NU	NU	55	nummod	_	
+68	6(disz)	6(disz)[one][-sze]	NU	NU	72	nummod	projectivity violation	
+69	geme2	geme[female_worker]	N	N	55	appos	_	
+70	3(ban2)	3(ban)[unit]	NU	N	55	nummod	_	
+71	7(disz)	7(disz)[one][-sze]	NU	NU	70	nummod	_	
+72	geme2	geme[female_worker]	N	N	55	appos	_	
+73	a2	a[time]	N	N	55	appos	_	
+74	1/2(disz)	1/2(disz)[one]	NU	NU	75	nummod	heuristic: NU premodifying	
+75	3(ban2)	3(ban)[unit]	NU	N	73	nummod	_	
+76	iti	iti[month]	N	N	77	nmod	_	
+77	min-esz3	Minesz[1][-'a]	MN	MN.L1	55	appos	_	
+78	1(gesz2)	1(gesz)[sixty]	NU	NU	55	nummod	_	
+79	6(disz)	6(disz)[one][-sze]	NU	NU	83	nummod	projectivity violation	
+80	geme2	geme[female_worker]	N	N	55	appos	_	
+81	3(ban2)	3(ban)[unit]	NU	N	55	nummod	_	
+82	7(disz)	7(disz)[one][-sze]	NU	NU	81	nummod	_	
+83	geme2	geme[female_worker]	N	N	55	appos	_	
+84	a2	a[time]	N	N	55	appos	_	
+85	1/2(disz)	1/2(disz)[one]	NU	NU	86	nummod	heuristic: NU premodifying	
+86	3(ban2)	3(ban)[unit]	NU	N	84	nummod	_	
+87	iti	iti[month]	N	N	133	nmod	_	
+88	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	133	_	_	
+89	1(gesz2)	1(gesz)[sixty]	NU	NU	88	nummod	_	
+90	6(disz)	6(disz)[one][-sze]	NU	NU	91	nummod	_	
+91	geme2	geme[female_worker]	N	N	88	parataxis	_	
+92	3(ban2)	3(ban)[unit]	NU	N	91	nummod	_	
+93	7(disz)	7(disz)[one][-sze]	NU	NU	92	nummod	_	
+94	geme2	geme[female_worker]	N	N	91	appos	_	
+95	a2	a[time]	N	N	91	appos	_	
+96	1/2(disz)	1/2(disz)[one]	NU	NU	97	nummod	heuristic: NU premodifying	
+97	3(ban2)	3(ban)[unit]	NU	N	91	nummod	_	
+98	iti	iti[month]	N	N	91	appos	_	
+99	{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	91	appos	_	
+100	1(gesz2)	1(gesz)[sixty]	NU	NU	102	nummod	projectivity violation	
+101	6(disz)	6(disz)[one][-sze]	NU	NU	105	nummod	projectivity violation	
+102	geme2	geme[female_worker]	N	N	88	parataxis	_	
+103	3(ban2)	3(ban)[unit]	NU	N	102	nummod	_	
+104	7(disz)	7(disz)[one][-sze]	NU	NU	103	nummod	_	
+105	geme2	geme[female_worker]	N	N	102	appos	_	
+106	a2	a[time]	N	N	102	appos	_	
+107	1/2(disz)	1/2(disz)[one]	NU	NU	108	nummod	heuristic: NU premodifying	
+108	3(ban2)	3(ban)[unit]	NU	N	102	nummod	_	
+109	iti	iti[month]	N	N	110	nmod	_	
+110	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	102	appos	_	
+111	1(gesz2)	1(gesz)[sixty]	NU	NU	110	nummod	_	
+112	6(disz)	6(disz)[one][-sze]	NU	NU	113	nummod	_	
+113	geme2	geme[female_worker]	N	N	88	parataxis	_	
+114	3(ban2)	3(ban)[unit]	NU	N	113	nummod	_	
+115	7(disz)	7(disz)[one][-sze]	NU	NU	114	nummod	_	
+116	geme2	geme[female_worker]	N	N	113	appos	_	
+117	a2	a[time]	N	N	113	appos	_	
+118	1/2(disz)	1/2(disz)[one]	NU	NU	119	nummod	heuristic: NU premodifying	
+119	3(ban2)	3(ban)[unit]	NU	N	113	nummod	_	
+120	iti	iti[month]	N	N	121	_	_	
+121	pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	113	appos	_	
+122	1(gesz2)	1(gesz)[sixty]	NU	NU	124	nummod	projectivity violation	
+123	5(disz)	5(disz)[one]	NU	NU	127	nummod	projectivity violation	
+124	geme2	geme[female_worker]	N	N	88	parataxis	_	
+125	3(ban2)	3(ban)[unit]	NU	N	124	nummod	_	
+126	7(disz)	7(disz)[one][-sze]	NU	NU	125	nummod	_	
+127	geme2	geme[female_worker]	N	N	124	appos	_	
+128	a2	a[time]	N	N	124	appos	_	
+129	1/2(disz)	1/2(disz)[one]	NU	NU	130	nummod	heuristic: NU premodifying	
+130	3(ban2)	3(ban)[unit]	NU	N	124	nummod	_	
+131	iti	iti[month]	N	N	132	nmod	_	
+132	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	124	appos	_	
+133	szunigin	szunigin[total]	N	N	55	appos	_	
+134	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	133	nummod	_	
+135	3(gesz2)	3(gesz)[sixty]	NU	NU	134	nummod	_	
+136	2(u)	2(u)[ten]	NU	NU	134	nummod	_	
+137	la2	la[hang][-ø]	V	NF.V.ABS	139	acl	_	
+138	3(disz)	3(disz)[one]	NU	NU	137	nummod	_	
+139	geme2	geme[female_worker]	N	N	133	appos	_	
+140	3(ban2)	3(ban)[unit]	NU	N	139	nummod	_	
+141	szunigin	szunigin[total]	N	N	133	appos	_	
+142	1(gesz2)	1(gesz)[sixty]	NU	NU	145	nummod	_	
+143	2(u)	2(u)[ten]	NU	NU	142	nummod	_	
+144	4(disz)	4(disz)[one]	NU	NU	142	nummod	_	
+145	geme2	geme[female_worker]	N	N	133	appos	_	
+146	a2	a[time]	N	N	145	appos	_	
+147	1/2(disz)	1/2(disz)[one]	NU	NU	145	nummod	_	
+148	3(ban2)	3(ban)[unit]	NU	N	147	nummod	_	
+149	iti	iti[month]	N	N	145	GEN	_	
+150	1(u)	1(u)[ten]	NU	NU	145	nummod	_	
+151	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	150	nummod	_	
+152	geme2	geme[female_worker]	N	N	145	appos	_	
+153	3(ban2)	3(ban)[unit]	NU	N	152	nummod	_	
+154	igi	igi[eye][-ø]	N	N	152	appos	_	
+155	1(u)	1(u)[ten]	NU	NU	183	nummod	_	
+156	2(disz)-gal2-bi	_	NU	NU.3-SG-NH-POSS.GEN.ABS	155	nummod	_	
+157	1(gesz2)	1(gesz)[sixty]	NU	NU	155	nummod	_	
+158	6(disz)	6(disz)[one][-sze]	NU	NU	155	nummod	_	
+159	1/3(disz)	1/3(disz)[one]	NU	NU	155	nummod	_	
+160	5(disz)	5(disz)[one]	NU	NU	155	nummod	_	
+161	gin2	gig[unit]	N	N	183	nmod	_	
+162	geme2	geme[female_worker]	N	N	183	nmod	_	
+163	a2	a[time]	N	N	162	appos	_	
+164	1/2(disz)	1/2(disz)[one]	NU	NU	0	nummod	_	
+165	3(ban2)	3(ban)[unit]	NU	N	164	nummod	_	
+166	igi	igi[eye][-ø]	N	N	162	appos	_	
+167	1(u)	1(u)[ten]	NU	NU	166	nummod	_	
+168	2(disz)-gal2-bi	_	NU	NU.3-SG-NH-POSS.GEN.ABS	167	nummod	_	
+169	7(disz)	7(disz)[one][-sze]	NU	NU	183	nummod	_	
+170	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	174	_	_	
+171	a2	a[time]	N	N	170	GEN	_	
+172	geme2	geme[female_worker]	N	N	173	acl	_	
+173	...	_[_]	PN	N	171	dep	_	
+174	ugula	ugula[overseer][-ø]	N	N	183	nmod	_	
+175	usz-bar	uszbar[weaver][-ak]	N	N	174	acl	_	
+176	x	_[_]	N	N	177	dep	_	
+177	1(gesz2)	1(gesz)[sixty]	NU	NU	175	nummod	_	
+178	3(u)	3(u)[ten]	NU	NU	177	nummod	_	
+179	x	_[_]	N	N	178	dep	heuristic: attach to last	
+180	x	_[_]	N	N	179	dep	heuristic: attach to last	
+181	iti	iti[month]	N	N	183	nmod	_	
+182	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	181	ABL	_	
+183	iti	iti[month]	N	N	184	_	_	
+184	{d}dumu-zi-sze3	_[to.Dumuzi]	MN	MN.TERM	154	appos	_	
+185	mu	mu[year]	N	N	55	appos	_	
+186	{d}i-bi-{d}suen	_[Ibbi-Suen]	RN	RN	187	acl	_	
+187	lugal	lugal[king]	N	N	55	appos	_
+	
+

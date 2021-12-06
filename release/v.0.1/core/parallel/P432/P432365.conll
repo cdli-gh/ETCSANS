@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432365.atf new_text=P432365
+# tr.en: To Nisaba the faithful woman the beautiful woman the radiant woman beloved of An woman who is luxuriance of all lands woman with seven seats and seven intelligent one of pure place chief scribe of An chief land recorder of Enlil
+# train/P432365.atf						#new_text=P432365
+1	{d}nisaba	_[To.Nisaba]	DN	DN	0	root	_	
+

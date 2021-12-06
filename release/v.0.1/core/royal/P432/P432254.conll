@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi -saga the orchardman dedicated to him
+1	nam-ti	nam-til3[life]	N	N	6	TERM	_
+2	{d}szul-gi-sze3	szul-gi[1]	RN	RN.GEN.TERM	1	GEN	_
+3	x-sa6-ga	x-sag9-ga[1]	PN	PN	6	ERG	_
+4	nu-kiri6	nu-kiri6[gardener]	N	N.ERG	3	appos	_
+5	a	a[water]	N	N.ABS	6	ABS	_
+6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: beams from docks Ema delivered month House-month- year Szu-Suen is king
+# train/P421170.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+2	4(u)	4(u)[ten]	NU	NU	1	nummod	_	
+3	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+4	gesz-ur3	geszur[harrow]	N	N	0	root	_	
+5	kar-ta	_[from.docks]	FN	FN	4	ABL	_	
+6	e2-masz	_[Ema]	FN	FN	7	ABS	_	
+7	kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	5	acl	_	
+8	iti	iti[month]	N	N	9	nmod	_	
+9	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	4	nummod	_	
+10	mu	mu[year]	N	N	9	appos	_	
+11	szu-{d}suen	Szusuen[1]	PN	RN	12	ABS	_	
+12	lugal	lugal[king]	N	N	9	appos	_
+	
+

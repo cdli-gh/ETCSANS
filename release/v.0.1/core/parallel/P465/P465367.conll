@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lugaltarsi ruler of Uruk
+# test/P465367.atf
+1	lugal-tar-si	_[Lugaltarsi]	PN	PN	0	root	_	
+2	ensi2	ensik[ruler]	N	N	1	appos	_	
+3	unu	_[Uruk]	SN	SN.GEN	2	GEN	_
+	
+

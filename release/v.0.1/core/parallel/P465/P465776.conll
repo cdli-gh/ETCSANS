@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: n gur n sila shekels barley wages of hirelings of field n gur barig wages of hirelings deficit of account of ARAD-dingira Atu son of Lugal-saga must replace it year Atu scribe son of Lugal-saga
+# dev/P465776.atf						#new_text=P465776
+# dev/P465776.atf new_text=P465776
+1	n	_(_)[_]	NU	NU	6	nummod	projectivity violation	
+2	n	_(_)[_]	NU	NU	6	nummod	projectivity violation	
+3	sila3	sila[unit]	N	N	6	nmod	projectivity violation	
+4	3(disz)	3(disz)[one]	NU	NU	6	nummod	_	
+5	1/3(disz)	1/3(disz)[one]	NU	NU	4	nummod	_	
+6	gin2	gig[unit]	N	N	0	root	_	
+7	sze	sze[barley]	N	N	4	appos	projectivity violation	
+8	gur	gur[unit]	N	N	6	appos	_	
+9	x	_[_]	N	N	8	dep	heuristic: attach to last	
+10	a2	a[time]	N	N	0	_	_	
+11	lu2	lu[person]	N	N	10	_	heuristic: attach to last	
+12	hun-ga2	hug[hire]-a	V	NF.V.PT	4	acl	projectivity violation	
+13	a-sza3-ga	aszag[field]-ak	N	N.GEN	12	GEN	_	
+14	n	_(_)[_]	NU	NU	10	nummod	_	
+15	6(asz)	6(asz)[one]	NU	NU	20	nummod	projectivity violation	
+16	4(barig)	4(bariga)[unit]	NU	N	15	nummod	_	
+17	gur	gur[unit]	N	N	10	appos	projectivity violation	
+18	a2	a[time]	N	N	15	appos	_	
+19	lu2	lu[person]	N	N	18	_	heuristic: attach to last	
+20	hun-ga2	hug[hire]-a	V	NF.V.PT	0	_	detached for projectivity	
+21	x	_[_]	N	N	20	dep	heuristic: attach to last	
+22	la2-ia3	la'u[arrears]	N	N	15	appos	_	
+23	nig2-ka9-ak	nigSZID[account]	N	N	22	GEN	_	
+24	ARAD2-dingir-ra	_[of.ARAD-dingira]	PN	PN	23	GEN	_	
+25	a-tu	Atu[1][-ak]	PN	PN	28	ABS	_	
+26	dumu	dumu[child]	N	N	25	appos	_	
+27	lugal-saga-ke4	_[Lugal-saga]	PN	PN	26	GEN	_	
+28	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	10	acl	_	
+29	mu	mu[year]	N	N	28	appos	_	
+30	x-...	_[_]	PN	PN	29	dep	_	
+31	a-tu	Atu[1][-ak]	PN	PN	6	appos	_	
+32	dub-sar	dubsar[scribe]	N	N	31	appos	_	
+33	dumu	dumu[child]	N	N	31	appos	_	
+34	lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	33	GEN	_
+	
+

@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna the queen of battle his beloved spouse Amar-Suena whom Enlil in Nippur chose by name the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters her bronze argibil-structure of Gipar temple he fashioned for her and for his life he dedicated it to her	
+1	{d}inanna	{d}inana[1]	DN	DN	10	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	me3	me3[battle]	N	N.GEN	2	GEN	_
+4	dam	dam[spouse]	N	N	5	ABS	_
+5	ki-ag2-ga2-ni-ir	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	2	amod	_
+6	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	10	ERG	_
+7	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	6	appos	_
+8	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	10	LOC	_
+9	mu	mu[name]	N	N.ABS	10	ABS	_
+10	pa3-da	pad3[find]	V	NF.V.PT	26	ERG	_
+11	sag-us2	sag-us2[constant]	V	NF.V	10	appos	_
+12	e2	e2[house]	N	N	11	GEN	_
+13	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	12	GEN	_
+14	lugal	lugal[king]	N	N	10	appos	_
+15	kal-ga	kalag[strong]	V	NF.V.PT	14	amod	_
+16	lugal	lugal[king]	N	N	10	appos	_
+17	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	16	GEN	_
+18	lugal	lugal[king]	N	N	10	appos	_
+19	an	_	_	_	18	_	_
+20	ub-da	an-ub-da[quarter]	N	N	18	appos	_
+21	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	20	nummod	_
+22	ar-gi-bil-lu	ar-gi-bil-lu{zabar}[structure]	N	N	26	ABS	_
+23	zabar	_	_	_	22	_	_
+24	e2	_	_	_	22	_	_
+25	ge6-par4-ra-ka-ni	ar-gi-bil-lu{zabar}[structure]+e2-gi6-par3[1]	TN	TN.GEN.3-SG-H-POSS.ABS	22	GEN	_
+26	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+27	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	29	TERM	_
+28	a	a[water]	N	N.ABS	29	ABS	_
+29	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

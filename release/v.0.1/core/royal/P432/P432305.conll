@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king whom Enlil as beloved in his heart did choose as shepherd of his country the strong king																	1					
+1	lugal	_[the.king.whom]	N	N	0	root	_
+2	{d}en-lil2-le	_[Enlil]	N	N	1	appos	_
+3	ki-ag2	_[as.beloved]	V	V	5	acl	_
+4	sza3-ga-na	_[in.his.heart]	N	N	3	LOC	_
+5	in-pa3	_[did.choose]	V	V	2	acl	_
+6	sipa	_[shepherd]	N	N	7	LOC	_
+7	kalam-ma-sze3	_[his.country]	N	N	5	LOC	_
+8	lugal	_[king]	N	N	1	appos	_
+9	kal-ga	_[strong]	V	V	8	amod	_
+

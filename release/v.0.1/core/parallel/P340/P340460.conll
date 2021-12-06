@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P340460.atf
+# tr.en: Basket-of-tablets accounts seed grain and fields in plow their grand totals are here year en- of Inanna by goat was found
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	sze-numun	szenumun[seed]	N	N	2	appos	_	
+4	u3	u[and]	CNJ	CNJ	2	appos	_	
+5	GAN2	gana[field]	N	N	4	_	heuristic: attach to last	
+6	uru4-a	uru[sow]-a	V	NF.V.PT	2	acl	_	
+7	nigin-ba-bi	_[plow.their.grand.totals]	N	N.3-SG-NH-POSS.ABS	2	LOC	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	2	acl	_	
+9	mu	mu[year]	N	N	1	appos	_	
+10	en	en[priest]	N	N	11	_	_	
+11	{d}inanna	Inanna[1][-ak]	DN	DN	13	ABS	_	
+12	masz-e	masz[goat]-e	N	N.L3-NH	11	ERG	_	
+13	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	9	acl	_
+	
+

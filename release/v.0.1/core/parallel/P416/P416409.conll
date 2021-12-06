@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P416409.atf
+# tr.en: shekel of silver from Szu-Nisaba Lu-dingira received Since Lu-dingira did not have a seal the seal of Duganizi was rolled month Festival of An year house of Szara was erected Duganizi son of Ur-Szakkan cattle manager
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	gin2	gig[unit]	N	N	8	ABS	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	2	GEN	_	
+4	ki	ki[place]	N	N	6	ABL	_	
+5	szu-{d}nisaba-ta	_[Szu-Nisaba]	PN	PN.GEN.ABL	6	nmod	_	
+6	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	2	ABL	_	
+7	szu	szu[hand][-e]	N	N.L3-NH	8	_	_	
+8	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+9	mu	mu[year]	N	N	8	_	heuristic: attach to head	
+10	lu2-dingir-ra-ke4	_[Since.Lu-dingira]	PN	PN.GEN.ERG	8	_	heuristic: attach to head	
+11	kiszib3	kiszib[seal]	N	N	8	_	heuristic: attach to head	
+12	nu-tuku-a-sze3	_[did.not.have.a.seal]	V	V	15	acl	_	
+13	kiszib3	kiszib[seal]	N	N	15	ABS	_	
+14	du11-ga-ni-zi	_[the.Duganizi]	V	V	13	acl	_	
+15	ib2-ra	_[was.rolled]	PN	PN	8	parataxis	_	
+16	iti	iti[month]	N	N	18	nmod	_	
+17	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	16	appos	_	
+18	mu	mu[year]	N	N	8	parataxis	_	
+19	e2	e[house]	N	N	21	ABS	_	
+20	{d}szara2	Szara[1][-ak]	DN	DN	19	GEN	_	
+21	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	18	acl	_	
+22	du11-ga-ni-zi	_[Duganizi]	V	V	21	_	_	
+23	dumu	dumu[child]	N	N	22	appos	_	
+24	ur-{d}szakkan2	_[Ur-Szakkan]	PN	PN.DAT-H	23	GEN	_	
+25	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	22	appos	_
+	
+

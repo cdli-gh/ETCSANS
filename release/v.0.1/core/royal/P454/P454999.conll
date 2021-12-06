@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ennam-Szulgi child of Lu-Nanna military governor	
+1	en-nam-{d}szul-gi	en-nam-{d}szul-gi[1]	PN	PN	0	root	_
+2	dumu	dumu[child]	N	N	1	appos	_
+3	lu2-{d}nanna	lu2-{d}nanna[1]	PN	PN	1	GEN	_
+4	szagina	szagina[general]	N	N.GEN.abs	3	appos	_
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna fierce calf of An firstborn child of Enlil his master Ur-Namma powerful man king of Urim built his E-temen-ni-guru 1
+1	{d}nanna	{d}nanna[1]	DN	DN	10	DAT	_
+2	amar	amar[young]	N	N	1	appos	_
+3	banda3{da}	ban3-da[junior]	V	NF.V	2	amod	_
+4	an-na	an[1]	DN	DN.GEN	2	GEN	_
+5	nita	nita[male]	N	N	10	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	10	appos	_
+8	uri5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	7	GEN	_
+9	e2-temen-ni2-gur3-ni	e2-temen-ni2-guru3[1]	TN	TN.3-SG-H-POSS.ABS	10	ABS	_
+10	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

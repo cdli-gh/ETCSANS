@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: adara-nanny slaughtered on th day from Ludingira Szulgi-irimu received month Festival of Ninazu year Szaru was destroyed
+# dev/P424392.atf
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	ud5	uzud[goat]	N	N	3	_	heuristic: attach to head	
+3	a-dara4	_[adara-nanny]	N	N	12	ABS	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	3	acl	_	
+5	u4	ud[day]	N	N	3	LOC	_	
+6	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+7	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	ki	ki[place]	N	N	10	ABL	_	
+9	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	10	nmod	_	
+10	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	3	ABL	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+13	iti	iti[month]	N	N	15	nmod	_	
+14	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	13	appos	_	
+15	mu	mu[year]	N	N	12	appos	_	
+16	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	15	appos	_	
+17	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_
+	
+

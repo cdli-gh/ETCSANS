@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P458389.atf
+# tr.en: Sz-Suen beloved of Enlil king of four corners king of Ur son of Lugal-melam governor of Nippur is your servant
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	root	_	
+2	ki-ag2	ki'ag[love][-ø]	V	NF.V	1	acl	_	
+3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	2	GEN	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	an	An[1][-ra]	N	N	7	nummod	projectivity violation	
+6	ub-da	_	N	N	1	appos	projectivity violation	
+7	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	4	nummod	_	
+8	lugal	lugal[king]	N	N	1	appos	_	
+9	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	8	GEN	_	
+10	...	_[_]	PN	N	9	dep	_	
+11	...	_[_]	PN	N	8	dep	heuristic: after nominal head	
+12	dumu	dumu[child]	N	N	16	ABS	_	
+13	lugal-me-lam2	Lugalmelam[1]	PN	PN	12	GEN	_	
+14	ensi2	ensik[ruler]	N	N	12	appos	_	
+15	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	14	GEN	_	
+16	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	8	appos	_
+	
+

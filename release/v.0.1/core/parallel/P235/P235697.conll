@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235697.atf						#new_text=P235697
+# tr.en: of dabin-flour for aGAR flour from Urzu sealed tablet of Umani Month Flight year en of Nanna was chosen by means of omens Umani scribe son of Namhani
+# train/P235697.atf new_text=P235697
+1	1(barig)	1(bariga)[unit]	NU	N	21	nummod	_	
+10	iti	iti[month]	N	N	11	nmod	_	
+11	dal	Dal[1][-'a]	MN	MN.L1	21	_	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	en	en[priest]	N	N	16	ABS	_	
+14	{d}nanna	Nanna[1][-ak]	DN	DN	13	GEN	_	
+15	masz-e	masz[goat]-e	N	N.L3-NH	16	_	_	
+16	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	11	acl	_	
+17	u3-ma-ni	Umani[1]	V	PN	16	_	_	
+18	dub-sar	dubsar[scribe]	N	N	17	appos	_	
+19	dumu	dumu[child]	N	N	17	appos	_	
+2	dabin	dabin[semolina]	N	N	21	GEN	_	
+20	nam-ha-ni	Namhani[1]	N	PN	19	GEN	_
+	
+3	zi3	zid[flour]	N	N	21	TERM	_	
+4	a-gar	_	N	N	21	_	_	
+5	gu7!-sze3	_[for.aGAR]	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	3	acl	_	
+6	ki	ki[place]	N	N	7	ABL	_	
+7	ur-zu-ta	_[Urzu]	PN	PN.GEN.ABL	21	ABL	_	
+8	kiszib3	kiszib[seal]	N	N	21	appos	_	
+9	u3-ma-ni	Umani[1]	V	PN	8	acl	_	
+

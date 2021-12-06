@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nin-iria-mutum his mistress for life of Szulgi the mighty man king of Ur Nin-kisale and Ur-niginmu the sea-faring merchants dedicated to her
+1	{d}nin-iri-a-mu-tum2	{d}nin-iri-a-mu-gen[1]	DN	DN	14	DAT	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	14	TERM	_
+4	szul-gi	szul-gi[1]	RN	RN	3	GEN	_
+5	nita	nita[male]	N	N	3	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	5	GEN	_
+8	uri5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	appos	_
+9	nin-kisal-sze3	nin-kisal-sze3[1]	PN	PN	14	ERG	_
+10	ur-nigar-mu	ur-nigin3-gu10[1]	PN	PN	9	appos	_
+11	ga-esz8	ga-esz8[trader]	N	N	9	appos	_
+12	a-ab-ba-ka-ke4	a-ab-ba[sea]	N	N.GEN.ERG	11	appos	_
+13	a	a[water]	N	N.ABS	14	ABS	_
+14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

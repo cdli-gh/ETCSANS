@@ -1,0 +1,77 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P427679.atf
+# tr.en: sheep billy goat foreman Ahuni cattle manager sheep herders of Uruk sheep foreman Namhani cattle manager sheep billiy goats foreman Ur-nigar cattle manager sheep billy goat foreman Iphur cattle manager sheep billy goat foreman Szu-Ea cattle manager sheep herder of Umma billy goat foreman Imid-Itar cattle manager billy goat foreman Ur-Baba cattle manager Total sheep billy goats as m-offering of herders the delivery taken over by Nasa month Festival of An year ari and Kima were destroyed
+1	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	udu	udu[sheep]	N	N	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	masz2	masz[goat]	N	N	3	appos	_	
+6	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+7	a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	3	appos	_	
+8	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	7	appos	_	
+9	2(disz)	2(disz)[one]	NU	NU	10	nummod	_	
+10	udu	udu[sheep]	N	N	7	appos	_	
+11	sipa	sipa[shepherd]	N	N	7	appos	projectivity violation	
+12	unu{ki}-ga-me	_[herders.Uruk]	SN	SN.GEN	10	appos	_	
+13	6(disz)	6(disz)[one][-sze]	NU	NU	16	nummod	projectivity violation	
+14	udu	udu[sheep]	N	N	7	appos	_	
+15	ugula	ugula[overseer][-ø]	N	N	7	appos	_	
+16	nam-ha-ni	Namhani[1]	N	PN	15	appos	_	
+17	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	16	appos	_	
+18	1(u)	1(u)[ten]	NU	NU	21	nummod	projectivity violation	
+19	la2	la[hang][-ø]	V	NF.V.ABS	23	acl	projectivity violation	
+20	1(disz@t)	1(disz)[one]	NU	NU	19	nummod	_	
+21	udu	udu[sheep]	N	N	16	appos	_	
+22	3(disz)	3(disz)[one]	NU	NU	21	nummod	_	
+23	masz2	masz[goat]	N	N	21	appos	_	
+24	ugula	ugula[overseer][-ø]	N	N	21	appos	_	
+25	ur-nigar{gar}	Urnigar[1]	PN	PN	16	appos	_	
+26	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	25	appos	_	
+27	3(disz)	3(disz)[one]	NU	NU	28	nummod	_	
+28	udu	udu[sheep]	N	N	26	appos	_	
+29	1(disz)	1(disz)[one]	NU	NU	28	nummod	_	
+30	masz2	masz[goat]	N	N	28	appos	_	
+31	ugula	ugula[overseer][-ø]	N	N	28	appos	_	
+32	ip-hur	_[Iphur]	PN	PN	26	appos	_	
+33	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	32	appos	_	
+34	7(disz)	7(disz)[one][-sze]	NU	NU	35	nummod	_	
+35	udu	udu[sheep]	N	N	32	appos	_	
+36	1(disz)	1(disz)[one]	NU	NU	37	nummod	heuristic: NU premodifying	
+37	masz2	masz[goat]	N	N	35	appos	_	
+38	ugula	ugula[overseer][-ø]	N	N	35	appos	_	
+39	szu-e2-a	Szuea[1]	PN	PN	32	appos	_	
+40	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	39	appos	_	
+41	1(disz)	1(disz)[one]	NU	NU	40	nummod	_	
+42	udu	udu[sheep]	N	N	40	appos	_	
+43	sipa	sipa[shepherd]	N	N	42	appos	_	
+44	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	43	GEN	_	
+45	1(disz)	1(disz)[one]	NU	NU	48	nummod	projectivity violation	
+46	masz2	masz[goat]	N	N	40	appos	_	
+47	ugula	ugula[overseer][-ø]	N	N	46	appos	_	
+48	i-mi-id-esz18-dar	_[Imid-Itar.cattle]	PN	PN	40	appos	_	
+49	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	48	appos	_	
+50	1(disz)	1(disz)[one]	NU	NU	40	nummod	projectivity violation	
+51	masz2	masz[goat]	N	N	48	appos	_	
+52	ugula	ugula[overseer][-ø]	N	N	51	appos	_	
+53	ur-{d}ba-ba6	Urbaba[1]	PN	PN	48	appos	_	
+54	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	53	appos	_	
+55	szunigin	szunigin[total]	N	N	40	appos	_	
+56	5(u)	5(u)[ten]	NU	NU	58	nummod	_	
+57	3(disz)	3(disz)[one]	NU	NU	56	nummod	_	
+58	udu	udu[sheep]	N	N	55	appos	_	
+59	8(disz)	8(disz)[one]	NU	NU	60	nummod	heuristic: NU premodifying	
+60	masz2	masz[goat]	N	N	58	appos	_	
+61	masz2-da-re-a	_[as.m-offering]	PN	PN	58	LOC	_	
+62	sipa-ke4-ne	_[herders]	N	N.GEN.PL	61	GEN	_	
+63	mu-kux(DU)	mukur[delivery][-ø]	N	N	58	appos	_	
+64	na-sa6	Nasa[1][-e]	PN	PN.ERG	63	acl	_	
+65	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	63	acl	_	
+66	iti	iti[month]	N	N	68	_	_	
+67	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	68	ABS	_	
+68	mu	mu[year]	N	N	40	parataxis	_	
+69	ha-ar-szi{ki}	Harszi[1]	SN	SN	68	appos	_	
+70	u3	u[and]	CNJ	CNJ	72	nmod	_	
+71	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	72	nmod	_	
+72	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	68	acl	_
+	
+

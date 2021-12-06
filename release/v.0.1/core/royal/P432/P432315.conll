@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Gatumdug his mistress for life of Ibbi-Sin Ehegal the son of Anza dedicated to her	
+1	{d}ga2-tum3-du10	{d}ga2-tum3-dug3[1]	DN	DN	9	DAT	_
+2	nin-na-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti-NI	nam-til3[life]	N	N	9	TERM	_
+4	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN.GEN.TERM	3	GEN	_
+5	e2-he2-gal2	e2-he2-gal2[1]	PN	PN	9	ERG	_
+6	dumu	dumu[child]	N	N	5	appos	_
+7	an-za	|AN.ZA|[1]	PN	PN.GEN.ERG	6	GEN	_
+8	a	a[water]	N	N.ABS	9	ABS	_
+9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

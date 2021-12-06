@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P465345.atf
+# tr.en: Naram-Sin king of Agade Lugal-uga scribe his servant
+1	{d}na-ra-am-{d}suen	_[Naram-Sin]	DN	DN	0	root	_	
+2	_lugal_	lugal[king]	N	N	1	appos	_	
+3	a-ga-de3{ki}	_[Agade]	SN	SN	2	GEN	_	
+4	lugal-ug3-ga2	_[Lugal-uga]	PN	PN	1	appos	_	
+5	_dub-sar_	dubsar[scribe]	N	N	4	appos	_	
+6	_ARAD2_-su2	_[his.servant]	PN	PN	4	appos	_
+	
+

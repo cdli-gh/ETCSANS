@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204307.atf
+# tr.en: Basket-of-tablets inspections seized female weavers in Kinunir in Nigin in Lagash and in Uru copies of big-governor Ur-Lamma governor year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	1	appos	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	2	acl	_	
+4	geme2	geme[female_worker]	N	N	5	acl	_	
+5	usz-bar	uszbar[weaver][-ak]	N	N	2	appos	_	
+6	sza3	szag[heart]	N	N	7	LOC	_	
+7	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	2	LOC	_	
+8	sza3	szag[heart]	N	N	9	LOC	_	
+9	nigin6{ki}	_[Nigin]	SN	SN.GEN.GEN.TERM	2	LOC	_	
+10	sza3	szag[heart]	N	N	11	LOC	_	
+11	lagasz{ki}	_[Lagash]	SN	SN.GEN.ABS	2	LOC	_	
+12	u3	u[and]	CNJ	CNJ	2	appos	_	
+13	sza3	szag[heart]	N	N	14	LOC	_	
+14	uru11{ki}	_[Uru]	SN	SN.GEN.ABS	2	appos	_	
+15	gaba-ri	gabari[copy]	N	N	14	appos	_	
+16	ensi2-gal	_[big-governor]	FN	FN	15	GEN	_	
+17	ur-{d}lamma	Urlamma[1]	PN	PN	16	appos	_	
+18	ensi2	ensik[ruler]	N	N	16	appos	_	
+19	mu	mu[year]	N	N	16	appos	_
+	
+

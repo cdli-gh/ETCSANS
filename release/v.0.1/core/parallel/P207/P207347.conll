@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P207347.atf
+# tr.en: Basket-of-tablets long-tablets shepherds of fat-tailed sheep from en- of Eridu to house of Szara in Umma was erected year xxx are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub-gid2-da	_[long-tablets]	N	N	14	ABS	_	
+3	sipa	sipa[shepherd]	N	N	2	appos	_	
+4	gukkal	gukkal[fat-tailed_sheep]	N	N	3	GEN	_	
+5	en	en[priest]	N	N	4	_	heuristic: attach to last	
+6	eridu{ki}-ta	_[from.en-.Eridu]	SN	SN.GEN.ABL	11	ABL	_	
+7	e2	e[house]	N	N	10	LOC	_	
+8	{d}szara2	Szara[1][-ak]	DN	DN	7	GEN	_	
+9	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	7	LOC	_	
+10	ba-du3-sze3	_[to.was.erected]	V	V	11	acl	_	
+11	mu	mu[year]	N	N	2	ABL	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	12	nummod	_	
+14	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

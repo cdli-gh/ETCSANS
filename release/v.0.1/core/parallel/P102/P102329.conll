@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep grain-fed th day from Abbasaga Nalu accepted month Festival of Mekigal year Szaru was destroyed
+# train/P102329.atf
+1	8(disz)	8(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+6	ki	ki[place]	N	N	8	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	8	nmod	_	
+8	na-lu5	Nalu[1][-e]	PN	PN.ERG	2	ABL	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	8	acl	_	
+10	iti	iti[month]	N	N	12	_	_	
+11	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	12	_	_	
+12	mu	mu[year]	N	N	2	appos	_	
+13	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	12	appos	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_	
+15	8(disz)	8(disz)[one]	NU	NU	12	nummod	_
+	
+

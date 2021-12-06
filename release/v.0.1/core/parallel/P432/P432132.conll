@@ -1,0 +1,113 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P432132.atf						#new_text=P432132
+# tr.en: he dug The canal the he dug The canal the great canal of Nanna he dug The Nanna is Canal Inspector canal the boundary canal of Ningirsu he dug The Gubi-Eriduga canal the canal of Ningirsu he dug into of Gipar residence with he sent back A person who an evil order shall issue regarding it and its inscription he shall erase king of the god king of the god king of and goddess queen of may they curse him	*RETOK*-...	_	_	_	_	...	_[_]	PN	N	D
+# tr.en: he dug The canal the he dug The canal the great canal of Nanna he dug The Nanna is Canal Inspector canal the boundary canal of Ningirsu he dug The Gubi-Eriduga canal the canal of Ningirsu he dug into of Gipar residence with he sent back A person who an evil order shall issue regarding it and its inscription he shall erase king of the god king of the god king of and goddess queen of may they curse him *RETOK*-... _ _ _ _ ... _[_] PN N D
+# test/P432132.atf new_text=P432132
+1	'.	_[_]	PN	N	2	_	_	
+2	mu-ba-al	_[he.dug]	N	VEN.3-SG-H-A.V.3-SG-P	0	root	_	
+3	'.	_	_	_	5	_	_	
+4	i7	id[river]	N	N	5	nmod	_	
+5	...	_[_]	PN	N	2	dep	_	
+6	'.	_[the]	_	_	7	nmod	_	
+7	...	_[_]	PN	N	5	dep	_	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	mu-ba-al	_[he.dug]	N	VEN.3-SG-H-A.V.3-SG-P	5	acl	_	
+10	'.	_	_	_	11	_	_	
+11	i7	id[river]	N	N	2	ABS	_	
+12	x	_[_]	N	N	11	dep	heuristic: after nominal head	
+13	x-na	_[The]	DN	DN	11	appos	_	
+14	'.	_[the]	_	_	15	nmod	_	
+15	i7	id[river]	N	N	11	appos	_	
+16	x	_[_]	N	N	15	dep	heuristic: attach to last	
+17	x	_[_]	N	N	16	dep	heuristic: attach to last	
+18	mah	mah[great][-ø][-ø]	V	NF.V	15	acl	_	
+19	'.	_	_	_	18	_	heuristic: attach to last	
+20	{d}nanna	Nanna[1][-ak]	DN	DN	15	GEN	_	
+21	'.	_	_	_	11	_	_	
+22	mu-ba-al	_[he.dug]	N	VEN.3-SG-H-A.V.3-SG-P	11	acl	_	
+23	'.	_	_	_	22	_	heuristic: attach to last	
+24	i7	id[river]	N	N	23	_	heuristic: attach to last	
+25	{d}nanna-gu2-gal	_[The.Nanna.is.Canal.Inspector.canal]	DN	DN.ABS	11	appos	_	
+26	'.	_[the]	_	_	27	nmod	_	
+27	i7	id[river]	N	N	25	appos	_	
+28	ki-sur-ra	_[boundary]	FN	N	27	appos	_	
+29	'.	_	_	_	28	_	heuristic: attach to last	
+30	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	27	GEN	_	
+31	'.	_	_	_	25	_	_	
+32	mu-ba-al	_[he.dug]	N	VEN.3-SG-H-A.V.3-SG-P	25	acl	_	
+33	'.	_	_	_	32	_	heuristic: attach to last	
+34	i7	id[river]	N	N	33	_	heuristic: attach to last	
+35	gu2-bi-eridu{ki}-ga	_[The.Gubi-Eriduga.canal]	WN	WN	25	ABS	_	
+36	'.	_	_	_	35	_	heuristic: after nominal head	
+37	i7	id[river]	N	N	35	_	heuristic: after nominal head	
+38	gu2-x-ur2	_[the.canal]	WN	WN	35	appos	_	
+39	'.	_	_	_	38	_	heuristic: attach to last	
+40	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	38	GEN	_	
+41	'.	_	_	_	0	_	_	
+42	mu-ba-al	_[he.dug]	N	VEN.3-SG-H-A.V.3-SG-P	35	acl	projectivity violation	
+43	'.	_	_	_	42	_	heuristic: attach to last	
+44	...	_[_]	PN	N	45	dep	heuristic: attach to last	
+45	KI	_	_	_	46	_	heuristic: attach to last	
+46	'.	_	_	_	47	_	heuristic: attach to last	
+47	x	_[_]	N	N	48	dep	heuristic: attach to last	
+48	ge6-par4-ka	_[into.Gipar.residence]	PN	PN.GEN	41	TERM	_	
+49	'.	_	_	_	52	nmod	_	
+50	x	_[_]	N	N	41	dep	_	
+51	x-da	_[_]	PN	PN	52	COM	_	
+52	'.	_	_	_	52	_	heuristic: after nominal head	
+53	x	_[_]	N	N	52	dep	heuristic: after nominal head	
+54	mu-da-gi4	_[he.sent.back]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	52	acl	_	
+55	'.	_	_	_	0	_	_	
+56	lu2	lu[person]	N	N	0	_	_	
+57	a2!(DA)	_	NU	NU	0	_	_	
+58	nig2-hul-dim2-ma	_[A.person.who.an.evil.order]	N	N.ABS	0	ABS	_	
+59	'.	_	_	_	60	_	_	
+60	ib2-szi-ag2-e-a	_[shall.issue.regarding.it]	V	FIN.3-NH.TERM.V.3-SG-A.SUB	60	acl	_	
+61	'.	_	_	_	60	_	heuristic: after nominal head	
+62	mu-sar-ra-ba	_[and.its.inscription]	V	N.3-SG-NH-POSS.L2-NH	60	acl	_	
+63	'.	_	_	_	60	_	heuristic: after nominal head	
+64	szu	szu[hand][-e]	N	N.L3-NH	60	_	heuristic: after nominal head	
+65	bi2-ib2-ur3-re-a	_[he.shall.erase]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	60	acl	_	
+66	'.	_	N	N	60	GEN	_	
+67	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+68	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+69	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+70	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+71	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+72	'.	_[the]	_	_	80	nmod	_	
+73	x	_[_]	N	N	74	dep	heuristic: attach to last	
+74	x	_[_]	N	N	75	dep	heuristic: attach to last	
+75	x	_[_]	N	N	76	dep	heuristic: attach to last	
+76	x-ga	_	DN	DN	77	_	heuristic: attach to last	
+77	'.	_	N	N	80	GEN	_	
+78	lugal	lugal[king]	N	N	60	appos	_	
+79	x	_[_]	N	N	60	dep	_	
+80	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+81	GI	_[god]	N	N	87	nmod	_	
+82	'.	_	N	N	87	GEN	_	
+83	...	_[_]	PN	N	84	dep	heuristic: attach to last	
+84	'.	_	_	_	85	_	heuristic: attach to last	
+85	lugal	lugal[king]	N	N	60	appos	_	
+86	...	_[_]	PN	N	60	dep	heuristic: after nominal head	
+87	'.	_	_	_	60	_	heuristic: after nominal head	
+88	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+89	...	_[_]	PN	N	60	dep	heuristic: after nominal head	
+90	'.	_	N	N	98	nmod	projectivity violation	
+91	lugal	lugal[king]	N	N	92	_	heuristic: attach to last	
+92	...	_[_]	PN	N	93	dep	heuristic: attach to last	
+93	'.	_	_	_	94	_	heuristic: attach to last	
+94	{d}...	_[1][-'a]	MN	DN.GEN	60	appos	_	
+95	'.	_	N	N	98	GEN	_	
+96	nin	_[queen]	N	N	60	appos	_	
+97	x	_[_]	N	N	60	dep	_	
+98	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+99	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+100	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+101	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+102	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+103	x	_[_]	N	N	60	dep	heuristic: after nominal head	
+104	'.	_	_	_	60	_	heuristic: after nominal head	
+105	nam	_	N	N.ABS	60	_	heuristic: after nominal head	
+106	ha-...-ku5-ne	_[may.they.curse.him]	V	V	60	acl	_
+	
+

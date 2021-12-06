@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Lamma governor of Laga Ur-niar scribe child of Lu-Ane your servant	
+1	ur-{d}lamma	ur-{d}lamma[3]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	lagasz{ki}	lagasz{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	ur-nigar{gar}	ur-nigar{gar}[1]	PN	PN	1	_	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	dumu	dumu[child]	N	N	4	appos	_
+7	lu2-{d}nin-szubur	lu2-an-ne2[1]	PN	PN.GEN.ABS	6	GEN	_
+8	ARAD2-zu	lu2-an-ne2[1]+arad2[slave]	N	N.2-SG-POSS.ABS	5	appos	_
+

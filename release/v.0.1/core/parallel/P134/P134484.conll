@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P134484.atf new_text=P134484
+# train/P134484.atf						#new_text=P134484
+# tr.en: Ur-Nusku Ur-Utu x of sesame Lullu son of x-alim Ur-ekura ARADdu Ur-Szuma Ur-Enlila they are trade agents In month of bricks from end of th day
+1	ur-{d}nusku	_[Ur-Nusku]	PN	PN	0	_	_	
+2	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	0	_	_	
+3	ur-{d}utu	Urutu[1]	PN	PN	0	nmod	_	
+4	x-...-gesz-i3	_[x.of.sesame]	_	_	0	_	_	
+5	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	0	_	_	
+6	lu-lu	_[Lullu]	V	V	0	_	_	
+7	dumu	dumu[child]	N	N	0	_	_	
+8	x-alim	_[x-alim]	DN	DN	0	_	_	
+9	igi	igi[eye][-ø]	N	N	0	_	_	
+10	8(disz)-gal2	_	NU	NU.ABS	0	nummod	_	
+11	ur-e-kur2-ra	_[Ur-ekura]	PN	PN	0	_	_	
+12	igi	igi[eye][-ø]	N	N	0	_	_	
+13	8(disz)-gal2	_	NU	NU.ABS	0	nummod	_	
+14	ARAD2-du10	_[ARADdu]	PN	PN	0	appos	_	
+15	igi	igi[eye][-ø]	N	N	0	_	_	
+16	8(disz)-gal2	_	NU	NU.ABS	0	nummod	_	
+17	ur-{d}szu-mah	_[Ur-Szuma]	PN	PN.DAT-H	0	appos	_	
+18	igi	igi[eye][-ø]	N	N	0	_	_	
+19	1(u)-gal2	_	NU	NU.ABS	0	nummod	_	
+20	ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	0	appos	_	
+21	igi	igi[eye][-ø]	N	N	0	_	_	
+22	2(u)-gal2	_	NU	NU.ABS	0	nummod	_	
+23	dam-gar3-me	_[they.are.trade.agents]	N	N.ABS.COP-3-PL	0	root	_	
+24	iti	iti[month]	N	N	24	LOC	_	
+25	sig4-ga-ta	_[In.bricks]	MN	MN.GEN.ABL	25	LOC	_	
+26	u4	ud[day]	N	N	25	appos	_	
+27	6(disz)	6(disz)[one][-sze]	NU	NU	25	nummod	_	
+28	zal-la-a	_[from.end.th.day]	V	NF.V.PT.GEN	30	acl	_	
+29	ka	kag[mouth]	N	N	25	ABL	_	
+30	ba-ge-UZ-esz	_[from.end.th.day]	V	MID.V.3-SG-S.SUB.L1	30	acl	_
+	
+

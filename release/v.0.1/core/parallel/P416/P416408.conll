@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: cows ewes sheep female goats gazelles from street to be sent out under seal of various men Ur-nigar received month Festival of Ninazu year en-priestess of Nanna by means of extispicy was chosen
+# dev/P416408.atf
+1	4(u)	4(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	2(disz)	2(disz)[one]	NU	NU	7	nummod	projectivity violation	
+3	ab2	ab[cow][-ø]	N	N	0	root	_	
+4	6(gesz2)	6(gesz)[sixty]	NU	NU	3	nummod	_	
+5	1(u)	1(u)[ten]	NU	NU	10	nummod	projectivity violation	
+6	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+7	u8	u[ewe]	N	N	3	appos	_	
+8	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+9	5(disz)	5(disz)[one]	NU	NU	14	nummod	projectivity violation	
+10	udu	udu[sheep]	N	N	3	appos	_	
+11	1(gesz2)	1(gesz)[sixty]	NU	NU	3	nummod	_	
+12	5(u)	5(u)[ten]	NU	NU	17	nummod	projectivity violation	
+13	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+14	ud5	uzud[goat]	N	N	3	appos	_	
+15	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+16	5(disz)	5(disz)[one]	NU	NU	15	nummod	_	
+17	masz-da3	maszda[gazelle][-ø]	N	N	3	appos	_	
+18	sila-ta	_[from.street]	N	N.GEN.ABL	3	ABL	_	
+19	e3-e3-de3	_[to.be.sent.out]	V	NF.V.F.DAT-NH	18	acl	_	
+20	kiszib3	kiszib[seal]	N	N	3	appos	_	
+21	lu2	lu[person]	N	N	20	appos	_	
+22	didli-ne	_[various.men]	V	NF.V.ABS.GEN	20	acl	_	
+23	ur-nigar{gar}	Urnigar[1]	PN	PN	20	_	heuristic: after nominal head	
+24	szu	szu[hand][-e]	N	N.L3-NH	20	appos	_	
+25	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	20	acl	_	
+26	iti	iti[month]	N	N	20	appos	_	
+27	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	20	appos	_	
+28	mu	mu[year]	N	N	20	appos	_	
+29	en	en[priest]	N	N	32	ABS	_	
+30	{d}nanna	Nanna[1][-ak]	DN	DN	29	GEN	_	
+31	masz-e	masz[goat]-e	N	N.L3-NH	29	ERG	_	
+32	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	20	acl	_
+	
+

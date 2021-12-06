@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: grain-fed ram male suckling lamb slaughtered th day from Igi-Enlile Szulgi-irimu received month Gazelle feast year after high-priestess of Eridu was hired sheep
+# train/P127514.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+5	sila4	sila[lamb]	N	N	2	appos	_	
+6	ga	ga[milk]	N	N	5	appos	_	
+7	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+8	u4	ud[day]	N	N	7	date	_	
+9	1(u)	1(u)[ten]	NU	NU	7	nummod	_	
+10	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+11	ki	ki[place]	N	N	13	ABL	_	
+12	igi-{d}en-lil2-sze3-ta	_[Igi-Enlile]	PN	PN.GEN.ABL	13	acl	_	
+13	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	7	ABL	_	
+14	szu	szu[hand][-e]	N	N.L3-NH	7	appos	projectivity violation	
+15	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	13	acl	_	
+16	iti	iti[month]	N	N	7	appos	_	
+17	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	16	appos	_	
+18	mu	mu[year]	N	N	17	appos	_	
+19	us2-sa	us[follow]-a	V	NF.V.PT	18	acl	_	
+20	en	en[priest]	N	N	22	ABS	_	
+21	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	20	GEN	_	
+22	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	17	acl	_	
+23	2(disz)	2(disz)[one]	NU	NU	2	nummod	projectivity violation	
+24	udu	udu[sheep]	N	N	22	ABS	_
+	
+

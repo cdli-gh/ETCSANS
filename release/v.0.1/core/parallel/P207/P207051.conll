@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets tablets of barley of cooks for Lugal-azida are here
+# train/P207051.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	im	im[clay][-ø]	N	N	6	ABS	_	
+3	sze	sze[barley]	N	N	2	GEN	_	
+4	muhaldim	_[cooks]	N	N	3	GEN	_	
+5	lugal-a2-zi-da-sze3	_[for.Lugal-azida]	PN	PN.GEN.TERM	2	TERM	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

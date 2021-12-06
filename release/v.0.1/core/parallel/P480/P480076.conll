@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480076.atf
+# tr.en: male laborer days on duty at basin of Dubla-Utu stationed foreman Lugal-itida under seal of Szeani year Sz-Suen king Big Stele erected Szeani scribe son of Dada
+1	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	4	acl	_	
+4	u4	ud[day]	N	N	0	root	_	
+5	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	ka-giri3-da	_[on.duty]	N	N.GEN	4	LOC	_	
+7	bar-la2	_[at.basin]	N	N	6	LOC	_	
+8	dub-la2-{d}utu	_[Dubla-Utu]	FN	FN	7	GEN	_	
+9	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	8	acl	_	
+10	ugula	ugula[overseer][-ø]	N	N	4	appos	_	
+11	lugal-iti-da	Lugalitida[1]	PN	PN	10	appos	_	
+12	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+13	szesz-a-ni	Szeszani[1][-ak]	PN	PN	12	GEN	_	
+14	mu	mu[year]	N	N	4	appos	_	
+15	{d}szu-{d}suen	Szusuen[1]	RN	RN	4	appos	_	
+16	lugal-e	lugal[king]-e	N	N.ERG	15	appos	_	
+17	na-ru2-mah	_[Big]	PN	PN	18	nmod	_	
+18	<>	_[Stele]	PN	PN	19	ABS	_	
+19	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	15	acl	_	
+20	szesz-a-ni	Szeszani[1][-ak]	PN	PN	4	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	da-da	Dada[1][-ak]	PN	PN	22	GEN	_
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P470070.atf						#new_text=P470070
+# test/P470070.atf new_text=P470070
+# tr.en: sheep lamb slaughtered th day from Bel-il did Szulgi-irimu receive month Ubi feast year after Simanum was destroyed
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+10	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	12	_	projectivity violation	
+11	szu	szu[hand][-e]	N	N.L3-NH	5	appos	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	5	parataxis	_	
+13	iti	iti[month]	N	N	5	appos	_	
+14	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	13	appos	_	
+15	mu	mu[year]	N	N	14	appos	_	
+16	us2-sa	us[follow]-a	V	NF.V.PT	15	acl	_	
+17	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	19	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_	
+19	3(disz)	3(disz)[one]	NU	NU	14	nummod	_
+	
+2	udu	udu[sheep]	N	N	20	ABS	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	sila4	sila[lamb]	N	N	2	appos	_	
+5	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+6	u4	ud[day]	N	N	5	date	_	
+7	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	5	nummod	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	be-li2-i3-li2-ta	_[Bel-il]	PN	PN.GEN.ABL	12	ABL	projectivity violation	
+

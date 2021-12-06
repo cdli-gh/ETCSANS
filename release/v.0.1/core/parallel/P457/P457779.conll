@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-Isina son of Lugal-azida
+# train/P457779.atf
+1	lu2-isin2{+si}-na	_[Lu-Isina]	PN	PN.GEN.GEN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	lugal-a2-zi-da	Lugalazida[1]	PN	PN	2	GEN	_
+	
+

@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P211703.atf
+# tr.en: Basket-of-tablets daba men gods plough maintenance deliveries year Amorite wall was erected
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	lu2-dab-ba	_[daba.men]	PN	PN	4	ABS	_	
+3	dingir	_[gods]	PN	N	2	appos	_	
+4	apin-la2	apinla[tenancy]	N	N	1	appos	_	
+5	mu-kux(DU)	mukur[delivery][-ø]	N	N	4	appos	_	
+6	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+7	bad3	bad[wall]	N	N	1	appos	_	
+8	mar-tu	Martu[1][-ø]	EN	EN.ABS	9	ABS	_	
+9	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	1	acl	_
+	
+

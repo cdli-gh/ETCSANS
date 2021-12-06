@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P217996.atf
+# tr.en: kid-mats the extent from Ur-Szulpae under seal of Lugal-nig-lagare month Sowing year priest of Eridu was installed Lugal-siNEe scribe son of Ur-Enunna
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	{gi}kid	kid[mat]	N	N	0	root	_	
+3	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	2	appos	_	
+4	2/3(disz)	2/3(disz)[one]	NU	NU	2	nummod	_	
+5	ki	ki[place]	N	N	6	ABL	_	
+6	ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+7	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+8	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	7	GEN	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+10	szu-numun	Szunumun[1][-'a]	MN	MN.L1	11	_	_	
+11	mu	mu[year]	N	N	6	appos	_	
+12	en	en[priest]	N	N	14	ABS	_	
+13	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	12	GEN	_	
+14	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	2	acl	_	
+15	lugal-si-NE-e	Lugalsine'e[1]	PN	PN	14	appos	_	
+16	dub-sar	dubsar[scribe]	N	N	15	appos	_	
+17	dumu	dumu[child]	N	N	15	appos	_	
+18	ur-e2-nun-na	Urenuna[1]	PN	PN	17	GEN	_
+	
+

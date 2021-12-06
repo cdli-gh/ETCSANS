@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P470069.atf
+# tr.en: talents mina tan wool talents mina wool of fat-tailed sheep mina wool slaughtered sheep lordship from Kas did Gududu receive year Szu-Suen king of Ur land of Zabali destroyed
+1	2(u)	2(u)[ten]	NU	NU	7	nummod	projectivity violation	
+2	2(asz)	2(asz)[one]	NU	NU	9	nummod	projectivity violation	
+3	gu2	gun[unit]	N	N	0	root	_	
+4	4(disz)	4(disz)[one]	NU	NU	0	nummod	_	
+5	5/6(disz)	5/6(disz)[one]	NU	NU	4	nummod	_	
+6	ma-na	mana[unit]	N	N	7	nmod	_	
+7	siki-gi	sikigi[wool_type]	N	N	3	appos	_	
+8	3(asz)	3(asz)[one]	NU	NU	7	nummod	_	
+9	gu2	gun[unit]	N	N	7	appos	_	
+10	2(u)	2(u)[ten]	NU	NU	18	nummod	projectivity violation	
+11	8(disz)	8(disz)[one]	NU	NU	10	nummod	_	
+12	1/3(disz)	1/3(disz)[one]	NU	NU	10	nummod	_	
+13	ma-na	mana[unit]	N	N	14	nmod	_	
+14	siki	siki[wool][-'a]	N	N	9	appos	_	
+15	gukkal	gukkal[fat-tailed_sheep]	N	N	14	GEN	_	
+16	3(disz)	3(disz)[one]	NU	NU	7	nummod	_	
+17	ma-na	mana[unit]	N	N	18	nmod	_	
+18	siki	siki[wool][-'a]	N	N	7	appos	_	
+19	udu	udu[sheep]	N	N	7	appos	_	
+20	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	19	acl	_	
+21	nam-en-na	_[lordship]	N	N	7	appos	_	
+22	ki	ki[place]	N	N	23	ABL	_	
+23	kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	26	ABL	projectivity violation	
+24	gu-du-du	Gududu[1]	PN	PN	23	_	heuristic: attach to last	
+25	szu	szu[hand][-e]	N	N.L3-NH	3	appos	projectivity violation	
+26	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	7	acl	_	
+27	mu	mu[year]	N	N	3	appos	_	
+28	{d}szu-{d}suen	Szusuen[1]	RN	RN	27	appos	_	
+29	lugal	lugal[king]	N	N	28	appos	_	
+30	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	29	GEN	_	
+31	ma-da	mada[land][-ak][-ø]	N	N	33	ABS	_	
+32	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	31	GEN	_	
+33	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	28	acl	_
+	
+

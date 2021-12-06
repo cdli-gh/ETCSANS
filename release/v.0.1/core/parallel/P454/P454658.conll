@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P454658.atf
+# tr.en: Alla scribe son of Lu-irisag
+1	al-la	Alla[1]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	lu2-iri-sag	Lu'irisag[1][-ak]	PN	PN.GEN	3	GEN	_
+	
+

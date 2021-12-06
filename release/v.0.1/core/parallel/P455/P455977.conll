@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-Szara scribe son of Iribare
+# train/P455977.atf new_text=P455977
+# train/P455977.atf						#new_text=P455977
+1	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	iri-bar-e	_[Iribare]	PN	PN	3	GEN	_
+	
+

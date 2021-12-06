@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P211493.atf
+# tr.en: Basket-of-tablets long orchards barley long are here via Luduga Lu-Nanna Dada and Lu-saga month Dumuzi year Amar-Suen king Szarum destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	7	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	acl	_	
+4	sze	sze[barley]	N	N	2	appos	_	
+5	x	_[_]	N	N	2	dep	_	
+6	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	acl	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	giri3	giri[foot]	N	N	9	via	_	
+9	lu2-du10-ga	Luduga[1]	PN	PN	7	via	_	
+10	lu2-{d}nanna	Lunanna[1]	PN	PN	9	appos	_	
+11	da-da	Dada[1][-ak]	PN	PN	9	appos	_	
+12	u3	u[and]	CNJ	CNJ	9	appos	_	
+13	lu2-sa6-ga	_[Lu-saga]	PN	PN	9	appos	_	
+14	iti	iti[month]	N	N	15	nmod	_	
+15	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	7	appos	_	
+16	mu	mu[year]	N	N	15	appos	_	
+17	{d}amar-{d}suen	Amarsuen[1]	RN	RN	15	appos	_	
+18	lugal-e	lugal[king]-e	N	N.ERG	17	appos	_	
+19	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	20	ABS	_	
+20	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	17	acl	_
+	
+

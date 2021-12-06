@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To god Meslamta-ea his lord for life of Szulgi Ur-Suena son of U-u dedicated
+1	{d}mes-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	9	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti-{d}szul-gi	nam-til3[life]	N	N	9	TERM	_
+4	ka-sze3	nam-til3[life]+szul-gi[1]	_	_	9	_	_
+5	ur-{d}suen	ur-{d}suen[3]	PN	PN	9	ERG	_
+6	dumu	dumu[child]	N	N	5	appos	_
+7	u2-u2	u2-u2[1]	PN	PN.GEN.ERG	6	GEN	_
+8	a	a[water]	N	N.ABS	9	ABS	_
+9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
+

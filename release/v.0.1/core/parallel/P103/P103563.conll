@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P103563.atf
+# tr.en: Basket-of-tablets Ugina fattener are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	usz-gi-na	_[Ugina]	PN	PN	4	ABS	_	
+3	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	2	appos	_	
+4	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

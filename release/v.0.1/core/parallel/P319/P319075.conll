@@ -1,0 +1,102 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P319075.atf						#new_text=P319075
+# tr.en: From side of Nabasa canal ninda length cubit width cubit height the volume sar ninda length cubit width cubits height the volume sar Apisal the volume n n from side of ninda length cubit width cubit height the volume sar shekels For a levee in field Pirigtur-gin-DU Total ninda length Total sar activity for earthwork and reed bundle for barges The levee of Lugal-mussa field that is in front of A-getin field has been measured up to levee of a plot with poor soil the foremen chief adminstrator of Dumuzi and chief administrator of Nin-DARa Year throne of Enlil was fashioned
+# dev/P319075.atf new_text=P319075
+1	a2-pa5	_[From.side]	N	N	114	ABL	_	
+2	na-ba-sa2-ta	_[Nabasa.canal]	PN	PN.GEN.GEN.ABL	3	nmod	_	
+3	1(gesz2)	1(gesz)[sixty]	NU	NU	1	nummod	_	
+4	3(u)	3(u)[ten]	NU	NU	11	nummod	projectivity violation	
+5	ninda	ninda[bread]	N	N	1	appos	_	
+6	gid2	gid[length]	V	N	5	_	_	
+7	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+8	kusz3	kusz[unit]	N	N	5	appos	_	
+9	dagal	dagal[wide][-ø]	V	NF.V.ABS	8	_	_	
+10	1(disz)	1(disz)[one]	NU	NU	11	nummod	heuristic: NU premodifying	
+11	kusz3	kusz[unit]	N	N	5	appos	_	
+12	sukud	_[height]	V	V	11	_	heuristic: attach to last	
+13	a-sza3	aszag[field]	N	N	16	nmod	projectivity violation	
+14	7(disz)	7(disz)[one][-sze]	NU	NU	5	nummod	_	
+15	1/2(disz)	1/2(disz)[one]	NU	NU	18	nummod	projectivity violation	
+16	sar	sar[unit]	N	N	5	appos	_	
+17	1(gesz2)	1(gesz)[sixty]	NU	NU	24	nummod	projectivity violation	
+18	ninda	ninda[bread]	N	N	5	appos	projectivity violation	
+19	gid2	gid[length]	V	N	18	_	_	
+20	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+21	kusz3	kusz[unit]	N	N	18	appos	_	
+22	dagal	dagal[wide][-ø]	V	NF.V.ABS	21	_	_	
+23	2(disz)	2(disz)[one]	NU	NU	24	nummod	heuristic: NU premodifying	
+24	kusz3	kusz[unit]	N	N	18	appos	_	
+25	sukud	_[height]	V	V	17	acl	projectivity violation	
+26	a-sza3	aszag[field]	N	N	18	appos	_	
+27	2(u)	2(u)[ten]	NU	NU	28	nummod	_	
+28	sar	sar[unit]	N	N	18	appos	_	
+29	a-pi4-sal4	_[Apisal]	N	N	30	acl	_	
+30	x	_[_]	N	N	28	dep	_	
+31	...	_[_]	PN	N	28	dep	_	
+32	2(u)	2(u)[ten]	NU	NU	35	nummod	heuristic: NU premodifying	
+33	...	_[_]	PN	N	32	dep	heuristic: attach to last	
+34	a-sza3	aszag[field]	N	N	35	nmod	_	
+35	...	_[_]	PN	N	0	dep	_	
+36	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+37	2(disz)	2(disz)[one]	NU	NU	36	nummod	_	
+38	x	_[_]	N	N	37	dep	heuristic: attach to last	
+39	...	_[_]	PN	N	38	dep	heuristic: attach to last	
+40	a	a[water][-ø]	N	N.ABS	39	_	heuristic: attach to last	
+41	...	_[_]	PN	N	40	dep	heuristic: attach to last	
+42	a	a[water][-ø]	N	N.ABS	41	_	heuristic: attach to last	
+43	...	_[_]	PN	N	42	dep	heuristic: attach to last	
+44	'.	_	_	_	43	_	heuristic: attach to last	
+45	...	_[_]	PN	N	44	dep	heuristic: attach to last	
+46	'.	_	_	_	45	_	heuristic: attach to last	
+57	5(disz)	5(disz)[one]	NU	NU	28	nummod	projectivity violation	
+66	'.	_[the]	_	_	70	nmod	_	
+67	a-sza3	aszag[field]	N	N	70	nmod	_	
+68	4(disz)	4(disz)[one]	NU	NU	70	nummod	_	
+69	1/2(disz)	1/2(disz)[one]	NU	NU	68	nummod	_	
+70	sar	sar[unit]	N	N	28	appos	_	
+71	5(disz)	5(disz)[one]	NU	NU	72	nummod	heuristic: NU premodifying	
+72	gin2	gig[unit]	N	N	70	appos	_	
+73	'.	_	_	_	72	_	heuristic: attach to last	
+74	e	eg[levee]	N	N	73	_	heuristic: attach to last	
+75	a-sza3	aszag[field]	N	N	76	LOC	_	
+76	pirig-tur-gin7-DU-sze3	_[For.a.levee.in.Pirigtur-gin-DU]	FN	FN	70	DAT	projectivity violation	
+77	'.	_	_	_	78	_	_	
+78	szunigin	szunigin[total]	N	N	75	appos	_	
+79	8(gesz2)	8(gesz2)[sixty]	NU	NU	0	nummod	_	
+80	5(u)	5(u)[ten]	NU	NU	79	nummod	_	
+81	ninda	ninda[bread]	N	N	78	appos	_	
+82	gid2	gid[length]	V	N	81	_	_	
+83	'.	_	_	_	82	_	heuristic: attach to last	
+84	szunigin	szunigin[total]	N	N	78	appos	_	
+85	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+86	5(u)	5(u)[ten]	NU	NU	85	nummod	_	
+87	8(disz)	8(disz)[one]	NU	NU	85	nummod	_	
+88	1/2(disz)	1/2(disz)[one]	NU	NU	85	nummod	_	
+89	sar	sar[unit]	N	N	78	appos	_	
+90	kin	kig[work]	N	N	93	DAT	_	
+91	sahar	sahar[earth][-ø]	N	N.GEN	90	_	heuristic: attach to last	
+92	u3	u[and]	CNJ	CNJ	90	appos	_	
+93	u2-sag11	_[barges.activity.for.reed.bundle.for]	N	N	89	appos	_	
+94	'.	_	_	_	93	_	heuristic: attach to last	
+95	e	eg[levee]	N	N	102	ABS	_	
+96	a-sza3	aszag[field]	N	N	95	GEN	_	
+97	lugal-mu10-us2-sa2	_[The.Lugal-mussa.that]	FN	FN	95	appos	_	
+98	gaba	gaba[frontier][-ak]	N	N	97	_	heuristic: attach to last	
+99	a-gesztin-na-ka	_[A-getin.field.is.in.front]	WN	WN	95	acl	_	
+100	'.	_	_	_	102	_	_	
+101	e	eg[levee]	N	N	102	_	_	
+102	ki-sumun-na	_[with.poor.soil.been.measured.up.to.plot]	FN	FN	93	acl	_	
+103	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	102	_	heuristic: attach to last	
+104	'.	_[the]	_	_	105	nmod	_	
+105	ugula	ugula[overseer][-ø]	N	N	28	appos	_	
+106	sanga	sagga[temple_administrator]	N	N	110	acl	_	
+107	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	110	GEN	_	
+108	u3	u[and]	CNJ	CNJ	110	nmod	_	
+109	sanga	sagga[temple_administrator]	N	N	110	nmod	_	
+110	{d}nin-DAR-a	_[Nin-DARa.adminstrator.administrator]	DN	DN	105	appos	_	
+111	mu	mu[year]	N	N	1	appos	_	
+112	gu-za	guza[chair][-ø]	N	N	114	ABS	_	
+113	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	112	GEN	_	
+114	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	0	root	_
+	
+

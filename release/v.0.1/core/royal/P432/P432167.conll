@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Ninmu butcher of Ekur temple Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+1	{d}nin-mu2	{d}nin-nisig[1]	DN	DN	13	DAT	_
+2	gir2-la2	{d}nin-nisig[1]+giri2-la2[butcher]	N	N	1	appos	_
+3	e2-kur2-ra-ra	e2-kur[1]	TN	TN.GEN.DAT-H	2	GEN	_
+4	szul-gi	szul-gi[1]	RN	RN	13	ERG	_
+5	nita	nita[male]	N	N	4	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	4	appos	_
+8	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_
+9	lugal	lugal[king]	N	N	4	appos	_
+10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_
+11	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	10	appos	_
+12	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	13	ABS	_
+13	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

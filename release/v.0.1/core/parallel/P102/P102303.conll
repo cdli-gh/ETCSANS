@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: bur field area fields of Ugurtur-sagdu bur field area field of Long-side bur field area field of property work done bur field area field of Agar-sagdu bur field area one field of Du-Szara bur field area field of Weir-field of Lu-Szara property flood irrigation with oxen at bur field area seized
+# train/P102303.atf						#new_text=P102303
+# train/P102303.atf new_text=P102303
+1	6(bur3)	6(bur)[unit]	NU	N	2	nummod	_	
+2	GAN2	gana[field]	N	N	0	root	_	
+3	a-sza3	aszag[field]	N	N	2	appos	_	
+4	ugur2-tur-sag-du3	_[fields.Ugurtur-sagdu]	FN	FN	2	appos	_	
+5	4(bur3)	4(bur)[unit]	NU	N	4	nummod	_	
+6	GAN2	gana[field]	N	N	8	nmod	_	
+7	a-sza3	aszag[field]	N	N	8	nmod	_	
+8	usz-gid2-da	Uszgida[1]	FN	FN	4	appos	_	
+9	5(bur3)	5(bur)[unit]	NU	N	11	nummod	projectivity violation	
+10	GAN2	gana[field]	N	N	4	appos	_	
+11	a-sza3	aszag[field]	N	N	4	appos	projectivity violation	
+12	GAN2-x	_[bur.field]	FN	FN	10	appos	projectivity violation	
+13	nig2-gal2-la	niggala[possessions]	N	N	16	_	_	
+14	kin	kig[work]	N	N	16	ABS	_	
+15	x	_[_]	N	N	16	dep	_	
+16	ak	ak[excavate][-a][-ak]	V	NF.V.PT	11	acl	_	
+17	8(bur3)	8(bur)[unit]	NU	N	18	nummod	_	
+18	GAN2	gana[field]	N	N	16	appos	_	
+19	a-sza3	aszag[field]	N	N	18	appos	_	
+20	a-gar-sag-du3	_[Agar-sagdu]	FN	FN	19	GEN	_	
+21	...	_[_]	PN	N	20	dep	heuristic: attach to last	
+22	2(bur3)	2(bur)[unit]	NU	N	24	nummod	heuristic: NU premodifying	
+23	GAN2	gana[field]	N	N	22	_	heuristic: attach to last	
+24	DISZ	_[bur.field.area.one]	MN	MN	18	appos	_	
+25	a-sza3	aszag[field]	N	N	24	appos	_	
+26	du6-{d}szara2	_[Du-Szara]	FN	FN	25	GEN	_	
+27	5(bur3)	5(bur)[unit]	NU	N	30	nummod	_	
+28	GAN2	gana[field]	N	N	30	nmod	_	
+29	a-sza3	aszag[field]	N	N	30	nmod	_	
+30	a-egir-GAN2	_[area.field.Weir-field]	FN	FN	18	appos	_	
+31	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	30	GEN	_	
+35	6(bur3)	6(bur)[unit]	NU	N	2	nummod	projectivity violation	
+

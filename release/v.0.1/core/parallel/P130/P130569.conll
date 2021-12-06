@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekels grains of silver replaced deficit of fishermen from Ur-Szara did Akalla receive month year priestess of Nanna with a goat was determined Akalla scribe son of Ur-nigar cattle manager
+# train/P130569.atf new_text=P130569
+# train/P130569.atf						#new_text=P130569
+1	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+2	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+3	1/3(disz)	1/3(disz)[one]	NU	NU	1	nummod	_	
+4	gin2	gig[unit]	N	N	10	ERG	projectivity violation	
+5	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+6	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+7	sze	sze[barley]	N	N	4	appos	_	
+8	ku3-babbar	kugbabbar[silver]	N	N	7	GEN	_	
+9	la2-ia3	la'u[arrears]	N	N	10	ABS	_	
+10	su-ga	sug[repay]-a	V	NF.V.PT	0	root	_	
+11	szu-ku6-e-ne	_[fishermen]	PN	PN	9	GEN	projectivity violation	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	10	ABL	_	
+14	a-kal-la	Akala[1]	PN	PN	13	_	heuristic: attach to last	
+15	szu	szu[hand][-e]	N	N.L3-NH	10	appos	_	
+16	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	10	parataxis	_	
+17	iti	iti[month]	N	N	10	appos	_	
+18	min-esz3	Minesz[1][-'a]	MN	MN.L1	10	appos	_	
+19	mu	mu[year]	N	N	10	appos	_	
+20	en	en[priest]	N	N	24	ABS	_	
+21	{d}nanna	Nanna[1][-ak]	DN	DN	20	GEN	_	
+22	masz-e	masz[goat]-e	N	N.L3-NH	23	COM	_	
+23	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	20	acl	_	
+24	i3-pa3	_[a.goat.was.determined]	V	V	10	acl	_	
+25	a-kal-la	Akala[1]	PN	PN	24	appos	_	
+26	dub-sar	dubsar[scribe]	N	N	25	appos	_	
+27	dumu	dumu[child]	N	N	25	appos	_	
+28	ur-nigar{gar}	Urnigar[1]	PN	PN	29	acl	_	
+29	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	27	GEN	_
+	
+

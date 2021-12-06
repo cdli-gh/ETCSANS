@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male equid slaughtered th day from Szu-Idim Ur-nigar received month Festival of An year Amar-Suen king Urbilum destroyed
+# train/P416460.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	dusu2-nita2	_[male.equid]	PN	PN	0	root	_	
+3	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+6	la2	la[hang][-ø]	V	NF.V.ABS	5	_	_	
+7	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	ki	ki[place]	N	N	12	_	_	
+9	szu-{d}idim-ta	_[Szu-Idim]	PN	PN.GEN.GEN.ABL	12	ABS	_	
+10	ur-nigar{gar}	Urnigar[1]	PN	PN	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+13	iti	iti[month]	N	N	15	nmod	_	
+14	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	13	appos	_	
+15	mu	mu[year]	N	N	12	appos	_	
+16	{d}amar-{d}suen	Amarsuen[1]	RN	RN	15	appos	_	
+17	lugal-e	lugal[king]-e	N	N.ERG	16	appos	_	
+18	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	19	ABS	_	
+19	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	16	acl	_
+	
+

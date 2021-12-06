@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P117512.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	tug2	tug[textile]	N	N	1	_	heuristic: after nominal head	
+4	zi3	zid[flour]	N	N	1	_	heuristic: after nominal head	
+5	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+6	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+7	geme2	geme[female_worker]	N	N	1	_	heuristic: after nominal head	
+8	usz-bar	uszbar[weaver][-ak]	N	N	1	_	heuristic: after nominal head	
+9	lu2	lu[person]	N	N	1	_	heuristic: after nominal head	
+10	azlag2	azlag[fuller][-ra]	N	N.DAT-H	1	_	heuristic: after nominal head	
+11	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+12	nin-dingir	_[xxx]	PN	N	1	_	heuristic: after nominal head	
+13	{d}ba-ba6	_	DN	DN	1	_	heuristic: after nominal head	
+14	ugula	ugula[overseer][-ø]	N	N	1	_	heuristic: after nominal head	
+15	lu2-inim-nig2-sa6-ga	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+16	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	heuristic: after nominal head	
+17	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+18	GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+19	u4	ud[day]	N	N	1	_	heuristic: after nominal head	
+20	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+21	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+23	sza-asz-szu4!-ru!-um{ki}	_[xxx]	GN	GN	1	_	heuristic: after nominal head	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	1	_	heuristic: after nominal head	
+25	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+26	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+27	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+28	{d}szu-{d}suen	Szusuen[1]	RN	RN	1	_	heuristic: after nominal head	
+29	lugal	lugal[king]	N	N	1	_	heuristic: after nominal head	
+30	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	1	_	heuristic: after nominal head	
+31	bad3	bad[wall]	N	N	1	_	heuristic: after nominal head	
+32	mar-tu	Martu[1][-ø]	EN	EN.ABS	1	_	heuristic: after nominal head	
+33	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	1	_	heuristic: after nominal head	
+34	mu-du3-sze3	_[xxx]	V	V	46	nmod	projectivity violation	
+35	iti	iti[month]	N	N	46	nmod	projectivity violation	
+36	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+37	3(u)	3(u)[ten]	NU	NU	36	nummod	_	
+38	1(disz)	1(disz)[one]	NU	NU	36	nummod	_	
+39	u4	ud[day]	N	N	38	_	heuristic: attach to last	
+40	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+41	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	40	nummod	_	
+42	iti	iti[month]	N	N	1	appos	_	
+43	diri	diri[intercalary_month]	N	N	42	_	heuristic: attach to last	
+44	2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	46	nummod	heuristic: NU premodifying	
+45	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	44	_	heuristic: attach to last	
+46	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

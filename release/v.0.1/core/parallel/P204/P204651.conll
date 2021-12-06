@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204651.atf
+# tr.en: Basket-of-tablets grand totals wool rations via Ur-abba are here year Enmagalana was hired
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nigin-ba	_[grand.totals]	N	N.DEM2.GEN	6	ABS	_	
+3	siki-ba	_[wool.rations]	V	V	2	acl	_	
+4	giri3	giri[foot]	N	N	5	via	_	
+5	ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	2	via	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+7	mu	mu[year]	N	N	9	_	_	
+8	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	9	ABS	_	
+9	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	6	parataxis	_
+	
+

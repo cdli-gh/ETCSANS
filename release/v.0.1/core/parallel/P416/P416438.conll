@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416438.atf new_text=P416438
+# train/P416438.atf						#new_text=P416438
+# tr.en: oxen barley-fed sheep barley-fed following oxen sheep lamb kid gazelle fawns of governor in Umma delivery for Akitu in Harvest bucks lamb of Nigar-kidu n sheep barley-fed lamb of governor of Apiak month Gazelle feast year after Urbilum was destroyed nth day
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	_	_	
+4	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+5	udu	udu[sheep]	N	N	2	_	heuristic: after nominal head	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+7	gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	6	acl	_	
+8	1(u)	1(u)[ten]	NU	NU	12	nummod	projectivity violation	
+9	1(disz)	1(disz)[one]	NU	NU	14	nummod	projectivity violation	
+10	udu	udu[sheep]	N	N	2	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	12	nummod	heuristic: NU premodifying	
+12	sila4	sila[lamb]	N	N	2	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	12	nummod	_	
+14	masz2	masz[goat]	N	N	12	appos	_	
+15	2(disz)	2(disz)[one]	NU	NU	17	nummod	heuristic: NU premodifying	
+16	amar	amar[calf][-ak]	N	N	15	_	heuristic: attach to last	
+17	masz-da3	maszda[gazelle][-ø]	N	N	12	appos	_	
+18	ensi2	ensik[ruler]	N	N	12	GEN	_	
+19	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	18	LOC	_	
+20	mu-kux(DU)	mukur[delivery][-ø]	N	N	12	appos	_	
+21	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	20	DAT	_	
+22	sze-sag11-ku5-ka	_[for.in.Harvest]	MN	MN	21	DAT	_	
+23	...	_[_]	PN	N	25	dep	_	
+24	2(disz)	2(disz)[one]	NU	NU	25	nummod	heuristic: NU premodifying	
+25	masz2-gal	maszgal[billy_goat]	N	N	12	appos	_	
+26	1(disz)	1(disz)[one]	NU	NU	27	nummod	heuristic: NU premodifying	
+27	sila4	sila[lamb]	N	N	25	appos	_	
+28	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	30	GEN	_	
+29	n	_(_)[_]	NU	NU	30	nummod	_	
+30	udu	udu[sheep]	N	N	25	GEN	_	
+31	niga	niga[fattened][-ø]	V	NF.V.ABS	30	acl	_	
+32	1(disz)	1(disz)[one]	NU	NU	30	nummod	_	
+33	sila4	sila[lamb]	N	N	30	appos	_	
+34	ensi2	ensik[ruler]	N	N	30	GEN	_	
+35	a-pi2-ak{ki}	_[Apiak]	SN	SN.GEN	34	GEN	_	
+36	...	_[_]	PN	N	35	dep	heuristic: attach to last	
+37	x	_[_]	N	N	36	dep	heuristic: attach to last	
+38	...	_[_]	PN	N	37	dep	heuristic: attach to last	
+39	...	_[_]	PN	N	38	dep	heuristic: attach to last	
+40	...	_[_]	PN	N	39	dep	heuristic: attach to last	
+47	u4	ud[day]	N	N	12	appos	_	
+48	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	47	nummod	_
+	
+

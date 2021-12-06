@@ -1,0 +1,187 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: is not overturned Her husband lord Nunamnir the thing she requested does not block Ninlil princess greater than all lands beloved mistress of Szu-Sin when life the producing of long life a tiara and crown a long-lasting scepter a throne and kingship with firm foundation years of abundance a weapon flood which casts great fear the aankar weapon the arm of battle the arm of heroism whose fearsomeness and divine radiance reaches to sky whose roar covers rebellious land Ninlil for Szu-Sin from her spouse Ninlil did make a request for it For Ninlil beloved spouse of Enlil her husband lord Nunamnir who has wrought greatly to Szu-Sin beloved servant of Enlil king whom Enlil in his heart did choose and of four quarters mighty king king of Ur king of four world quarters her beloved servant having given to him at that time Szimaki the lands of Zabali from border of Anan a statue he fashioned and to Ninlil his mistress for his life he dedicated it
+# train/P432281.atf						#new_text=P432281
+# train/P432281.atf new_text=P432281
+1	'.	SEGM	XPOSTAG	XPOSTAG	8	_	_	
+2	AN	_[_]	PN	PN.DAT-H	8	_	heuristic: before verbal head	
+3	x	_[_]	N	N	8	dep	heuristic: before verbal head	
+4	x	_[_]	N	N	8	dep	heuristic: before verbal head	
+5	(x)	_[_]	N	N	8	_	heuristic: before verbal head	
+6	'.	_	_	_	8	_	heuristic: before verbal head	
+7	szu	szu[hand][-e]	N	N.L3-NH	8	_	heuristic: before verbal head	
+8	nu-bal-x	_[is.not.overturned]	V	V	0	root	_	
+9	'.	_	_	_	10	_	_	
+10	gidlam4-ni	_[Her.husband]	N	N.ABS	19	ABS	_	
+11	'.	_	_	_	10	_	_	
+12	en	en[priest]	N	N	10	_	heuristic: after nominal head	
+13	{d}nu-nam-nir-re	_[lord.Nunamnir]	DN	DN	10	appos	_	
+14	'.	_[the]	_	_	17	nmod	_	
+15	nig2	_	N	N	14	_	heuristic: attach to last	
+16	al	al[hoeing]	N	N	15	_	heuristic: attach to last	
+17	du11-ga-ni	Dugani[1][-ra]	PN	PN.DAT-H	10	appos	_	
+18	'.	_	_	_	19	_	_	
+19	nu-un-szi-ib2-kesz2-re	_[does.not.block]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	8	parataxis	_	
+20	'.	_	_	_	21	_	_	
+21	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	19	appos	_	
+22	'.	_	_	_	21	_	_	
+23	nun	_[princess.greater]	N	N	21	appos	_	
+24	kur-kur-ra	_[all.lands]	N	N-RDP.GEN	23	acl	_	
+25	diri-ga	dirig[drift]-a	V	NF.V.PT	24	acl	_	
+26	'.	_	_	_	21	_	heuristic: after nominal head	
+27	nin	_[mistress]	N	N	21	appos	_	
+28	ki-ag2	ki'ag[love][-ø]	V	NF.V	27	acl	_	
+29	'.	_	_	_	28	_	heuristic: attach to last	
+30	{d}szu-{d}suen-na-ke4	_[of.Szu-Sin]	DN	DN	27	GEN	_	
+31	'.	_	_	_	30	_	heuristic: attach to last	
+32	u4	ud[day]	N	N	31	_	heuristic: attach to last	
+33	nam-ti	namtil[life]	PN	N	21	appos	_	
+34	'.	_	_	_	33	_	_	
+35	zi	_[the]	N	NF.V	36	nmod	_	
+36	su3-(x)	_[producing.long]	V	V	33	acl	_	
+37	gal2	_[life]	V	NF.V.PT.GEN	36	GEN	_	
+38	'.	_	_	_	33	_	_	
+39	aga	_[a]	N	N	40	nmod	_	
+40	men	_[tiara.and.crown]	N	N	33	appos	_	
+41	gidri	_[a]	N	N	43	nmod	_	
+42	u4	ud[day]	N	N	41	_	heuristic: attach to last	
+43	su3-ra2	_[long-lasting.scepter]	V	V	33	acl	_	
+44	'.	_	_	_	33	_	heuristic: after nominal head	
+45	{gesz}gu-za	guza[chair]	N	N	33	appos	_	
+46	nam-lugal	_[a.and.kingship]	N	N	45	appos	_	
+47	'.	_	_	_	46	_	heuristic: attach to last	
+48	suhusz	_[with.firm]	N	N	49	COM	_	
+49	gi-na	gina[dues]	PN	N	45	COM	_	
+50	'.	_	_	_	33	_	heuristic: after nominal head	
+51	mu	mu[year]	N	N	33	_	heuristic: after nominal head	
+52	he2-gal-la	_[years.of.abundance]	V	V	33	acl	_	
+53	'.	_	_	_	52	_	heuristic: attach to head	
+54	{gesz}tukul	tukul[weapon][-'a]	N	N	52	appos	_	
+55	a-ma-ru	_[flood]	N	N	54	appos	_	
+56	'.	_	_	_	55	_	heuristic: attach to last	
+57	ni2	_[which]	N	N.ABS	59	ABS	_	
+58	gal	gal[big][-ø]	V	NF.V.ABS	59	acl	_	
+59	mu-szub	_[casts.fear]	V	V	55	acl	_	
+60	'.	_	_	_	54	_	_	
+61	a2-an-kar2	_[the.aankar.weapon]	PN	PN	54	appos	_	
+62	'.	_	_	_	54	_	_	
+63	a2	a[time]	N	N	64	nmod	_	
+64	me3	_[arm.battle]	N	N.GEN	54	appos	_	
+65	'.	_	_	_	54	_	heuristic: after nominal head	
+66	a2	a[time]	N	N	67	nmod	_	
+67	nam-ur-sag-ga2	_[arm.heroism]	V	NF.V.PT	54	acl	_	
+68	'.	_	_	_	67	_	heuristic: attach to last	
+69	ni2	_[whose.fearsomeness]	N	N.ABS	72	ABS	_	
+70	me-lam2-bi	_[and.divine.radiance]	N	N	69	appos	_	
+71	'.	_	_	_	70	_	heuristic: attach to last	
+72	an-ne2	Anne[1][-ra]	DN	DN.ERG	67	acl	_	
+73	us2-sa	us[follow]-a	V	NF.V.PT	72	_	heuristic: attach to last	
+74	'.	_	_	_	73	_	heuristic: attach to last	
+75	za-pa-ag2-bi	_[whose.roar]	N	N.3-SG-NH-POSS.L1	77	ERG	_	
+76	'.	_	_	_	75	_	heuristic: attach to last	
+77	ki-bala-a	_[covers.rebellious]	N	N.3-SG-NH-POSS.GEN	100	acl	_	
+78	dul4-dul4-lu	_[land]	V	V	77	acl	_	
+79	'.	_	N	N	100	ABS	_	
+80	giri3	giri[foot]	N	N	79	_	heuristic: attach to last	
+81	...	_[_]	PN	N	80	dep	heuristic: attach to last	
+82	'.	_	_	_	81	_	heuristic: attach to last	
+83	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	79	appos	_	
+84	x	_[_]	N	N	83	dep	heuristic: attach to last	
+85	x	_[_]	N	N	84	dep	heuristic: attach to last	
+86	'.	_[for]	N	N	88	DAT	_	
+87	{d}szu-{d}suen	Szusuen[1]	RN	RN	88	nmod	_	
+88	x	_[_]	N	N	79	dep	_	
+89	x	_[_]	N	N	88	dep	heuristic: attach to last	
+90	'.	_	_	_	89	_	heuristic: attach to last	
+91	ki	ki[place]	N	N	93	ABL	_	
+92	gidlam4-na-ta	_[her.spouse]	PN	PN.GEN.ABL	93	nmod	_	
+93	'.	_	N	N	88	ABL	_	
+94	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	93	appos	_	
+95	a	a[water][-ø]	N	N.ABS	94	_	heuristic: attach to last	
+96	x	_[_]	N	N	95	dep	heuristic: attach to last	
+97	x	_[_]	N	N	96	dep	heuristic: attach to last	
+98	'.	_	_	_	97	_	heuristic: attach to last	
+99	al	al[hoeing]	N	N	98	_	heuristic: attach to last	
+100	im-ma-an-du11	_[did.make.a.request.for.it]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	72	acl	_	
+101	'.	_	_	_	54	_	heuristic: after nominal head	
+102	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	54	DAT	_	
+103	dam	dam[spouse]	N	N	102	appos	_	
+104	ki-ag2	ki'ag[love][-ø]	V	NF.V	103	acl	_	
+105	'.	_	_	_	104	_	heuristic: attach to last	
+106	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	103	GEN	_	
+107	'.	_	_	_	102	_	heuristic: after nominal head	
+108	gidlam4-ni	_[her.husband]	N	N.ABS	110	ABS	_	
+109	en	en[priest]	N	N	108	_	heuristic: attach to last	
+110	{d}nu-nam-nir-re	_[lord.Nunamnir]	DN	DN	102	acl	_	
+111	'.	_	_	_	110	_	heuristic: attach to last	
+112	gal-bi	_[who]	V	NF.V.3-SG-NH-POSS.ABS	113	ABS	_	
+113	tum2-ma-e	_[has.wrought.greatly]	V	V	110	acl	_	
+114	'.	_[to]	_	_	115	LOC	_	
+115	{d}szu-{d}suen	Szusuen[1]	RN	RN	102	LOC	_	
+116	'.	_	_	_	115	_	heuristic: after nominal head	
+117	ARAD	_[servant]	PN	PN	115	appos	_	
+118	ki-ag2	ki'ag[love][-ø]	V	NF.V	117	acl	_	
+119	'.	_	_	_	120	_	_	
+120	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	117	GEN	_	
+121	'.	_	_	_	120	_	heuristic: after nominal head	
+122	lugal	lugal[king]	N	N	120	appos	_	
+123	{d}en-lil2-le	_[whom.Enlil]	DN	DN.ERG	126	ABS	_	
+124	sza3-ga-na	Szagana[1]	N	N.3-SG-H-POSS.L1	126	LOC	_	
+125	'.	_	_	_	124	_	heuristic: attach to last	
+126	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	122	acl	_	
+127	'.	_	_	_	120	_	heuristic: after nominal head	
+128	u3	u[and]	CNJ	CNJ	120	appos	_	
+129	an	An[1][-ra]	N	N	131	nummod	_	
+130	ub-da	_	N	N	129	_	heuristic: attach to last	
+131	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	120	nummod	_	
+132	'.	_	_	_	131	_	_	
+133	lugal	lugal[king]	N	N	131	appos	_	
+134	kal-ga	kalag[strong]-a	V	NF.V.SUB	133	acl	_	
+135	lugal	lugal[king]	N	N	131	appos	_	
+136	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	135	GEN	_	
+137	'.	_	_	_	131	_	_	
+138	lugal	lugal[king]	N	N	131	appos	_	
+139	an	An[1][-ra]	N	N	141	nummod	_	
+140	ub-da	_[world]	N	N	141	nmod	_	
+141	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	138	nummod	_	
+142	'.	_	_	_	131	_	_	
+143	ARAD	_[her.servant]	PN	PN	131	appos	_	
+144	ki-ag2-ga2-ni-ir	_[beloved]	N	NF.V.3-SG-H-POSS.DAT-H	143	acl	_	
+145	'.	_	_	_	131	_	heuristic: attach to head	
+146	mu-na-an-szum2-ma-a	_[having.given.to.him]	PN	PN	131	acl	_	
+147	'.	_	_	_	149	_	_	
+148	u4-ba	_[at.that]	N	N.DEM2.L1	149	LOC	_	
+149	szimaszki{KI}	_[time.Szimaki]	N	N	146	LOC	_	
+150	'.	_[the]	_	_	152	nmod	_	
+151	ma-da	mada[land][-ak][-ø]	N	N	150	_	heuristic: attach to last	
+152	ma-da	mada[land][-ak][-ø]	N	N	149	appos	_	
+153	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	152	GEN	_	
+154	'.	_	_	_	153	_	heuristic: attach to last	
+155	za3	_[border]	N	N	152	ABL	_	
+156	an-sza3-an{ki}-ta	_[from.Anan]	GN	GN.ABL	155	ABL	_	
+157	'.	_	_	_	149	_	heuristic: after nominal head	
+158	x	_[_]	N	N	149	dep	heuristic: after nominal head	
+159	...	_[_]	PN	N	149	dep	heuristic: after nominal head	
+160	'.	_	_	_	149	_	heuristic: after nominal head	
+161	IM	_	_	_	149	_	heuristic: after nominal head	
+162	...	_[_]	PN	N	149	dep	heuristic: after nominal head	
+163	'.	_	_	_	149	_	heuristic: after nominal head	
+164	alan	alan[statue]	N	N	168	nmod	_	
+165	...	_[_]	PN	N	164	dep	heuristic: attach to last	
+166	'.	_[a.statue]	N	N	168	nmod	_	
+167	PI	_	_	_	166	_	heuristic: attach to last	
+168	x	_[_]	N	N	0	dep	_	
+169	x	_[_]	N	N	168	dep	heuristic: attach to last	
+170	...	_[_]	PN	N	169	dep	heuristic: attach to last	
+171	'.	_	_	_	170	_	heuristic: attach to last	
+172	mu-dim2	_[he.fashioned]	V	VEN.3-SG-H-A.V.3-SG-P	168	acl	_	
+173	'.	_[and]	N	N	149	appos	_	
+174	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	181	LOC	_	
+175	'.	_	_	_	174	_	_	
+176	nin-a-ni-ir	_[his.mistress]	PN	N.3-SG-H-POSS.DAT-H	174	appos	_	
+177	'.	_	_	_	176	_	heuristic: attach to last	
+178	nam-ti-la-ni-sze3	_[for.his.life]	N	N.3-SG-H-POSS.TERM	181	TERM	_	
+179	'.	_	_	_	178	_	heuristic: attach to last	
+180	a	a[water][-ø]	N	N.ABS	181	ABS	_	
+181	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	149	acl	_
+	
+

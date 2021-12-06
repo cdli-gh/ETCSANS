@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: via Szu-Edar cupbearer bala th day month Festival of Mekigal year high-priest of Inanna in Uruk by means of extispicy was chosen Ibbi-Suen strong king king of Ur Szu-Edar cup-bearer son of -du your servant
+# dev/P416425.atf
+1	giri3	giri[foot]	N	N	2	via	_	
+2	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	17	via	_	
+3	sagi	sagi[cup_bearer][-ø]	N	N	8	nmod	_	
+4	bala	bala[turn][-'a]	N	N.L1	3	appos	_	
+5	u4	ud[day]	N	N	3	appos	_	
+6	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+7	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	iti	iti[month]	N	N	17	_	_	
+9	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	8	appos	_	
+10	mu	mu[year]	N	N	9	appos	_	
+11	en	en[priest]	N	N	15	ABS	_	
+12	{d}inanna	Inanna[1][-ak]	DN	DN	11	GEN	_	
+13	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	11	LOC	_	
+14	masz2-e	masz[goat]-e	N	N.L3-NH	11	ERG	_	
+15	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	9	acl	_	
+16	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	17	nmod	_	
+17	lugal	lugal[king]	N	N	0	root	_	
+18	kal-ga	kalag[strong]-a	V	NF.V.SUB	17	acl	_	
+19	lugal	lugal[king]	N	N	17	appos	_	
+20	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	19	GEN	_	
+21	szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	17	appos	_	
+22	sagi	sagi[cup_bearer][-ø]	N	N	21	appos	_	
+23	dumu	dumu[child]	N	N	21	appos	_	
+24	...-du	_[_]	PN	PN	21	appos	_	
+25	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	21	appos	_
+	
+

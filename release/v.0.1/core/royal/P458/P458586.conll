@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Agi governor of Adab Nita-saga scribe is his child
+1	ur-{d}{asz}aszgi{gi4}	ur-{d}{asz}asz7-gi4[2]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	adab{ki}	adab{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	usz-sa6-ga	nita-sag9-ga[1]	PN	PN	6	ABS	_
+5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_
+6	dumu-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	1	_	_
+

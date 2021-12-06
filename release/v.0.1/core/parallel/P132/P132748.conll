@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P132748.atf new_text=P132748
+# tr.en: Dingir-saga Ur-Numuda Utu-Laga-gal Ur-Nane they are ox-drivers Lu-Gatumdu Kuli Baba-izu they are worktroopers at shekel each from month Malt feast to month Festival of Szulgi shekels Adda barig Lu-Ningirsu barig they are worktroopers from month Malt feast to month Grain carried day completed shekels its silver shekels its barley of rations gur barig labor of hirelings on orders of Su- from city not going out house of Gatumdu year Szu-Suen king of Ur lands of Zabaali destroyed
+# train/P132748.atf						#new_text=P132748
+31	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+32	2(barig)	2(bariga)[unit]	NU	N	31	nummod	_	
+43	7(disz)	7(disz)[one][-sze]	NU	NU	0	nummod	_	
+44	1/2(disz)	1/2(disz)[one]	NU	NU	43	nummod	_	
+

@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets year
+# train/P319777.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	mu	mu[year]	N	N	0	_	_
+	
+

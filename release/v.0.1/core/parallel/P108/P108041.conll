@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets worktroopes to bala stationed worktroops of Kigati tablets of deficits and accounts year Paue year lands of Zabali were destroyed
+# dev/P108041.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	erin2	erin[people]	N	N	1	_	heuristic: after nominal head	
+3	bala-sze3	_[worktroopes.to.bala]	N	N	1	appos	_	
+4	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	3	acl	_	
+5	erin2	erin[people]	N	N	4	_	heuristic: attach to head	
+6	kisz-ga-ti{ki}	_[worktroops.Kigati]	SN	SN	4	appos	_	
+7	im	im[clay][-ø]	N	N	6	GEN	_	
+8	la2-ia3	la'u[arrears]	N	N	7	GEN	_	
+9	u3	u[and]	CNJ	CNJ	8	appos	_	
+10	nig2-ka9-ak	nigSZID[account]	N	N	8	appos	_	
+11	iti	iti[month]	N	N	4	acl.ADV	_	
+12	pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	11	appos	_	
+13	mu	mu[year]	N	N	11	appos	_	
+14	ma-da	mada[land][-ak][-ø]	N	N	16	ABS	_	
+15	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	14	GEN	_	
+16	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

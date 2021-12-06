@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432144.atf new_text=P432144
+# tr.en: For Inanna the queen of Eanna temple his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad her temple he built for her and restored for her
+# train/P432144.atf						#new_text=P432144
+1	{d}inanna	Inanna[1][-ak]	DN	DN	0	root	_	
+

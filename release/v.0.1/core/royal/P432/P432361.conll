@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: son governor of Adab dedicated to himher	
+1	...	_	N	N	0	dep	_
+2	dumu	dumu[child]	N	N	1	appos	_
+3	...	_[_]	u	u	0	dep	_
+4	ensi2	ensi2[ruler]	N	N	7	ERG	_
+5	adab{ki}	adab{ki}[1]	SN	SN.GEN.ERG	4	GEN	_
+6	a	a[water]	N	N.ABS	7	ABS	_
+7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	acl	_
+

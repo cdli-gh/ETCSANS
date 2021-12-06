@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi powerful man king of Urim king of Sumer and Akkad Luduga child of Lu-Nanna is your servant
+1	szul-gi	szul-gi[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	GEN	_
+7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_
+8	ki-uri	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_
+9	lu2-du10-ga	lu2-dug3-ga[4]	PN	PN	12	ABS	_
+10	dumu	dumu[child]	N	N	9	appos	_
+11	lu2-{d}nanna	lu2-{d}nanna[5]	PN	PN.GEN.ABS	10	GEN	_
+12	x-x	arad2[slave]	N	N.2-SG-POSS.ABS	1	dep	_
+

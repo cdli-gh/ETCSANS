@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+1	...-ba	_[_]	u	u	0	_	_
+2	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	4	LOC	_
+3	szu	szu[hand]	N	N.ABS	4	ABS	_
+4	bi2-ib2-ur3-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	_	_
+5	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	4	appos	_
+

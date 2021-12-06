@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters of this statue Amar-Suena is Beloved of Ur is its name Of this statue a person who its standing-place shall change and its socle shall rip out may Nanna the king of Ur and Ningal the mother of Ur curse him and his seed may they bring to an end																						
+1	{d}amar-{d}suen	amar-suena[1]	PN	PN	30	ERG	_
+2	nibru{ki}-a	_[whom.in.Nippur]	N	N	21	ABS	_
+3	{d}en-lil2-le	enlil[1]	PN	PN	21	LOC	_
+4	mu	_[chose]	V	V	3	acl	_
+5	pa3-da	_[by.name]	N	N	4	ERG	_
+6	sag-us2	_[the.constant.supporter]	N	N	3	appos	_
+7	e2	_	_	_	8	_	_
+8	{d}en-lil2-ka	_[of.temple.of.Enlil]	N	N	6	GEN	_
+9	lugal	_[the]	_	_	10	nmod	_
+10	kal-ga	_[mighty.king]	N	N	8	appos	_
+11	lugal	_[king]	N	N	8	appos	_
+12	uri5{ki}-ma	_[Ur]	N	N	11	GEN	_
+13	lugal	_	_	_	12	_	_
+14	an	_	_	_	13	_	_
+15	ub-da	_[and.king]	N	N	8	appos	_
+16	limmu2-ba-me	_[four.world.quarters]	NU	N	8	nummod	_
+17	alan-ba	_[this.statue]	N	N	3	GEN	_
+18	{d}amar-{d}suen	_[Amar-Suena.is]	PN	PN	19	ABS	_
+19	ki-ag2	beloved[1]	PN	PN	21	ccomp 	_
+20	uri5{ki}-ma	ur[1]	PN	PN	19	GEN	_
+21	mu-bi-im	_[is.its.name]	N	N	1	acl	_
+22	alan-ba	_[Of.this.statue]	N	N	1	GEN	_
+23	lu2	_[a]	_	_	25	nmod	_
+24	ki	_	_	_	23	_	_
+25	gub-ba-bi	_[person.who.its.standing-place]	N	N	22	appos	_
+26	ib2-da-ab-kur2-re-a	_[shall.change]	V	V	25	acl	_
+27	bara2	_[and]	N	N	22	appos	_
+28	si-ga-bi	_[its.socle]	N	N	22	appos	_
+29	i3-bu3-re-a	_[shall.rip.out]	V	V	22	acl	_
+30	{d}nanna	_[may.Nanna]	V	V	0	root	_
+31	lugal	_[the.king]	N	N	30	ABS	_
+32	uri5{ki}-ma	_[Ur]	N	N	31	GEN	_
+33	{d}nin-gal	_[and.Ningal]	N	N	30	appos	_
+34	ama	_[the.mother]	N	N	30	appos	_
+35	uri5{ki}-ma-ke4	_[Ur]	N	N	36	nmod	_
+36	nam	_[curse]	N	N	34	GEN	_
+37	ha-ba-an-da-ku5-ne	_[him]	V	V	36	appos	_
+38	numun-na-ni	_[and.his.seed]	N	N	34	appos	_
+39	he2-eb-til-le-ne	_[may.they.bring.to.an.end]	V	V	34	acl	_
+

@@ -1,0 +1,97 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235702.atf
+# tr.en: grain-fed sheep second quality grain-fed sheep rd quality grain-fed sheep rd quality grain-fed sheep th quality grain-fed adult billygoat th quality Enlil grain-fed nanny goat grain-fed fine nd quality grain-fed rd quality grain-fed sheep th quality Enki grain-fed sheep th quality Ninsun grain-fed sheep th quality Inanna th day having passed from booked out Month Great Festival Year Szu-Suen king destroyed Simanum Szu-Suen mighty king king of Ur king of four corners Ur-Szulpae the scribe son of Ur-Haya is your servant
+1	...	_[_]	PN	N	2	dep	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	projectivity violation	
+5	us2	us[follow][-ø]	V	NF.V.ABS	6	acl	_	
+6	...	_[_]	PN	N	2	dep	_	
+7	udu	udu[sheep]	N	N	2	appos	projectivity violation	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	13	nummod	projectivity violation	
+10	us2	us[follow][-ø]	V	NF.V.ABS	11	acl	_	
+11	{d}x-a-x	_[rd.quality]	PN	PN	2	appos	projectivity violation	
+12	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+13	udu	udu[sheep]	N	N	2	appos	projectivity violation	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	13	acl	_	
+15	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	18	nummod	projectivity violation	
+16	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	projectivity violation	
+17	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+18	udu	udu[sheep]	N	N	2	appos	projectivity violation	
+19	niga	niga[fattened][-ø]	V	NF.V.ABS	18	acl	_	
+20	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	23	nummod	projectivity violation	
+21	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	projectivity violation	
+22	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+23	masz2-gal	maszgal[billy_goat]	N	N	2	appos	projectivity violation	
+24	niga	niga[fattened][-ø]	V	NF.V.ABS	23	acl	_	
+25	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	26	nummod	heuristic: NU premodifying	
+26	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	projectivity violation	
+27	{d}en-lil2	Enlil[1]	DN	DN	2	appos	projectivity violation	
+28	1(disz)	1(disz)[one]	NU	NU	32	nummod	projectivity violation	
+29	ud5	uzud[goat]	N	N	28	_	heuristic: attach to last	
+30	niga	niga[fattened][-ø]	V	NF.V.ABS	32	acl	_	
+31	szu-x-x	_[nanny.goat]	PN	PN	32	nmod	_	
+32	1(disz)	1(disz)[one]	NU	NU	2	nummod	projectivity violation	
+33	...	_[_]	PN	N	32	dep	_	
+34	niga	niga[fattened][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+35	saga	saga[good][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+36	us2	us[follow][-ø]	V	NF.V.ABS	37	acl	_	
+37	1(disz)	1(disz)[one]	NU	NU	32	nummod	projectivity violation	
+38	...	_[_]	PN	N	37	dep	heuristic: attach to last	
+39	niga	niga[fattened][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+40	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	41	nummod	heuristic: NU premodifying	
+41	us2	us[follow][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+42	1(disz)	1(disz)[one]	NU	NU	32	nummod	projectivity violation	
+43	udu	udu[sheep]	N	N	32	appos	projectivity violation	
+44	niga	niga[fattened][-ø]	V	NF.V.ABS	43	acl	_	
+45	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	46	nummod	heuristic: NU premodifying	
+46	us2	us[follow][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+47	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	49	nmod	_	
+48	...	_[_]	PN	N	47	dep	heuristic: attach to last	
+49	udu	udu[sheep]	N	N	32	appos	projectivity violation	
+50	niga	niga[fattened][-ø]	V	NF.V.ABS	49	acl	_	
+51	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	52	nummod	heuristic: NU premodifying	
+52	us2	us[follow][-ø]	V	NF.V.ABS	32	acl	projectivity violation	
+53	{d}nin-sun2	Ninsun[1][-ra]	FN	DN	32	appos	projectivity violation	
+54	1(disz)	1(disz)[one]	NU	NU	55	nummod	_	
+55	udu	udu[sheep]	N	N	32	appos	projectivity violation	
+56	niga	niga[fattened][-ø]	V	NF.V.ABS	55	acl	_	
+57	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	58	nummod	heuristic: NU premodifying	
+58	us2	us[follow][-ø]	V	NF.V.ABS	55	acl	_	
+59	{d}inanna	Inanna[1][-ak]	DN	DN	55	appos	_	
+60	x	_[_]	N	N	0	dep	_	
+61	x	_[_]	N	N	60	dep	_	
+62	x	_[_]	N	N	60	dep	_	
+63	iti	iti[month]	N	N	0	_	_	
+64	u4	ud[day]	N	N	62	appos	projectivity violation	
+65	2(u)	2(u)[ten]	NU	NU	6	nummod	projectivity violation	
+66	la2	la[hang][-ø]	V	NF.V.ABS	65	_	_	
+67	1(disz)	1(disz)[one]	NU	NU	66	nummod	_	
+68	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	6	acl	projectivity violation	
+69	ki	ki[place]	N	N	8	ABL	projectivity violation	
+70	...-x-ta	_	PN	PN.GEN.ABL	0	_	detached for projectivity; EN label	
+71	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	70	acl	_	
+72	iti	iti[month]	N	N	62	appos	projectivity violation	
+73	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	14	appos	projectivity violation	
+74	mu	mu[year]	N	N	63	appos	_	
+75	{d}szu-{d}suen	Szusuen[1]	RN	RN	74	appos	_	
+76	lugal-e	lugal[king]-e	N	N.ERG	18	ABS	projectivity violation	
+77	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	21	appos	projectivity violation	
+78	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	75	acl	_	
+79	{d}szu-{d}suen	Szusuen[1]	RN	RN	78	ABS	_	
+80	lugal	lugal[king]	N	N	79	appos	_	
+81	kal-ga	kalag[strong]-a	V	NF.V.SUB	80	acl	_	
+82	lugal	lugal[king]	N	N	79	appos	_	
+83	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	82	GEN	_	
+84	lugal	lugal[king]	N	N	79	appos	_	
+85	an	An[1][-ra]	N	N	30	nummod	projectivity violation	
+86	ub-da	_	N	N	75	appos	projectivity violation	
+87	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	84	nummod	_	
+88	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	32	appos	projectivity violation	
+89	dub-sar	dubsar[scribe]	N	N	32	appos	projectivity violation	
+90	dumu	dumu[child]	N	N	33	appos	_	
+91	ur-{d}ha-ia3	Urha'ia[1][-ak][-ø]	PN	PN.GEN.ABS	90	GEN	_	
+92	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	0	_	detached for projectivity
+	
+

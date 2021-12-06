@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of personnel oxen of plow foreman Szekala and Ur-engaldudu house are here
+# train/P107135.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	11	ABS	_	
+3	giri3-se3-ga	girsiga[attendant]	N	N	2	GEN	_	
+4	gu4-apin-la2-kam	_[oxen.plow]	N	N	2	appos	_	
+5	ugula	ugula[overseer][-ø]	N	N	6	nmod	_	
+6	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	2	appos	_	
+7	u3	u[and]	CNJ	CNJ	2	appos	_	
+8	ur-en-gal-du-du	_[Ur-engaldudu]	PN	PN	2	appos	_	
+9	e2	e[house]	N	N	10	nmod	_	
+10	...	_[_]	PN	N	2	dep	_	
+11	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

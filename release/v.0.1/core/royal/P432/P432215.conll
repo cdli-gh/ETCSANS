@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Igalima the beloved son of Ningirsu his master Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life
+1	{d}ig-alim	{d}ig-alim[1]	DN	DN	0	DAT	_
+2	dumu	dumu[child]	N	N	3	ABS	_
+3	ki-ag2	ki[place]+ag2[measure]	V	NF.V	1	amod	_
+4	{d}nin-gir2-su-ka	{d}nin-gir2-su[1]	DN	DN.GEN	3	GEN	_
+5	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	3	appos	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	ERG	_
+7	nita	nita[male]	N	N	6	appos	_
+8	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_
+9	lugal	lugal[king]	N	N	6	appos	_
+10	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	6	appos	_
+12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_
+13	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	12	appos	_
+14	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	0	TERM	_
+

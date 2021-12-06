@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: king of Ur and king of four world quarters the man who temple of Ulmatum
+1	lugal	lugal[king]	N	N	0	root	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	an	_	_	_	3	_	_
+5	ub-da	an-ub-da[quarter]	N	N	3	appos	_
+6	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	5	nummod	_
+7	lu2	lu2[person]	N	N	3	GEN	_
+8	e2	e2[house]	N	N	3	appos	_
+9	{d}ul-ma-szi-tum-ma	{d}ul-ma-szi-tum[1]	DN	DN.GEN.ABS	8	appos	_
+

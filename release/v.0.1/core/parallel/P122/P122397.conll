@@ -1,0 +1,51 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P122397.atf
+# tr.en: barig ban barley did Szekalla barig ban did Azida barig ban did Ur-Ninurta barley loan of Enlil from Lugal-namtare receive under seal of Ur-Ninurta the harvest will remit this debt That My field by flooding was ruined or by storm was ruined they will not say to king or chief administrator they will not say by royal name they have sworn the extra month Harvest the year En-amgal of Inanna by omens was chosen Ur-Ninurta son of Lu-Lamma
+1	1(barig)	1(bariga)[unit]	NU	N	6	nummod	projectivity violation	
+2	4(ban2)	4(ban)[unit]	NU	N	3	nummod	_	
+3	sze	sze[barley]	N	N	7	ABS	projectivity violation	
+4	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	3	_	heuristic: after nominal	
+5	1(barig)	1(bariga)[unit]	NU	N	9	nummod	projectivity violation	
+6	4(ban2)	4(ban)[unit]	NU	N	7	nummod	_	
+7	a2-zi-da	Azida[1][-ra]	PN	PN.DAT-H	0	root	_	
+8	1(barig)	1(bariga)[unit]	NU	N	9	nummod	heuristic: NU premodifying	
+9	4(ban2)	4(ban)[unit]	NU	N	7	nummod	_	
+10	ur-{d}nin-urta	_[did.Ur-Ninurta]	PN	PN	9	acl	_	
+11	sze	sze[barley]	N	N	12	nmod	_	
+12	ur5-ra	urra[loan]	N	N	10	ABS	_	
+13	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	12	GEN	_	
+14	ki	ki[place]	N	N	17	ABL	projectivity violation	
+15	lugal-nam-tar-re-ta	_[Lugal-namtare]	PN	PN.GEN.ABL	17	acl	projectivity violation	
+16	szu	szu[hand][-e]	N	N.L3-NH	7	appos	projectivity violation	
+17	ba-ti-esz2	ba[-n]-teg[accept][-esz]	V	MID.3-SG-H-A.V.3-PL	10	acl	_	
+18	kiszib3	kiszib[seal]	N	N	7	LOC	_	
+19	ur-{d}nin-urta	_[Ur-Ninurta]	PN	PN	18	GEN	_	
+20	buru14	_[the.harvest]	N	N	21	ERG	_	
+21	ama-bi	_[will.remit]	N	N	18	parataxis	_	
+22	gi4-gi4	_[this.debt]	V	V	21	acl	_	
+23	a-sza3-mu	_[That.My]	N	N.GEN	25	_	_	
+24	a-e	_[field.by]	N	N	25	ABS	_	
+25	ba-ab-rex(HU)	_[flooding.was.ruined.or]	V	MID.3-SG-H-A.V.3-PL	27	ccomp 	_	
+26	u4-de3	_	N	N.L3-NH	25	appos	_	
+27	ba-ab-rex(HU)	_[was.ruined]	V	MID.3-SG-H-A.V.3-PL	28	acl	_	
+28	nu-ub-be2-ne-a	_[they.will.not.say]	PN	PN	18	parataxis	_	
+29	lugal-ra	_[to.king]	N	N	28	LOC	_	
+30	u3	u[and]	CNJ	CNJ	29	appos	_	
+31	sanga	sagga[temple_administrator]	N	N	30	_	heuristic: attach to last	
+32	nu-na-be2-ne-a	_[or.chief.administrator.they.will.not.say]	V	NF.V.SUB	29	acl	_	
+33	mu	mu[year]	N	N	18	appos	projectivity violation	
+34	lugal-bi	_[by]	N	N	35	ERG	_	
+35	i3-pa3-de3-esz2	_[royal.name.they.have.sworn]	V	FIN.3-SG-H-A.V.3-PL	29	acl	_	
+36	iti	iti[month]	N	N	38	_	_	
+37	diri	diri[intercalary_month]	N	N	36	appos	_	
+38	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	18	parataxis	_	
+39	mu	mu[year]	N	N	38	appos	_	
+40	en-am-gal	Enamgalanna[1]	PN	PN	43	ABS	_	
+41	{d}inanna	Inanna[1][-ak]	DN	DN	40	GEN	_	
+42	masz2-e	masz[goat]-e	N	N.L3-NH	40	ERG	_	
+43	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	38	acl	_	
+44	ur-{d}nin-urta	_[Ur-Ninurta]	PN	PN	18	appos	_	
+45	dumu	dumu[child]	N	N	44	appos	_	
+46	lu2-{d}lamma	_[Lu-Lamma]	PN	PN	45	GEN	_
+	
+

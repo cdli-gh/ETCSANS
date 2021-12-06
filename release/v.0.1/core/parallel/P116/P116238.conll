@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P116238.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	la2-ia3	la'u[arrears]	N	N	1	_	heuristic: after nominal head	
+3	sipa	sipa[shepherd]	N	N	1	_	heuristic: after nominal head	
+4	unu3	_	GN	GN	1	_	heuristic: after nominal head	
+5	sipa	sipa[shepherd]	N	N	1	_	heuristic: after nominal head	
+6	udu	udu[sheep]	N	N	1	appos	_	
+7	gukkal	gukkal[fat-tailed_sheep]	N	N	1	_	heuristic: after nominal head	
+8	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	1	_	heuristic: after nominal head	
+9	gu2-ab-ba{ki}-sze3	_[xxx]	SN	SN.GEN.GEN.TERM	1	_	heuristic: after nominal head	
+10	nig2-ka9-ak	nigSZID[account]	N	N	1	_	heuristic: after nominal head	
+11	si-i3-tum	situm[balance]	N	N	1	_	heuristic: after nominal head	
+12	nig2-e3-a	_	PN	PN	1	_	heuristic: after nominal head	
+13	sipa	sipa[shepherd]	N	N	1	_	heuristic: after nominal head	
+14	unu3-de3	_[xxx]	V	V	1	_	heuristic: after nominal head	
+15	giri3	giri[foot]	N	N	1	_	heuristic: after nominal head	
+16	ARAD2-mu	Aradmu[1]	PN	PN	1	_	heuristic: after nominal head	
+17	es3-sa2-ab-du	_[xxx]	N	N.GEN	1	_	heuristic: after nominal head	
+18	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+19	dub	dub[tablet]	N	N	1	_	heuristic: after nominal head	
+20	gid2-da-bi	_[xxx]	V	NF.V.3-SG-NH-POSS.ABS	23	acl	projectivity violation	
+21	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	23	acl	projectivity violation	
+22	mu	mu[year]	N	N	1	appos	_	
+23	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	1	appos	_	
+24	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

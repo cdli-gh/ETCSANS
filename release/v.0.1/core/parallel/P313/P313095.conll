@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: rams barley-fed fat-tailed rams barley-fed ewes barley-fed fat-tailed ewe barley-fed full-grown billy goats barley-fed regular offerings to Ninlil th day at Tummal from month year less
+# train/P313095.atf
+1	1(u)	1(u)[ten]	NU	NU	4	nummod	projectivity violation	
+2	1(disz)	1(disz)[one]	NU	NU	6	nummod	projectivity violation	
+3	udu	udu[sheep]	N	N	0	root	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+6	gukkal	gukkal[fat-tailed_sheep]	N	N	4	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+8	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+9	u8	u[ewe]	N	N	4	appos	_	
+10	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+12	u8	u[ewe]	N	N	4	appos	_	
+13	gukkal	gukkal[fat-tailed_sheep]	N	N	12	appos	_	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+16	3(disz)	3(disz)[one]	NU	NU	15	nummod	_	
+17	masz2-gal	maszgal[billy_goat]	N	N	4	appos	_	
+18	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+19	sa2-du11	sadug[offerings]	N	N	3	appos	_	
+20	{d}nin-lil2-la2	Ninlil[1][-ak][-ø]	DN	DN.GEN.ABS	19	LOC	_	
+21	u4	ud[day]	N	N	3	appos	_	
+22	3(u)	3(u)[ten]	NU	NU	3	nummod	_	
+23	la2	la[hang][-ø]	V	NF.V.ABS	22	_	_	
+24	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	sza3	szag[heart]	N	N	26	LOC	_	
+26	tum-ma-al	Tummal[1][-ak][-'a]	SN	SN.GEN.L1	3	LOC	_	
+27	ki	ki[place]	N	N	28	ABL	_	
+28	...-ta	_[_]-ta	PN	PN.GEN.ABL	26	ABL	_	
+29	iti	iti[month]	N	N	26	appos	_	
+30	...-x	_[_]	WN	RN	26	dep	_	
+31	mu	mu[year]	N	N	26	appos	_	
+32	...	_[_]	PN	N	31	dep	_	
+33	3(u)	3(u)[ten]	NU	NU	34	nummod	_	
+34	la2	la[hang][-ø]	V	NF.V.ABS	26	_	_	
+35	1(disz)	1(disz)[one]	NU	NU	3	nummod	_
+	
+

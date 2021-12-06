@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ratface son of Ur-Ikur
+# train/P455257.atf
+1	igi-pesz2	_[Ratface]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	2	GEN	_
+	
+

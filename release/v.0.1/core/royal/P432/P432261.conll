@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Enlil the king of all lands his beloved master Amar-Suena whom Enlil in Nippur nominated the constant supporter of temple of Enlil the mighty king king or Ur and king of four world quarters the temple where date syrup ghee and wine in his place of offerings never cease he built for him	
+1	{d}en-lil2	{d}en-lil2[1]	DN	DN	10	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kur-kur-ra	kur-kur[mountain]	N	N-RDP.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	5	ABS	_
+5	ki-ag2-ga2-ni-ir	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	2	amod	_
+6	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	10	ERG	_
+7	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	6	appos	_
+8	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	10	LOC	_
+9	mu	mu[name]	N	N.ABS	10	ABS	_
+10	pa3-da	pad3[find]	V	NF.V.PT	29	ERG	_
+11	sag-us2	sag-us2[constant]	V	NF.V	10	appos	_
+12	e2	e2[house]	N	N	11	GEN	_
+13	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	12	GEN	_
+14	lugal	lugal[king]	N	N	10	appos	_
+15	kal-ga	kalag[strong]	V	NF.V.PT	14	amod	_
+16	lugal	lugal[king]	N	N	10	appos	_
+17	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	16	appos	_
+18	lugal	lugal[king]	N	N	10	appos	_
+19	an	_	_	_	18	_	_
+20	ub-da	an-ub-da[quarter]	N	N	18	appos	_
+21	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	20	nummod	_
+22	e2	e2[house]	N	N	29	ABS	_
+23	lal3	lal3[syrup]	N	N.ABS	22	appos	_
+24	i3-nun	i3-nun[ghee]	N	N.ABS	23	conj	_
+25	u3	u3[and]	CNJ	CNJ	23	cc	_
+26	gesztin	gesztin[vine]	N	N.ABS	23	conj	_
+27	ki	ki[place]	N	N	29	LOC	_
+28	siskur2-ra-ka-na	sizkur2[prayer]	N	N.GEN.3-SG-H-POSS.L1	27	appos	_
+29	nu-silig-ge	silig[cease]	V	NEG.NF.V.PF.ABS	30	ABS	_
+30	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

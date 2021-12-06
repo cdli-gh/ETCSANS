@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections seized of houses of gods in Girsu are here year chair of Enlil was fashioned
+# train/P204484.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	7	ABS	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	2	acl	_	
+4	e2-dingir-re-ne	_[of.houses.of.gods]	PN	PN	2	GEN	_	
+5	sza3	szag[heart]	N	N	6	LOC	_	
+6	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	4	LOC	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	11	_	_	
+9	{gesz}gu-za	guza[chair]	N	N	11	ABS	_	
+10	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	9	GEN	_	
+11	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

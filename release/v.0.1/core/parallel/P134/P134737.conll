@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P134737.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	_	
+3	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+4	{d}szara2-kam	Szarakam[1]	PN	PN	3	_	heuristic: attach to last	
+5	ki	ki[place]	N	N	4	_	heuristic: attach to last	
+6	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	5	_	heuristic: attach to last	
+7	iti	iti[month]	N	N	6	_	heuristic: attach to last	
+8	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	MN.ABL	7	_	heuristic: attach to last	
+9	iti	iti[month]	N	N	8	_	heuristic: attach to last	
+10	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	9	_	heuristic: attach to last	
+11	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	10	_	heuristic: attach to last	
+12	iti	iti[month]	N	N	11	_	heuristic: attach to last	
+13	diri-am3	_[xxx]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	18	_	_	
+14	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	18	acl	_	
+15	iti	iti[month]	N	N	18	nmod	_	
+16	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+17	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	16	nummod	_	
+18	mu	mu[year]	N	N	1	appos	_	
+19	{d}gu-za	guza[chair]	PN	N	1	appos	_	
+20	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	0	_	_	
+21	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P416491.atf
+# tr.en: laborer days at threshing floor of field Willow stationed foreman Ur-mes under seal of Lugal-emae via Tuga year high-priest of Eridu was installed Lugal-emae scribe son of Lugal-kugani
+1	6(gesz2)	6(gesz)[sixty]	NU	NU	10	nummod	_	
+2	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+3	8(disz)	8(disz)[one]	NU	NU	1	nummod	_	
+4	gurusz	gurusz[male]	N	N	5	nmod	_	
+5	u4	ud[day]	N	N	10	date	_	
+6	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	10	nummod	heuristic: NU premodifying	
+7	ki-su7	kisur[threshing_floor]	N	N	10	LOC	_	
+8	a-sza3	aszag[field]	N	N	7	GEN	_	
+9	{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	8	acl	_	
+10	ugula	ugula[overseer][-ø]	N	N	0	root	_	
+11	ur-mes	Urmes[1]	PN	PN	10	appos	_	
+12	kiszib3	kiszib[seal]	N	N	11	LOC	_	
+13	lugal-e2-mah-e	Lugalemahe[1]	N	PN	12	GEN	_	
+14	giri3	giri[foot]	N	N	15	via	_	
+15	tu-ga-asz	_[Tuga]	PN	PN	11	via	_	
+16	mu	mu[year]	N	N	11	appos	_	
+17	en	en[priest]	N	N	19	ABS	_	
+18	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	17	GEN	_	
+19	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	16	acl	_	
+20	lugal-e2-mah-e	Lugalemahe[1]	N	PN	19	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	22	GEN	_
+	
+

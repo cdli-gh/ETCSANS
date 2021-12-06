@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102298.atf
+# tr.en: male laborere workdays forest Szum-bad- charcoal Gamala foreman Ur-amma under seal of Lugalnir month Festival of Szulgi year stele was erected Lugalnir scribe son of Ur-Szara chief accountant
+1	1(u)	1(u)[ten]	NU	NU	5	nummod	_	
+2	la2	la[hang][-ø]	V	NF.V.ABS	1	_	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	gurusz	gurusz[male]	N	N	5	acl	_	
+5	u4	ud[day]	N	N	0	root	_	
+6	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	10	nummod	heuristic: NU premodifying	
+7	tir	tir[forester][-ak]	N	N.GEN	6	_	heuristic: attach to last	
+8	szum2-bad3-x	_[forest.Szum-bad-]	PN	PN	10	nmod	_	
+9	{gesz}u2-bil2-x	_[charcoal]	PN	PN	10	nmod	_	
+10	ga-ma-la	_[Gamala]	PN	PN	5	appos	_	
+11	ugula	ugula[overseer][-ø]	N	N	5	appos	_	
+12	ur-am3-ma	Uramma[1][-ak]	PN	PN	11	appos	_	
+13	kiszib3	kiszib[seal]	N	N	5	appos	_	
+14	lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	13	GEN	_	
+15	iti	iti[month]	N	N	17	_	_	
+16	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	17	_	_	
+17	mu	mu[year]	N	N	5	appos	_	
+18	na-ru2-a	narua[stele]	PN	N	19	ABS	_	
+19	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	17	acl	_	
+20	lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	5	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	ur-{d}szara2	Urszara[1]	PN	PN	22	GEN	_	
+24	sza13-dub-ba-ka	bisagdubak[archivist][-ak]	N	N.GEN	23	appos	_
+	
+

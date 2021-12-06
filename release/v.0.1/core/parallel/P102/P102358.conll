@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep alum grain-fed slaughtered among old th day from Tram-Dagan Szulgi-irimu received month Piglet-feast year
+# train/P102358.atf new_text=P102358
+# train/P102358.atf						#new_text=P102358
+20	1(disz)	1(disz)[one]	NU	NU	0	nummod	_
+	
+

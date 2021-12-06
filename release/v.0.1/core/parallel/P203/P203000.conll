@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203000.atf
+# tr.en: Basket-of-tablets accounts of requisitioners are here year Simurum Lulubu were destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	5	ABS	_	
+3	lu2	lu[person]	N	N	2	_	heuristic: attach to last	
+4	nig2-dab5-ke4-ne	_[requisitioners]	N	N.GEN.PL	2	GEN	_	
+5	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+6	mu	mu[year]	N	N	9	_	_	
+7	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	8	nmod	_	
+8	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	9	ABS	_	
+9	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	5	parataxis	_
+	
+

@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P356067.atf
+# tr.en: Basket-of-tablets house of irrigation for oxen distributed are here year Szu-Suen king of Ur Ma-dara-apsu fashioned
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2	e[house]	N	N	6	ABS	_	
+3	a-de2	_[irrigation]	V	V	2	acl	_	
+4	gu4-sze3	_[for.oxen]	N	N	2	DAT	_	
+5	ha-la	Hala[1][-ra]	PN	PN.DAT-H	4	acl	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+7	mu	mu[year]	N	N	6	parataxis	_	
+8	{d}szu-{d}suen	Szusuen[1]	RN	RN	7	appos	_	
+9	lugal	lugal[king]	N	N	8	appos	_	
+10	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	9	GEN	_	
+11	ma2-dara3-abzu	Madara'abzu[1]	ON	ON	8	appos	_	
+12	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	8	appos	_	
+13	in-dim2	_[Ma-dara-apsu.fashioned]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	8	acl	_
+	
+

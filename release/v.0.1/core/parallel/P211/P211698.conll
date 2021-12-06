@@ -1,0 +1,54 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P211698.atf new_text=P211698
+# tr.en: Basket-of-tablets sealed documents of dab Daga kuge son of Ayabbani and Lugal-kuzu manager sealed documents to be canceled and to carried Ur-Szulpae to be carried trade agents sealed documents garments of Szara harbor of governor sealed documents garments leather Inanna sealed documents of Ur- chief accountant and of Ur-Nungal Apisal Mubiana year Sz-Suen is king
+# train/P211698.atf						#new_text=P211698
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	3	acl	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	16	ERG	_	
+4	da-ga-x	_[dab]	PN	PN.GEN	3	GEN	_	
+5	x-ku3-ge	_	PN	PN	4	appos	_	
+6	dumu	dumu[child]	N	N	4	appos	_	
+7	a-ab-ba-ni	_[Ayabbani]	PN	PN.GEN.GEN.ABS	6	GEN	_	
+8	u3	u[and]	CNJ	CNJ	4	appos	_	
+9	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	4	appos	_	
+10	nu-banda3	nubanda[overseer][-ø]	N	N	9	appos	_	
+11	kiszib3	kiszib[seal]	N	N	12	acl	_	
+12	zi-re	zir[break]-ed	V	NF.V.F	9	acl	_	
+13	u3	u[and]	CNJ	CNJ	9	appos	projectivity violation	
+14	kiszib3-kiszib3-sze3	_[to.to]	N	N.TERM	15	_	_	
+15	tum3	_[be.canceled.carried]	V	V	12	acl	_	
+16	tum3	_[be.canceled.carried]	V	V	1	acl	_	
+17	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	16	ERG	_	
+18	kiszib3-kiszib3-sze3	_[to]	N	N.TERM	19	_	_	
+19	tum3	_[be.carried.trade]	V	V	16	acl	_	
+20	dam-gar3-ne	_[agents]	V	V	16	ABS	_	
+21	kiszib3	kiszib[seal]	N	N	20	appos	_	
+22	tug2	tug[textile]	N	N	20	appos	_	
+23	{d}szara2	Szara[1][-ak]	DN	DN	22	GEN	_	
+24	kar-ra	_[harbor]	V	V	23	acl	_	
+25	ensi2-ka	ensik[ruler]-ak	N	N.GEN	24	GEN	_	
+26	kiszib3	kiszib[seal]	N	N	22	appos	_	
+27	tug2	tug[textile]	N	N	26	appos	_	
+28	kusz	kusz[leather]	N	N	26	appos	_	
+29	x	_[_]	N	N	28	dep	heuristic: attach to last	
+30	{d}inanna	Inanna[1][-ak]	DN	DN	28	appos	_	
+31	bi2-za-ka	_[leather]	V	V	26	acl	_	
+32	a	a[water][-ø]	N	N.ABS	31	_	heuristic: attach to last	
+33	x	_[_]	N	N	32	dep	heuristic: attach to last	
+34	x	_[_]	N	N	33	dep	heuristic: attach to last	
+35	kiszib3	kiszib[seal]	N	N	26	appos	_	
+36	ur-{d}x	_[Ur-]	PN	PN	37	nmod	_	
+37	sza13-dub-ba	bisagdubak[archivist]	N	N	26	appos	_	
+38	u3	u[and]	CNJ	CNJ	26	appos	_	
+39	ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	26	appos	_	
+40	x	_[_]	N	N	39	dep	heuristic: attach to last	
+41	x	_[_]	N	N	40	dep	heuristic: attach to last	
+42	x	_[_]	N	N	41	dep	heuristic: attach to last	
+43	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	39	appos	_	
+44	musz-bi-an-na	Muszbi'anna[1][-ak]	FN	FN.L1	39	appos	_	
+45	mu	mu[year]	N	N	47	_	_	
+46	{d}szu-{d}suen	Szusuen[1]	RN	RN	47	ABS	_	
+47	lugal	lugal[king]	N	N	20	appos	_	
+48	x	_[_]	N	N	1	dep	_
+	
+

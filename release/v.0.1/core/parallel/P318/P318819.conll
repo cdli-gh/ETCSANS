@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P318819.atf
+# tr.en: Basket-of-tablets plow-oxen stationed the house of consignments house of Ningirsu house of Amar-Suen are here year
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gu4-apin	_[plow-oxen]	N	N	9	ABS	_	
+3	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	2	acl	_	
+4	e2-szu-szum2-ma	_[the.house.consignments]	PN	PN	2	appos	_	
+5	e2	e[house]	N	N	2	appos	_	
+6	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	5	GEN	_	
+7	e2	e[house]	N	N	2	appos	_	
+8	{d}amar-{d}suen	Amarsuen[1]	RN	RN	7	GEN	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+10	mu	mu[year]	N	N	9	appos	_
+	
+

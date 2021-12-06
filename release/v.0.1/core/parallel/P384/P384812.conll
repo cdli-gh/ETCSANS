@@ -1,0 +1,45 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384812.atf
+# tr.en: Szekalla shekels for Szakuge son of Szaraga shekels for Ur-Szara son of Szekalla shekel for En- son of booked out in Tummal
+1	...-da	_[_]	PN	PN	0	_	_	
+2	...	_[_]	PN	N	0	dep	_	
+3	x	_[_]	N	N	0	dep	_	
+4	am3-ma-nu-um	_	PN	PN	0	_	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	0	_	_	
+7	...	_[_]	PN	N	0	dep	_	
+8	x	_[_]	N	N	0	dep	_	
+9	ur	_	PN	N	0	_	_	
+10	x	_[_]	N	N	0	dep	_	
+11	...	_[_]	PN	N	0	dep	_	
+12	x	_[_]	N	N	0	dep	_	
+13	x	_[_]	N	N	0	dep	_	
+14	...	_[_]	PN	N	0	dep	_	
+15	x	_[_]	N	N	0	dep	_	
+16	x	_[_]	N	N	0	dep	_	
+17	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+18	gin2	gig[unit]	N	N	0	nmod	_	
+19	sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	18	DAT	_	
+20	dumu	dumu[child]	N	N	19	appos	_	
+21	{d}szara2-ga2	_[for.Szaraga]	PN	PN.GEN.L1	19	DAT	_	
+22	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+23	gin2	gig[unit]	N	N	0	nmod	_	
+24	ur-{d}szara2	Urszara[1]	PN	PN	23	DAT	_	
+25	dumu	dumu[child]	N	N	24	appos	_	
+26	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	25	GEN	_	
+27	1(disz)	1(disz)[one]	NU	NU	31	nummod	_	
+28	gin2	gig[unit]	N	N	0	_	detached for projectivity	
+29	en	en[priest]	N	N	28	_	heuristic: after nominal head	
+30	x	_[_]	N	N	28	dep	heuristic: after nominal head	
+31	x	_[_]	N	N	28	dep	_	
+32	zi-ga	_[booked.out]	V	V	0	acl	_	
+33	sza3	zig[expend]-a	V	NF.V.PT	34	acl	_	
+34	tum-malx(TUR3){ki}	szag[heart]	N	N	32	LOC	_	
+35	x	_	SN	SN.GEN.GEN.L1	0	dep	_	
+36	x	_[_]	N	N	35	dep	_	
+37	x	_[_]	N	N	35	dep	_	
+38	x	_[_]	N	N	0	dep	_	
+39	x	_[_]	N	N	0	dep	_	
+40	x	_[_]	N	N	0	dep	_
+	
+

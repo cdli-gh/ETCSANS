@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P407055.atf						#new_text=P407055
+# train/P407055.atf new_text=P407055
+# tr.en: sheep instead of sheep grain-fed in Ur via Puzri-Enlil son of Lugal-itida place of copy of sealed document of Abbakala month Akitu year high-priest of Inanna was named
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	mu	mu[year]	N	N	2	appos	_	
+4	udu	udu[sheep]	N	N	2	appos	_	
+5	niga-sze3	_[grain-fed]	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	2	acl	_	
+6	sza3	szag[heart]	N	N	7	LOC	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	2	LOC	_	
+8	giri3	giri[foot]	N	N	9	via	_	
+9	puzur4-{d}en-lil2	Puzurenlil[1][-ra]	PN	PN	2	via	_	
+10	dumu	dumu[child]	N	N	9	appos	_	
+11	lugal-iti-da	Lugalitida[1]	PN	PN	10	GEN	_	
+12	ki	ki[place]	N	N	2	_	heuristic: after nominal head	
+13	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	14	nmod	_	
+14	gaba-ri	gabari[copy]	N	N	2	appos	_	
+15	kiszib3	kiszib[seal]	N	N	14	GEN	_	
+16	ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	15	GEN	_	
+23	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	2	_	_
+	
+

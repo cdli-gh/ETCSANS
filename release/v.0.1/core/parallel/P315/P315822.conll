@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of -abba are here year Enunugal of Inanna was hired
+# dev/P315822.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	5	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: attach to last	
+4	x-ab-ba	_[of.-abba]	DN	DN	2	GEN	_	
+5	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+6	mu	mu[year]	N	N	9	_	_	
+7	en-unu6-gal	Enunugal[1]	PN	PN	9	ABS	_	
+8	{d}inanna	Inanna[1][-ak]	DN	DN	7	GEN	_	
+9	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	5	parataxis	_
+	
+

@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jack th day from Abbasaga Sz-Erra accepted month Ubi-feast year Enunugal of Inanna in Uruk was installed
+# test/P464283.atf new_text=P464283
+# test/P464283.atf						#new_text=P464283
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	iti	iti[month]	N	N	11	_	_	
+11	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	2	appos	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	en-unu6-gal	Enunugal[1]	PN	PN	17	ABS	_	
+14	{d}inanna	Inanna[1][-ak]	DN	DN	13	GEN	_	
+15	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	13	LOC	_	
+16	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	17	acl	_	
+17	1(disz)	1(disz)[one]	NU	NU	11	nummod	_
+	
+2	dusu2-nita2	_[jack]	PN	PN	18	_	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+5	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	ki	ki[place]	N	N	8	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	8	nmod	_	
+8	szu-er3-ra	Szu'era[1][-e]	PN	PN	2	ABL	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	8	acl	_	
+

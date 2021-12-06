@@ -1,0 +1,219 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P113273.atf
+# tr.en: mana silver exchange for red gold from governor via Ur-Szulpae silversmith gur dates its silver mana from Ur-Szulpae gur barley its silver mana Total mana shekels silver are debit Therefrom talent mana copper its silver mana shekels grains shekels of sue its silver shekel grains under seal of Lu-Enlila ban sila grains of plant oil its silver shekels grains ban of EA-bitumen its silver grains ban of horned alkali-plant under seal of Ur- barig horned alkali-plant their silver grains for chariot of Szulpae under seal of Lugal- ban of horned alkali-plant its silver grains under seal of Akalla leatherworker talents of dried bitumen its silver mana shekel sila EA-bitumen its silver shekels grains under seal of Adumu ban of raisins its silver shekel ban of mixed SZIM its silver in debit account of Lu-Ninubur set mana shekels grains silver credit of account mana of tin its silver shekels for big-nail of ensi under seal of Lukalla mana silver exchange silver for red gold in Nippur mana shekels silver the igikar of queen did Ur-Szulpae silversmith receive Total mana shekels grain silver booked out Deficit mana shekels account concerning Ur-Dumuzida month Dumuzi year high-priest of Eridu was installed
+1	3(disz)	3(disz)[one]	NU	NU	4	nummod	_	
+2	1/2(disz)	1/2(disz)[one]	NU	NU	1	nummod	_	
+3	ma-na	mana[unit]	N	N	4	nmod	_	
+4	ku3-babbar	kugbabbar[silver]	N	N	0	root	_	
+5	sa10-am3	sa[pay_for][-a]-am	N	NF.V.PT.COP-3-SG	4	appos	_	
+6	ku3-husz-a	_[for.red.gold]	N	N	5	DAT	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	ensi2-ka-ta	ensik[ruler]-ak-ta	N	N.GEN.ABL	4	ABL	_	
+9	giri3	giri[foot]	N	N	10	via	_	
+10	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	4	via	_	
+11	ku3-dim2	kugdim[smith]	N	N	10	appos	_	
+12	1(gesz2)	1(gesz)[sixty]	NU	NU	15	nummod	_	
+13	1(u)	1(u)[ten]	NU	NU	12	nummod	_	
+14	2(asz)	2(asz)[one]	NU	NU	12	nummod	_	
+15	zu2-lum	zulum[date]	N	N	4	appos	_	
+16	gur	gur[unit]	N	N	15	appos	_	
+17	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	15	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	19	nummod	heuristic: NU premodifying	
+19	ma-na	mana[unit]	N	N	15	appos	_	
+20	ki	ki[place]	N	N	21	ABL	_	
+21	ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	19	ABL	_	
+22	3(u)	3(u)[ten]	NU	NU	23	nummod	_	
+23	sze	sze[barley]	N	N	19	appos	_	
+24	gur	gur[unit]	N	N	23	appos	_	
+25	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	23	appos	_	
+26	2/3(disz)	2/3(disz)[one]	NU	NU	19	nummod	projectivity violation	
+27	ma-na	mana[unit]	N	N	23	appos	_	
+28	szunigin	szunigin[total]	N	N	19	appos	_	
+29	5(disz)	5(disz)[one]	NU	NU	34	nummod	heuristic: NU premodifying	
+30	ma-na	mana[unit]	N	N	34	ABS	_	
+31	1(u)	1(u)[ten]	NU	NU	33	nummod	heuristic: NU premodifying	
+32	gin2	gig[unit]	N	N	33	nmod	_	
+33	ku3-babbar	kugbabbar[silver]	N	N	30	appos	_	
+34	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	28	appos	_	
+35	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	34	appos	_	
+36	1(asz)	1(asz)[one]	NU	NU	34	nummod	projectivity violation	
+37	gu2	gun[unit]	N	N	35	appos	_	
+38	5(disz)	5(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+39	ma-na	mana[unit]	N	N	40	nmod	_	
+40	uruda	urud[copper][-ak]	N	N	37	appos	_	
+41	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	34	appos	_	
+42	1/2(disz)	1/2(disz)[one]	NU	NU	43	nummod	_	
+43	ma-na	mana[unit]	N	N	41	appos	_	
+44	5(disz)	5(disz)[one]	NU	NU	43	nummod	_	
+45	2/3(disz)	2/3(disz)[one]	NU	NU	44	nummod	_	
+46	gin2	gig[unit]	N	N	43	appos	_	
+47	1(u)	1(u)[ten]	NU	NU	48	nummod	_	
+48	5(disz)	5(disz)[one]	NU	NU	43	nummod	_	
+49	sze	sze[barley]	N	N	48	_	heuristic: attach to head	
+50	2(u)!	2(u)[ten]	NU	NU	48	nummod	_	
+51	2(disz)	2(disz)[one]	NU	NU	48	nummod	projectivity violation	
+52	gin2	gig[unit]	N	N	51	_	heuristic: attach to last	
+53	su-he2	_[of.sue]	N	N.ABS	50	GEN	_	
+54	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	48	appos	_	
+55	1/3(disz)	1/3(disz)[one]	NU	NU	56	nummod	heuristic: NU premodifying	
+56	gin2	gig[unit]	N	N	48	appos	_	
+57	6(disz)	6(disz)[one][-sze]	NU	NU	58	nummod	heuristic: NU premodifying	
+58	sze	sze[barley]	N	N	56	appos	_	
+59	x	_[_]	N	N	58	dep	heuristic: attach to last	
+60	kiszib3	kiszib[seal]	N	N	58	LOC	_	
+61	lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	60	GEN	_	
+62	3(ban2)	3(ban)[unit]	NU	N	61	nummod	_	
+63	6(disz)	6(disz)[one][-sze]	NU	NU	56	nummod	_	
+64	2/3(disz)	2/3(disz)[one]	NU	NU	63	nummod	_	
+65	sila3	sila[unit]	N	N	63	appos	_	
+66	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+67	1/2(disz)	1/2(disz)[one]	NU	NU	66	nummod	_	
+68	sze	sze[barley]	N	N	65	appos	_	
+69	i3-gesz	igesz[oil]	V	N	68	acl	_	
+70	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	63	appos	_	
+71	3(disz)	3(disz)[one]	NU	NU	76	nummod	projectivity violation	
+72	2/3(disz)	2/3(disz)[one]	NU	NU	73	nummod	_	
+73	gin2	gig[unit]	N	N	63	appos	_	
+74	1(disz)	1(disz)[one]	NU	NU	77	nummod	projectivity violation	
+75	1/2(disz)	1/2(disz)[one]	NU	NU	74	nummod	_	
+76	sze	sze[barley]	N	N	73	appos	_	
+77	2(ban2)	2(ban)[unit]	NU	N	73	nummod	_	
+78	esir2	esir[bitumen]	N	N	77	GEN	_	
+79	E2-A	Ea[1]	ON	ON	77	appos	_	
+80	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	77	appos	_	
+81	2(u)	2(u)[ten]	NU	NU	84	nummod	projectivity violation	
+82	4(disz)	4(disz)[one]	NU	NU	81	nummod	_	
+83	sze	sze[barley]	N	N	77	appos	_	
+84	2(ban2)	2(ban)[unit]	NU	N	83	nummod	_	
+85	naga	naga[potash]	N	N	84	GEN	_	
+86	si-e3	si'e[sprout][-a]	V	NF.V.PT	85	acl	_	
+87	kiszib3	kiszib[seal]	N	N	85	LOC	_	
+88	ur-...	_[1][-ak]	PN	PN.GEN.ABS	89	nmod	_	
+89	1(barig)	1(bariga)[unit]	NU	N	87	nummod	_	
+90	naga	naga[potash]	N	N	85	appos	_	
+91	si-e3	si'e[sprout][-a]	V	NF.V.PT	90	acl	_	
+92	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	90	appos	_	
+93	1(u)	1(u)[ten]	NU	NU	85	nummod	_	
+94	2(disz)	2(disz)[one]	NU	NU	93	nummod	_	
+95	sze	sze[barley]	N	N	85	appos	_	
+96	{gesz}gigir	gigir[chariot][-sze]	N	N.TERM	97	TERM	_	
+97	{d}szul-pa-e3-sze3	_[chariot.Szulpae]	FN	FN	85	TERM	_	
+98	kiszib3	kiszib[seal]	N	N	85	LOC	_	
+99	lugal-...	_[1][-ra]	PN	PN	98	GEN	_	
+100	2(ban2)	2(ban)[unit]	NU	N	83	nummod	_	
+101	naga	naga[potash]	N	N	102	_	_	
+102	si-e3	si'e[sprout][-a]	V	NF.V.PT	100	acl	projectivity violation	
+103	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	101	ABS	_	
+104	3(disz)	3(disz)[one]	NU	NU	83	nummod	projectivity violation	
+105	sze	sze[barley]	N	N	103	appos	_	
+106	kiszib3	kiszib[seal]	N	N	83	appos	_	
+107	a-kal-la	Akala[1]	PN	PN	106	GEN	_	
+108	aszgab	aszgab[leatherworker]	N	N	106	appos	projectivity violation	
+109	5(gesz2)	5(gesz)[sixty]	NU	NU	107	nummod	_	
+110	4(u)	4(u)[ten]	NU	NU	109	nummod	_	
+111	1(asz)	1(asz)[one]	NU	NU	109	nummod	_	
+112	gu2	gun[unit]	N	N	106	appos	_	
+113	esir2	esir[bitumen]	N	N	112	GEN	_	
+114	had2	had[pure][-ø]	V	NF.V.ABS	113	acl	_	
+115	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	113	appos	_	
+116	1/2(disz)	1/2(disz)[one]	NU	NU	119	nummod	projectivity violation	
+117	ma-na	mana[unit]	N	N	115	appos	_	
+118	1(disz)	1(disz)[one]	NU	NU	119	nummod	_	
+119	gin2	gig[unit]	N	N	117	appos	_	
+120	4(asz)	4(asz)[one]	NU	NU	117	nummod	projectivity violation	
+121	2(barig)	2(bariga)[unit]	NU	N	120	nummod	_	
+122	3(disz)	3(disz)[one]	NU	NU	120	nummod	_	
+123	sila3	sila[unit]	N	N	124	nmod	_	
+124	esir2	esir[bitumen]	N	N	119	appos	_	
+125	E2-A	Ea[1]	ON	ON	124	_	heuristic: attach to last	
+126	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	117	appos	_	
+127	8(disz)	8(disz)[one]	NU	NU	0	nummod	_	
+128	2/3(disz)	2/3(disz)[one]	NU	NU	127	nummod	_	
+129	gin2	gig[unit]	N	N	117	appos	_	
+130	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+131	4(disz)	4(disz)[one]	NU	NU	130	nummod	_	
+132	sze	sze[barley]	N	N	129	appos	_	
+133	kiszib3	kiszib[seal]	N	N	132	LOC	_	
+134	a-du-mu	Adumu[1][-ra]	PN	PN.GEN	133	GEN	_	
+135	2(ban2)	2(ban)[unit]	NU	N	129	nummod	_	
+136	gesztin	gesztin[vine]	N	N	135	GEN	_	
+137	had2	had[pure][-ø]	V	NF.V.ABS	135	_	_	
+138	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	135	appos	_	
+139	1/3(disz)	1/3(disz)[one]	NU	NU	140	nummod	_	
+140	gin2	gig[unit]	N	N	135	appos	_	
+141	2(ban2)	2(ban)[unit]	NU	N	140	nummod	_	
+142	SZIM	szim[beer_malt]	N	N	141	GEN	_	
+143	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	142	acl	_	
+144	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	142	appos	_	
+145	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	141	nummod	_	
+146	ugu2	ugu[capital]	N	N	140	appos	projectivity violation	
+147	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	148	acl	_	
+148	ba-gar	_[in.debit.account.set]	PN	PN	141	LOC	_	
+149	5/6(disz)	5/6(disz)[one]	NU	NU	150	nummod	_	
+150	ma-na	mana[unit]	N	N	140	appos	_	
+151	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+152	1/2(disz)	1/2(disz)[one]	NU	NU	151	nummod	_	
+153	gin2	gig[unit]	N	N	150	appos	_	
+154	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+155	1/2(disz)	1/2(disz)[one]	NU	NU	154	nummod	_	
+156	sze	sze[barley]	N	N	157	nmod	_	
+157	ku3-babbar	kugbabbar[silver]	N	N	150	appos	_	
+158	diri	diri[intercalary_month]	N	N	150	appos	_	
+159	nig2-ka9-ak	nigSZID[account]	N	N	158	GEN	_	
+160	4(disz)	4(disz)[one]	NU	NU	161	nummod	_	
+161	ma-na	mana[unit]	N	N	140	appos	_	
+162	nagga	anna[tin]	N	N	161	GEN	_	
+163	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	161	appos	_	
+164	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+165	2(disz)	2(disz)[one]	NU	NU	164	nummod	_	
+166	gin2	gig[unit]	N	N	161	appos	_	
+167	gag-gal	_[for.big-nail]	N	N	166	TERM	_	
+168	ensi2-ka-sze3	ensik[ruler]-ak-sze	N	N.GEN.TERM	167	GEN	_	
+169	kiszib3	kiszib[seal]	N	N	166	LOC	_	
+170	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	169	GEN	_	
+171	1/2(disz)	1/2(disz)[one]	NU	NU	174	nummod	heuristic: NU premodifying	
+172	ma-na	mana[unit]	N	N	174	nmod	_	
+173	ku3-babbar	kugbabbar[silver]	N	N	174	nmod	_	
+174	ku3	kug[silver]	N	N	166	appos	_	
+175	sa10-am3	sa[pay_for][-a]-am	N	NF.V.PT.COP-3-SG	174	appos	_	
+176	ku3-husz-a	_[for.red.gold]	N	N	174	DAT	_	
+177	sza3	szag[heart]	N	N	178	LOC	_	
+178	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	174	LOC	_	
+179	1/2(disz)!	1/2(disz)[one]	NU	NU	180	nummod	_	
+180	ma-na	mana[unit]	N	N	166	appos	_	
+181	6(disz)	6(disz)[one][-sze]	NU	NU	183	nummod	heuristic: NU premodifying	
+182	gin2	gig[unit]	N	N	183	nmod	_	
+183	ku3-babbar	kugbabbar[silver]	N	N	180	appos	_	
+184	igi-kar2	_[the.igikar]	N	N	189	_	_	
+185	nin	_[queen]	N	N	184	GEN	_	
+186	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	189	ABS	_	
+187	ku3-dim2	kugdim[smith]	N	N	186	appos	_	
+188	szu	szu[hand][-e]	N	N.L3-NH	189	_	_	
+189	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	180	acl	_	
+190	szunigin	szunigin[total]	N	N	189	appos	_	
+191	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+192	1/2(disz)	1/2(disz)[one]	NU	NU	191	nummod	_	
+193	ma-na	mana[unit]	N	N	190	appos	_	
+194	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+195	5/6(disz)	5/6(disz)[one]	NU	NU	194	nummod	_	
+196	gin2	gig[unit]	N	N	193	appos	_	
+197	sze	sze[barley]	N	N	198	nmod	_	
+198	ku3-babbar	kugbabbar[silver]	N	N	196	appos	_	
+199	zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	198	acl	_	
+200	la2-ia3	la'u[arrears]	N	N	115	appos	_	
+201	1(disz)	1(disz)[one]	NU	NU	115	nummod	projectivity violation	
+202	1/2(disz)	1/2(disz)[one]	NU	NU	201	nummod	_	
+203	ma-na	mana[unit]	N	N	200	appos	_	
+204	8(disz)	8(disz)[one]	NU	NU	205	nummod	heuristic: NU premodifying	
+205	gin2	gig[unit]	N	N	203	appos	_	
+206	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	207	_	heuristic: NU premodifying	
+207	nig2-ka9-ak	nigSZID[account]	N	N	115	appos	_	
+208	ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	207	GEN.ABS	_	
+209	iti	iti[month]	N	N	210	nmod	_	
+210	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	115	appos	_	
+211	mu	mu[year]	N	N	210	appos	_	
+212	en	en[priest]	N	N	214	ABS	_	
+213	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	212	GEN	_	
+214	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	211	acl	_
+	
+

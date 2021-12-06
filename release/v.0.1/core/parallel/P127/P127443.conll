@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127443.atf
+# tr.en: male lamb Lu-Ninubur th day delivery Abbasaga received month Gazelle feast year En-unu-gal of Inanna was installed
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	sila4	sila[lamb]	N	N	3	acl	_	
+3	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	9	ABS	_	
+4	u4	ud[day]	N	N	9	date	_	
+5	1(u)	1(u)[ten]	NU	NU	9	nummod	_	
+6	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	5	nummod	_	
+7	mu-kux(DU)	mukur[delivery][-ø]	N	N	9	_	_	
+8	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	9	ABS	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+10	iti	iti[month]	N	N	9	appos	_	
+11	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	10	appos	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	en-unu6-gal	Enunugal[1]	PN	PN	16	ABS	_	
+14	{d}inanna	Inanna[1][-ak]	DN	DN	13	GEN	_	
+15	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	16	acl	_	
+16	1(disz)	1(disz)[one]	NU	NU	11	nummod	_
+	
+

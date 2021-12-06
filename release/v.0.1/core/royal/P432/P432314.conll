@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Meslamtaea his god x-kubum son of for life of Ibbi-Sin
+1	{d}mes-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	0	root	_
+2	dingir-ra-a-ni-ir	{d}mesz3-lam-ta-e3-a[1]+digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	x-ku-bu-um	x-ku-bu-um[1]	PN	PN	2	appos	_
+4	dumu	_[son]	N	N	2	appos	_
+5	x-ti-a-ke4	_[_]	u	u	4	GEN	_
+6	nam-ti	_[_]+nam-til3[life]	N	N	2	DAT	_
+7	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	6	GEN	_
+

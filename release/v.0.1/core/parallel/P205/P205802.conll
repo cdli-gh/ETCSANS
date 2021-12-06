@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of Ur-Nane son of Lu-duga of Kima are here year
+# train/P205802.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	8	ABS	_	
+3	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	_	heuristic: attach to last	
+4	ur-{d}nansze	Urnansze[1]	PN	PN	2	GEN	_	
+5	dumu	dumu[child]	N	N	4	appos	_	
+6	lu2-du10-ga	Luduga[1]	PN	PN	5	GEN	_	
+7	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	4	GEN	_	
+8	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+9	mu	mu[year]	N	N	8	appos	_
+	
+

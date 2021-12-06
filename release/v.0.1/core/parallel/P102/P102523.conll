@@ -1,0 +1,58 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P102523.atf
+# tr.en: Lu-duga Lugal-kugani Lu-girizal Bibia Szepada Ikalla Lugal-gigire X-dar sons of Ur-Itaran Lugal-itida house of Szara Lugal-unirre Lu-Suen Manzizi hosue of Ninura Szekalla Lugal-hegal Great-house Dingiram sons of Ur-gigir hosue of Szulgi Lu-Szara Gigiga hosue of Amar-Suen x-x-nun Ur- house of Szu-Suen Nabasa waystation of tower Adudu waystation of Umma Together fisheries workers fisheries workers for regular offerings of gods
+1	lu2-du10-ga	Luduga[1]	PN	PN	50	_	_	
+2	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	1	appos	_	
+3	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	2	appos	_	
+4	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+5	bi2-bi2-a	Bibi'a[1]	PN	PN	2	appos	_	
+6	szesz-pa3-da	_[Szepada]	PN	PN	2	appos	_	
+7	i3-kal-la	Ikala[1][-ak]	PN	PN	2	appos	_	
+8	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+9	lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	2	appos	_	
+10	x-dar	_[X-dar]	PN	PN	2	appos	_	
+11	2(disz)	2(disz)[one]	NU	NU	13	nummod	_	
+12	dumu	dumu[child]	N	N	11	_	heuristic: attach to last	
+13	ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	2	appos	_	
+14	lugal-iti-da	Lugalitida[1]	PN	PN	13	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+16	3(disz)	3(disz)[one]	NU	NU	15	nummod	_	
+17	e2	e[house]	N	N	13	appos	_	
+18	{d}szara2	Szara[1][-ak]	DN	DN	17	GEN	_	
+19	lugal-szu-nir-re	_[Lugal-unirre]	PN	PN.DAT-H	1	appos	_	
+20	lu2-{d}suen	Lusuen[1]	PN	PN	19	appos	_	
+21	ma-an-zi-zi	_[Manzizi]	PN	PN.GEN.ABS	19	appos	_	
+22	e2	e[house]	N	N	23	_	_	
+23	{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	19	appos	_	
+24	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	23	appos	_	
+25	lugal-he2-gal2	Lugalhegal[1]	PN	PN	24	appos	_	
+26	e2-mah	Emah[1][-sze]	FN	TN	27	nmod	_	
+27	dingir-ra-am3	_[Dingiram]	PN	PN	24	appos	_	
+28	2(disz)	2(disz)[one]	NU	NU	27	nummod	_	
+29	dumu	dumu[child]	N	N	27	_	heuristic: after nominal head	
+30	ur-{gesz}gigir	Urgigir[1]	PN	PN	27	appos	_	
+31	e2	e[house]	N	N	32	_	_	
+32	{d}szul-gi-ra	Szulgir[1]-ak	DN	DN.GEN	27	appos	_	
+33	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	32	appos	_	
+34	gi-gi-ga	_[Gigiga]	PN	PN	33	appos	_	
+35	e2	e[house]	N	N	33	appos	_	
+36	{d}amar-{d}suen	Amarsuen[1]	RN	RN	35	GEN	_	
+37	x-x-x-nun	_[x-x-nun]	PN	PN	36	appos	_	
+38	ur-...	_[1][-ak]	PN	PN.GEN.ABS	37	appos	_	
+39	e2	e[house]	N	N	37	appos	_	
+40	{d}szu-{d}suen	Szusuen[1]	RN	RN	39	GEN	_	
+41	na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	40	appos	_	
+42	e2-kas4	_[waystation]	TN	TN	41	appos	_	
+43	an-za-gar3	_[tower]	N	N	42	GEN	_	
+44	a-du-du	Adudu[1]	PN	PN	43	appos	_	
+45	e2-kas4	_[waystation]	TN	TN	43	appos	_	
+46	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	45	GEN	_	
+47	szunigin	szunigin[total]	N	N	50	_	_	
+48	2(u)	2(u)[ten]	NU	NU	50	nummod	_	
+49	7(disz)	7(disz)[one][-sze]	NU	NU	48	nummod	_	
+50	szu-ku6	szukud[fisherman][-ak][-ak]	N	N	0	root	_	
+51	szu-ku6	szukud[fisherman][-ak][-ak]	N	N	50	appos	_	
+52	sa2-du11	sadug[offerings]	N	N	51	DAT	_	
+53	dingir-re-ne-sze3	_[for.gods]	PN	PN	52	DAT	_
+	
+

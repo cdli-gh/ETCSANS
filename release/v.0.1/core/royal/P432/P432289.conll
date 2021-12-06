@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Szara the trusted one of An beloved son of Inanna his father Sz-Sin the strong king king of Ur and king of four world quarters the House Chosen by Heart his beloved temple for his life he built for him
+1	{d}szara2	{d}szara2[1]	DN	DN	22	DAT	_
+2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_
+3	an-na	an[1]	DN	DN.GEN	1	appos	_
+4	dumu	dumu[child]	N	N	5	ABS	_
+5	ki-ag2	ag2[measure]	V	NF.V	1	amod	_
+6	{d}inanna	{d}inana[1]	DN	DN.GEN	5	GEN	_
+7	ad-da-ni-ir	ad-da[father]	N	N.3-SG-H-POSS.DAT-H	5	appos	_
+8	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	22	ERG	_
+9	lugal	lugal[king]	N	N	8	appos	_
+10	kal-ga	kalag[strong]	V	NF.V.PT	9	amod	_
+11	lugal	lugal[king]	N	N	8	appos	_
+12	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_
+13	lugal	lugal[king]	N	N	8	appos	_
+14	an	_	_	_	13	_	_
+15	ub-da	an-ub-da[quarter]	N	N	13	appos	_
+16	limmu2-ba-ke4	limmu2[four]+e2-szag4-ge4-pad3-da[1]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	15	nummod	_
+17	e2	e2[house]	N	N	20	ABS	_
+18	sza3-gi4-pa3-da	_[the.House.Chosen.by.Heart]	PN	PN	2	appos	_
+19	e2	ki[place]	N	N.ABS	17	appos	_
+20	ki-ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	22	amod	_
+21	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	22	TERM	_
+22	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

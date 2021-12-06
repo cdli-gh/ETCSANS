@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: fat-tailed sheep grain-fed from Uta-miarram did Nalu accept month Aktu year Enunugal Inanna in Uruk was installed
+# train/P469973.atf
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	gukkal	gukkal[fat-tailed_sheep]	N	N	7	ABS	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	u2-ta2-mi-szar-ra-am-ta	_[Uta-miarram]	PN	PN.GEN.ABL	2	ABL	_	
+6	na-lu5	Nalu[1][-e]	PN	PN.ERG	7	_	_	
+7	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	0	root	_	
+8	iti	iti[month]	N	N	7	appos	_	
+9	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	7	appos	_	
+10	mu	mu[year]	N	N	7	appos	_	
+11	en-unu6-gal	Enunugal[1]	PN	PN	12	acl	_	
+12	{d}inanna	Inanna[1][-ak]	DN	DN	15	ABS	_	
+13	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	12	LOC	_	
+14	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	15	acl	_	
+15	3(disz)	3(disz)[one]	NU	NU	7	nummod	_
+	
+

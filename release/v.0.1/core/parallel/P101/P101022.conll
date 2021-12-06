@@ -1,0 +1,47 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: barig wages of hirelings of Sz-Mama gur barig Igi-Sasa grain of Puzri-Suen barig fodder for sheep Igisasa barig barley for birds Adda-bani barig barley for sheep Zani gur its goat is house of Na-silim fuller barig um-bani are from Tummal month Great festival it will be added
+# train/P101022.atf
+1	2(barig)	2(bariga)[unit]	NU	N	0	nummod	_	
+2	a2	a[time]	N	N	3	_	_	
+3	hun-ga2	hug[hire]-a	V	NF.V.PT	1	_	_	
+4	szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	3	GEN	_	
+5	1(asz)	1(asz)[one]	NU	NU	3	nummod	_	
+6	1(barig)	1(bariga)[unit]	NU	N	12	nummod	projectivity violation	
+7	gur	gur[unit]	N	N	3	appos	_	
+8	igi-sa6-sa6	Igisasa[1]	PN	PN	7	appos	_	
+9	sze	sze[barley]	N	N	3	appos	_	
+10	puzur4-{d}suen	Puzursuen[1][-ra]	PN	PN.DAT-H	9	GEN	_	
+11	2(barig)	2(bariga)[unit]	NU	N	3	nummod	_	
+12	sza3-gal	szaggal[food]	N	N	3	appos	_	
+13	udu	udu[sheep]	N	N	12	DAT	_	
+14	igi-sa6-sa6	Igisasa[1]	PN	PN	3	appos	_	
+15	1(barig)	1(bariga)[unit]	NU	N	16	nummod	_	
+16	sze	sze[barley]	N	N	3	appos	_	
+17	muszen	_[birds]	N	N	16	DAT	_	
+18	{d}iszkur-ba-ni	Iszkurbani[1][-ra]	PN	PN.DAT-H	17	DAT	_	
+19	1(barig)	1(bariga)[unit]	NU	N	20	nummod	_	
+20	sze	sze[barley]	N	N	3	appos	_	
+21	udu	udu[sheep]	N	N	20	DAT	_	
+22	za-ni	_[Zani]	PN	PN.GEN	3	appos	_	
+23	1(asz)	1(asz)[one]	NU	NU	27	nummod	projectivity violation	
+24	gur	gur[unit]	N	N	3	appos	projectivity violation	
+25	masz2-bi	_[its.goat.is]	N	N.ABS	3	ABS	projectivity violation	
+26	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+27	e2	e[house]	N	N	3	appos	projectivity violation	
+28	na-silim	Nasilim[1][-ak][-ø]	PN	PN	33	nummod	projectivity violation	
+29	azlag2	azlag[fuller][-ra]	N	N.DAT-H	23	acl	projectivity violation	
+30	asz	_[Na-silim]	N	N.3-SG-H-POSS.TERM	27	GEN	_	
+31	1(barig)	1(bariga)[unit]	NU	N	30	nummod	_	
+32	...	_[_]	PN	N	36	dep	projectivity violation	
+33	x-um-ba-ni	_[barig.um-bani]	PN	PN	23	appos	projectivity violation	
+34	...-x{ki}	_[barig.um-bani]	SN	SN	32	appos	_	
+35	ka-lu	_[are]	N	N	36	_	_	
+36	1(gesz2)	1(gesz)[sixty]	NU	NU	23	nummod	_	
+37	3(u)-am3	_	NU	NU.ABS.COP-3-SG	23	nummod	_	
+38	tum-ma-al-ta	_[Tummal]	N	N	40	acl	_	
+39	i3-dub	idub[granary]	N	N	40	ABL	_	
+40	iti	iti[month]	N	N	23	ABL	_	
+41	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	42	acl	_	
+42	e-dah-he	_[festival.it.will.be.added]	V	V	0	_	detached for projectivity
+	
+

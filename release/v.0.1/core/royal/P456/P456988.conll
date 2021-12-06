@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Tulid-Szami eredigir priestess of Nanna is your servant
+1	tu-li2-id-{d}utu-szi	tu-li₂-id-UTU{ši}[1]	PN	PN	6	ABS	_
+2	nin-dingir	tu-li₂-id-UTU{ši}[1]+eresz-digir[priestess]	N	N	1	appos	_
+3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_
+4	ARAD2	_	_	_	2	_	_
+5	e2-gal-lim	arad₂-e₂-x-x-x[1]	PN	PN.ABS	2	GEN	_
+6	ARAD2-zu	arad₂-e₂-x-x-x[1]+arad2[slave]	N	N.2-SG-POSS.ABS	0	root	_
+

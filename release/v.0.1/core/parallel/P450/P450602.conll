@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P450602.atf
+# tr.en: male lambs suckling female lamb suckling new-borns in sheephouse Endingirmu accepted th day month uea year Enmagalana en-priestess of Nanna was installed
+1	2(disz)	2(disz)[one]	NU	NU	3	nummod	projectivity violation	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	ga	ga[milk]	N	N	2	appos	_	
+4	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+5	kir11	kir[female_lamb]	N	N	3	appos	_	
+6	ga	ga[milk]	N	N	3	appos	_	
+7	u3-tu-da	_[new-borns]	PN	PN	3	appos	_	
+8	e2-udu-ka	_[in.sheephouse]	PN	PN	7	LOC	_	
+9	en-dingir-mu	Endingirmu[1][-ak]	PN	PN	10	ABS	_	
+10	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	3	acl	_	
+11	u4	ud[day]	N	N	2	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	la2	la[hang][-ø]	V	NF.V.ABS	12	_	_	
+14	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	13	nummod	_	
+15	iti	iti[month]	N	N	11	appos	_	
+16	szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	11	appos	_	
+17	mu	mu[year]	N	N	11	appos	_	
+18	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	21	ABS	_	
+19	en	en[priest]	N	N	18	appos	_	
+20	{d}nanna	Nanna[1][-ak]	DN	DN	19	GEN	_	
+21	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna the impetuous calf of An the first-born son of Enlil his master Ur-Namma the mighty man the king of Ur his Temple With a Foundation Clad in Fearsomeness he built for him
+# train/P432121.atf new_text=P432121
+# train/P432121.atf						#new_text=P432121
+1	{d}nanna	Nanna[1][-ak]	DN	DN	14	DAT	_	
+2	amar	amar[calf][-ak]	N	N	3	_	_	
+3	banda3{da}	_[the.impetuous.calf]	N	NF.V	14	ABS	_	
+4	an-na	An[1][-ak][-ak][sze]	PN	DN.GEN	3	GEN	_	
+5	dumu-sag	_[the.first-born.son]	N	N	3	appos	_	
+6	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	5	GEN	_	
+7	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	3	appos	_	
+8	ur-{d}namma	Urnamma[1]	RN	RN	3	appos	_	
+9	nita	nita[male]	N	N	10	nmod	_	
+10	kal-ga	kalag[strong]-a	V	NF.V.SUB	3	acl	_	
+11	lugal	lugal[king]	N	N	3	appos	_	
+12	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	11	appos	_	
+13	e2-temen-ni2-gur3-ni	_[his.Temple.With.a.Foundation.Clad.in.Fearsomeness]	PN	TN.3-SG-H-POSS.ABS	3	appos	_	
+14	e2-temen-ni2-gur3-ni	_[his.Temple.With.a.Foundation.Clad.in.Fearsomeness]	V	V	0	root	_	
+15	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	14	parataxis	_
+	
+

@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+1	lugal	lugal[king]	N	N	0	root	_
+2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_
+3	ki-uri-...	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_
+4	...	ki-uri[1]	_	_	1	dep	_
+5	x	_[_]	u	u	1	dep	_
+6	...	_[_]+_[_]	u	u	1	dep	_
+

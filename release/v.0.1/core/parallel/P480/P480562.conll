@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: one-third mina
+# train/P480562.atf
+1	1/3(disz)	1/3(disz)[one]	NU	NU	0	nummod	_	
+2	ma-na	mana[unit]	N	N	0	root	_
+	
+

@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P424394.atf
+# tr.en: ewe slaughtered th day in Tummal from Endingirmu Szulgi-irimu received month festival of Ninazu year en-priestess of Nanna was installed
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	u8	u[ewe]	N	N	0	root	_	
+3	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+4	u4	ud[day]	N	N	2	appos	_	
+5	3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+6	sza3	szag[heart]	N	N	7	LOC	_	
+7	tum-ma-al	Tummal[1][-ak][-'a]	SN	SN.GEN.L1	2	LOC	_	
+8	ki	ki[place]	N	N	10	ABL	_	
+9	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN	PN.GEN.ABL	10	nmod	_	
+10	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	2	ABL	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	10	acl	_	
+13	iti	iti[month]	N	N	15	nmod	_	
+14	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	15	_	_	
+15	mu	mu[year]	N	N	2	appos	_	
+16	en	en[priest]	N	N	18	ABS	_	
+17	{d}nanna	Nanna[1][-ak]	DN	DN	16	GEN	_	
+18	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	15	acl	_
+	
+

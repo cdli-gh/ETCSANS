@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekels grains of silver for interest from Ur-Enlila Lugal-saga and Ur-Szuma received month KuSzIM the th day passed year Simanum was destroyed
+# train/P459081.atf
+1	3(disz)	3(disz)[one]	NU	NU	3	nummod	_	
+2	1/2(disz)	1/2(disz)[one]	NU	NU	1	nummod	_	
+3	gin2	gig[unit]	N	N	15	ABS	_	
+4	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+5	5(disz)	5(disz)[one]	NU	NU	4	nummod	_	
+6	sze	sze[barley]	N	N	3	appos	_	
+7	ku3-babbar	kugbabbar[silver]	N	N	6	GEN	_	
+8	ur5-sze3	urra[loan]-sze	PN	N.TERM	9	TERM	_	
+9	<ki>	ki[place]	N	N	3	TERM	_	
+10	ur-{d}en-lil2!-la2-ta	_[from.Ur-Enlila]	PN	PN.GEN.GEN.ABL	3	ABL	_	
+11	lugal-sa6-ga!	Lugalsaga[1][-ak]	PN	PN.GEN	10	appos	_	
+12	u3	u[and]	CNJ	CNJ	10	appos	_	
+13	ur-{d}szu-mah!	_[Ur-Szuma]	PN	PN.DAT-H	10	appos	_	
+14	szu	szu[hand][-e]	N	N.L3-NH	15	_	_	
+15	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+16	iti	iti[month]	N	N	15	date	_	
+17	ku3-SZIM	_[KuSzIM]	MN	MN	21	_	_	
+18	u4	ud[day]	N	N	21	nmod	_	
+19	2(u)	2(u)[ten]	NU	NU	21	nummod	_	
+20	2(disz)	2(disz)[one]	NU	NU	19	nummod	_	
+21	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	15	parataxis	_	
+22	mu	mu[year]	N	N	21	date	_	
+23	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	24	ABS	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	21	parataxis	_
+	
+

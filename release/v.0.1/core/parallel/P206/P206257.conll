@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P206257.atf new_text=P206257
+# dev/P206257.atf						#new_text=P206257
+# tr.en: Basket-of-tablets are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	x	_[_]	N	N	0	dep	_	
+3	x	_[_]	N	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	0	_	_	
+

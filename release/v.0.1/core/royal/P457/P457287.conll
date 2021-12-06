@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-me cook of Szulgi	
+1	ur-mes	ur-mesz3[3]	PN	PN	0	root	_
+2	muhaldim	muhaldim[cook]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	2	GEN	_
+

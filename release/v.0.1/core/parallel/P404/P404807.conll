@@ -1,0 +1,78 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: talents mana old wool the warehouse Ati-Dazagula talents mana wool wool Apisal the warehouse Da-zagula talents mana black wool the warehouse Ati-Esag less from Ur-ee talents mana wool the warehouse Ati-Esag from Kas the warehouse of governor mana wool native mana wool combings with Ur-Szara mana wool native with Lukalla
+# test/P404807.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	4	nummod	_	
+2	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+3	5(asz)	5(asz)[one]	NU	NU	1	nummod	_	
+4	gu2	gun[unit]	N	N	0	root	_	
+5	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+6	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+7	1/3(disz)	1/3(disz)[one]	NU	NU	5	nummod	_	
+8	ma-na	mana[unit]	N	N	9	nmod	_	
+9	siki	siki[wool][-'a]	N	N	4	appos	_	
+10	sumun	sumun[old][-ø]	N	NF.V.ABS	9	acl	_	
+11	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	12	nmod	_	
+12	a2-ti-da-za3-gu2-la2	_[warehouse.Ati-Dazagula]	N	N	4	appos	_	
+13	3(u)	3(u)[ten]	NU	NU	12	nummod	_	
+14	3(asz)	3(asz)[one]	NU	NU	13	nummod	_	
+15	gu2	gun[unit]	N	N	12	appos	_	
+16	1(u)	1(u)[ten]	NU	NU	20	nummod	heuristic: NU premodifying; projectivity violation	
+17	4(disz)	4(disz)[one]	NU	NU	22	nummod	projectivity violation	
+18	5/6(disz)	5/6(disz)[one]	NU	NU	17	nummod	_	
+19	ma-na	mana[unit]	N	N	20	nmod	_	
+20	siki!	siki[wool][-'a]	N	N	15	appos	_	
+21	siki	siki[wool][-'a]	N	N	20	_	heuristic: attach to last	
+22	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	12	appos	_	
+23	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	24	nmod	_	
+24	da-za3-gu2-la2	_[warehouse.Da-zagula]	V	V	12	acl	_	
+25	4(asz)	4(asz)[one]	NU	NU	24	nummod	_	
+26	gu2	gun[unit]	N	N	12	appos	_	
+27	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+28	la2	la[hang][-ø]	V	NF.V.ABS	27	_	_	
+29	1(disz@t)	1(disz)[one]	NU	NU	28	nummod	_	
+30	ma-na	mana[unit]	N	N	31	nmod	_	
+31	siki	siki[wool][-'a]	N	N	26	appos	_	
+32	ge6	giggi[black][-ø]	V	NF.V.ABS	31	acl	_	
+33	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	34	nmod	_	
+34	a2-ti-e2-sag{ki}	_[warehouse.Ati-Esag]	GN	GN	12	appos	_	
+35	1(gesz2)	1(gesz)[sixty]	NU	NU	12	nummod	_	
+36	3(u)	3(u)[ten]	NU	NU	35	nummod	_	
+37	la2	la[hang][-ø]	V	NF.V.ABS	35	acl	_	
+38	5(u)	5(u)[ten]	NU	NU	37	nummod	_	
+39	ki	ki[place]	N	N	40	ABL	_	
+40	ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	35	ABL	_	
+41	4(u)	4(u)[ten]	NU	NU	12	nummod	_	
+42	7(asz)	7(asz)[one]	NU	NU	41	nummod	_	
+43	gu2	gun[unit]	N	N	12	appos	_	
+44	4(u)	4(u)[ten]	NU	NU	0	nummod	_	
+45	6(disz)	6(disz)[one][-sze]	NU	NU	44	nummod	_	
+46	5/6(disz)	5/6(disz)[one]	NU	NU	44	nummod	_	
+47	ma-na	mana[unit]	N	N	48	nmod	_	
+48	siki	siki[wool][-'a]	N	N	43	appos	_	
+49	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	50	nmod	_	
+50	a2-ti-e2-sag{ki}	_[warehouse.Ati-Esag]	GN	GN	12	appos	_	
+51	ki	ki[place]	N	N	52	ABL	_	
+52	kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	12	ABL	_	
+53	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	4	appos	_	
+54	ensi2-ka	ensik[ruler]-ak	N	N.GEN	53	GEN	_	
+55	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+56	7(disz)	7(disz)[one][-sze]	NU	NU	55	nummod	_	
+57	5/6(disz)!	5/6(disz)[one]	NU	NU	64	nummod	_	
+58	ma-na	mana[unit]	N	N	64	nmod	_	
+59	siki-gi	sikigi[wool_type]	N	N	64	nmod	_	
+60	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+61	2/3(disz)	2/3(disz)[one]	NU	NU	60	nummod	_	
+62	ma-na	mana[unit]	N	N	64	nmod	_	
+63	siki	siki[wool][-'a]	N	N	64	nmod	_	
+64	mug	mug[inferior_wool]	N	N	4	appos	_	
+65	ki	ki[place]	N	N	66	COM	_	
+66	ur-{d}szara2	Urszara[1]	PN	PN	64	COM	_	
+67	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+68	6(disz)	6(disz)[one][-sze]	NU	NU	67	nummod	_	
+69	5/6(disz)	5/6(disz)[one]	NU	NU	67	nummod	_	
+70	ma-na	mana[unit]	N	N	71	nmod	_	
+71	siki-gi	sikigi[wool_type]	N	N	4	appos	_	
+72	ki	ki[place]	N	N	73	COM	_	
+73	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	71	COM	_
+	
+

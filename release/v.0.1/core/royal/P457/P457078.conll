@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Ane gudug priest of Szulgi child of Lalu iib priest of Szara	
+1	ur-an-ne2	ur-an-ne2[1]	PN	PN	0	root	_
+2	gudu4	gudu4[priest]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN	2	GEN	_
+4	dumu	dumu[child]	N	N	1	appos	_
+5	la-lu5	la-lu5[1]	PN	PN.GEN	4	GEN	_
+6	iszib	iszib[priest]	N	N	1	GEN	_
+7	{d}szara2	{d}szara2[1]	DN	DN.GEN.ABS	6	GEN	_
+

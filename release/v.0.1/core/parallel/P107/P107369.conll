@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P107369.atf						#new_text=P107369
+# dev/P107369.atf new_text=P107369
+# tr.en: Basket-of-tablets inspection of worktroops personnel of plow-oxen personnel of plow-oxen plow-oxen stall rams of from Szunamugi did Lu-Ninubur accept via Ur-nigar chief accountant and Ur-Baba scribe year en of Nanna of Karzida was installed are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	gar-gar-ra	_	V	V	0	_	_	
+

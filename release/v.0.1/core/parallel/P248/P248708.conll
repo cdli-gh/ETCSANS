@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of inspectors the labor of female workers the labor of takers accounting of soil and soil lifted various Umma year are here year ari Kima were destroyed
+# train/P248708.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	15	ABS	projectivity violation	
+3	nu-banda3-ke4-ne	_[of.inspectors]	N	N.GEN.PL	2	GEN	_	
+4	a2	a[time]	N	N	2	appos	_	
+5	geme2	geme[female_worker]	N	N	4	GEN	_	
+6	a2	a[time]	N	N	2	appos	_	
+7	he2-dab5	hedab[worker]	V	N.DAT-H	6	acl	_	
+8	nig2-ka9	nigSZID[account]	N	N	10	GEN	_	
+9	sahar-ra	_	N	N.L1	8	_	heuristic: attach to last	
+10	ur-du-e	_[accounting.soil]	PN	PN.DAT-H	2	appos	projectivity violation	
+11	u3	u[and]	CNJ	CNJ	8	appos	_	
+12	sahar	sahar[earth][-ø]	N	N.GEN	8	appos	_	
+13	zi-ga	zig[expend]-a	V	NF.V.PT	12	_	heuristic: attach to last	
+14	didli	didli[several][-ø][-ak]	V	NF.V.ABS	16	acl	projectivity violation	
+15	u2-x	_[_]	PN	PN.DAT-H	1	acl	_	
+16	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	19	ABS	_	
+17	mu	mu[year]	N	N	16	appos	_	
+18	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	16	nummod	_	
+19	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	15	acl	_	
+20	mu	mu[year]	N	N	15	appos	_	
+21	ha-ar-szi{ki}	Harszi[1]	SN	SN	20	appos	_	
+22	ki-masz	_[Kima]	PN	PN	23	ABS	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	20	acl	_
+	
+

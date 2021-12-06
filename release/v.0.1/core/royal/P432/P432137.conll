@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna the queen of Eanna temple his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Iturungal canal his beloved canal he dug for him
+1	{d}inanna	{d}inana[1]	DN	DN	17	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_
+4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	17	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi4[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	i7	_[the]	_	_	14	nmod	_
+14	en-uri3-gal	id2-en-urin-gal[1]	WN	WN	17	ABS	_
+15	i7	id2[river]	N	N	16	ABS	_
+16	ki-ag2-a-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	14	amod	_
+17	mu-na-ba-al	ba-al[dig]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

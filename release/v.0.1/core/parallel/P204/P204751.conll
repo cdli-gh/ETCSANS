@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P204751.atf						#new_text=P204751
+# tr.en: Basket-of-tablets long-tablets and debits are here year
+# dev/P204751.atf new_text=P204751
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+6	x-da	_[_]	PN	PN	0	root	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	6	_	_	
+8	mu	mu[year]	N	N	6	appos	_
+	
+

@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102322.atf new_text=P102322
+# train/P102322.atf						#new_text=P102322
+# tr.en: lambs st day from Abbasaga Intaea accepted month Piglet-feast year Szaru was destroyed
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+10	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	2	appos	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	10	appos	_	
+13	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_	
+14	4(disz)	4(disz)[one]	NU	NU	10	nummod	_
+	
+2	sila4	sila[lamb]	N	N	15	_	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+5	ki	ki[place]	N	N	7	ABL	_	
+6	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	7	nmod	_	
+7	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	2	ABL	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	7	acl	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+

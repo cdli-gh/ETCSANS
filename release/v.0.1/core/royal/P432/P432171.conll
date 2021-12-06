@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her	
+1	{d}inanna	{d}inana[1]	DN	DN	15	DAT	_
+2	nin	nin[lady]	N	N	1	appos	_
+3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_
+4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	szul-gi	szul-gi[1]	RN	RN	15	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	e2-an-na	e2-an-na[1]	TN	TN.ABS	15	ABS	_
+14	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	15	LOC	_
+15	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+16	bad3	bad3[wall]	N	N	18	ABS	_
+17	gal-bi	gal[big]	V	NF.V.3-SG-NH-POSS.ABS	16	amod	_
+18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	2	acl	_
+19	{d}inanna	_[For.Inanna]	PN	PN	2	DAT	_
+20	nin	_[the.queen]	N	N	19	appos	_
+21	e2-an-na	_[Eanna.temple]	N	N	20	GEN	_
+22	nin-a-ni	_[his.mistress]	N	N	19	appos	_
+23	szul-gi	_[Szulgi]	N	N	19	appos	_
+24	nita	_[man]	N	N	19	appos	_
+25	kal-ga	_[the.mighty]	_	_	24	appos	_
+26	lugal	_[king]	N	N	19	appos	_
+27	uri5{ki}-ma	_[Ur]	N	N	26	GEN	_
+28	lugal	_	_	_	19	_	_
+29	ki-en-gi	_	_	_	19	_	_
+30	ki-uri-ke4	_[and.king.Sumer.and.Akkad]	N	N	19	appos	_
+31	e2-an-na	_[the.Eanna]	PN	PN	28	root	_
+32	ki-be2	_	_	_	31	_	_
+33	mu-na-gi4	_[he.restored.for.her]	V	V	31	acl	_
+34	bad3	_	_	_	31	_	_
+35	gal-bi	_[and.its.great.wall]	N	N	31	appos	_
+36	mu-na-du3	_[he.built.for.her]	V	V	31	acl	_
+

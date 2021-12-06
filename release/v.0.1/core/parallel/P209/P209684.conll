@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P209684.atf
+# tr.en: Basket-of-tablets of barley and flour sealed documents of Urzu and sealed documents of foremen of millworks are here year Kima was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	1	GEN	_	
+3	zi3-da	zid[flour]-ak[-ø]	N	N.GEN	2	appos	_	
+4	kiszib3	kiszib[seal]	N	N	2	appos	_	
+5	ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	4	GEN	_	
+6	u3	u[and]	CNJ	CNJ	2	appos	_	
+7	kiszib3	kiszib[seal]	N	N	2	appos	_	
+8	ugula	ugula[overseer][-ø]	N	N	7	GEN	_	
+9	kikken-na-ke4-ne	_[millworks]	PN	PN	8	GEN	_	
+10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	2	acl	_	
+11	mu	mu[year]	N	N	13	_	_	
+12	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	13	_	_	
+13	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P424384.atf						#new_text=P424384
+# tr.en: ban esza-grain ban flour of house of Enlil from Lugaltur has been booked out Month NENEgar days passed year Szu-Suen king of Ur erected house of Szara of Umma
+# test/P424384.atf new_text=P424384
+5	ab-ba	abba[father]	PN	PN	0	root	_	
+6	sze	sze[barley]	N	N	5	appos	_	
+7	se-ge4	_	V	NF.V.3-SG-NH-POSS.GEN.ERG	0	_	_	
+12	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	0	root	_	
+13	iti	iti[month]	N	N	14	nmod	_	
+14	NE-NE-gar	_[NENEgar]	PN	PN	12	ABS	_	
+15	u4	ud[day]	N	N	14	appos	_	
+16	1(u)	1(u)[ten]	NU	NU	12	nummod	projectivity violation	
+17	4(disz)	4(disz)[one]	NU	NU	16	nummod	_	
+18	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	15	acl	_	
+19	mu	mu[year]	N	N	12	parataxis	_	
+20	{d}szu-{d}suen	Szusuen[1]	RN	RN	26	ERG	_	
+21	lugal	lugal[king]	N	N	20	appos	_	
+22	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	21	GEN	_	
+23	e2	e[house]	N	N	26	ABS	_	
+24	{d}szara2	Szara[1][-ak]	DN	DN	23	GEN	_	
+25	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	24	GEN	_	
+26	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	19	acl	_
+	
+

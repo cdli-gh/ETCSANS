@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P205014.atf
+# tr.en: Basket-of-tablets troops house of chair-holders troops of messenger house troops of Lugal- exchange agents silver big-governor are here year en of Eridu
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	erin2	erin[people]	N	N	12	ABS	_	
+3	e2	e[house]	N	N	2	appos	_	
+4	gu-za-la2	guzala[throne_bearer]	N	N	3	GEN	_	
+5	erin2	erin[people]	N	N	2	appos	_	
+6	e2-sukkal	_[messenger.house]	PN	PN	5	GEN	_	
+7	erin2	erin[people]	N	N	2	appos	_	
+8	lugal-...	_[1][-ra]	PN	PN	7	GEN	_	
+9	dam-gar3	damgar[merchant][-ak]	N	N	2	appos	_	
+10	ku3-...	_[1][-ak]	PN	PN.GEN	2	appos	_	
+11	ensi2-gal	_[big-governor]	FN	FN	2	appos	_	
+12	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+13	mu	mu[year]	N	N	14	_	_	
+14	en	en[priest]	N	N	12	parataxis	_	
+15	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	14	GEN	_
+	
+

@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P212354.atf						#new_text=P212354
+# tr.en: gur of alkali-plant from Akalla scribe of exchange agents did Dingira receive gur of alkali-plant from Akalla scribe of exchange agents did Dingira receive Month mine year Puzri-Dagan was erected
+# train/P212354.atf new_text=P212354
+1	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+2	naga	naga[potash]	N	N	3	GEN	_	
+3	gur	gur[unit]	N	N	10	ABS	projectivity violation	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	a-kal-la	Akala[1]	PN	PN	2	ABL	_	
+6	dub-sar	dubsar[scribe]	N	N	5	appos	_	
+7	dam-gar3-ta	_[exchange.agents]	N	N.GEN.ABL	6	GEN	_	
+8	dingir-ra-ke4	_[did.Dingira]	PN	PN.GEN	10	_	_	
+9	szu	szu[hand][-e]	N	N.L3-NH	10	_	_	
+10	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+11	1(asz)	1(asz)[one]	NU	NU	19	nummod	heuristic: NU premodifying	
+12	naga	naga[potash]	N	N	13	GEN	_	
+13	gur	gur[unit]	N	N	0	_	detached for projectivity	
+14	ki	ki[place]	N	N	15	ABL	_	
+15	a-kal-la	Akala[1]	PN	PN	13	ABL	_	
+16	dub-sar	dubsar[scribe]	N	N	15	appos	_	
+17	dam-gar3-ta	_[exchange.agents]	N	N.GEN.ABL	16	GEN	_	
+18	dingir-ra-ke4	_[did.Dingira]	PN	PN.GEN	17	_	heuristic: attach to last	
+19	szu	szu[hand][-e]	N	N.L3-NH	10	appos	_	
+20	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	10	parataxis	_	
+21	iti	iti[month]	N	N	10	parataxis	_	
+22	min-esz3	Minesz[1][-'a]	MN	MN.L1	21	appos	_	
+23	mu	mu[year]	N	N	22	appos	_	
+24	puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	22	appos	_	
+25	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	24	acl	_
+	
+

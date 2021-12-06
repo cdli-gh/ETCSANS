@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: dependent workers for days barley barge of sukkalma punted to Nippur via Lu-Utu month Lu-Utu scribe son of Nig-Baba
+# train/P111172.atf
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	gurusz	gurusz[male]	N	N	0	root	_	
+3	u4	ud[day]	N	N	2	DAT	_	
+4	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+5	5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	4	nummod	_	
+6	ma2	ma[ship]	N	N	2	appos	_	
+7	sze	sze[barley]	N	N	6	appos	_	
+8	sukkal-mah	_[sukkalma]	PN	N	6	GEN	_	
+9	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	2	acl	_	
+10	nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	9	LOC	_	
+11	giri3	giri[foot]	N	N	12	via	_	
+12	lu2-{d}utu	Lu'utu[1]	PN	PN	9	via	_	
+13	iti	iti[month]	N	N	14	_	_	
+14	gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	9	appos	_	
+15	lu2-{d}utu	Lu'utu[1]	PN	PN	14	appos	_	
+16	dub-sar	dubsar[scribe]	N	N	15	appos	_	
+17	dumu	dumu[child]	N	N	15	appos	_	
+18	nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	17	GEN	_
+	
+

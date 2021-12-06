@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: When his beloved temple he had built for him and Der his beloved city he had restored to its previous condition for him for his life he dedicated to him
+1	u4	ud[sun]	N	N	4	ABS	_
+2	e2	e2[house]	N	N	3	ABS	_
+3	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	1	amod	_
+4	mu-na-du3-a	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	9	LOC	_
+5	|BAD3.AN|{ki}	|BAD₃.AN.KI|[1]	SN	SN	9	ABS	_
+6	iri	iri[city]	N	N	7	ABS	_
+7	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	5	amod	_
+8	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	9	LOC	_
+9	mu-na-gi4-a	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	12	LOC	_
+10	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	12	TERM	_
+11	a	a[water]	N	N.ABS	12	ABS	_
+12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

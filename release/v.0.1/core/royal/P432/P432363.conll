@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Ningirsu Enmeziana the ennu-priest and beloved en-priest of Nane
+1	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	0	root	_
+2	en-me-zi-an-na	en-me-zid-an-na[1]	PN	PN	1	appos	_
+3	szennux(|ME.AD.KU3|)	en-me-zid-an-na[1]+šennuₓ(|ME.AD.KU₃|)[priest]	N	N	1	appos	_
+4	en	en[priest]	N	N	5	ABS	_
+5	ki-ag2	ki[place]+ag2[measure]	V	NF.V	3	amod	_
+6	{d}nansze	{d}nansze[1]	DN	DN.GEN.ABS	5	appos	_
+

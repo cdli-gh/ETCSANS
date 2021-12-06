@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ninkala a citizen of Nippur his beloved a statue of him she fashioned shoulder of Szulgi	
+1	nin9-kal-la	nin9-kal-la[1]	PN	PN	6	ERG	_
+2	dumu	dumu[child]	N	N	4	ABS	_
+3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	2	appos	_
+4	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ERG	1	amod	_
+5	alan-na-ni	alan[statue]	N	N.3-SG-H-POSS.ABS	6	ABS	_
+6	mu-dim2	dim2[create]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+7	murgu	murgu[shoulder]	N	N	1	_	_
+8	szul-gi	szul-gi[1]	RN	RN.GEN.ABS	7	GEN	_
+

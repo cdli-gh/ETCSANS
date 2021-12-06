@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P128917.atf new_text=P128917
+# tr.en: rams grain-fed for Enlil rams grain-fed for Ninlil in royal g Ur-Nane cup-bearer was enforcer of month day passed from Nalu lifted in Nippur month ubi-feast year priest in Eridu was installed
+# train/P128917.atf						#new_text=P128917
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+10	gi-guru7-a	_[royal.g]	N	N.L1	14	LOC	_	
+11	lugal	lugal[king]	N	N	10	appos	_	
+12	ur-{d}nansze	Urnansze[1]	PN	PN	10	appos	_	
+13	sagi	sagi[cup_bearer][-ø]	N	N	10	appos	_	
+14	maszkim	maszkim[administrator]	N	N.ABS	2	parataxis	_	
+15	iti	iti[month]	N	N	16	nmod	_	
+16	u4	ud[day]	N	N	14	GEN	_	
+17	2(u)	2(u)[ten]	NU	NU	14	nummod	projectivity violation	
+18	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	16	acl	_	
+19	ki	ki[place]	N	N	20	ABL	_	
+2	udu	udu[sheep]	N	N	31	_	_	
+20	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	14	ABL	_	
+21	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	20	acl	_	
+22	sza3	szag[heart]	N	N	23	LOC	_	
+23	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	14	LOC	_	
+24	iti	iti[month]	N	N	25	_	_	
+25	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	14	acl	_	
+26	mu	mu[year]	N	N	25	appos	_	
+27	en	en[priest]	N	N	30	ABS	_	
+28	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	27	LOC	_	
+29	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	30	acl	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+30	4(disz)	4(disz)[one]	NU	NU	25	nummod	_
+	
+4	{d}en-lil2	Enlil[1]	DN	DN	2	DAT	_	
+5	2(disz)	2(disz)[one]	NU	NU	6	nummod	_	
+6	udu	udu[sheep]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	6	DAT	_	
+9	sza3	szag[heart]	N	N	10	LOC	_	
+

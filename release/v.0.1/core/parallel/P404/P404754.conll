@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P404754.atf
+# tr.en: mana established Lu-Igimana
+1	1/2(disz)	1/2(disz)[one]	NU	NU	0	nummod	_	
+2	ma-na	mana[unit]	N	N	0	_	_	
+3	gi-na	gina[dues]	PN	N	0	_	_	
+4	lu2-{d}igi-ma-na	_[Lu-Igimana]	PN	PN	0	_	_
+	
+

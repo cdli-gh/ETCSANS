@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sealed documents men of assignments are here
+# train/P113643.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	5	nmod	projectivity violation	
+3	nam-DU	_[sealed.documents]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	6	ABS	_	
+4	lu2	lu[person]	N	N	3	appos	_	
+5	nig2-dab5-ba-ke4-ne	nigdab[requisitions]-ak-ene[-ø]	N	N.GEN.PL.ABS	3	appos	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

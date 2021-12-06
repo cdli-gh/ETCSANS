@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: calf-gazelle for uzga-house delivery of ubaya Ur-Baba was enforcer rd day from Abbasaga booked out month Festival of Mekigal year Enmagalana priestess of Nanna was installed
+# train/P102349.atf						#new_text=P102349
+# train/P102349.atf new_text=P102349
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+10	2(u)	2(u)[ten]	NU	NU	15	nummod	_	
+11	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	10	nummod	_	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	15	ABL	_	
+14	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	15	acl	_	
+15	iti	iti[month]	N	N	8	parataxis	_	
+16	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	8	appos	_	
+17	mu	mu[year]	N	N	8	date	_	
+18	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	22	ABS	_	
+19	en	en[priest]	N	N	18	appos	_	
+2	amar	amar[calf][-ak]	N	N	3	_	heuristic: attach to head	
+20	{d}nanna	Nanna[1][-ak]	DN	DN	19	GEN	_	
+21	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	22	acl	_	
+22	1(disz)	1(disz)[one]	NU	NU	8	nummod	_
+	
+3	masz-da3	maszda[gazelle][-ø]	N	N	23	_	_	
+4	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	3	TERM	_	
+5	mu-kux(DU)	mukur[delivery][-ø]	N	N	3	appos	_	
+6	hu-ba-a	_[ubaya]	PN	PN.GEN	5	GEN	_	
+7	ur-{d}ba-ba6	Urbaba[1]	PN	PN	8	ABS	_	
+8	maszkim	maszkim[administrator]	N	N.ABS	3	appos	_	
+9	u4	ud[day]	N	N	15	date	_	
+

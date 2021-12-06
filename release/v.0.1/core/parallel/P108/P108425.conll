@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P108425.atf						#new_text=P108425
+# train/P108425.atf new_text=P108425
+# tr.en: north averaged east averaged surface outside ee iku inside field bur iku surface ee iku surface barig ee iku surface ban ee iku surface ee iku surface barig iku surface fallow its barley Lu-dingira ploughman oxen-field of Fox north averaged east averaged ee iku surface outside ee iku inside field bur iku surface bur ee surface bur iku surface bur iku surface surface inspected field Bur via year after Lullubum for th time destroyed
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+3	mer	mer[north]	N	N	95	acl	_	
+4	hi	hi[mix][-ø]	V	NF.V.ABS	3	_	heuristic: after nominal	
+5	n	_(_)[_]	NU	NU	4	_	heuristic: attach to last	
+6	7(disz)	7(disz)[one][-sze]	NU	NU	95	nummod	heuristic: NU premodifying; projectivity violation	
+7	kur	kur[east]	N	N	6	_	heuristic: attach to last	
+8	hi	hi[mix][-ø]	V	NF.V.ABS	7	_	heuristic: attach to last	
+9	GAN2	gana[field]	N	N	3	nmod	heuristic: after nominal	
+10	ki	ki[place]	N	N	11	_	heuristic: attach to last	
+11	a-sza3	aszag[field]	N	N	16	_	heuristic: attach to last	
+12	4(bur3)	4(bur)[unit]	NU	N	95	nummod	heuristic: NU premodifying	
+13	...	_[_]	PN	N	18	dep	heuristic: attach to last	
+14	1(iku)	1(iku)[unit]	NU	N	95	nummod	heuristic: NU premodifying	
+15	...	_[_]	PN	N	24	dep	heuristic: attach to last	
+16	GAN2	gana[field]	N	N	25	_	heuristic: attach to last	
+17	3(iku)	3(iku)[unit]	NU	N	0	nummod	_	
+18	1/2(iku)	1/2(iku)[unit]	NU	N	47	nummod	_	
+19	1/4(iku)	1/4(iku)[unit]	NU	N	47	nummod	_	
+20	GAN2	gana[field]	N	N	49	_	heuristic: attach to last	
+21	hi	hi[mix][-ø]	V	NF.V.ABS	50	_	heuristic: attach to last	
+22	hi	hi[mix][-ø]	V	NF.V.ABS	62	_	heuristic: attach to last	
+23	1(esze3)	1(esze)[unit]	NU	N	0	nummod	_	
+24	5(iku)	5(iku)[unit]	NU	N	72	nummod	_	
+25	ki	ki[place]	N	N	73	_	heuristic: attach to last	
+26	...	_[_]	PN	N	0	dep	_	
+27	1(bur3)	1(bur)[unit]	NU	N	0	nummod	_	
+28	5(iku)	5(iku)[unit]	NU	N	89	nummod	_	
+29	GAN2	gana[field]	N	N	88	appos	_	
+30	...	_[_]	PN	N	88	dep	_	
+31	...	_[_]	PN	N	88	dep	_	
+32	x	_[_]	N	N	93	dep	heuristic: attach to last	
+33	...	_[_]	PN	N	0	dep	_	
+34	mu	mu[year]	N	N	0	appos	_	
+35	us2-sa	us[follow]-a	V	NF.V.PT	104	acl	_	
+36	x	_[_]	N	N	104	dep	heuristic: after nominal head	
+37	...	_[_]	PN	N	104	dep	heuristic: after nominal head	
+38	lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	104	appos	_	
+39	a-ra2	ara[times]	N	N	108	DAT	_	
+40	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+41	la2	la[hang][-ø]	V	NF.V.ABS	110	_	_	
+42	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	111	nummod	_	
+43	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	109	acl	_
+	
+

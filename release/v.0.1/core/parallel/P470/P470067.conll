@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ram ewe slaughtered rd day from Nalu month Gazelle feast year after Simurrum Lullubi for th time were destroyed
+# train/P470067.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+4	u8	u[ewe]	N	N	2	appos	_	
+5	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+6	u4	ud[day]	N	N	5	date	_	
+7	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	5	nummod	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	na-lu5	Nalu[1][-e]	PN	PN.ERG	5	ABL	_	
+10	iti	iti[month]	N	N	5	appos	_	
+11	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	10	appos	_	
+12	mu	mu[year]	N	N	11	appos	_	
+13	us2-sa	us[follow]-a	V	NF.V.PT	12	acl	_	
+14	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	15	nmod	_	
+15	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	20	ABS	projectivity violation	
+16	a-ra2	ara[times]	N	N	15	DAT	_	
+17	1(u)	1(u)[ten]	NU	NU	2	nummod	projectivity violation	
+18	la2	la[hang][-ø]	V	NF.V.ABS	17	_	_	
+19	1(disz@t)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	18	nummod	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

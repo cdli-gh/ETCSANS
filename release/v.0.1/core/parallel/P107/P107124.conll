@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets remainder of oxen and sheep from year house of Szara was erected to year Simururm was destroyed are here
+# test/P107124.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	tak4-ba	_[remainder.and]	V	NF.V.PF.F.3-SG-H-POSS.L1	1	_	_	
+3	gu4	gud[ox]	N	N	2	GEN	_	
+4	udu	udu[sheep]	N	N	3	appos	_	
+5	mu	mu[year]	N	N	2	ABL	_	
+6	e2	e[house]	N	N	2	ABS	projectivity violation	
+7	{d}szara2	Szara[1][-ak]	DN	DN	6	GEN	_	
+8	ba-du3-ta	ba-du[build][-ø]-ta	V	MID.V.3-SG-S.ABL	5	acl	_	
+9	mu	mu[year]	N	N	2	LOC	_	
+10	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	2	appos	projectivity violation	
+11	ba-hul-<sze3>	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	9	acl	_	
+12	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	2	_	_
+	
+

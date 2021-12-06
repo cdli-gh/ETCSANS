@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432322.atf						#new_text=P432322
+# train/P432322.atf new_text=P432322
+# tr.en: For Nintinuga the great lady herbalist of Enlil in sacred house the big oil house of Enlil the Dumusag temple he built for her Great aromatic cedars lady Ur-Namma king whom Enlil for beloved which is of Seven tutelary deities
+1	{d}nin-ti2-ug5-ga	Ninti'uga[1][-ra]	DN	DN.DAT-H	0	root	_	
+2	nin	_[the]	N	N	5	nmod	_	
+3	szim-mu2	_[lady]	N	N	5	nmod	_	
+4	gal	gal[big][-ø]	V	NF.V.ABS	5	acl	_	
+5	{d}en-lil2-la2-ra	_[herbalist.Enlil]	DN	DN.GEN	0	_	detached for projectivity	
+6	e2	e[house]	N	N	7	_	_	
+7	a-mer	_[in.sacred.house]	N	N	5	appos	projectivity violation	
+8	ku3	kug[silver]	N	N	7	_	heuristic: attach to last	
+9	e2	e[house]	N	N	11	nmod	_	
+10	i3	i[oil]	N	N	11	nmod	_	
+11	gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	6	appos	_	
+12	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	DN.GEN.ABS	11	GEN	_	
+13	e2	e[house]	N	N	11	_	heuristic: after nominal head	
+14	dumu-sag!(KA)	_[the.Dumusag.temple]	N	N	11	appos	_	
+15	mu-na-ni-du3	_[he.built.for.her]	V	VEN.3-SG-H-A.V.3-SG-P.TERM	14	acl	_	
+16	szim	_	N	N	11	appos	_	
+17	erin-gal-gal	_[Great.aromatic.cedars]	N	N.GEN	16	ERG	_	
+18	...-e	_	PN	PN.DAT-H	22	nmod	_	
+19	nin	_	N	N	18	_	heuristic: attach to last	
+20	ki-ib	_[lady]	N	N	22	nmod	_	
+21	'.	_	_	_	22	_	_	
+22	ur-{d}namma	Urnamma[1]	RN	RN	16	ABS	_	
+23	'.	_	_	_	22	_	heuristic: after nominal head	
+24	lugal	lugal[king]	N	N	22	appos	_	
+25	'.	_	_	_	24	_	heuristic: after nominal head	
+26	{d}en-lil2-le	_[whom.Enlil]	DN	DN.ERG	24	appos	_	
+27	'.	_	_	_	0	_	_	
+28	ki-ag2-ra	_[for.beloved]	N	N	27	DAT	_	
+29	'.	_	_	_	0	_	_	
+30	...	_[_]	PN	N	31	dep	heuristic: attach to last	
+31	'.	_	_	_	32	_	heuristic: attach to last	
+32	...	_[_]	PN	N	33	dep	heuristic: attach to last	
+33	x-a-kam	_[which.is]	DN	DN	31	ABS	_	
+34	'.	_	_	_	26	_	heuristic: after nominal head	
+35	szu4-sag	_	V	V	26	_	heuristic: after nominal head	
+36	'.	_	_	_	26	_	heuristic: after nominal head	
+37	an-gub-ba	_[Seven.tutelary.deities]	PN	PN.GEN.ABS	26	appos	_	
+38	7(disz)	7(disz)[one][-sze]	NU	NU	0	nummod	_
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep grain-fed fine nd grade slaughtered th day from Uta-miaram Szulgi-irimu received month Festival of Ninazu year unuri was destroyed
+# train/P102356.atf new_text=P102356
+# train/P102356.atf						#new_text=P102356
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	u2-ta2-mi-szar-ra-am-ta	_[Uta-miaram]	PN	PN.GEN.ABL	6	ABL	_	
+11	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	13	ABS	_	
+12	szu	szu[hand][-e]	N	N.L3-NH	13	_	_	
+13	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	10	acl	_	
+14	iti	iti[month]	N	N	16	nmod	_	
+15	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	14	appos	_	
+16	mu	mu[year]	N	N	13	appos	_	
+17	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	19	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	19	acl	_	
+19	1(disz)	1(disz)[one]	NU	NU	16	nummod	_
+	
+2	udu	udu[sheep]	N	N	20	_	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	5	acl	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	appos	_	
+5	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+6	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+7	u4	ud[day]	N	N	6	date	_	
+8	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	6	nummod	_	
+9	ki	ki[place]	N	N	10	ABL	_	
+

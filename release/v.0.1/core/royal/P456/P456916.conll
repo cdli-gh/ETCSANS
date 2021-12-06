@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szukubu servant of Szulgi
+1	szu-ku-bu-um	szu-ku-bu[1]	PN	PN	0	root	_
+2	ARAD2	arad2[slave]	N	N	1	appos	_
+3	{d}szul-gi-na-da	{d}szul-gi[1]	RN	RN.GEN.ABS	2	GEN	_
+

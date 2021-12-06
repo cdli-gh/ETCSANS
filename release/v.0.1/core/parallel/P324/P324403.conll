@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets copies of inspections when stationed via Puzur-Ninkarke scribe year Zabali was destroyed are here
+# test/P324403.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gaba-ri	gabari[copy]	N	N	1	appos	_	
+3	gurum2-ak	gurum[inspection]-ak	N	N.GEN	2	GEN	_	
+4	u4	ud[day]	N	N	6	_	_	
+5	al-tar-ra	_[when]	N	N	6	_	_	
+6	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	12	acl.ADV	_	
+7	giri3	giri[foot]	N	N	8	via	_	
+8	puzur4-{d}nin-kar-ke3	_[Puzur-Ninkarke]	PN	PN.GEN.TERM	6	via	_	
+9	dub-sar	dubsar[scribe]	N	N	8	appos	_	
+10	mu	mu[year]	N	N	8	appos	_	
+11	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	12	ABS	_	
+12	<ba>-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_	
+13	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	12	_	_
+	
+

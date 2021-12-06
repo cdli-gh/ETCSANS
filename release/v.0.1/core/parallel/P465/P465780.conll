@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lamb governor of Umma Szimagi sheep grain-fed lamb ARADmu fat-tailed sheep billy grain-fed lamb Lugal-kuzu lambs Ninlil-imti the th day as delivery did Abbasaga accept month Festival-of-Mekigal year
+# train/P465780.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	ensi2	ensik[ruler]	N	N	2	appos	_	
+4	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	3	GEN	_	
+5	4(disz)	4(disz)[one]	NU	NU	6	nummod	_	
+6	udu	udu[sheep]	N	N	2	appos	_	
+7	szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	6	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+9	1(disz)	1(disz)[one]	NU	NU	6	nummod	_	
+10	sila4	sila[lamb]	N	N	6	appos	_	
+11	ARAD2-mu	Aradmu[1]	PN	PN	6	appos	_	
+12	1(disz)	1(disz)[one]	NU	NU	19	nummod	projectivity violation	
+13	gukkal	gukkal[fat-tailed_sheep]	N	N	6	appos	_	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	projectivity violation	
+15	1(disz)	1(disz)[one]	NU	NU	18	nummod	heuristic: NU premodifying; projectivity violation	
+16	masz2	masz[goat]	N	N	15	_	heuristic: attach to last	
+17	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	projectivity violation	
+18	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+19	sila4	sila[lamb]	N	N	13	appos	_	
+20	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	13	appos	_	
+21	2(disz)	2(disz)[one]	NU	NU	22	nummod	_	
+22	sila4	sila[lamb]	N	N	13	appos	_	
+23	{d}nin-lil2-im-ti	_[Ninlil-imti]	PN	PN	22	appos	_	
+24	u4	ud[day]	N	N	13	appos	_	
+25	1(u)	1(u)[ten]	NU	NU	29	nummod	_	
+26	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	25	nummod	_	
+27	mu-kux(DU)	mukur[delivery][-ø]	N	N	29	_	_	
+28	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	29	_	_	
+29	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	24	acl	_	
+30	iti	iti[month]	N	N	31	nmod	_	
+31	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	29	appos	_	
+32	mu	mu[year]	N	N	31	appos	_	
+33	...	_[_]	PN	N	31	dep	heuristic: after nominal head	
+34	x	_[_]	N	N	31	dep	_	
+35	1(u)	1(u)[ten]	NU	NU	31	nummod	_	
+36	1(disz)	1(disz)[one]	NU	NU	35	nummod	_
+	
+

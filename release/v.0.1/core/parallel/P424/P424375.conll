@@ -1,0 +1,75 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: barley-fed sheep Inanna of Uruk via Lugalimah cupbearer barley-fed sheep a milk-fed lamb Itaran from Nuhi-ilum deputy milk-fed lamb Nanna from Erranada deputy an offering in palace barley-fed large-goat from Ili-Dagan man of Ebla barley-fed large-goat barley-fed large-goat from man of Uru large barley-fed goat Nagizu messenger from Ar- via Lugalinimgina ARAD-mu overseer of messengers ff month days have passed booked out of Ahuni month Eating piglets year Amar-Suen became king
+# dev/P424375.atf
+1	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+2	udu	udu[sheep]	N	N	4	nmod	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	4	acl	_	
+4	{d}inanna	Inanna[1][-ak]	DN	DN	0	root	_	
+5	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	4	GEN	_	
+6	giri3	giri[foot]	N	N	7	via	_	
+7	lugal-i3-mah	_[Lugalimah]	PN	PN.GEN.GEN	4	via	_	
+8	sagi	sagi[cup_bearer][-ø]	N	N	7	appos	_	
+9	1(disz)	1(disz)[one]	NU	NU	10	nummod	heuristic: NU premodifying	
+10	udu	udu[sheep]	N	N	4	appos	_	
+11	sze	sze[barley]	N	N	10	acl	_	
+12	1(disz)	1(disz)[one]	NU	NU	15	nummod	heuristic: NU premodifying	
+13	sila4	sila[lamb]	N	N	15	nmod	_	
+14	ga	ga[milk]	N	N	15	nmod	_	
+15	{d}isztaran	Isztaran[1]	DN	DN	10	appos	_	
+16	nu-hi-dingir-um	_[from.Nuhi-ilum]	PN	PN	10	ABL	_	
+17	maszkim	maszkim[administrator]	N	N.ABS	10	appos	_	
+18	1(disz)	1(disz)[one]	NU	NU	21	nummod	_	
+19	sila4	sila[lamb]	N	N	21	nmod	_	
+20	ga	ga[milk]	N	N	21	acl	_	
+21	{d}nanna	Nanna[1][-ak]	DN	DN	10	appos	_	
+22	er3-ra-na-da	_[from.Erranada.deputy]	PN	PN	21	ABL	_	
+23	maszkim	maszkim[administrator]	N	N.ABS	21	appos	_	
+24	siskur2	siszkur[offering]	N	N	21	appos	_	
+25	sza3	szag[heart]	N	N	26	LOC	_	
+26	e2-gal	egal[palace][-ak][-'a]	N	N	24	LOC	_	
+27	1(disz)	1(disz)[one]	NU	NU	30	nummod	_	
+28	masz2-gal	maszgal[billy_goat]	N	N	27	_	heuristic: attach to last	
+29	niga	niga[fattened][-ø]	V	NF.V.ABS	30	acl	_	
+30	i3-li2-da-gan	_[large-goat.from.Ili-Dagan]	SN	SN	21	appos	_	
+31	lu2	lu[person]	N	N	30	appos	_	
+32	eb-la{ki}	_[Ebla]	SN	SN	31	GEN	_	
+33	1(disz)	1(disz)[one]	NU	NU	34	nummod	heuristic: NU premodifying	
+34	masz2-gal	maszgal[billy_goat]	N	N	21	appos	_	
+35	niga	niga[fattened][-ø]	V	NF.V.ABS	34	acl	_	
+36	x	_[_]	N	N	35	dep	heuristic: attach to last	
+37	x	_[_]	N	N	36	dep	heuristic: attach to last	
+38	x	_[_]	N	N	37	dep	heuristic: attach to last	
+39	1(disz)	1(disz)[one]	NU	NU	34	nummod	_	
+40	masz2-gal	maszgal[billy_goat]	N	N	34	appos	_	
+41	niga	niga[fattened][-ø]	V	NF.V.ABS	40	acl	_	
+42	bu-du-ur2	_[from.man]	PN	PN	34	ABL	_	
+43	lu2	lu[person]	N	N	48	nummod	_	
+44	ur-szu	_[Uru]	PN	PN	48	nmod	_	
+45	1(disz)	1(disz)[one]	NU	NU	48	nummod	heuristic: NU premodifying	
+46	masz2-gal	maszgal[billy_goat]	N	N	48	acl	_	
+47	niga	niga[fattened][-ø]	V	NF.V.ABS	48	acl	_	
+48	na-gi4-zu	_[goat.Nagizu]	N	N	34	GEN	_	
+49	lu2	lu[person]	N	N	48	_	heuristic: attach to last	
+50	kin-gi4-a	kiggia[messenger]	N	N	48	appos	_	
+51	sza3	szag[heart]	N	N	50	_	heuristic: attach to last	
+52	ar-...	_[from.Ar-]	PN	PN	50	ABL	_	
+53	giri3	giri[foot]	N	N	55	via	_	
+54	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	55	nmod	_	
+55	ARAD2-mu	Aradmu[1]	PN	PN	50	via	_	
+56	ugula	ugula[overseer][-ø]	N	N	55	appos	_	
+57	kas4	kas[runner][-ra]	N	N.DAT-H	56	GEN	_	
+58	iti	iti[month]	N	N	62	ABS	_	
+59	u4	ud[day]	N	N	58	appos	_	
+60	1(u)	1(u)[ten]	NU	NU	62	nummod	_	
+61	4(disz)	4(disz)[one]	NU	NU	60	nummod	_	
+62	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	21	_	_	
+63	ki	ki[place]	N	N	62	appos	_	
+64	a-hu-ni-ta	Ahuni[1][-ak]-ta	PN	PN.GEN.ABL	65	ABL	_	
+65	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	62	appos	_	
+66	iti	iti[month]	N	N	62	date	_	
+67	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	21	appos	_	
+68	mu	mu[year]	N	N	21	appos	_	
+69	{d}amar-{d}suen	Amarsuen[1]	RN	RN	21	acl	_	
+70	lugal	lugal[king]	N	N	69	acl	_
+	
+

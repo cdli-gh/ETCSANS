@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: bear th day from Abbasaga Lu-dingira accepted month Festival of Mekigal year Szaru was destroyed
+# train/P102330.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	az	_[bear]	N	N.GEN	0	root	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+5	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	ki	ki[place]	N	N	8	ABL	_	
+7	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	8	nmod	_	
+8	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	2	ABL	_	
+9	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	8	acl	_	
+10	iti	iti[month]	N	N	12	_	_	
+11	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	12	_	_	
+12	mu	mu[year]	N	N	2	appos	_	
+13	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	12	appos	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_	
+15	1(disz)	1(disz)[one]	NU	NU	12	nummod	_
+	
+

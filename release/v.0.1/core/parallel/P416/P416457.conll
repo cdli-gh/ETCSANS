@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: suckling bull calf sheep barley-fed of nd grade sheep lamb slaughtered th day from Ahuni Ur-nigar received month ki-siki of Ninazu second year Simurum Lulubu for th time were destroyed
+# dev/P416457.atf new_text=P416457
+# dev/P416457.atf						#new_text=P416457
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+11	udu	udu[sheep]	N	N	10	appos	_	
+12	...	_[_]	PN	N	9	dep	_	
+13	1(disz)	1(disz)[one]	NU	NU	16	nummod	heuristic: NU premodifying; projectivity violation	
+14	...	_[_]	PN	N	2	dep	heuristic: after nominal head; projectivity violation	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	heuristic: NU premodifying	
+16	...	_[_]	PN	N	9	dep	_	
+17	1(disz)	1(disz)[one]	NU	NU	18	nummod	heuristic: NU premodifying	
+18	sila4	sila[lamb]	N	N	16	appos	_	
+19	...	_[_]	PN	N	9	dep	_	
+2	amar	amar[calf][-ak]	N	N	41	ABS	_	
+20	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	9	acl	_	
+21	u4	ud[day]	N	N	2	appos	_	
+22	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+23	la2	la[hang][-ø]	V	NF.V.ABS	22	_	_	
+24	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	ki	ki[place]	N	N	29	_	projectivity violation	
+26	a-hu-ni-ta	Ahuni[1][-ak]-ta	PN	PN.GEN.ABL	29	ABS	projectivity violation	
+27	ur-nigar{gar}	Urnigar[1]	PN	PN	29	_	projectivity violation	
+28	szu	szu[hand][-e]	N	N.L3-NH	2	appos	_	
+29	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+3	gu4	gud[ox]	N	N	2	appos	_	
+30	iti	iti[month]	N	N	2	appos	_	
+31	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	2	appos	_	
+32	min-kam	min[two]-ak-am	NU	NU.GEN.COP-3-SG	31	nummod	_	
+33	mu	mu[year]	N	N	2	appos	_	
+34	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	35	nmod	_	
+35	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	40	ABS	_	
+36	a-ra2	ara[times]	N	N	35	DAT	_	
+37	1(u)	1(u)[ten]	NU	NU	41	nummod	_	
+38	la2	la[hang][-ø]	V	NF.V.ABS	37	_	_	
+39	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	38	nummod	_	
+4	ga	ga[milk]	N	N	2	appos	_	
+40	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+5	1(disz)	1(disz)[one]	NU	NU	9	nummod	projectivity violation	
+6	udu	udu[sheep]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+8	saga	saga[good][-ø]	V	NF.V.ABS	10	acl	projectivity violation	
+9	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+

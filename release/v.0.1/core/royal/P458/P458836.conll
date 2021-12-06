@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi god of land king of Urim Ada-lal courier is your servant																						
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	dingir	digir[deity]	N	N	1	appos	_
+3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	a-da-lal3	a-da-lal3[5]	PN	PN	4	GEN	_
+7	lu2	{lu2}kasz4[runner]	N	N.ABS	4	appos	_
+8	kas4	_[courier]	N	N	9	ABS	_
+9	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

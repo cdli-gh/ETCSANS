@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P392632.atf						#new_text=P392632
+# tr.en: ox sheep and goat Gudea grain-fed ox sheep Akalla Adda-kal foreman of weavers credited to ellu-dagan deliveries Month eating piglettes year Kima and Hurti were destroyed
+# train/P392632.atf new_text=P392632
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+31	a-kal-la	Akala[1]	PN	PN	32	nmod	_	
+32	x	_[_]	N	N	0	dep	_	
+33	x	_[_]	N	N	32	dep	heuristic: after nominal head	
+34	...	_[_]	PN	N	32	dep	heuristic: after nominal head	
+35	x	_[_]	N	N	32	dep	_	
+36	...	_[_]	PN	N	32	dep	heuristic: after nominal head	
+37	...	_[_]	PN	N	32	dep	heuristic: after nominal head	
+38	x	_[_]	N	N	32	dep	heuristic: after nominal head	
+39	x	_[_]	N	N	32	dep	heuristic: after nominal head	
+41	ugula	ugula[overseer][-ø]	N	N	32	appos	_	
+42	usz-bar	uszbar[weaver][-ak]	N	N	41	GEN	_	
+43	zi-ga	zig[expend]-a	V	NF.V.PT	45	acl	_	
+44	s,e-lu-usz-{d}da-gan	_[to.ellu-dagan]	PN	PN	43	_	EN label	
+45	mu-kux(DU)	mukur[delivery][-ø]	N	N	32	appos	_	
+

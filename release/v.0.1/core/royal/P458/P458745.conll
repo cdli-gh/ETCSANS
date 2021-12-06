@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Suen strong king king of Ur king of four corners Me-Itaran his beloved sister Adda-illat child of Abiya is your servant scribe	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	me-{d}isztaran	ME-{d}ištaran[1]	PN	PN	0	_	_
+11	nin9	nin9[sister]	N	N	12	ABS	_
+12	ki-ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	10	amod	_
+13	{d}iszkur-illat	{d}adad-ILLAT[1]	PN	PN	0	_	_
+14	dumu	dumu[child]	N	N	13	appos	_
+15	a-bi2-a	a-bi2-a[2]	PN	PN.GEN.ABS	14	GEN	_
+16	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+17	dub-sar	dub-sar[scribe]	N	N.ABS	16	_	_
+

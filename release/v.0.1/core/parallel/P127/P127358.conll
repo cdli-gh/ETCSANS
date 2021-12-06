@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127358.atf						#new_text=P127358
+# tr.en: male lamb Ninlil delivery of governor of Szuruppak the zabardab was responsible official oxen cows rams ewes he-goats she-goats u-gid for kitchen th day from Nasa booked out month Festival of An year ari and Kima were destroyed
+# tr.en: *RETOK*-FORM _ _ _ _ FORM SEGM XPOSTAG XPOSTAG POS
+# train/P127358.atf new_text=P127358
+# tr.en: 	*RETOK*-FORM	_	_	_	_	FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2	x	_[_]	N	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+4	...	_[_]	PN	N	0	dep	_	
+5	...-la	_	PN	PN	0	_	_	
+6	...	_[_]	PN	N	0	dep	_	
+7	...	_[_]	PN	N	0	dep	_	
+8	x	_[_]	N	N	0	dep	_	
+9	...	_[_]	PN	N	0	dep	_	
+10	x	_[_]	N	N	0	dep	_	
+11	...	_[_]	PN	N	0	dep	_	
+12	x	_[_]	N	N	0	dep	_	
+13	x	_[_]	N	N	0	dep	_	
+14	x	_[_]	N	N	0	dep	_	
+15	...	_[_]	PN	N	0	dep	_	
+16	x	_[_]	N	N	0	dep	_	
+17	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+

@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P116234.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	tug2	tug[textile]	N	N	1	_	heuristic: after nominal head	
+3	ki-la2	kila[weight][-ø]	N	N	1	_	heuristic: after nominal head	
+4	tag-ga	tag[weigh]-a	V	NF.V.PT	1	_	_	
+5	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+6	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	1	_	heuristic: after nominal head	
+7	muhaldim	_[xxx]	N	N	1	_	heuristic: after nominal head	
+8	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+9	gu3-de2-a	Gude'a[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+10	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+11	lugal-ki-gal-la	Lugalkigala[1][-ak][-ta]	PN	PN.GEN.ABL	1	_	heuristic: after nominal head	
+12	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+13	lugal-gu2-gal	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+14	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+15	u3-ma-ni	Umani[1]	V	PN	1	_	heuristic: after nominal head	
+16	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+17	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	1	_	heuristic: after nominal head	
+18	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+19	ARAD2-mu	Aradmu[1]	PN	PN	1	_	heuristic: after nominal head	
+20	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+21	lu2-bi-mu	_[xxx]	PN	PN	1	_	heuristic: after nominal head	
+22	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+23	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	1	_	heuristic: after nominal head	
+24	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+25	szesz-<szesz>	Szeszszesz[1][-ak]	PN	PN.GEN	32	nmod	projectivity violation	
+26	nu-banda3	nubanda[overseer][-ø]	N	N	25	_	heuristic: attach to last	
+27	a-hu-um-dingir	_	PN	PN	26	_	heuristic: attach to last	
+28	mu	mu[year]	N	N	27	_	heuristic: attach to last	
+29	{d}amar-{d}suen	Amarsuen[1]	RN	RN	28	_	heuristic: attach to last	
+30	lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	32	nmod	projectivity violation	
+31	mu	mu[year]	N	N	1	appos	_	
+32	hu-hu-nu-ri!(PA)	_[xxx]	PN	PN	1	appos	_	
+33	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	0	_	_
+	
+

@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Nin-hedu daughter of king Urgu animal-fattener is your servant
+1	nin-he2-du7	nin-he2-du7[2]	PN	PN	0	amod	_
+2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_
+3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_
+4	ur-gu	ur-gu[1]	PN	PN	6	ABS	_
+5	kuruszda	guruszta[fattener]	N	N.ABS	4	appos	_
+6	ARAD2-zu	guruszta[fattener]+arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_
+

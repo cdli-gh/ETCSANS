@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: calf of En-dingirmu deer of Szu-edar lamb of Lugal-nirgal delivery month ki-siki of Ninazu The high-priestess of Nanna by means of extispicy was chosen th day
+# train/P416468.atf						#new_text=P416468
+# train/P416468.atf new_text=P416468
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+

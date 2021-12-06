@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P424377.atf
+# tr.en: sheep for threshing-floor sacrifice of field GAN-ma from Ur-almua under seal of Lu-aya year Szu-Suen king built great-barge for Enlil and Ninlil Lu-aya scribe son of Ur-ee cattle manager
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	22	_	_	
+3	siskur2	siszkur[offering]	N	N	6	DAT	projectivity violation	
+4	ki-su7	kisur[threshing_floor]	N	N	2	appos	_	
+5	a-sza3	aszag[field]	N	N	6	nmod	_	
+6	GAN2-mah	GANmah[1]	FN	FN	2	DAT	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	ur-{d}hal-mu-sza4-ta	_[Ur-almua]	PN	PN.GEN.ABL	2	ABL	_	
+9	kiszib3	kiszib[seal]	N	N	2	LOC	_	
+10	lu2-{d}ha-ia3	Luha'ia[1]	PN	PN	9	GEN	_	
+11	mu	mu[year]	N	N	17	date	projectivity violation	
+12	{d}szu-{d}suen	Szusuen[1]	RN	RN	13	nmod	_	
+13	lugal-e	lugal[king]-e	N	N.ERG	17	ABS	projectivity violation	
+14	ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	2	appos	_	
+15	{d}en-lil2	Enlil[1]	DN	DN	17	DAT	_	
+16	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	15	appos	_	
+17	mu-ne-du8	_[built.great-barge]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	2	acl	_	
+18	lu2-{d}ha-ia3	Luha'ia[1]	PN	PN	22	ABS	_	
+19	dub-sar	dubsar[scribe]	N	N	18	appos	_	
+20	dumu	dumu[child]	N	N	18	appos	_	
+21	ur-e11-e	Ure'e[1][-ak]	PN	PN	20	GEN	_	
+22	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	0	root	_
+	
+

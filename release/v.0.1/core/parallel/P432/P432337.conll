@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To his did Ur-Namma king of Ur when he Susa destroyed and to booty made for life dedicate
+# train/P432337.atf new_text=P432337
+# train/P432337.atf						#new_text=P432337
+1	{d}...	_[1][-'a]	MN	DN.GEN	15	LOC	_	
+10	mu-na-ak-a	_[made]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	8	appos	_	
+11	nam-ti-la-ni-sze3	_[for.life]	N	N.3-SG-H-POSS.TERM	13	TERM	_	
+12	a	a[water][-ø]	N	N.ABS	15	_	_	
+13	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	8	DAT	_
+	
+2	x-a-ni-ir	_[his]	PN	PN	3	_	_	
+3	ur-{d}namma	Urnamma[1]	RN	RN	15	acl	_	
+4	lugal	lugal[king]	N	N	3	appos	_	
+5	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	4	GEN	_	
+6	u4	ud[day]	N	N	3	_	heuristic: after nominal head	
+7	szuszin{ki}	_[when.he.Susa]	SN	SN.GEN.ABS	3	acl.ADV	_	
+8	mu-hul-a	_[destroyed]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	7	acl	_	
+9	nam-ra-asz	_[and.to.booty]	N	N.ADV	8	appos	_	
+

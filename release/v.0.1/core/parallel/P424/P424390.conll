@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jugs of good dida-beer jugs of common dida-beer under seal of Umani part of bala Umani scribe son of Namhani
+# train/P424390.atf
+1	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+2	dug	dug[pot]	N	N	0	root	_	
+3	dida	dida[sweet_wort]	N	N	2	GEN	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+6	dug	dug[pot]	N	N	2	appos	_	
+7	dida	dida[sweet_wort]	N	N	6	GEN	_	
+8	du	gin[quality_designation][-ø]	V	NF.V.ABS	7	acl	_	
+9	kiszib3	kiszib[seal]	N	N	2	LOC	_	
+10	u3-ma-ni	Umani[1]	V	PN	9	acl	_	
+11	sza3	szag[heart]	N	N	2	appos	_	
+12	bala	bala[turn][-'a]	N	N.L1	2	appos	_	
+13	u3-ma-ni	Umani[1]	V	PN	2	_	_	
+14	dub-sar	dubsar[scribe]	N	N	13	appos	_	
+15	dumu	dumu[child]	N	N	13	appos	_	
+16	nam-ha-ni	Namhani[1]	N	PN	15	GEN	_
+	
+

@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P111714.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	...-sze3	_	PN	PN.GEN.TERM	1	_	heuristic: after nominal head	
+4	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+5	lugal-gaba	Lugalgaba[1]	PN	PN	4	_	heuristic: attach to last	
+6	sza3	szag[heart]	N	N	5	_	heuristic: attach to last	
+7	nigin6{ki}	_[xxx]	SN	SN.GEN.GEN.TERM	6	_	heuristic: attach to last	
+8	e2-usz-bar	_	N	N.TERM	7	_	heuristic: attach to last	
+9	{d}lamma-{d}szu-{d}suen	_[xxx]	DN	DN	8	_	heuristic: attach to last	
+10	iti	iti[month]	N	N	9	_	heuristic: attach to last	
+11	GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	10	_	heuristic: attach to last	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	us2-sa	us[follow]-a	V	NF.V.PT	12	_	heuristic: attach to last	
+14	bad3	bad[wall]	N	N	13	_	heuristic: attach to last	
+15	mar-tu	Martu[1][-ø]	EN	EN.ABS	14	_	heuristic: attach to last	
+16	ba-du3-ta	ba-du[build][-ø]-ta	V	MID.V.3-SG-S.ABL	15	_	heuristic: attach to last	
+17	iti	iti[month]	N	N	16	_	heuristic: attach to last	
+18	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	17	_	heuristic: attach to last	
+19	u4	ud[day]	N	N	18	_	heuristic: attach to last	
+20	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+21	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	mu	mu[year]	N	N	21	_	heuristic: attach to last	
+23	e2	e[house]	N	N	22	_	heuristic: attach to last	
+24	{d}szara2	Szara[1][-ak]	DN	DN	23	_	heuristic: attach to last	
+25	ba-du3-sze3	_[xxx]	V	V	24	_	heuristic: attach to last	
+26	iti	iti[month]	N	N	34	nmod	_	
+27	5(u)	5(u)[ten]	NU	NU	0	nummod	_	
+28	9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	27	nummod	_	
+29	iti	iti[month]	N	N	28	_	heuristic: attach to last	
+30	diri	diri[intercalary_month]	N	N	29	_	heuristic: attach to last	
+31	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	34	nummod	heuristic: NU premodifying	
+32	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	31	_	heuristic: attach to last	
+33	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	34	nmod	_	
+34	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

@@ -1,0 +1,129 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P135982.atf						#new_text=P135982
+# tr.en: gur ban sila sesame seeds remaining deficit from year Kima was destroyed gur Albanidu gur Lu-girizal gur Ur-nigar gur Lugal-dingirmu gur Ur-Nun-gal gur Zabasage gur Ekidu gur Ur-geamuna gur Ur-Ikur ban Uga Nin-ukkene ARAD-Szara gur Szulpae barig sesame seeds in debit account of Ur-ee set under seal of Ur-Szara chief accountant shekels silver its sesame seed bur ban its silver in debit account of Dadaga set in debit account having set male laborers for months in debit account of Lugal-kuzu set in debit account having set total gur barig ban sesame seeds total flax-ploughmen returned booked out the deficit gur barig sila sesame seeds account of Ur-Baba year after Kima was destroyed
+# train/P135982.atf new_text=P135982
+1	3(asz)	3(asz)[one]	NU	NU	6	nummod	_	
+2	3(ban2)	3(ban)[unit]	NU	N	1	nummod	_	
+3	2(disz)	2(disz)[one]	NU	NU	1	nummod	_	
+4	2/3(disz)	2/3(disz)[one]	NU	NU	6	nummod	_	
+5	sila3	sila[unit]	N	N	6	nmod	_	
+6	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	0	root	_	
+7	gur	gur[unit]	N	N	6	appos	_	
+8	si-i3-tum	situm[balance]	N	N	6	appos	_	
+9	mu	mu[year]	N	N	8	ABL	_	
+10	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	6	appos	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	6	acl	_	
+12	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+13	gur	gur[unit]	N	N	11	appos	_	
+14	al-ba-ni-du11	_[Albanidu]	PN	PN	13	appos	_	
+15	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+16	gur	gur[unit]	N	N	13	appos	_	
+17	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	13	appos	_	
+18	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+19	gur	gur[unit]	N	N	13	appos	_	
+20	ur-nigar{gar}	Urnigar[1]	PN	PN	13	appos	_	
+21	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+22	gur	gur[unit]	N	N	13	appos	_	
+23	lugal-dingir-mu	_[Lugal-dingirmu]	PN	PN	13	appos	_	
+24	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+25	gur	gur[unit]	N	N	13	appos	_	
+26	ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	13	appos	_	
+27	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+28	gur	gur[unit]	N	N	13	appos	_	
+29	za-ba-sa6-ge	_[Zabasage]	PN	PN.GEN.ABS	13	appos	_	
+30	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+31	gur	gur[unit]	N	N	13	appos	_	
+32	esz3-ki-du10	_[Ekidu]	PN	PN	13	appos	_	
+33	1(asz)	1(asz)[one]	NU	NU	13	nummod	_	
+34	gur	gur[unit]	N	N	13	appos	_	
+35	ur-{d}gesz-ha-mun-na	_[Ur-geamuna]	PN	PN.GEN.GEN	13	appos	_	
+36	1(asz)	1(asz)[one]	NU	NU	41	nummod	projectivity violation	
+37	gur	gur[unit]	N	N	13	appos	_	
+38	ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	13	appos	_	
+39	n	_(_)[_]	NU	NU	13	nummod	_	
+40	3(ban2)	3(ban)[unit]	NU	N	13	nummod	_	
+41	{gesz}u2-ga	_[ban.Uga]	PN	PN.GEN	13	appos	_	
+42	n	_(_)[_]	NU	NU	13	nummod	_	
+43	nin-ukken-ne2	_[Nin-ukkene]	PN	PN.DAT-H	13	appos	_	
+44	...	_[_]	PN	N	13	dep	heuristic: after nominal head	
+45	ARAD2-{d}szara2	Aradszara[1][-ak]	PN	PN.GEN	13	appos	_	
+46	'.	_	_	_	13	_	heuristic: after nominal head	
+47	n	_(_)[_]	NU	NU	46	_	heuristic: attach to last	
+48	...	_[_]	PN	N	47	dep	heuristic: attach to last	
+49	gur	gur[unit]	N	N	13	appos	_	
+50	'.	_	_	_	49	_	_	
+51	...	_[_]	PN	N	50	dep	heuristic: attach to last	
+52	x	_[_]	N	N	51	dep	heuristic: attach to last	
+53	{d}szul-pa-e3	_[Szulpae]	FN	FN	49	appos	_	
+54	'.	_	_	_	53	_	heuristic: attach to last	
+55	4(barig)	4(bariga)[unit]	NU	N	56	nummod	_	
+56	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	49	appos	_	
+57	ugu2	ugu[capital]	N	N	56	_	heuristic: attach to last	
+58	ur-e11-e	Ure'e[1][-ak]	PN	PN	59	GEN	_	
+59	ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	49	acl	_	
+60	'.	_	NU	NU	68	nummod	projectivity violation	
+61	kiszib3	kiszib[seal]	N	N	13	LOC	_	
+62	ur-{d}szara2	Urszara[1]	PN	PN	61	GEN	_	
+63	sza13-dub-ba	bisagdubak[archivist]	N	N	62	appos	_	
+64	'.	_	_	_	68	_	_	
+65	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+66	5(disz)	5(disz)[one]	NU	NU	65	nummod	_	
+67	2/3(disz)	2/3(disz)[one]	NU	NU	65	nummod	_	
+68	gin2	gig[unit]	N	N	13	appos	_	
+69	ku3	kug[silver]	N	N	68	appos	_	
+70	sze-gesz-i3-bi	_[its.sesame.seed.bur]	N	N.3-SG-NH-POSS.ABS	68	appos	_	
+71	3(asz)	3(asz)[one]	NU	NU	72	nummod	heuristic: NU premodifying	
+72	4(ban2)	4(ban)[unit]	NU	N	68	nummod	_	
+73	gur	gur[unit]	N	N	68	_	heuristic: after nominal head	
+74	'.	_	_	_	75	_	_	
+75	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	68	appos	_	
+76	ugu2	ugu[capital]	N	N	83	nummod	projectivity violation	
+77	da-da-ga	Dadaga[1][-ak]	PN	PN	80	nmod	projectivity violation	
+78	ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	75	acl	_	
+79	ugu2-a	ugu[capital]-'a	N	N.L1	78	_	heuristic: attach to last	
+80	ga2-ra-ta	_[debit.account.having.set.set.in]	V	V	78	GEN	_	
+81	'.	_	_	_	80	_	heuristic: attach to last	
+82	5(disz)	5(disz)[one]	NU	NU	83	nummod	heuristic: NU premodifying	
+83	gurusz	gurusz[male]	N	N	75	appos	_	
+84	iti	iti[month]	N	N	83	DAT	_	
+85	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+86	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	85	nummod	_	
+87	'.	_	_	_	86	_	heuristic: attach to last	
+88	ugu2	ugu[capital]	N	N	87	_	heuristic: attach to last	
+89	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	92	acl	projectivity violation	
+90	ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	75	acl	_	
+91	ugu2-a	ugu[capital]-'a	N	N.L1	90	_	heuristic: attach to last	
+92	ga2-ra-ta	_[having.set.set.in.debit.account]	V	V	90	GEN	_	
+93	'.	_	_	_	68	_	_	
+94	szunigin	szunigin[total]	N	N	68	appos	_	
+95	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+96	1(barig)	1(bariga)[unit]	NU	N	95	nummod	_	
+97	4(ban2)	4(ban)[unit]	NU	N	98	nummod	_	
+98	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	99	_	_	
+99	gur	gur[unit]	N	N	94	appos	_	
+100	'.	_	_	_	68	_	heuristic: after nominal head	
+101	szunigin	szunigin[total]	N	N	68	appos	_	
+102	5(disz)	5(disz)[one]	NU	NU	106	nummod	heuristic: NU premodifying	
+103	engar-gesz-i3-ka-ta	_[flax-ploughmen]	N	N.GEN.ABL	106	ERG	_	
+104	gur-ra	gur[unit]-ak	V	NF.V.PT	103	acl	_	
+105	'.	_	_	_	106	_	_	
+106	zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	68	acl	_	
+107	'.	_	_	_	106	_	heuristic: after nominal head	
+108	la2-ia3	la'u[arrears]	N	N	106	ABS	_	
+109	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+110	4(barig)	4(bariga)[unit]	NU	N	109	nummod	_	
+111	2(disz)	2(disz)[one]	NU	NU	109	nummod	_	
+112	2/3(disz)	2/3(disz)[one]	NU	NU	114	nummod	_	
+113	sila3	sila[unit]	N	N	114	nmod	_	
+114	sze-gesz-i3	szegeszi[sesame_seed]	PN	N	115	_	_	
+115	gur	gur[unit]	N	N	108	appos	_	
+116	'.	_	_	_	115	_	_	
+117	nig2-ka9-ak	nigSZID[account]	N	N	115	appos	_	
+118	ur-{d}ba-ba6	Urbaba[1]	PN	PN	117	GEN	_	
+119	'.	_	_	_	115	_	heuristic: after nominal head	
+120	mu	mu[year]	N	N	115	appos	_	
+121	us2-sa	us[follow]-a	V	NF.V.PT	120	acl	_	
+122	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	115	appos	_	
+123	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	115	acl	_
+	
+

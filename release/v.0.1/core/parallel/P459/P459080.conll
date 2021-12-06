@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P459080.atf new_text=P459080
+# tr.en: sheep th day from Abba-saga Nalu accepted month ubi-feast year Enunugal of Inanna of Uruk was installed
+# train/P459080.atf						#new_text=P459080
+1	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+2	la2	la[hang][-ø]	V	NF.V.ABS	1	_	_	
+3	1(disz@t)	1(disz)[one]	NU	NU	2	nummod	_	
+4	udu	udu[sheep]	N	N	0	root	_	
+5	u4	ud[day]	N	N	4	appos	_	
+6	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+7	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	6	nummod	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+10	na-lu5	Nalu[1][-e]	PN	PN.ERG	11	ABS	_	
+11	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	4	acl	_	
+12	iti	iti[month]	N	N	13	_	_	
+13	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	4	appos	_	
+14	mu	mu[year]	N	N	13	appos	_	
+15	en-unu6-gal	Enunugal[1]	PN	PN	19	ABS	_	
+16	{d}inanna	Inanna[1][-ak]	DN	DN	15	GEN	_	
+17	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	16	GEN	_	
+18	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	19	acl	_	
+19	1(u)	1(u)[ten]	NU	NU	13	nummod	_	
+20	la2	la[hang][-ø]	V	NF.V.ABS	0	_	_	
+21	1(disz@t)	1(disz)[one]	NU	NU	0	nummod	_
+	
+

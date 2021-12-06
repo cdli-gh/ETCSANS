@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P206336.atf
+# tr.en: Basket-of-tablets sealed documents grain credits
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	appos	_	
+3	sze	sze[barley]	N	N	2	appos	_	
+4	zi-ga	zig[expend]-a	V	NF.V.PT	2	acl	_	
+5	sag	sag[head]	N	N	0	root	_	
+6	ba-DU	_	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	5	_	_
+	
+

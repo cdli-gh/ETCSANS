@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Inim-Szara scribe son of Ur-Nigar cattle manager
+# test/P455294.atf
+1	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	ur-nigar{gar}	Urnigar[1]	PN	PN	3	GEN	_	
+5	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	1	appos	_
+	
+

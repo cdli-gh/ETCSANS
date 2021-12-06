@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Ninubur the minister of An for life of Meskigal ruler of Adab
+# test/P465368.atf						#new_text=P465368
+# test/P465368.atf new_text=P465368
+1	{d}nin-szubur	Ninszubur[1][-ra]	DN	DN	0	root	_	
+

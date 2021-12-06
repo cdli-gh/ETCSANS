@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Inanna her mistress for life of Szulgi the mighty man king of Ur Diritum his	
+1	{d}inanna	{d}inana[1]	DN	DN	0	root	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	1	TERM	_
+4	szul-gi	szul-gi[1]	RN	RN	3	GEN	_
+5	nita	nita[male]	N	N	3	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	5	GEN	_
+8	uri5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	appos	_
+9	diri-tum	urim5{ki}[1]+|SI.A|-tum[1]	PN	PN	8	appos	_
+10	x	_[_]	u	u	8	dep	_
+11	x	_[_]	u	u	10	dep	_
+12	ni	_[_]	u	u	10	appos	_
+

@@ -1,0 +1,90 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P112404.atf new_text=P112404
+# train/P112404.atf						#new_text=P112404
+# tr.en: cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits cubits per wall ninda cubits ninda cubit
+1	a1.	SEGM	XPOSTAG	XPOSTAG	4	_	_	
+2	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+3	9(disz)	9(disz)[one]	NU	NU	4	nummod	_	
+4	kusz3	kusz[unit]	N	N	0	root	_	
+5	a2.	_	NU	NU	6	nummod	_	
+6	6(disz)	6(disz)[one][-sze]	NU	NU	4	nummod	_	
+7	kusz3	kusz[unit]	N	N	4	appos	_	
+8	b1.	_	NU	NU	9	nummod	_	
+9	9(disz)	9(disz)[one]	NU	NU	4	nummod	_	
+10	kusz3	kusz[unit]	N	N	4	appos	_	
+11	b2.	_	NU	NU	13	nummod	projectivity violation	
+12	<6(disz)	6(disz)[one][-sze]	NU	NU	4	nummod	_	
+13	kusz3>	kusz[unit]	N	N	4	appos	_	
+14	c1.	_	NU	NU	15	nummod	_	
+15	5(disz)	5(disz)[one]	NU	NU	4	nummod	_	
+16	kusz3	kusz[unit]	N	N	4	appos	_	
+17	c2.	_	NU	NU	18	nummod	_	
+18	6(disz)	6(disz)[one][-sze]	NU	NU	4	nummod	_	
+19	kusz3	kusz[unit]	N	N	4	appos	_	
+20	a1.	_	_	_	4	_	_	
+21	5(disz)	5(disz)[one]	NU	NU	4	nummod	_	
+22	kusz3	kusz[unit]	N	N	4	_	heuristic: after nominal head	
+23	a2.	_	_	_	4	_	_	
+24	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+25	kusz3	kusz[unit]	N	N	4	_	heuristic: after nominal head	
+26	b1.	_	_	_	4	_	_	
+27	1(u)	1(u)[ten]	NU	NU	28	nummod	_	
+28	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+29	kusz3	kusz[unit]	N	N	4	_	heuristic: after nominal head	
+30	b2.	_	NU	NU	31	nummod	_	
+31	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+32	kusz3	kusz[unit]	N	N	4	appos	_	
+33	c1.	_	_	_	4	_	_	
+34	6(disz)	6(disz)[one][-sze]	NU	NU	4	nummod	_	
+35	kusz3	kusz[unit]	N	N	4	_	heuristic: after nominal head	
+36	c2.	_	NU	NU	38	nummod	projectivity violation	
+37	<1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+38	kusz3>	kusz[unit]	N	N	4	appos	_	
+39	d1.	_	_	_	4	_	_	
+40	5(disz)	5(disz)[one]	NU	NU	4	nummod	_	
+41	kusz3	kusz[unit]	N	N	4	_	heuristic: after nominal head	
+42	d2.	_	NU	NU	43	nummod	_	
+43	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+44	kusz3	kusz[unit]	N	N	4	appos	_	
+45	a1.	_	NU	NU	46	nummod	_	
+46	8(disz)	8(disz)[one]	NU	NU	4	nummod	_	
+47	kusz3	kusz[unit]	N	N	4	appos	_	
+48	a2.	_	_	_	4	_	_	
+49	<6(disz)	6(disz)[one][-sze]	NU	NU	51	_	heuristic: NU premodifying	
+50	kusz3>	kusz[unit]	N	N	51	nummod	_	
+51	b1.	_	N	N	4	appos	_	
+52	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+53	1(disz)	1(disz)[one]	NU	NU	55	nummod	_	
+54	kusz3	kusz[unit]	N	N	53	_	heuristic: attach to last	
+55	b2.	_	N	N	4	appos	_	
+56	<6(disz)	6(disz)[one][-sze]	NU	NU	57	_	heuristic: NU premodifying	
+57	kusz3>	kusz[unit]	N	N	4	appos	_	
+58	c1.	_	N	N	4	appos	_	
+59	7(disz)	7(disz)[one][-sze]	NU	NU	4	nummod	projectivity violation	
+60	kusz3	kusz[unit]	N	N	58	nummod	_	
+61	c2.	_	N	N	4	appos	_	
+62	<6(disz)	6(disz)[one][-sze]	NU	NU	61	nummod	_	
+63	kusz3>	kusz[unit]	N	N	4	appos	_	
+64	d1.	_	N	N	4	appos	_	
+65	5(disz)	5(disz)[one]	NU	NU	4	nummod	projectivity violation	
+66	kusz3	kusz[unit]	N	N	64	nummod	_	
+67	d2.	_	N	N	4	appos	_	
+68	<6(disz)	6(disz)[one][-sze]	NU	NU	67	nummod	_	
+69	kusz3>	_	N	N	4	appos	_	
+70	a.	_	NU	NU	76	nummod	projectivity violation	
+71	kusz3	kusz[unit]	N	N	70	_	heuristic: attach to last	
+72	iz-zi-ta	_[per.wall]	N	N.3-SG-H-POSS.DAT-H	69	LOC	_	
+73	b.	_	_	_	72	_	heuristic: attach to last	
+74	2(disz)	2(disz)[one]	NU	NU	75	nummod	heuristic: NU premodifying	
+75	1/2(disz)	1/2(disz)[one]	NU	NU	4	nummod	_	
+76	ninda	ninda[bread]	N	N	4	appos	_	
+77	2(disz)	2(disz)[one]	NU	NU	82	nummod	projectivity violation	
+78	kusz3	kusz[unit]	N	N	76	appos	_	
+79	c.	_	_	_	78	_	heuristic: attach to last	
+80	3(disz)	3(disz)[one]	NU	NU	0	nummod	_	
+81	1/2(disz)	1/2(disz)[one]	NU	NU	80	nummod	_	
+82	ninda	ninda[bread]	N	N	4	appos	_	
+83	1(disz)	1(disz)[one]	NU	NU	84	nummod	heuristic: NU premodifying	
+84	kusz3	kusz[unit]	N	N	82	appos	_
+	
+

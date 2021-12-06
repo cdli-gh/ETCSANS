@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed siskur-offering ofs buck for beer-drinking via Ninamati ox barley-fed slaughtered booked out from Kalam-enagi of month day elapsed month Harvest year after Kima and urti were destroyed
+# train/P416461.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	siskur2	siszkur[offering]	N	N	5	acl	_	
+5	dingir-ne	_[ofs]	PN	PN	2	appos	_	
+6	1(disz)	1(disz)[one]	NU	NU	7	nummod	heuristic: NU premodifying	
+7	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+8	kasz	kasz[beer]	N	N	9	_	_	
+9	nag-sze3	nag[drink][-ø]-sze	V	NF.V.ABS.TERM	7	acl	_	
+10	giri3	giri[foot]	N	N	11	via	_	
+11	nin-ha-ma-ti	_[Ninamati]	PN	PN	9	via	_	
+12	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+13	gu4	gud[ox]	N	N	2	appos	_	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	13	acl	_	
+15	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	13	acl	_	
+16	zi-ga	zig[expend]-a	V	NF.V.PT	13	acl	_	
+17	ki	ki[place]	N	N	18	ABL	_	
+18	kalam-he2-na-gi-ta	_[Kalam-enagi]	V	V	16	ABL	_	
+19	iti-ta	_[of.month]	N	N	16	GEN	_	
+20	u4	ud[day]	N	N	16	appos	_	
+21	8(disz)	8(disz)[one]	NU	NU	2	nummod	projectivity violation	
+22	ba-ra-zal	_[elapsed]	V	MID.V.3-SG-S.SUB	20	acl	_	
+23	iti	iti[month]	N	N	24	nmod	_	
+24	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	2	appos	_	
+25	mu	mu[year]	N	N	24	_	_	
+26	us2-sa	us[follow]-a	V	NF.V.PT	25	acl	_	
+27	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	24	appos	_	
+28	u3	u[and]	CNJ	CNJ	30	nmod	_	
+29	hur-ti{ki}	_[urti]	GN	GN	30	nmod	_	
+30	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	24	acl	_
+	
+

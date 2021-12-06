@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: grass ox grass small cattle unweaned male goats ugid offerings for house of cook in name of royal guard and prebend-holders ARADmu was makim nth day Out of nns booked Via Nanna-maba scribe Month Szu-Suen festival year Ibbi-Suen is king ox small cattle
+# train/P212353.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	u2	u[grass]	N	N	2	appos	_	
+4	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+5	udu	udu[sheep]	N	N	2	appos	_	
+6	u2	u[grass]	N	N	5	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+8	5(disz)	5(disz)[one]	NU	NU	7	nummod	_	
+9	masz2	masz[goat]	N	N	2	appos	_	
+10	gaba	gaba[frontier][-ak]	N	N	9	acl	_	
+11	szu-gid2	szugid[animal_designation][-ø]	N	N	2	appos	_	
+12	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	11	TERM	_	
+13	mu	mu[year]	N	N	2	appos	projectivity violation	
+14	aga3-us2	aga'us[soldier]	N	N	17	acl	_	
+15	u3	u[and]	CNJ	CNJ	14	_	heuristic: attach to last	
+16	lu2	lu[person]	N	N	15	_	heuristic: attach to last	
+17	szuku-ra-ke4-ne-sze3	_[in.name.guard.and.prebend-holders]	N	N.PL.GEN.TERM	11	LOC	_	
+18	ARAD2-mu	Aradmu[1]	PN	PN	19	ABS	_	
+19	maszkim	maszkim[administrator]	N	N.ABS	2	appos	_	
+20	u4	ud[day]	N	N	19	date	_	
+21	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	ki	ki[place]	N	N	26	GEN	projectivity violation	
+23	...-x-...-ta	_[Out.nns]	PN	PN.GEN.ABL	2	appos	_	
+24	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	26	acl	_	
+25	giri3	giri[foot]	N	N	24	_	heuristic: attach to last	
+26	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	23	GEN	_	
+27	dub-sar	dubsar[scribe]	N	N	2	appos	_	
+28	iti	iti[month]	N	N	29	nmod	_	
+29	ezem-{d}szu-{d}suen	_[Szu-Suen.festival]	MN	MN	27	appos	_	
+30	mu	mu[year]	N	N	29	appos	_	
+31	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	32	ABS	_	
+32	lugal	lugal[king]	N	N	27	appos	_	
+33	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+34	gu4	gud[ox]	N	N	2	appos	_	
+35	2(u)	2(u)[ten]	NU	NU	36	nummod	heuristic: NU premodifying	
+36	udu	udu[sheep]	N	N	2	appos	_
+	
+

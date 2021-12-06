@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Emahkidu scribe son of Ur-silaluh
+# train/P481042.atf
+1	e2-mah-ki-du10	_[Emahkidu]	PN	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	0	root	_	
+3	dumu	dumu[child]	N	N	0	root	_	
+4	ur-sila-luh	_[Ur-silaluh]	N	N	3	GEN	_
+	
+

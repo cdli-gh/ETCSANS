@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: unili governor of Kima general of land of Elam Tamgugu
+# train/P432376.atf
+1	hu-un-i3-li2	_	PN	PN	2	_	_	
+2	_ensi2_	ensik[ruler]	N	N	0	root	_	
+3	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	2	GEN	_	
+4	_szagina_	szakkanak[governor][-ak]	N	N	0	root	_	
+5	ma-at	_[of]	PN	PN	6	GEN	_	
+6	elam{ki}	_[land.Elam]	GN	GN.GEN.ABS	4	GEN	_	
+7	tam-gu2-gu2	_[Tamgugu]	V	V	0	root	_	
+8	ze2	_	N	N	0	_	_	
+9	ARAD2	arad[slave]	N	N	0	root	_	
+10	zi-mi	_	GN	GN	9	appos	_
+	
+

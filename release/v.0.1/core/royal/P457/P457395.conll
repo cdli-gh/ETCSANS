@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-sigar soldier of Amar-Suena	
+1	ur-si-gar	ur-si-gar[1]	PN	PN	0	root	_
+2	aga3-us2	aga3-us2[soldier]	N	N	1	appos	_
+3	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN.GEN.ABS	2	GEN	_
+

@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111239.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sa2-du11	sadug[offerings]	N	N	1	_	heuristic: after nominal head	
+3	dingir-re-ne	_	PN	N.PL.GEN	1	appos	_	
+4	{d}nansze	Nansze[1]	DN	DN	1	_	heuristic: after nominal head	
+5	{d}szul-gi	Szulgir[1]	RN	RN	1	_	heuristic: after nominal head	
+6	{d}nin-mar{ki}	_	DN	DN	1	_	heuristic: after nominal head	
+7	munus-sa	_[xxx]	N	N	1	_	heuristic: after nominal head	
+8	szu	szu[hand][-e]	N	N.L3-NH	1	_	heuristic: after nominal head	
+9	dul4-la	_	PN	PN	1	_	heuristic: after nominal head	
+10	dingir-re-ne	_	PN	N.PL.GEN	1	_	heuristic: after nominal head	
+11	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+12	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	1	_	heuristic: after nominal head	
+13	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+14	{d}nin-mar{ki}-asz	_[xxx]	DN	DN	1	_	heuristic: after nominal head	
+15	dam	dam[spouse]	N	N	1	_	heuristic: after nominal head	
+16	ur-{d}ba-ba6	Urbaba[1]	PN	PN	1	_	heuristic: after nominal head	
+17	dam	dam[spouse]	N	N	1	_	heuristic: after nominal head	
+18	gu3-de2-a	Gude'a[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+19	dam	dam[spouse]	N	N	1	_	heuristic: after nominal head	
+20	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	23	nmod	projectivity violation	
+21	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	23	acl	projectivity violation	
+22	mu	mu[year]	N	N	1	appos	_	
+23	hu-uh2!(UD)-nu-ri{ki}	_[xxx]	NU	NU	1	nummod	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

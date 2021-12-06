@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P345965.atf
+# tr.en: barley-fed full-grown billy goat of second grade sheep ewes nanny goats billy goats suckling lambs suckling goats were slaughtered it is on th day from Ahuwer Szulgi-irimu received them Month Harvest Year en-priestess of Nanna was installed sheep
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	masz2-gal	maszgal[billy_goat]	N	N	20	ABS	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	projectivity violation	
+5	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+6	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+7	udu	udu[sheep]	N	N	2	appos	_	
+8	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+9	u8	u[ewe]	N	N	2	appos	_	
+10	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+11	ud5	uzud[goat]	N	N	2	appos	_	
+12	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+13	masz2	masz[goat]	N	N	2	appos	_	
+14	5(disz)	5(disz)[one]	NU	NU	2	nummod	_	
+15	sila4	sila[lamb]	N	N	2	appos	_	
+16	ga	ga[milk]	N	N	15	appos	_	
+17	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+18	masz2	masz[goat]	N	N	2	appos	_	
+19	ga	ga[milk]	N	N	18	appos	_	
+20	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	0	root	_	
+21	u4	ud[day]	N	N	20	parataxis	_	
+22	1(u)	1(u)[ten]	NU	NU	21	nummod	_	
+23	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	22	nummod	_	
+24	ki	ki[place]	N	N	25	ABL	_	
+25	a-hu-we-er-ta	Ahuwer[1][-ak]-ta	PN	PN.GEN.ABL	20	ABL	_	
+26	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	28	ABS	projectivity violation	
+27	szu	szu[hand][-e]	N	N.L3-NH	20	appos	projectivity violation	
+28	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	25	acl	_	
+29	iti	iti[month]	N	N	31	nmod	_	
+30	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	29	appos	_	
+31	mu	mu[year]	N	N	20	parataxis	_	
+32	en	en[priest]	N	N	34	ABS	_	
+33	{d}nanna	Nanna[1][-ak]	DN	DN	32	GEN	_	
+34	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	31	acl	_	
+35	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+36	2(disz)	2(disz)[one]	NU	NU	35	nummod	_	
+37	udu	udu[sheep]	N	N	34	date	_
+	
+

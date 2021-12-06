@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-digira child of Lu-Nindara gudug priest of Szulgi
+1	lu2-dingir-ra	lu2-digir-ra[4]	PN	PN	0	root	_
+2	dumu	dumu[child]	N	N	1	appos	_
+3	lu2-{d}nin-dar-a	lu2-{d}nin-dar-a[1]	PN	PN.GEN	2	GEN	_
+4	gudu4	gudu4[priest]	N	N	1	appos	_
+5	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	4	GEN	_
+

@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: grain-fed ram throne of high-priestess via Nur-Suen cup-bearer Babanen responsible official of month days elapsed from Szulgi-ayamu booked out month Gazelle feast year Szaru was destroyed
+# dev/P127488.atf
+1	1(disz)	1(disz)[one]	NU	NU	4	nummod	projectivity violation	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	{gesz}gu-za	guza[chair]	N	N	2	appos	_	
+5	en-na	en[priest]-ak[-e]	PN	N.GEN.ERG	4	GEN	_	
+6	giri3	giri[foot]	N	N	7	via	_	
+7	nu-ur2-{d}suen	_[Nur-Suen]	PN	PN	2	via	_	
+8	sagi	sagi[cup_bearer][-ø]	N	N	2	appos	_	
+9	ba-ba-an-sze-en	_[Babanen]	V	V	10	acl	_	
+10	maszkim	maszkim[administrator]	N	N.ABS	8	appos	_	
+11	iti	iti[month]	N	N	8	GEN	_	
+12	u4	ud[day]	N	N	15	nmod	projectivity violation	
+13	1(u)	1(u)[ten]	NU	NU	8	nummod	projectivity violation	
+14	5(disz)	5(disz)[one]	NU	NU	13	nummod	_	
+15	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	11	acl	_	
+16	ki	ki[place]	N	N	17	ABL	_	
+17	{d}szul-gi-a-a-mu-ta	_[Szulgi-ayamu]	PN	PN.GEN.GEN.ABL	8	ABL	_	
+18	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	17	acl	_	
+19	iti	iti[month]	N	N	8	appos	_	
+20	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	8	appos	_	
+21	mu	mu[year]	N	N	8	appos	_	
+22	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	8	appos	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	24	acl	_	
+24	1(disz)	1(disz)[one]	NU	NU	8	nummod	_
+	
+

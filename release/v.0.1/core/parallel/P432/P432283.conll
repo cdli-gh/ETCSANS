@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432283.atf new_text=P432283
+# tr.en: beloved of Enlil king strong king or Ur and king of world quarters the four
+# train/P432283.atf						#new_text=P432283
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	_	_	
+2	na-ra-am	_[beloved]	N	N	0	root	_	
+3	{d}en-lil2	Enlil[1]	DN	DN	2	GEN	_	
+

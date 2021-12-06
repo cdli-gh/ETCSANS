@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the one who shall write his name on it on this the god Meslamtaea my																						
+1	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	2	ABS	_
+2	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	root	_
+3	x-ba	lu2[person]	N	N.DEM2.X	2	appos	_
+4	{d}mes-lam-ta-e3	{d}mesz3-lam-ta-e3-a[1]	DN	DN	1	_	_
+5	x-mu	_[_]	u	u	4	appos	_
+6	...	_	_	_	0	dep	_
+7	|GA2xX|	_[_]	u	u	0	_	_
+

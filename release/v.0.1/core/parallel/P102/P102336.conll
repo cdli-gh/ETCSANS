@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102336.atf
+# tr.en: oxen sheep billy goats full grown th day from Abbasaga Zubaga accepted month Ubi-feast year priest of Nanna of Karzida was installed
+1	2(u)	2(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	2(disz)	2(disz)[one]	NU	NU	7	nummod	projectivity violation	
+3	gu4	gud[ox]	N	N	0	root	_	
+4	2(gesz2)	2(gesz)[sixty]	NU	NU	3	nummod	_	
+5	4(u)	4(u)[ten]	NU	NU	10	nummod	projectivity violation	
+6	4(disz)	4(disz)[one]	NU	NU	5	nummod	_	
+7	udu	udu[sheep]	N	N	3	appos	_	
+8	5(u)	5(u)[ten]	NU	NU	11	nummod	projectivity violation	
+9	5(disz)	5(disz)[one]	NU	NU	8	nummod	_	
+10	masz2-gal	maszgal[billy_goat]	N	N	3	appos	_	
+11	u4	ud[day]	N	N	3	appos	_	
+12	2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	3	nummod	_	
+13	ki	ki[place]	N	N	15	ABL	_	
+14	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	15	nmod	_	
+15	zu-ba-ga	Zubaga[1][-e]	PN	PN.ERG	3	ABL	_	
+16	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	15	acl	_	
+17	iti	iti[month]	N	N	18	_	_	
+18	u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	3	appos	_	
+19	mu	mu[year]	N	N	18	appos	_	
+20	en	en[priest]	N	N	24	ABS	_	
+21	{d}nanna	Nanna[1][-ak]	DN	DN	20	GEN	_	
+22	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	21	GEN	_	
+23	ba-<hun>	ba-hug[hire][-ø]	V	MID.V.3-SG-S	24	acl	_	
+24	4(gesz2)	4(gesz)[sixty]	NU	NU	18	nummod	_	
+25	1(disz)	1(disz)[one]	NU	NU	18	nummod	_
+	
+

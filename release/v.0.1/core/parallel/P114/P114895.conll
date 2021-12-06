@@ -1,0 +1,73 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gabIL fish baskets workdays male laborers barge of birds workdays male laborers various booked-outs st year less gabIL fish baskets nun-fish good quality less workdays male laborers barge of birds workdays male laborers various booked-outs nd year surplus fish not taken Albanidu received from month Festival of Szulgi year Karar for nd time was destroyed to month Festival of Baba year Karar for nd time was destroyed
+# dev/P114895.atf
+1	4(gesz2)	4(gesz)[sixty]	NU	NU	4	nummod	projectivity violation	
+2	8(disz)	8(disz)[one]	NU	NU	7	nummod	projectivity violation	
+3	ku6	kud[fish]	N	N	4	_	heuristic: attach to head	
+4	gab2-IL2	gabil[basket]	N	N	0	root	_	
+5	1(u)	1(u)[ten]	NU	NU	7	nummod	projectivity violation	
+6	3(disz)	3(disz)[one]	NU	NU	14	nummod	projectivity violation	
+7	gurusz	gurusz[male]	N	N	4	appos	_	
+8	u4	ud[day]	N	N	7	_	heuristic: attach to last	
+9	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	10	nummod	heuristic: NU premodifying	
+10	ma2	ma[ship]	N	N	7	appos	_	
+11	muszen	_[birds]	N	N	10	GEN	_	
+12	2(u)	2(u)[ten]	NU	NU	17	nummod	projectivity violation	
+13	2(disz)	2(disz)[one]	NU	NU	12	nummod	_	
+14	gurusz	gurusz[male]	N	N	7	appos	_	
+15	u4	ud[day]	N	N	14	appos	_	
+16	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	17	nummod	heuristic: NU premodifying	
+17	zi-ga	zig[expend]-a	V	NF.V.PT	14	acl	_	
+18	didli	didli[several][-ø][-ak]	V	NF.V.ABS	17	acl	_	
+19	mu	mu[year]	N	N	14	appos	_	
+20	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_	
+21	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	20	nummod	_	
+22	1(u)	1(u)[ten]	NU	NU	29	nummod	projectivity violation	
+23	la2	la[hang][-ø]	V	NF.V.ABS	26	acl	_	
+24	1/2(disz)	1/2(disz)[one]	NU	NU	23	nummod	_	
+25	ku6	kud[fish]	N	N	24	_	heuristic: attach to last	
+26	gab2-IL2	gabil[basket]	N	N	19	appos	_	
+27	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	19	nummod	_	
+28	ku6	kud[fish]	N	N	35	nummod	projectivity violation	
+29	nun	_[nun-fish]	N	N	19	appos	_	
+30	saga	saga[good][-ø]	V	NF.V.ABS	29	acl	_	
+31	2(gesz2)	2(gesz)[sixty]	NU	NU	14	nummod	projectivity violation	
+32	5(u)	5(u)[ten]	NU	NU	42	nummod	projectivity violation	
+33	la2	la[hang][-ø]	V	NF.V.ABS	35	acl	_	
+34	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+35	gurusz	gurusz[male]	N	N	19	appos	_	
+36	u4	ud[day]	N	N	35	_	heuristic: attach to last	
+37	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	38	nummod	heuristic: NU premodifying	
+38	ma2	ma[ship]	N	N	35	appos	_	
+39	muszen	_[birds]	N	N	38	GEN	_	
+40	2(gesz2)	2(gesz)[sixty]	NU	NU	45	nummod	projectivity violation	
+41	6(disz)	6(disz)[one][-sze]	NU	NU	40	nummod	_	
+42	gurusz	gurusz[male]	N	N	14	appos	_	
+43	u4	ud[day]	N	N	42	appos	_	
+44	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	45	nummod	heuristic: NU premodifying	
+45	zi-ga	zig[expend]-a	V	NF.V.PT	42	acl	_	
+46	didli	didli[several][-ø][-ak]	V	NF.V.ABS	45	acl	_	
+47	mu	mu[year]	N	N	42	appos	_	
+48	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	47	nummod	_	
+49	ku6	kud[fish]	N	N	42	appos	_	
+50	diri	diri[intercalary_month]	N	N	49	appos	_	
+51	nu-dab5	nudab[worker]	V	N	49	acl	_	
+52	al-ba-ni-du10	_[Albanidu]	PN	PN	54	ABS	_	
+53	szu	szu[hand][-e]	N	N.L3-NH	54	_	_	
+54	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	42	acl	_	
+55	iti	iti[month]	N	N	54	ABL	_	
+56	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	55	ABL	_	
+57	mu	mu[year]	N	N	54	date	_	
+58	kar2-har{ki}	_	GN	SN.GEN	54	appos	_	
+59	a-ra2	ara[times]	N	N	61	DAT	_	
+60	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	61	nummod	_	
+61	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	54	parataxis	_	
+62	iti	iti[month]	N	N	61	LOC	_	
+63	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	62	LOC	_	
+64	mu	mu[year]	N	N	61	appos	_	
+65	kar2-har{ki}	_	GN	SN.GEN	64	appos	_	
+66	a-ra2	ara[times]	N	N	68	DAT	projectivity violation	
+67	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	4	nummod	projectivity violation	
+68	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	64	acl	_
+	
+

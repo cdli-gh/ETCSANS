@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Szulgi the mighty man king of Ur and king of Sumer and Akkad Szqurtum his beloved lukur priestess A person who this inscription shall erase and write his own name on it may Ninsun my goddess and Lugalbanda my master curse him	
+1	szul-gi	szul-gi[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_
+8	ki-uri-x	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_
+9	szu-gur-tum	szu-qur-tum[1]	PN	PN	2	appos	_
+10	lukur	lukur[priestess]	N	N	11	ABS	_
+11	ki-ag2-ga2-ni	ki[place]+ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	9	amod	_
+12	lu2	lu2[person]	N	N	15	LOC	_
+13	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	12	appos	_
+14	szu	szu[hand]	N	N.ABS	15	ABS	_
+15	bi2-ib2-ur3-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	17	ABS	_
+16	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	15	appos	_
+17	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_
+18	{d}nin-sun2	{d}nin-sumun2[1]	DN	DN	23	ERG	_
+19	dingir-mu	digir[deity]	N	N.1-SG-POSS	18	appos	_
+20	{d}lugal-banda3{da}	{d}lugal-ban3-da[1]	DN	DN	18	appos	_
+21	lugal-mu	lugal[king]	N	N.1-SG-POSS.ERG	18	appos	_
+22	nam	nam[fate]	N	N.ABS	23	ABS	_
+23	ha-ba-da-ku5-ne	kuru5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-PL-A	0	_	_
+

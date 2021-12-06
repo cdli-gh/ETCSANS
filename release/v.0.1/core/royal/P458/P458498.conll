@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Dada governor of Nibru Adda-kala scribe child of is your servant																						
+1	da-da	da-da[1]	PN	PN	0	root	_
+2	ensi2	ensi2[ruler]	N	N	1	appos	_
+3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_
+4	ad-da-kal-la	ad-da-kal-la[1]	PN	PN	10	ABS	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	dumu	dumu[child]	N	N	4	appos	_
+7	ur-x-x	_[_]	u	u	6	GEN	_
+8	...	_[...]	_	_	1	dep	_
+9	ARAD2	arad2[slave]	N	N.2-SG-POSS.ABS	10	nmod	_
+10	...	_[...]	_	_	1	dep	_
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: carcasses various sheep and goats from Naram-il did Ur-nigar receive month Gezelle-feast year after Kima and urti were destroyed
+# train/P467843.atf
+1	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	4	nummod	_	
+2	3(u)	3(u)[ten]	NU	NU	1	nummod	_	
+3	3(disz)	3(disz)[one]	NU	NU	1	nummod	_	
+4	ad6	_[carcasses]	N	N	12	ABS	_	
+5	udu	udu[sheep]	N	N	4	appos	_	
+6	masz2	masz[goat]	N	N	5	appos	_	
+7	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	5	acl	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	na-ra-am-i3-li2-ta	_[Naram-il]	PN	PN.GEN.ABL	4	ABL	_	
+10	ur-nigar{gar}	Urnigar[1]	PN	PN	12	_	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+13	iti	iti[month]	N	N	14	_	_	
+14	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	12	parataxis	_	
+15	mu	mu[year]	N	N	20	_	_	
+16	us2-sa	us[follow]-a	V	NF.V.PT	20	_	_	
+17	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	20	_	_	
+18	u3	u[and]	CNJ	CNJ	20	nmod	_	
+19	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	20	nmod	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_
+	
+

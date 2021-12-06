@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P332086.atf
+# tr.en: Deficit Szara-zame and Lugal-nig-lagare for days the labor shekels to Ur-Damu the foreman to be replaced part of bala year A nd time Szarum was destroyed Ur-Lisi governor of Umma Ur-Damu son of Lugal-uumgal your servant
+1	la2-ia3	la'u[arrears]	N	N	22	nmod	_	
+2	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+3	{d}szara2-za-me	Szarazame[1][-ak]	PN	PN.GEN	1	appos	_	
+4	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+5	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	3	appos	_	
+6	u4	ud[day]	N	N	3	DAT	_	
+7	4(u)	4(u)[ten]	NU	NU	3	nummod	_	
+8	5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	7	nummod	_	
+9	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	3	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	3	nummod	projectivity violation	
+11	gin2-ta	gig[unit]-ta	N	N.ABL	9	appos	_	
+12	ur-{d}da-mu	Urdamu[1]	PN	PN	3	LOC	_	
+13	ugula	ugula[overseer][-ø]	N	N	12	appos	_	
+14	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	3	acl	_	
+15	sza3	szag[heart]	N	N	21	nmod	projectivity violation	
+16	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	3	appos	_	
+17	mu	mu[year]	N	N	16	_	heuristic: attach to last	
+18	a-ra2	ara[times]	N	N	21	nmod	projectivity violation	
+19	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	1	nummod	projectivity violation	
+20	sza-asz-szu2-ru-um	_[A.nd.Szarum]	GN	GN	19	_	heuristic: attach to last	
+21	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	3	acl	_	
+22	ur-{d}li9-si4	Urlisi[1]	PN	PN	0	root	_	
+23	ensi2	ensik[ruler]	N	N	22	appos	_	
+24	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	23	GEN	_	
+25	ur-{d}da-mu	Urdamu[1]	PN	PN	22	appos	_	
+26	dumu	dumu[child]	N	N	25	appos	_	
+27	lugal-uszumgal	_[Lugal-uumgal]	PN	PN.GEN.ABS	28	acl	_	
+28	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	26	GEN	_
+	
+

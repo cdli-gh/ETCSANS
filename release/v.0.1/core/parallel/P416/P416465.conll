@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep barley-fed for Inanna sheep barley-fed for Gula Nane-GIRgal responsible official of month day elapsed booked out in Uruk from Nalu month Festival of Ninazu year Kima was destroyed
+# train/P416465.atf
+1	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	{d}inanna	Inanna[1][-ak]	DN	DN	2	DAT	_	
+5	1(disz)	1(disz)[one]	NU	NU	8	nummod	projectivity violation	
+6	udu	udu[sheep]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	{d}gu-la	Gula[1][-ak][-ra]	DN	DN	6	DAT	_	
+9	{d}nansze-GIR2@g-gal	_[Nane-GIRgal]	PN	PN	8	appos	_	
+10	maszkim	maszkim[administrator]	N	N.ABS	8	appos	_	
+11	iti	iti[month]	N	N	6	GEN	_	
+12	u4	ud[day]	N	N	11	appos	_	
+13	3(u)	3(u)[ten]	NU	NU	15	nummod	_	
+14	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	15	acl	_	
+15	zi-ga	zig[expend]-a	V	NF.V.PT	11	acl	_	
+16	sza3	szag[heart]	N	N	17	LOC	_	
+17	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	15	LOC	_	
+18	ki	ki[place]	N	N	19	ABL	_	
+19	na-lu5	Nalu[1][-e]	PN	PN.ERG	15	ABL	_	
+20	iti	iti[month]	N	N	22	_	_	
+21	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	22	_	_	
+22	mu	mu[year]	N	N	15	parataxis	_	
+23	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	15	appos	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	parataxis	_
+	
+

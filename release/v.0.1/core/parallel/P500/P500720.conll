@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P500720.atf						#new_text=P500720
+# train/P500720.atf new_text=P500720
+# tr.en: gur barig barley barley of field Small-marsh -flour labor of female textile workers to Lagash from Lugula high priest of Dumuzi under seal of Lu-Ningirsu via Lu-Utu son of Lugina year lands of Zabali were destroyed
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	1(barig)	1(bariga)[unit]	NU	N	1	nummod	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	gur	gur[unit]	N	N	3	appos	_	
+5	sze	sze[barley]	N	N	3	_	heuristic: after nominal head	
+6	a-sza3	aszag[field]	N	N	1	GEN	projectivity violation	
+7	ambar-tur	_[Small-marsh]	FN	FN	1	appos	projectivity violation	
+8	zi3-KA	_[-flour.workers]	PN	PN.GEN.ABS	7	appos	_	
+9	a2	a[time]	N	N	7	appos	_	
+10	geme2	geme[female_worker]	N	N	9	acl	_	
+11	usz-bar	uszbar[weaver][-ak]	N	N	9	appos	_	
+12	lagasz{ki}-ka-sze3	_[to.Lagash]	SN	SN.GEN.GEN.TERM	7	LOC	_	
+13	ki	ki[place]	N	N	14	ABL	_	
+14	lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	7	ABL	_	
+15	sanga	sagga[temple_administrator]	N	N	7	appos	_	
+16	{d}dumu-zi-ta	_[high.priest.Dumuzi]	MN	MN	7	appos	_	
+17	kiszib3	kiszib[seal]	N	N	7	LOC	_	
+18	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	17	GEN	_	
+19	giri3	giri[foot]	N	N	20	via	_	
+20	lu2-{d}utu	Lu'utu[1]	PN	PN	7	via	_	
+21	dumu	dumu[child]	N	N	7	appos	_	
+22	lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	21	GEN	_	
+23	mu	mu[year]	N	N	3	appos	_	
+24	ma-da	mada[land][-ak][-ø]	N	N	26	ABS	_	
+25	za-ab-sza-li	_[Zabali]	PN	PN	24	GEN	_	
+26	<ba>-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	23	acl	_
+	
+

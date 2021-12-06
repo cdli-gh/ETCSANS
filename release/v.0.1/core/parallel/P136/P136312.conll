@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# test/P136312.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	_	
+3	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+4	kuruszda-e	_[xxx]	N	N.3-SG-H-POSS.DAT-H	3	_	heuristic: attach to last	
+5	ib2-dab5	_	V	V	4	_	heuristic: attach to last	
+6	sza3	szag[heart]	N	N	5	_	heuristic: attach to last	
+7	{kusz}du10-gan	duggan[leather_bag]	N	N	6	_	heuristic: attach to last	
+8	ki	ki[place]	N	N	7	_	heuristic: attach to last	
+9	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	15	nmod	_	
+10	mu	mu[year]	N	N	9	_	heuristic: attach to last	
+11	en	en[priest]	N	N	10	_	heuristic: attach to last	
+12	{d}nanna	Nanna[1][-ak]	DN	DN	11	_	heuristic: attach to last	
+13	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	15	nmod	_	
+14	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	13	_	heuristic: attach to last	
+15	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

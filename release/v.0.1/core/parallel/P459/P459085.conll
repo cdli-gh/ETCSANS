@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P459085.atf
+# tr.en: n jugs of good quality wort each ban n jugs of ordinary wort each ban ban good quality pea-flour barig semolina barig dates rams billy sila good sesame oil sila sesame oil gurdub Nui-ilum of Elam received month Dumuzi year after Szu-Suen king Amorite wall erected
+1	n	_(_)[_]	NU	NU	2	nummod	_	
+2	dug	dug[pot]	N	N	0	root	_	
+3	dida	dida[sweet_wort]	N	N	2	GEN	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	2(ban2)	2(ban)[unit]	NU	N	34	nummod	_	
+6	n	_(_)[_]	NU	NU	5	nummod	_	
+7	dug	dug[pot]	N	N	5	appos	_	
+8	dida	dida[sweet_wort]	N	N	7	GEN	_	
+9	du	gin[quality_designation][-ø]	V	NF.V.ABS	8	acl	_	
+10	3(ban2)	3(ban)[unit]	NU	N	5	nummod	_	
+11	2(ban2)	2(ban)[unit]	NU	N	12	nummod	_	
+12	zi3-gu	zidgu[flour_type]	N	N	5	appos	_	
+13	saga	saga[good][-ø]	V	NF.V.ABS	12	acl	_	
+14	2(barig)	2(bariga)[unit]	NU	N	15	nummod	_	
+15	dabin	dabin[semolina]	N	N	5	appos	_	
+16	1(barig)	1(bariga)[unit]	NU	N	5	nummod	_	
+17	zu2-lum	zulum[date]	N	N	5	appos	_	
+18	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+19	udu	udu[sheep]	N	N	5	appos	_	
+20	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+21	masz2	masz[goat]	N	N	5	appos	_	
+22	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+23	sila3	sila[unit]	N	N	24	nmod	_	
+24	i3-gesz	igesz[oil]	V	N	5	acl	_	
+25	du10-ga	dug[good]-a	V	NF.V.PT	24	acl	_	
+26	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+27	sila3	sila[unit]	N	N	28	nmod	_	
+28	i3-gesz	igesz[oil]	V	N	5	acl	_	
+29	3(disz)	3(disz)[one]	NU	NU	5	nummod	_	
+30	{gi}gur-dub	gurdub[basket_type]	N	N	5	appos	_	
+31	nu-hi-lum	Nuhilum[1]	PN	PN	5	appos	_	
+32	elam	Elam[1][-ak]	EN	GN.GEN	31	GEN	_	
+33	szu	szu[hand][-e]	N	N.L3-NH	34	_	_	
+34	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+35	iti	iti[month]	N	N	34	date	_	
+36	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	35	appos	_	
+37	mu	mu[year]	N	N	35	appos	_	
+38	us2-sa	us[follow]-a	V	NF.V.PT	37	acl	_	
+39	{d}szu-{d}suen	Szusuen[1]	RN	RN	2	appos	_	
+40	lugal-e	lugal[king]-e	N	N.ERG	39	appos	_	
+41	bad3	bad[wall]	N	N	2	appos	projectivity violation	
+42	mar-tu	Martu[1][-ø]	EN	EN.ABS	43	ABS	_	
+43	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	39	acl	_
+	
+

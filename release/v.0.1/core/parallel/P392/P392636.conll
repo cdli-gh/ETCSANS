@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P392636.atf
+# tr.en: lamb delivery from Enshakuge lamb delivery from Lu-ninshubur for Nanna official administrator ewes accepted into house of cook credited on th day Month festival of Ninazu year after Urbilum was destroyed
+1	1(disz)	1(disz)[one]	NU	NU	8	nummod	projectivity violation	
+2	sila4	sila[lamb]	N	N	3	nmod	_	
+3	mu-kux(DU)	mukur[delivery][-ø]	N	N	0	root	_	
+4	en-sza3-ku3-ge	_[from.Enshakuge]	PN	PN.ERG	8	ABL	_	
+5	1(disz)	1(disz)[one]	NU	NU	8	nummod	heuristic: NU premodifying	
+6	sila4	sila[lamb]	N	N	8	nmod	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	_	heuristic: attach to last	
+8	mu-kux(DU)	mukur[delivery][-ø]	N	N	3	ABL	_	
+9	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	8	ABL	_	
+10	{d}nanna	Nanna[1][-ak]	DN	DN	14	DAT	_	
+11	zabar-dab5	zabardab[official][-e]	N	N	14	nmod	_	
+12	maszkim	maszkim[administrator]	N	N.ABS	14	acl	_	
+13	5(disz)	5(disz)[one]	NU	NU	14	nummod	heuristic: NU premodifying	
+14	u8	u[ewe]	N	N	8	TERM	_	
+15	szu-gid2	szugid[animal_designation][-ø]	N	N	14	acl	_	
+16	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	15	TERM	_	
+17	zi-ga	zig[expend]-a	V	NF.V.PT	16	acl	_	
+18	u4	ud[day]	N	N	17	LOC	_	
+19	3(u)	3(u)[ten]	NU	NU	3	nummod	_	
+20	la2	la[hang][-ø]	V	NF.V.ABS	19	_	_	
+21	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	20	nummod	_	
+22	iti	iti[month]	N	N	3	appos	_	
+23	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	22	appos	_	
+24	mu	mu[year]	N	N	22	appos	_	
+25	us2-sa	us[follow]-a	V	NF.V.PT	24	acl	_	
+26	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	27	ABS	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	22	acl	_
+	
+

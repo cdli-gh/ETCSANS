@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P480699.atf						#new_text=P480699
+# dev/P480699.atf new_text=P480699
+# tr.en: month Harvest year Shu-Suen king of Ur boat Ibex-of-Abzu caulked
+1	'.	SEGM	XPOSTAG	XPOSTAG	3	_	_	
+2	iti	iti[month]	N	N	3	_	_	
+3	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	0	root	_	
+4	mu	mu[year]	N	N	3	root	heuristic: after nominal head	
+5	{d}szu-{d}suen	Szusuen[1]	RN	RN	3	appos	_	
+6	lugal	lugal[king]	N	N	5	appos	_	
+7	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	6	GEN	_	
+8	ma2	ma[ship]	N	N	9	nmod	_	
+9	dara4-abzu	_[Ibex-of-Abzu]	DN	DN	5	appos	_	
+10	{d}en-ki-ka	Enkik[1][-ak]	DN	DN.GEN.ABS	5	appos	projectivity violation	
+11	bi2-in-du8	_[caulked]	V	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	9	acl	_
+	
+

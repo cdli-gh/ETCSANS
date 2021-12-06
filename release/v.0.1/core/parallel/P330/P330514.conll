@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets basket of Nigar-kidu son of Lugal-saga
+# train/P330514.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	pisan	bisag[basket]	N	N	1	appos	_	
+3	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	4	GEN	_	
+4	dumu	dumu[child]	N	N	2	GEN	_	
+5	lugal-saga	_[Lugal-saga]	PN	PN	4	GEN	_
+	
+

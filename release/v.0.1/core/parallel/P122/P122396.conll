@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P122396.atf						#new_text=P122396
+# train/P122396.atf new_text=P122396
+# tr.en: gur barley barley loan of Enlil from Amar-uba did Lugal-pae throne bearer receive the harvest obligation will discharge in month Brick it will be remitted My field by flooding was ruined or My field by storm was ruined you will not say month udru year unuri was destroyed
+1	3(asz)	3(asz)[one]	NU	NU	5	nummod	projectivity violation	
+2	sze	sze[barley]	N	N	0	_	detached for projectivity	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	sze	sze[barley]	N	N	2	_	heuristic: after nominal head	
+5	ur5-ra	urra[loan]	N	N	2	appos	_	
+6	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	5	GEN	_	
+7	ki	ki[place]	N	N	8	ABL	_	
+8	amar-szuba2-ta	_[Amar-uba]	PN	PN.GEN.GEN.ABL	2	ABL	_	
+9	lugal-pa-e3	Lugalpa’e[1]	PN	PN	12	_	_	
+10	gu-za-la2	guzala[throne_bearer]	N	N	12	ABS	_	
+11	szu	szu[hand][-e]	N	N.L3-NH	12	_	_	
+12	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	26	acl	_	
+13	buru14	_[the.harvest]	N	N	25	ABS	_	
+14	ama-bi	_[obligation.will]	N	N	15	ABS	_	
+15	gi4-gi4	_[discharge]	V	V	13	acl	_	
+16	iti!	iti[month]	N	N	25	LOC	_	
+17	sig4-ka	_	MN	MN	16	appos	_	
+18	i3-ib2-gi4-gi4	_[will.be.remitted]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	16	acl	_	
+19	a-sza3-mu	_[My]	N	N.GEN	20	nmod	_	
+20	a-e3	_[field]	PN	PN	22	ABS	_	
+21	ba-rex(HU)	_[by.flooding.was.ruined.or]	V	NF.V.PT.COP-3-PL	20	acl	_	
+22	ba-rex(HU)	_[by.flooding.was.ruined.or]	V	V	16	acl	_	
+23	a-sza3-mu	_[My]	N	N.GEN	24	nmod	_	
+24	u3-de3	_[field.storm]	V	V	16	acl	_	
+25	ba-rex(HU)	_[by.was.ruined]	V	NF.V.PT.COP-3-PL	12	parataxis	_	
+26	ba-ra-ab-be2-en3	_[you.will.not.say]	V	NF.V.PT.GEN.ABS	0	root	_	
+27	iti!	iti[month]	N	N	31	_	_	
+28	udru{duru5}	_	N	N	31	_	_	
+29	mu	mu[year]	N	N	31	_	_	
+30	hu-hu-nu-ri	_[unuri]	GN	GN	31	ABS	_	
+31	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	26	parataxis	_
+	
+

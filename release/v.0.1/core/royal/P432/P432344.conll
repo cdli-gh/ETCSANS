@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Ur	
+1	...	_	_	_	0	dep	_
+2	x	_[_]	u	u	0	dep	_
+3	x	_[_]+_[_]	u	u	0	dep	_
+4	lugal	lugal[king]	N	N	0	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+

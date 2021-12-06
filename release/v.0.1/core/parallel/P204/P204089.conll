@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets seized fat-tailed sheep from year Hari was destroyed to year Amar-Suen is king of years are here
+# train/P204089.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dab5-ba	dab[seize]-a	V	N	1	acl	_	
+3	udu	udu[sheep]	N	N	2	appos	_	
+4	gukkal-me	_[fat-tailed]	N	N.3-SG-H-POSS.ABS.COP-3-PL	3	acl	_	
+5	mu	mu[year]	N	N	3	ABL	_	
+6	ha-ar-szi{ki}	Harszi[1]	SN	SN	2	appos	projectivity violation	
+7	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	5	acl	_	
+8	mu	mu[year]	N	N	2	LOC	_	
+9	{d}amar-{d}suen	Amarsuen[1]	RN	RN	2	ABS	projectivity violation	
+10	lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	8	LOC	_	
+11	mu	mu[year]	N	N	2	GEN	_	
+12	2(disz)-a-kam	_	NU	NU.ABS.COP-3-SG	2	nummod	_	
+13	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	2	_	_
+	
+

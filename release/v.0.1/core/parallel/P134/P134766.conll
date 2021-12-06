@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P134766.atf
+# tr.en: Basket-of-tablets accounts of Nalu from month Gazelle feast year For nd time Simurrum was destroyed to month extra Harvest year after house of Puzri-Dagan was erected year after that of years therein extra months
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	na-lu5	Nalu[1][-e]	PN	PN.ERG	2	GEN	_	
+4	iti	iti[month]	N	N	2	ABL	_	
+5	masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	4	ABL	_	
+6	mu	mu[year]	N	N	2	appos	_	
+7	a-ra2	ara[times]	N	N	2	appos	_	
+8	2(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	2	nummod	_	
+9	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	2	DAT	_	
+10	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	9	acl	_	
+11	iti	iti[month]	N	N	2	LOC	_	
+12	diri	diri[intercalary_month]	N	N	11	LOC	_	
+13	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	14	_	_	
+14	mu	mu[year]	N	N	2	appos	_	
+15	us2-sa	us[follow]-a	V	NF.V.PT	14	acl	_	
+16	e2	e[house]	N	N	18	ABS	_	
+17	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	16	GEN	_	
+18	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	2	acl	_	
+19	mu	mu[year]	N	N	18	date	_	
+20	us2-sa-bi-sze3	_[that.after]	V	NF.V.SUB.3-SG-NH-POSS.TERM	19	acl	_	
+21	mu	mu[year]	N	N	18	GEN	_	
+22	1(u)	1(u)[ten]	NU	NU	21	nummod	_	
+23	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	22	nummod	_	
+24	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	25	_	_	
+25	iti	iti[month]	N	N	21	appos	_	
+26	diri	diri[intercalary_month]	N	N	25	acl	_	
+27	6(disz)-am3	_	NU	NU.ABS.COP-3-SG	1	nummod	_	
+28	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	0	_	_
+	
+

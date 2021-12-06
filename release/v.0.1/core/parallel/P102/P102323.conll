@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102323.atf
+# tr.en: lambs billy goat rd day from Abbasaga Intaea accepted month Piglet-feast year Szaru was destroyed
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	1(disz)	1(disz)[one]	NU	NU	5	nummod	projectivity violation	
+3	sila4	sila[lamb]	N	N	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+5	masz2	masz[goat]	N	N	3	appos	_	
+6	u4	ud[day]	N	N	3	appos	_	
+7	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	3	nummod	_	
+8	ki	ki[place]	N	N	10	ABL	_	
+9	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	10	nmod	_	
+10	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	3	ABL	_	
+11	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	10	acl	_	
+12	iti	iti[month]	N	N	13	nmod	_	
+13	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	3	appos	_	
+14	mu	mu[year]	N	N	13	appos	_	
+15	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	13	appos	_	
+16	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	17	acl	_	
+17	1(u)	1(u)[ten]	NU	NU	13	nummod	_	
+18	2(disz)	2(disz)[one]	NU	NU	17	nummod	_
+	
+

@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Meslamtaea his master for life of Szulgi the mighty man king of Ur and king of four world quarters Ilum-bni the son of Hass-E MUNUS dedicated to him
+1	{d}mes-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	17	DAT	_
+2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	nam-ti	nam-til3[life]	N	N	17	TERM	_
+4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	GEN	_
+5	nita	nita[male]	N	N	3	appos	_
+6	kal-ga	kalag[strong]	V	NF.V.PT	5	amod	_
+7	lugal	lugal[king]	N	N	3	appos	_
+8	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_
+9	lugal	lugal[king]	N	N	7	GEN	_
+10	an	_	_	_	9	_	_
+11	ub-da	an-ub-da[quarter]	N	N	9	appos	_
+12	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	11	nummod	_
+13	dingir-ba-ni	DIŊIR-ba-ni[1]	PN	PN	17	ERG	_
+14	dumu	dumu[child]	N	N	13	appos	_
+15	ha-si2-is-E2-MUNUS-ke4	ha-si2-is-e2-mi2[1]	PN	PN.ERG	13	appos	_
+16	a	a[water]	N	N.ABS	17	ABS	_
+17	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

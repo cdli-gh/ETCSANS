@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416492.atf
+# tr.en: sila lard via Daaga chief household administrator from Akalla on deficit ledger of Ur-ee set under seal of Ur-Szara chief accountant year ari and Kima were destroyed Ur-Szara scribe son of Lugal-uur
+1	3(disz)	3(disz)[one]	NU	NU	4	nummod	_	
+2	2/3(disz)	2/3(disz)[one]	NU	NU	1	nummod	_	
+3	sila3	sila[unit]	N	N	4	nmod	_	
+4	i3-szah2	iszah[lard][-ø]	N	N	0	root	_	
+5	giri3	giri[foot]	N	N	6	via	_	
+6	da-a-ga	_[Daaga]	PN	PN	4	via	_	
+7	szabra	szabra[chief_administrator][-ak]	N	N	6	appos	_	
+8	ki	ki[place]	N	N	9	ABL	_	
+9	a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	4	ABL	_	
+10	ugu2	ugu[capital]	N	N	12	LOC	_	
+11	ur-e11-e	Ure'e[1][-ak]	PN	PN	12	GEN	_	
+12	ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	9	acl	_	
+13	kiszib3	kiszib[seal]	N	N	4	LOC	_	
+14	ur-{d}szara2	Urszara[1]	PN	PN	13	GEN	_	
+15	sza13-dub-ba	bisagdubak[archivist]	N	N	14	appos	_	
+16	mu	mu[year]	N	N	19	_	_	
+17	ha-ar-szi{ki}	Harszi[1]	SN	SN	19	_	_	
+18	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	19	nmod	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	acl	_	
+20	ur-{d}szara2	Urszara[1]	PN	PN	4	appos	_	
+21	dub-sar	dubsar[scribe]	N	N	20	appos	_	
+22	dumu	dumu[child]	N	N	20	appos	_	
+23	lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	22	GEN	_
+	
+

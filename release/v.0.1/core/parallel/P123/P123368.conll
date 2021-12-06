@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P123368.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	ka	kag[mouth]	N	N	1	_	heuristic: after nominal head	
+4	la2-a	la[entrust]-a[-ø]	V	NF.V.PT	3	_	heuristic: attach to last	
+5	asz-ne2-u18	_[xxx]	PN	PN	4	_	heuristic: attach to last	
+6	iti	iti[month]	N	N	5	_	heuristic: attach to last	
+7	ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	MN.ABL	6	_	heuristic: attach to last	
+8	iti	iti[month]	N	N	7	_	heuristic: attach to last	
+9	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	8	_	heuristic: attach to last	
+10	u4	ud[day]	N	N	9	_	heuristic: attach to last	
+11	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+12	5(disz)	5(disz)[one]	NU	NU	11	nummod	_	
+13	ba-zal-sze3	_[xxx]	V	MID.V.3-SG-S.TERM	12	_	heuristic: attach to last	
+14	iti	iti[month]	N	N	13	_	heuristic: attach to last	
+15	3(disz)	3(disz)[one]	NU	NU	30	nummod	heuristic: NU premodifying	
+16	u4	ud[day]	N	N	15	_	heuristic: attach to last	
+17	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+18	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	17	nummod	_	
+19	mu	mu[year]	N	N	18	_	heuristic: attach to last	
+20	en	en[priest]	N	N	19	_	heuristic: attach to last	
+21	{d}nanna	Nanna[1][-ak]	DN	DN	20	_	heuristic: attach to last	
+22	masz-e	masz[goat]-e	N	N.L3-NH	21	_	heuristic: attach to last	
+23	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	22	_	heuristic: attach to last	
+24	kiszib3	kiszib[seal]	N	N	23	_	heuristic: attach to last	
+25	sag-nig2-gur11-ra-ka-ni	_[xxx]	PN	PN	30	nmod	_	
+26	u3	u[and]	CNJ	CNJ	25	_	heuristic: attach to last	
+27	kiszib3	kiszib[seal]	N	N	26	_	heuristic: attach to last	
+28	ba-usz2-bi	_[xxx]	V	MID.V.3-SG-S	30	nmod	_	
+29	i3-sa2	_	V	V	28	_	heuristic: attach to last	
+30	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

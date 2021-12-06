@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P121777.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+4	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	1	appos	_	
+5	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	1	_	heuristic: after nominal head	
+6	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+7	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+8	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	7	nummod	_	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	heuristic: after nominal head	
+10	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+11	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+12	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+13	{d}szu-{d}suen	Szusuen[1]	RN	RN	1	_	heuristic: after nominal head	
+14	lugal	lugal[king]	N	N	1	_	heuristic: after nominal head	
+15	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	1	_	heuristic: after nominal head	
+16	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	1	_	heuristic: after nominal head	
+17	{d}en-lil2	Enlil[1]	DN	DN	1	_	heuristic: after nominal head	
+18	{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	1	_	heuristic: after nominal head	
+19	mu-ne-du3-ta	_[xxx]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	28	nmod	projectivity violation	
+20	iti	iti[month]	N	N	19	_	heuristic: attach to last	
+21	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	28	nmod	projectivity violation	
+22	mu	mu[year]	N	N	1	appos	_	
+23	{d}szu-{d}suen	Szusuen[1]	RN	RN	22	_	heuristic: attach to last	
+24	lugal	lugal[king]	N	N	23	_	heuristic: attach to last	
+25	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	24	_	heuristic: attach to last	
+26	ma-da	mada[land][-ak][-ø]	N	N	25	_	heuristic: attach to last	
+27	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	26	_	heuristic: attach to last	
+28	mu-hul-sze3	mu[-n]-hulu[destroy][-ø]-sze	V	VEN.3-SG-H-A.V.3-SG-P.TERM	1	_	_
+	
+

@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P432157.atf new_text=P432157
+# tr.en: To Gilgame of Endimgig his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad when temple of Nanna he had built for his life he dedicated it to him A person who this inscription shall erase May Gilgame curse him
+# dev/P432157.atf						#new_text=P432157
+1	{d}gilgamesx(|BIL3.GA.MES|)	_[To.Gilgame]	DN	DN	0	root	_	
+2	en-dim2-gig{ki}	_[of.Endimgig]	SN	SN.TERM	1	GEN	_	
+

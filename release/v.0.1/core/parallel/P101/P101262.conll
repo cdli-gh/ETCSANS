@@ -1,0 +1,87 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jug of wort ban bread shekels oil shekels alkali-plant bundles onions for Sz-Mama messenger to frontier sila beer sila bread shekels oil shekels alkali-plant bundle onions for Iar-il from frontier sila beer sila bread shekels oil shekels alkali-plant bundle onions for Sz-Utu kausa total jug of common wort ban total sila beer total sila bread total shekels oil total shekels alkali-plant total bundles onions nth day month
+# train/P101262.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	dug	dug[pot]	N	N	0	root	_	
+3	dida	dida[sweet_wort]	N	N	1	appos	projectivity violation	
+4	...	_[_]	PN	N	6	dep	_	
+5	1(ban2)	1(ban)[unit]	NU	N	6	nummod	heuristic: NU premodifying	
+6	ninda	ninda[bread]	N	N	1	appos	projectivity violation	
+7	2(disz)	2(disz)[one]	NU	NU	6	nummod	_	
+8	gin2	gig[unit]	N	N	9	nmod	_	
+9	i3	i[oil]	N	N	6	appos	_	
+10	2(disz)	2(disz)[one]	NU	NU	15	nummod	projectivity violation	
+11	gin2	gig[unit]	N	N	12	nmod	_	
+12	naga	naga[potash]	N	N	6	acl	_	
+13	3(disz)	3(disz)[one]	NU	NU	6	nummod	_	
+14	sa	sa[bundle]	N	N	15	nmod	_	
+15	szum2	szum[garlic]	N	N	6	appos	_	
+16	szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	1	DAT	projectivity violation	
+17	sukkal	sukkal[secretary][-ak][-ra]	N	N	2	appos	_	
+18	gaba-asz	gaba[frontier]-sze	N	N.TERM	2	LOC	_	
+19	3(disz)	3(disz)[one]	NU	NU	21	nummod	_	
+20	sila3	sila[unit]	N	N	21	nmod	_	
+21	kasz	kasz[beer]	N	N	2	appos	_	
+22	2(disz)	2(disz)[one]	NU	NU	27	nummod	projectivity violation	
+23	sila3	sila[unit]	N	N	24	nmod	_	
+24	ninda	ninda[bread]	N	N	21	appos	_	
+25	2(disz)	2(disz)[one]	NU	NU	21	nummod	_	
+26	gin2	gig[unit]	N	N	27	nmod	_	
+27	i3	i[oil]	N	N	21	appos	_	
+28	2(disz)	2(disz)[one]	NU	NU	33	nummod	projectivity violation	
+29	gin2	gig[unit]	N	N	30	nmod	_	
+30	naga	naga[potash]	N	N	21	acl	_	
+31	1(disz)	1(disz)[one]	NU	NU	21	nummod	_	
+32	sa	sa[bundle]	N	N	33	nmod	_	
+33	szum2	szum[garlic]	N	N	21	appos	_	
+34	i-szar-i3-li2	_[for.Iar-il]	PN	PN.GEN	21	DAT	_	
+35	gaba-ta	gaba[frontier]-ta	N	N.ABL	21	ABL	_	
+36	3(disz)	3(disz)[one]	NU	NU	38	nummod	_	
+37	sila3	sila[unit]	N	N	38	nmod	_	
+38	kasz	kasz[beer]	N	N	21	appos	_	
+39	2(disz)	2(disz)[one]	NU	NU	43	nummod	projectivity violation	
+40	sila3	sila[unit]	N	N	41	nmod	_	
+41	ninda	ninda[bread]	N	N	38	appos	_	
+42	2(gin2)	_	NU	NU.GEN	38	nummod	_	
+43	i3	i[oil]	N	N	38	appos	_	
+44	2(disz)	2(disz)[one]	NU	NU	49	nummod	projectivity violation	
+45	gin2	gig[unit]	N	N	46	nmod	_	
+46	naga	naga[potash]	N	N	38	acl	_	
+47	1(disz)	1(disz)[one]	NU	NU	38	nummod	_	
+48	sa	sa[bundle]	N	N	49	nmod	_	
+49	szum2	szum[garlic]	N	N	38	appos	_	
+50	szu-{d}utu	Szu'utu[1]	PN	PN	38	DAT	_	
+51	ka-us2-sa2	ka'usa[profession_type]	N	N	38	appos	_	
+52	szunigin	szunigin[total]	N	N	2	appos	_	
+53	1(disz)	1(disz)[one]	NU	NU	59	nummod	projectivity violation	
+54	dug	dug[pot]	N	N	52	appos	_	
+55	dida	dida[sweet_wort]	N	N	54	GEN	_	
+56	du	gin[quality_designation][-ø]	V	NF.V.ABS	55	acl	_	
+57	1(ban2)	1(ban)[unit]	NU	N	58	nummod	heuristic: NU premodifying	
+58	...	_[_]	PN	N	54	dep	_	
+59	szunigin	szunigin[total]	N	N	2	appos	_	
+60	6(disz)	6(disz)[one][-sze]	NU	NU	62	nummod	heuristic: NU premodifying	
+61	sila3	sila[unit]	N	N	62	nmod	_	
+62	kasz	kasz[beer]	N	N	59	appos	_	
+63	szunigin	szunigin[total]	N	N	2	appos	_	
+64	1(ban2)	1(ban)[unit]	NU	N	2	nummod	projectivity violation	
+65	4(disz)	4(disz)[one]	NU	NU	64	nummod	_	
+66	sila3	sila[unit]	N	N	67	nmod	_	
+67	ninda	ninda[bread]	N	N	63	appos	_	
+68	szunigin	szunigin[total]	N	N	2	appos	_	
+69	6(disz)	6(disz)[one][-sze]	NU	NU	71	nummod	heuristic: NU premodifying; projectivity violation	
+70	gin2	gig[unit]	N	N	72	nmod	projectivity violation	
+71	szunigin	szunigin[total]	N	N	2	appos	projectivity violation	
+72	i3	i[oil]	N	N	68	appos	projectivity violation	
+73	6(disz)	6(disz)[one][-sze]	NU	NU	75	nummod	heuristic: NU premodifying	
+74	gin2	gig[unit]	N	N	75	nmod	_	
+75	naga	naga[potash]	N	N	71	appos	_	
+76	szunigin	szunigin[total]	N	N	2	appos	_	
+77	5(disz)	5(disz)[one]	NU	NU	2	nummod	projectivity violation	
+78	sa	sa[bundle]	N	N	76	appos	_	
+79	szum2	szum[garlic]	N	N	80	acl	_	
+80	...-kam	_(_)[_]-ak-am	PN	NU.GEN.COP-3-SG	78	appos	_	
+81	iti	iti[month]	N	N	2	appos	_	
+82	...	_[_]	PN	N	0	dep	_
+	
+

@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416477.atf						#new_text=P416477
+# train/P416477.atf new_text=P416477
+# tr.en: suckling lamb slaughtered the th day from Kurbilak Szulgi-irimu received month Festival of An year boat of Enki was fashioned
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+10	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+11	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	9	acl	_	
+12	iti	iti[month]	N	N	14	nmod	_	
+13	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	14	ABS	_	
+14	mu	mu[year]	N	N	2	appos	_	
+15	ma2	ma[ship]	N	N	17	ABS	_	
+16	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	15	GEN	_	
+17	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	14	acl	_
+	
+2	sila4	sila[lamb]	N	N	18	ABS	_	
+3	ga	ga[milk]	N	N	2	appos	_	
+4	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+5	u4	ud[day]	N	N	2	appos	_	
+6	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	kur-bi-la-ak-ta	_[Kurbilak]	PN	PN.GEN.ABL	9	nmod	_	
+9	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	2	ABL	_	
+

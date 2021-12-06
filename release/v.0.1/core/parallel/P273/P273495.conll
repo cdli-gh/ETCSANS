@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273495.atf
+# tr.en: barig of chick-pea flour from chief of granary under seal of Adudu musub From Old-mill Year boat of Enki was caulked Adudu son of Ur-man gudu-priest of Ninsun
+1	1(barig)	1(bariga)[unit]	NU	N	0	nummod	_	
+2	dabin	dabin[semolina]	N	N	1	GEN	_	
+3	gu	gu[cord]	N	N	2	appos	_	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	ka-guru7-ta	Kaguru[1][-ak]-ta	PN	PN.GEN.ABL	1	ABL	_	
+6	kiszib3	kiszib[seal]	N	N	1	LOC	_	
+7	a-du-du	Adudu[1]	PN	PN	6	GEN	_	
+8	mu6-sub3	_[musub]	N	N	1	appos	_	
+9	e2-kikken	_[From]	TN	TN	10	ABL	_	
+10	sumun-ta	_[Old-mill]	N	N	1	ABL	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	ma2	ma[ship]	N	N	14	ABS	_	
+13	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	12	GEN	_	
+14	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	10	acl	_	
+15	a-du-du	Adudu[1]	PN	PN	10	appos	_	
+16	dumu	dumu[child]	N	N	15	appos	_	
+17	ur-ma-an	_[Ur-man]	PN	PN.GEN	16	GEN	_	
+18	gudu4	gudug[priest]	N	N	15	appos	_	
+19	{d}nin-sun2-ka	_[Ninsun]	DN	DN.GEN	18	appos	_
+	
+

@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx in basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P141095.atf
+1	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+2	gin2	gig[unit]	N	N	0	_	_	
+3	ku3-babbar	kugbabbar[silver]	N	N	23	nmod	_	
+4	la2-ia3	la'u[arrears]	N	N	3	_	heuristic: after nominal	
+5	su-ga	sug[repay]-a	V	NF.V.PT	23	acl	_	
+6	tug2	tug[textile]	N	N	5	_	heuristic: attach to last	
+7	usz-bar-bi	_[xxx]	N	N.ABS.3-SG-NH-POSS.ABS	23	nmod	_	
+8	2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	heuristic: NU premodifying	
+9	giri3	giri[foot]	N	N	8	_	heuristic: attach to last	
+10	i3-kal-la	Ikala[1][-ak]	PN	PN	23	nmod	_	
+11	nig2!-ka9	nigSZID[account]	N	N	23	nmod	_	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	ma-da	mada[land][-ak][-ø]	N	N	12	_	heuristic: attach to last	
+14	za-ab-sza-li{ki}-ka	_[xxx]	GN	GN	23	nmod	_	
+15	ugu2	ugu[capital]	N	N	14	_	heuristic: attach to last	
+16	gu-du-du	Gududu[1]	PN	PN	23	nmod	_	
+17	ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	16	_	heuristic: attach to last	
+18	nig2-ka9	nigSZID[account]	N	N	23	nmod	_	
+19	mu	mu[year]	N	N	18	_	heuristic: attach to last	
+20	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	19	_	heuristic: attach to last	
+21	lugal-ka	_[xxx]	DN	N.GEN.GEN.ABS	23	nmod	_	
+22	i3-kal-la	Ikala[1][-ak]	PN	PN	21	_	heuristic: attach to last	
+23	nig2-ka9-a	_[xxx]	N	N	0	root	_	
+24	ba-an-ak	_	V	V	23	_	heuristic: after nominal head	
+25	mu	mu[year]	N	N	23	_	heuristic: after nominal head	
+26	kiszib3	kiszib[seal]	N	N	23	_	heuristic: after nominal head	
+27	ugu2-a	ugu[capital]-'a	N	N.L1	23	_	heuristic: after nominal head	
+28	ga2-ra	_[xxx]	V	V	23	_	heuristic: after nominal head	
+29	pisan-dub-ba-ka	_[in.basket-of-tablets]	N	N.GEN	23	LOC	_	
+30	ki	ki[place]	N	N	23	_	heuristic: after nominal head	
+31	gu-du-du-ta	_	PN	PN.GEN.ABL	23	_	heuristic: after nominal head	
+32	tum3-da-sze3	_	V	V	23	_	_	
+33	kiszib3	kiszib[seal]	N	N	23	_	heuristic: after nominal head	
+34	i3-kal-la	Ikala[1][-ak]	PN	PN	33	_	heuristic: attach to last	
+35	mu	mu[year]	N	N	34	_	heuristic: attach to last	
+36	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	35	_	heuristic: attach to last	
+37	lugal	lugal[king]	N	N	36	_	heuristic: attach to last	
+38	i3-kal-la	Ikala[1][-ak]	PN	PN	41	nmod	_	
+39	dub-sar	dubsar[scribe]	N	N	41	nmod	_	
+40	dumu	dumu[child]	N	N	41	_	_	
+41	lu2-sa6-ga	_[xxx]	PN	PN	23	appos	_
+	
+

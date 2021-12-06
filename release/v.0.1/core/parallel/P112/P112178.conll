@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: billy goat slaughtered from Kugani under seal of Lukalla month Festival of Amar-Suen year unuri was destroyed Lukalla scribe son of Ur-ee
+# train/P112178.atf
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+2	masz2	masz[goat]	N	N	0	root	_	
+3	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	2	acl	_	
+4	ki	ki[place]	N	N	5	ABL	_	
+5	ku3-ga-ni-ta	_[Kugani]	PN	PN	3	ABL	_	
+6	kiszib3	kiszib[seal]	N	N	3	LOC	_	
+7	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	6	GEN	_	
+8	iti	iti[month]	N	N	10	_	_	
+9	ezem-{d}amar-{d}suen	_[Festival.Amar-Suen]	MN	MN	10	_	_	
+10	mu	mu[year]	N	N	2	parataxis	_	
+11	hu-uh2-nu-ri	_[unuri]	PN	PN	12	ABS	_	
+12	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	10	acl	_	
+13	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	2	appos	_	
+14	dub-sar	dubsar[scribe]	N	N	13	appos	_	
+15	dumu	dumu[child]	N	N	13	appos	_	
+16	ur-e11-e	Ure'e[1][-ak]	PN	PN	15	GEN	_
+	
+

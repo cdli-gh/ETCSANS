@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Lu-Suen son of Ur-saga herdsman of grain-fed oxen
+# train/P430365.atf
+1	lu2-{d}suen	Lusuen[1]	PN	PN	2	acl	_	
+2	dumu	dumu[child]	N	N	0	root	_	
+3	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	2	GEN	_	
+4	sipa	sipa[shepherd]	N	N	2	appos	_	
+5	gu4	gud[ox]	N	N	4	GEN	_	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	5	acl	_
+	
+

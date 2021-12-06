@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P458722.atf
+# tr.en: Sz-Suen strong king king of Ur king of four corners Dayya scribe son of is your servant
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	root	_	
+2	lugal	lugal[king]	N	N	1	appos	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	4	GEN	_	
+6	lugal	lugal[king]	N	N	1	appos	_	
+7	an	An[1][-ra]	N	N	9	nummod	projectivity violation	
+8	ub-da	_	N	N	1	appos	projectivity violation	
+9	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	6	nummod	_	
+10	da-a-a	_[Dayya]	PN	PN	14	ABS	_	
+11	dub-sar	dubsar[scribe]	N	N	10	appos	_	
+12	dumu	dumu[child]	N	N	10	appos	_	
+13	...	_[_]	PN	N	12	dep	_	
+14	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	1	appos	_
+	
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P340491.atf
+# tr.en: Basket-of-tablets chambers year ari urti
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	_	_	
+2	e2-tum	bitum[administrative_term]	PN	N	0	_	_	
+3	gesz	gesz[tree]	N	N	0	_	_	
+4	ku3-ta	_	N	N	0	_	_	
+5	du8-ha	_[chambers]	V	NF.V.PT.GEN.GEN.ABL	0	_	_	
+6	mu	mu[year]	N	N	0	_	_	
+7	ha-ar-szi{ki}	Harszi[1]	SN	SN	0	_	_	
+8	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	0	_	_
+	
+

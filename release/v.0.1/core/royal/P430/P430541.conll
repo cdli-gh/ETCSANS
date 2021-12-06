@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Suen powerful king Ur-Eninnu scribe son of is your servant
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	ur-e2-ninnu	ur-e2-ninnu[2]	PN	PN	9	ABS	_
+5	dub-sar	dub-sar[scribe]	N	N	4	appos	_
+6	mu-...	_[_]+_[_]	u	u	5	_	_
+7	dumu	dumu[child]	N	N	4	appos	_
+8	...	_[_]	u	u	7	dep	_
+9	ARAD2-zu	_[_]+arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

@@ -1,0 +1,107 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P323729.atf						#new_text=P323729
+# tr.en: xxx xxx xxx xxx xxx xxx xxx xxx xxx in basket-of-tablets being xxx xxx xxx xxx xxx xxx xxx xxx
+# test/P323729.atf new_text=P323729
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+2	2(u)	2(u)[ten]	NU	NU	1	nummod	_	
+3	sze	sze[barley]	N	N	0	_	_	
+4	gur	gur[unit]	N	N	0	_	_	
+5	i3-dub	idub[granary]	N	N	53	nmod	_	
+6	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	0	nummod	_	
+7	1(gesz2)	1(gesz)[sixty]	NU	NU	6	nummod	_	
+8	sze	sze[barley]	N	N	5	_	heuristic: after nominal	
+9	gur	gur[unit]	N	N	5	_	heuristic: after nominal	
+10	i3-dub	idub[granary]	N	N	53	nmod	_	
+11	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	0	nummod	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	9(asz)	9(asz)[one]	NU	NU	11	nummod	_	
+14	3(barig)	3(bariga)[unit]	NU	N	11	nummod	_	
+15	3(ban2)	3(ban)[unit]	NU	N	11	nummod	_	
+16	sze	sze[barley]	N	N	15	_	heuristic: attach to last	
+17	gur	gur[unit]	N	N	16	_	heuristic: attach to last	
+18	i3-dub	idub[granary]	N	N	53	nmod	_	
+19	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	0	nummod	_	
+20	2(u)	2(u)[ten]	NU	NU	19	nummod	_	
+21	1(asz)	1(asz)[one]	NU	NU	19	nummod	_	
+22	4(barig)	4(bariga)[unit]	NU	N	19	nummod	_	
+23	3(ban2)	3(ban)[unit]	NU	N	19	nummod	_	
+24	sze	sze[barley]	N	N	23	_	heuristic: attach to last	
+25	gur	gur[unit]	N	N	24	_	heuristic: attach to last	
+26	i3-dub	idub[granary]	N	N	53	nmod	_	
+27	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	0	nummod	_	
+28	1(u)	1(u)[ten]	NU	NU	27	nummod	_	
+29	ziz2	ziz[emmer]	N	N	28	_	heuristic: attach to last	
+30	gur	gur[unit]	N	N	29	_	heuristic: attach to last	
+31	i3-dub	idub[granary]	N	N	53	nmod	_	
+32	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	0	nummod	_	
+33	4(asz)	4(asz)[one]	NU	NU	32	nummod	_	
+34	1(barig)	1(bariga)[unit]	NU	N	32	nummod	_	
+35	4(ban2)	4(ban)[unit]	NU	N	32	nummod	_	
+36	gig	gig[resin_type]	N	N	35	_	heuristic: attach to last	
+37	gur	gur[unit]	N	N	36	_	heuristic: attach to last	
+38	i3-dub	idub[granary]	N	N	53	nmod	_	
+39	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	0	nummod	_	
+40	3(gesz2)	3(gesz)[sixty]	NU	NU	39	nummod	_	
+41	1(asz)	1(asz)[one]	NU	NU	39	nummod	_	
+42	3(barig)	3(bariga)[unit]	NU	N	39	nummod	_	
+43	sze	sze[barley]	N	N	42	_	heuristic: attach to last	
+44	gur	gur[unit]	N	N	43	_	heuristic: attach to last	
+45	1(u)	1(u)[ten]	NU	NU	53	nummod	heuristic: NU premodifying	
+46	ziz2	ziz[emmer]	N	N	45	_	heuristic: attach to last	
+47	gur	gur[unit]	N	N	46	_	heuristic: attach to last	
+48	4(asz)	4(asz)[one]	NU	NU	0	nummod	_	
+49	1(barig)	1(bariga)[unit]	NU	N	48	nummod	_	
+50	4(ban2)	4(ban)[unit]	NU	N	48	nummod	_	
+51	gig	gig[resin_type]	N	N	53	nmod	_	
+52	gur	gur[unit]	N	N	51	_	heuristic: attach to last	
+53	sze-GAN2-bi	_[xxx]	N	N.ABS	0	root	_	
+54	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+55	6(asz)	6(asz)[one]	NU	NU	54	nummod	_	
+56	1(barig)	1(bariga)[unit]	NU	N	54	nummod	_	
+57	sze	sze[barley]	N	N	53	_	heuristic: after nominal head	
+58	gur	gur[unit]	N	N	53	_	heuristic: after nominal head	
+59	pisan-dub-ba-ka	_[in.basket-of-tablets]	N	N.GEN	53	LOC	_	
+60	gal2-la	gal[be]-a[-ø]	V	NF.V.PT	72	acl	_	
+61	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+62	7(asz)	7(asz)[one]	NU	NU	61	nummod	_	
+63	3(barig)	3(bariga)[unit]	NU	N	61	nummod	_	
+64	4(ban2)	4(ban)[unit]	NU	N	61	nummod	_	
+65	5(disz)	5(disz)[one]	NU	NU	61	nummod	_	
+66	sila3	sila[unit]	N	N	65	_	heuristic: attach to last	
+67	sze	sze[barley]	N	N	66	_	heuristic: attach to last	
+68	gur	gur[unit]	N	N	67	_	heuristic: attach to last	
+69	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+70	4(barig)	4(bariga)[unit]	NU	N	69	nummod	_	
+71	ziz2	ziz[emmer]	N	N	70	_	heuristic: attach to last	
+72	gur	gur[unit]	N	N	59	appos	_	
+73	ki	ki[place]	N	N	72	_	heuristic: after nominal head	
+74	u-bar-tum-ta	_[xxx]	PN	PN.GEN.ABL	72	_	heuristic: after nominal head	
+75	3(asz)	3(asz)[one]	NU	NU	96	nummod	heuristic: NU premodifying; projectivity violation	
+76	sze	sze[barley]	N	N	75	_	heuristic: attach to last	
+77	gur-ta	gur[unit]-ta	PN	N.ABL	76	_	heuristic: attach to last	
+78	i7	id[river]	N	N	77	_	heuristic: attach to last	
+79	gu4	gud[ox]	N	N	78	_	heuristic: attach to last	
+80	sila-a	_	N	N.L1	79	_	heuristic: attach to last	
+81	gal2-la	gal[be]-a[-ø]	V	NF.V.PT	80	_	heuristic: attach to last	
+82	szunigin	szunigin[total]	N	N	81	_	heuristic: attach to last	
+83	4(gesz2)	4(gesz)[sixty]	NU	NU	0	nummod	_	
+84	2(asz)	2(asz)[one]	NU	NU	83	nummod	_	
+85	2(barig)	2(bariga)[unit]	NU	N	83	nummod	_	
+86	4(ban2)	4(ban)[unit]	NU	N	83	nummod	_	
+87	5(disz)	5(disz)[one]	NU	NU	83	nummod	_	
+88	sila3	sila[unit]	N	N	87	_	heuristic: attach to last	
+89	sze	sze[barley]	N	N	100	nmod	projectivity violation	
+90	gur	gur[unit]	N	N	89	_	heuristic: attach to last	
+91	szunigin	szunigin[total]	N	N	90	_	heuristic: attach to last	
+92	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+93	5(asz)	5(asz)[one]	NU	NU	92	nummod	_	
+94	ziz2	ziz[emmer]	N	N	93	_	heuristic: attach to last	
+95	gur	gur[unit]	N	N	100	nmod	projectivity violation	
+96	szunigin	szunigin[total]	N	N	72	appos	_	
+97	4(asz)	4(asz)[one]	NU	NU	0	nummod	_	
+98	1(barig)	1(bariga)[unit]	NU	N	97	nummod	_	
+99	4(ban2)	4(ban)[unit]	NU	N	97	nummod	_	
+100	gig	gig[resin_type]	N	N	72	appos	_	
+101	gur	gur[unit]	N	N	0	_	_
+	
+

@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P456125.atf
+# tr.en: Lugal-emae scribe son of Lugal-kugani
+1	lugal-e2-mah-e	Lugalemahe[1]	N	PN	0	root	_	
+2	dub-sar	dubsar[scribe]	N	N	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	3	GEN	_
+	
+

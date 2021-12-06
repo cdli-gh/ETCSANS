@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of offerings are here year Kima was destroyed
+# train/P203342.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub-gid2-da	_[long-tablets]	N	N	4	ABS	_	
+3	a-ru-a	_[offerings]	GN	GN	2	GEN	_	
+4	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+5	mu	mu[year]	N	N	7	_	_	
+6	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	7	_	_	
+7	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	parataxis	_
+	
+

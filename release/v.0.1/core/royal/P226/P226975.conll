@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Nusku the chief minister of Enlil his master for life of Szulgi the mighty man king of Ur and King of Sumer and Akkad Ur-Nanibgal the governor of Nippur son of Lugal-engardug governor of Nippur dedicated to him	
+1	{d}nusku	{d}nuska[1]	DN	DN	22	DAT	_
+2	sukkal-mah	sukkal-mah[official]	N	N	1	appos	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	nam-ti	nam-til3[life]	N	N	22	TERM	_
+6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	GEN	_
+7	nita	nita[male]	N	N	5	appos	_
+8	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_
+9	lugal	lugal[king]	N	N	5	appos	_
+10	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	5	appos	_
+12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_
+13	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	12	appos	_
+14	ur-{d}nanibgal2	ur-{d}nanibgal[1]	PN	PN	22	ERG	_
+15	ensi2	ensi2[ruler]	N	N	14	appos	_
+16	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	15	GEN	_
+17	dumu	dumu[child]	N	N	14	appos	_
+18	lugal-engar-du10	lugal-engar-dug3[1]	PN	PN	14	GEN	_
+19	ensi2	ensi2[ruler]	N	N	18	appos	_
+20	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	19	GEN	_
+21	a	a[water]	N	N.ABS	22	ABS	_
+22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

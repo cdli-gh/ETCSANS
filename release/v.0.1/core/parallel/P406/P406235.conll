@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P406235.atf new_text=P406235
+# tr.en: gur barley royal deficit repaid from Magure Lu-Baba received month Oxen-
+# test/P406235.atf						#new_text=P406235
+1	2(asz)	2(asz)[one]	NU	NU	4	nummod	projectivity violation	
+2	sze	sze[barley]	N	N	0	root	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	lugal	lugal[king]	N	N	2	appos	_	
+5	la2-ia3	la'u[arrears]	N	N	4	appos	_	
+6	su-ga	sug[repay]-a	V	NF.V.PT	4	acl	_	
+7	ki	ki[place]	N	N	9	ABL	_	
+8	ma2-gur8-re-	_[Magure]	PN	PN	9	nmod	_	
+9	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	2	ABL	_	
+10	szu	szu[hand][-e]	N	N.L3-NH	2	appos	projectivity violation	
+11	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	9	acl	_	
+

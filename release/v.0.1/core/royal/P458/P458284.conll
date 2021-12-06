@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ibbi-Suen powerful king king of Urim king of four quarters Lugula temple administrator is your servant																						
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lu2-gu-la	lu2-gu-la[1]	PN	PN	8	ABS	_
+7	szabra	szabra[administrator]	N	N.ABS	6	appos	_
+8	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	acl	_
+

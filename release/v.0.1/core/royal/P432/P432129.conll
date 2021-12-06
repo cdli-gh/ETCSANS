@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad a swamp planted with seedlings it was indeed a swamp a field of it which was in area from water he brought out for him Levees for it danna and nindan he made for him Next to Ur as a treasure he made it Of that canal Who Is Like Nanna is its name	
+1	{d}nanna	{d}nanna[1]	DN	DN	15	DAT	_
+2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_
+6	nita	nita[male]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_
+12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_
+13	sug	sug[marsh]	N	N	15	ABS	_
+14	pesz	pesz[seedling]	N	N.ABS	13	appos	_
+15	du3-a	du3[build]	V	NF.V.PT	17	ABS	_
+16	sug	sug[marsh]	N	N.ABS	15	appos	_
+17	he2-me-am3	me[be]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	root	_
+18	a-sza3-bi	a-szag4[field]	N	N.3-SG-NH-POSS.ABS	17	ABS	_
+19	szar2-gal	_[_]	n	n	18	ABS	_
+20	GAN2-am3	gana2[field]	N	N.ABS.COP-3-SG	22	ABS	_
+21	a-ta	a[water]	N	N.ABL	22	ABL	_
+22	ha-mu-na-ta-DU	ed3[ascend]	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+23	e-bi	ed3[ascend]+eg2[levee]	N	N.3-SG-NH-POSS	29	parataxis	_
+24	4(disz)	_[_]	NU	n	29	nummod	_
+25	da-na	da-na[unit]	N	N	23	appos	_
+26	4(gesz2)	_[_]	NU	n	0	nummod	_
+27	2(u)	_[_]	NU	n	26	nummod	_
+28	nig2-ra2	{ninda}nindaₓ(DU)[pole]	N	N	23	appos	_
+29	he2-na-ak	ak[do]	V	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	17	parataxis	_
+30	uri5{ki}-e	urim5{ki}[1]	SN	SN.L3-NH	32	LOC	_
+31	gil-sa-asz	gil-sa[treasure]	N	N.ADV	32	ADV	_
+32	he2-mi-na	ak[do]	V	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_
+33	e-ba	ak[do]+eg2[levee]	N	N.DEM2.GEN	17	GEN	_
+34	a-ba	a-ba[who?]	N	N.ABS	33	GEN	_
+35	{d}nanna-gin7	{d}nanna[1]	DN	DN.EQU	36	ccomp 	_
+36	mu-bi	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	33	_	_
+

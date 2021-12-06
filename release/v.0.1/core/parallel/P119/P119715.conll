@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P119715.atf
+# tr.en: Basket-of-tablets xxx xxx xxx
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+3	...	_[_]	PN	N	1	dep	_	
+4	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+5	ur-{d}nin-gir2-su	_[xxx]	PN	PN	7	nmod	_	
+6	x	_[_]	N	N	7	dep	_	
+7	HU	_[_]	PN	PN	1	appos	_	
+8	x	_[_]	N	N	0	dep	_
+	
+

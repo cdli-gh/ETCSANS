@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P206260.atf
+# tr.en: Basket-of-tablets regular rations of house of priestesses of Baba sealed documents of Inim-Baba chief house administrator
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sa2-du11	sadug[offerings]	N	N	3	acl	_	
+3	kesz2-ra2	keszed[bind]-a	V	N	1	_	_	
+4	e2	e[house]	N	N	3	appos	_	
+5	nin-dingir	_[of.priestesses]	PN	N	4	GEN	_	
+6	{d}ba-ba6	_[Baba]	DN	DN	5	GEN	_	
+7	kiszib3	kiszib[seal]	N	N	3	appos	_	
+8	inim-{d}ba-ba6	_[Inim-Baba.chief.house]	PN	PN	7	GEN	_	
+9	szabra	szabra[chief_administrator][-ak]	N	N	8	appos	_
+	
+

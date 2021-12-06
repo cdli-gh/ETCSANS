@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi powerful man king of Urim king of four quarters Zaliya is your servant
+1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	root	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	GEN	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	za-ni-a	za-li2-a[1]	PN	PN	12	nmod	_
+11	...	_[_]	u	u	10	dep	_
+12	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+

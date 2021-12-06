@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the mighty king king of Ur and king of four world quarters when land of Zabali and lands of Simaki he destroyed a big goat tribute of Anan which they had brought to him a representation of it he fashioned for her and for his life he dedicated it to her
+1	...	_[_]	u	u	0	dep	_
+2	lugal	lugal[king]	N	N	0	_	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	2	appos	_
+5	uri5{ki}-ma	urim2{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	2	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	appos	_
+9	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	8	nummod	_
+10	u4	ud[sun]	N	N	0	_	_
+11	ma-da	ma-da[land]	N	N	10	_	_
+12	za-ab-sza-li{ki}	za-ab-sza-li{ki}[1]	GN	GN	11	GEN	_
+13	u3	u3[and]	CNJ	CNJ	11	appos	_
+14	ma-da	ma-da-ma-da[land]	N	N-RDP	17	GEN.ABS	_
+15	ma-da	ma-da-ma-da[land]	N	N	11	appos	_
+16	szimaszki{ki}-ka	szimaszki{ki}[1]	EN	EN.GEN.GEN.ABS	14	GEN	_
+17	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	22	LOC	_
+18	masz2	masz2-gal[goat]	N	N	22	ABS	_
+19	gal	masz2-gal[goat]	_	_	18	_	_
+20	gu2-un	gu2-un[load]	N	N	18	appos	_
+21	an-sza-an{ki}-na	an-sza-an{ki}[1]	SN	SN.GEN.ABS	20	GEN	_
+22	mu-un-tum2-ma-na	tum2[lead]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	24	GEN	_
+23	dam-szi-lum-bi	tam2-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	24	ABS	_
+24	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+25	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	27	TERM	_
+26	a	a[water]	N	N.ABS	27	ABS	_
+27	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+

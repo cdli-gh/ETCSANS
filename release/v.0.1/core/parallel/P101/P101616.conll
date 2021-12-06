@@ -1,0 +1,47 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P101616.atf						#new_text=P101616
+# tr.en: Szu-Erra son of Ur-Bilgames for shekels of silver Ama bought Pussunum his officer-of-sixty He did not buy him said Szu-Erra Szukubum Azuli as witnesses appeared Among them Szu-Erra to take oath was delivered After Szu-Erra had sworn Ama slave took over in presence of Lu-amana year king Amar-Suen Urbilum destroyed
+# train/P101616.atf new_text=P101616
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	projectivity violation	
+10	pu3-su-nu-um	_[Pussunum]	PN	PN.GEN.ABS	9	appos	_	
+11	ugula-gesz2-da-ka-ni	_[his.officer-of-sixty]	N	N	10	appos	_	
+12	nu-sa10	_[He.did]	V	NEG.3-SG-NH-A.V.3-SG-P.SUB	13	ABS	_	
+13	bi2-du11	_[not.buy.him.said]	V	V	10	acl	_	
+14	1(disz)	1(disz)[one]	NU	NU	15	nummod	_	
+15	szu-{d}er3-ra	_[Szu-Erra]	PN	PN	9	appos	_	
+16	1(disz)	1(disz)[one]	NU	NU	17	nummod	_	
+17	szu-ku8-bu-um	_[Szukubum]	PN	PN	22	_	_	
+18	1(disz)	1(disz)[one]	NU	NU	19	nummod	_	
+19	a-zu-li	_[Azuli]	PN	PN	17	appos	_	
+2	szu-{d}er3-ra	_[Szu-Erra]	PN	PN	42	_	_	
+20	...	_[_]	PN	N	17	dep	_	
+21	nam-lu2-inim-ma-sze3	_[as]	N	N	22	_	_	
+22	im-ta-e3-esz2	_[witnesses.appeared]	V	V	15	acl	_	
+23	sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	22	appos	_	
+24	szu-{d}er3-ra	_[Szu-Erra]	PN	PN	27	ABS	projectivity violation	
+25	nam-erim2	_[Among]	N	N	26	LOC	_	
+26	ku5-de3	_[them.to]	V	V	22	LOC	_	
+27	ba-szum2	_[take.oath.was.delivered]	V	V	22	parataxis	_	
+28	szu-{d}er3-ra	_[After]	PN	PN	30	_	_	
+29	nam-erim2	_[Szu-Erra]	N	N	30	ABS	_	
+3	dumu	dumu[child]	N	N	9	ABS	projectivity violation	
+30	un-ku5	_[had.sworn]	PN	PN	34	acl.ADV	projectivity violation	
+31	a-hi-ma	_[Ama.slave]	PN	PN	34	ABS	projectivity violation	
+32	sag	sag[head]	N	N	22	appos	_	
+33	szu-na	Szuna[1]	N	N.3-SG-H-POSS.L2-NH	34	_	heuristic: before verbal head	
+34	ba-an-gi4-gi4	_[took.over]	V	V	22	parataxis	_	
+35	igi	igi[eye][-ø]	N	N	22	appos	_	
+36	lu2-ama-na-sze3	_[in.presence.Lu-amana]	PN	PN	22	LOC	_	
+37	mu	mu[year]	N	N	41	_	_	
+38	{d}amar-{d}suen	Amarsuen[1]	RN	RN	40	nmod	_	
+39	lugal-e	lugal[king]-e	N	N.ERG	40	nmod	_	
+4	ur-{d}gilgamesx(|BIL3.GA.MES|)-ka	_[Ur-Bilgames]	PN	PN.DAT-H	3	GEN	_	
+40	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	41	ABS	_	
+41	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	22	parataxis	_
+	
+5	1(u)	1(u)[ten]	NU	NU	6	nummod	_	
+6	gin2	gig[unit]	N	N	3	TERM	_	
+7	ku3-babbar-sze3	_[for.silver]	N	N.TERM	6	TERM	_	
+8	a-hi-ma	_[Ama]	PN	PN	2	_	heuristic: after nominal head	
+9	in-sa10	_[bought]	V	V	2	acl	_	
+

@@ -1,0 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107846.atf
+# tr.en: oxen cows various sheep goats various booked out with Szulgi-ayamu month Big-festival year Enunugal of Inanna in Uruk was installed in house Amar-Suen strong man king of Ur king of four quarters Lugal-itida scribe son of Ur-Dumuzida is your servant
+1	4(u)	4(u)[ten]	NU	NU	4	nummod	projectivity violation	
+2	8(disz)	8(disz)[one]	NU	NU	11	nummod	projectivity violation	
+3	gu4	gud[ox]	N	N	4	nmod	_	
+4	ab2	ab[cow][-ø]	N	N	0	root	_	
+5	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	4	acl	_	
+6	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	4	nummod	_	
+7	2(gesz2)	2(gesz)[sixty]	NU	NU	6	nummod	_	
+8	5(u)	5(u)[ten]	NU	NU	6	nummod	_	
+9	5(disz)	5(disz)[one]	NU	NU	6	nummod	_	
+10	udu	udu[sheep]	N	N	11	nmod	_	
+11	masz2	masz[goat]	N	N	4	appos	_	
+12	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	4	acl	_	
+13	zi-ga	zig[expend]-a	V	NF.V.PT	4	acl	_	
+14	ki	ki[place]	N	N	15	COM	_	
+15	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	PN.ERG	13	COM	_	
+16	iti	iti[month]	N	N	17	_	_	
+17	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	13	acl	_	
+18	mu	mu[year]	N	N	4	appos	_	
+19	en-unu6-gal	Enunugal[1]	PN	PN	22	ABS	_	
+20	{d}inanna	Inanna[1][-ak]	DN	DN	19	GEN	_	
+21	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	19	LOC	_	
+22	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	4	acl	_	
+23	e2-tum	bitum[administrative_term]	PN	N	22	LOC	_	
+24	{d}amar-{d}suen	Amarsuen[1]	RN	RN	22	appos	_	
+25	nita	nita[male]	N	N	24	appos	_	
+26	kal-ga	kalag[strong]-a	V	NF.V.SUB	24	acl	_	
+27	lugal	lugal[king]	N	N	24	appos	_	
+28	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	27	GEN	_	
+29	lugal	lugal[king]	N	N	24	appos	_	
+30	an	An[1][-ra]	N	N	32	nummod	projectivity violation	
+31	ub-da	_	N	N	24	appos	projectivity violation	
+32	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	29	nummod	_	
+33	lugal-iti-da	Lugalitida[1]	PN	PN	37	ABS	_	
+34	dub-sar	dubsar[scribe]	N	N	33	appos	_	
+35	dumu	dumu[child]	N	N	33	appos	_	
+36	ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	35	GEN	_	
+37	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	24	appos	_
+	
+

@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna his master Ur-Namma king of Ur his temple he built for him and walls of Ur he built for him
+# test/P432114.atf
+1	{d}nanna	Nanna[1][-ak]	DN	DN	2	DAT	_	
+2	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
+3	ur-{d}namma	Urnamma[1]	RN	RN	2	appos	_	
+4	lugal	lugal[king]	N	N	3	appos	_	
+5	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	4	GEN	_	
+6	e2-a-ni	_[his.temple]	TN	N.3-SG-H-POSS.ABS	4	appos	_	
+7	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	6	acl	_	
+8	bad3	bad[wall]	N	N	6	appos	_	
+9	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_	
+10	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	9	acl	_
+	
+

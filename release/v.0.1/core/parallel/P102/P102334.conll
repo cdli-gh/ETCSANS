@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102334.atf						#new_text=P102334
+# tr.en: billy goats th day from Abbasaga Nalu accepted month Harvest year unuri was destroyed
+# train/P102334.atf new_text=P102334
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+10	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	2	appos	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	14	ABS	_	
+13	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	14	acl	_	
+14	2(disz)	2(disz)[one]	NU	NU	10	nummod	_
+	
+2	masz2	masz[goat]	N	N	15	_	_	
+3	u4	ud[day]	N	N	2	appos	_	
+4	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	2	nummod	_	
+5	ki	ki[place]	N	N	7	ABL	_	
+6	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	7	nmod	_	
+7	na-lu5	Nalu[1][-e]	PN	PN.ERG	2	ABL	_	
+8	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	7	acl	_	
+9	iti	iti[month]	N	N	10	nmod	_	
+

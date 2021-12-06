@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203175.atf
+# tr.en: Basket-of-tablets credits of Mani are here year Urbilum was destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	4	ABS	_	
+3	ma-ni	_[Mani]	N	N.3-SG-H-POSS	2	GEN	_	
+4	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+5	mu	mu[year]	N	N	7	_	_	
+6	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	7	ABS	_	
+7	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	parataxis	_
+	
+

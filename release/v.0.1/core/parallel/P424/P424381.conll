@@ -1,0 +1,50 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P424381.atf
+# tr.en: laborers for days from Umma to Dugei an empty boat towed for days barley threshing and in boat loaded for day to Salla canal boat towed for days grain unloaded grain transferred and silo plastering foreman Ur-Szakkan sealed document of Ur-Szara year lord of Gae was installed Ur-Szara scribe son of Szekalla
+1	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	DAT	_	
+5	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	umma{ki}-ta	Umma[1][-ak]-ta	SN	SN.GEN.ABL	3	ABL	_	
+7	du6-gesz-i3-ka-sze3	_[to.Dugei.an.empty]	PN	PN	6	LOC	_	
+8	ma2	ma[ship]	N	N	22	ABS	projectivity violation	
+9	su3	sug[empty][-ø]	V	NF.V.ABS.ABS	8	acl	_	
+10	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	9	_	_	
+11	u4	ud[day]	N	N	9	DAT	_	
+12	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	8	nummod	_	
+13	sze	sze[barley]	N	N	15	nmod	_	
+14	gesz	gesz[tree]	N	N	13	_	heuristic: attach to last	
+15	e3-a	e[leave]-a	V	NF.V.PT	0	_	detached for projectivity	
+16	u3	u[and]	CNJ	CNJ	15	appos	_	
+17	ma2-a	ma[ship]-'a	N	N.L1	18	LOC	_	
+18	si-ga	sig[load]-a	N	NF.V.PT	15	appos	_	
+19	u4	ud[day]	N	N	8	DAT	_	
+20	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	22	nummod	_	
+21	i7	id[river]	N	N	20	_	heuristic: attach to last	
+22	sal4-la{ki}-asz	_[to.Salla.canal.towed]	WN	WN	3	acl	projectivity violation	
+23	ma2	ma[ship]	N	N	19	LOC	projectivity violation	
+24	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	23	_	heuristic: attach to last	
+25	u4	ud[day]	N	N	22	DAT	_	
+26	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	3	nummod	projectivity violation	
+27	sze	sze[barley]	N	N	25	appos	_	
+28	ba-al-la	bala[transfer]-a	V	NF.V.PT	27	acl	_	
+29	sze	sze[barley]	N	N	27	appos	_	
+30	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	29	acl	_	
+31	u3	u[and]	CNJ	CNJ	27	appos	_	
+32	guru7-a	guru[store]-'a	N	N.L1	33	nmod	_	
+33	im-ur3-ra	_[plastering]	V	NF.V.PT	27	acl	_	
+34	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+35	ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	34	appos	_	
+36	kiszib3	kiszib[seal]	N	N	35	appos	_	
+37	ur-{d}szara2	Urszara[1]	PN	PN	36	GEN	_	
+38	mu	mu[year]	N	N	3	appos	_	
+39	en	en[priest]	N	N	41	ABS	_	
+40	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	39	GEN	_	
+41	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	38	acl	_	
+42	ur-{d}szara2	Urszara[1]	PN	PN	41	date	_	
+43	dub-sar	dubsar[scribe]	N	N	42	appos	_	
+44	dumu	dumu[child]	N	N	42	appos	_	
+45	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	44	GEN	_
+	
+

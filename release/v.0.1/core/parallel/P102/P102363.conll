@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102363.atf
+# tr.en: -ene from nubanda -Ikur received month Harvest th day passed year Great-throne of Enlil was fashioned
+1	...-e-ne	_[-ene]	V	V	0	root	_	
+2	ki	ki[place]	N	N	6	ABL	projectivity violation	
+3	nu-banda3{da}-ta	_[nubanda]	N	N.ABL	2	_	heuristic: attach to last	
+4	x-{d}iszkur-ke4	_[-Ikur]	DN	DN	3	_	heuristic: attach to last	
+5	szu	szu[hand][-e]	N	N.L3-NH	1	appos	_	
+6	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	1	acl	_	
+7	iti	iti[month]	N	N	8	nmod	_	
+8	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	12	ABS	_	
+9	u4	ud[day]	N	N	8	appos	_	
+10	1(u)	1(u)[ten]	NU	NU	12	nummod	_	
+11	5(disz)	5(disz)[one]	NU	NU	10	nummod	_	
+12	zal-la	zal[pass]-a	V	NF.V.PT	1	parataxis	_	
+13	mu	mu[year]	N	N	12	date	_	
+14	gu-za-mah	_[Great-throne]	PN	PN.ABS	16	ABS	_	
+15	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	14	GEN	_	
+16	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	12	parataxis	_
+	
+

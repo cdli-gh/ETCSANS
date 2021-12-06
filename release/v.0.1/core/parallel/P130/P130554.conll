@@ -1,0 +1,45 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: workmen for days flour loaded in barge flour unloaded from barge workmen for days offerings placed in barge for temple administrators workmen for days reed carried read of tow-boat foreman Lugalmu-manag under seal of Abbagina year Amar-Suen king destroyed Urbilum Abbagina scribe son of Lugal-magure
+# train/P130554.atf
+1	6(disz)	6(disz)[one][-sze]	NU	NU	24	nummod	_	
+2	gurusz	gurusz[male]	N	N	24	ERG	_	
+3	u4	ud[day]	N	N	2	DAT	_	
+4	5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	24	nummod	heuristic: NU premodifying	
+5	zi3	zid[flour]	N	N	24	parataxis	_	
+6	ma2-a	ma[ship]-'a	N	N.L1	7	LOC	_	
+7	si-ga	sig[load]-a	N	NF.V.PT	5	acl	_	
+8	zi3	zid[flour]	N	N	24	ERG	_	
+9	ma2-ta	_[unloaded.from]	N	N	8	acl	_	
+10	ba-al	_[barge]	V	NF.V.PT	9	acl	_	
+11	5(disz)	5(disz)[one]	NU	NU	8	nummod	_	
+12	gurusz	gurusz[male]	N	N	8	appos	_	
+13	u4	ud[day]	N	N	12	DAT	_	
+14	6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	15	nummod	heuristic: NU premodifying	
+15	nig2	_	N	N	8	appos	_	
+16	siskur2-ra	_[offerings]	N	N.GEN.3-SG-H-POSS.L1	8	appos	_	
+17	ma2-a	ma[ship]-'a	N	N.L1	18	LOC	_	
+18	{ga2}gar	gar[place][-a]	V	NF.V.PT	16	acl	_	
+19	sanga-ne-sze3	_[for.temple.administrators]	N	N.PL.GEN.TERM	8	TERM	_	
+20	6(disz)	6(disz)[one][-sze]	NU	NU	19	nummod	_	
+21	gurusz-sze3	_[workmen]	N	N	19	appos	_	
+22	u4	ud[day]	N	N	21	DAT	_	
+23	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	24	nummod	heuristic: NU premodifying	
+24	gi	gi[reed][-ø]	N	N	0	root	_	
+25	il2-la	_[carried]	V	V	24	acl	_	
+26	gi	gi[reed][-ø]	N	N	25	_	heuristic: attach to last	
+27	ma2-da-la2	_[read.of.tow-boat]	N	N	25	appos	_	
+28	ugula	ugula[overseer][-ø]	N	N	27	appos	_	
+29	lugal-mu-ma-an-ag2	_[Lugalmu-manag]	PN	PN.ABS	25	appos	_	
+30	kiszib3	kiszib[seal]	N	N	29	LOC	_	
+31	ab-ba-gi-na	Abbagina[1]	PN	PN	30	GEN	_	
+32	mu	mu[year]	N	N	35	date	_	
+33	{d}amar-{d}suen	Amarsuen[1]	RN	RN	35	ABS	_	
+34	lugal-e	lugal[king]-e	N	N.ERG	33	appos	_	
+35	ur-bi2-i3-lum{ki}	_[destroyed.Urbilum]	GN	GN	29	parataxis	_	
+36	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	24	_	_	
+37	ab-ba-gi-na	Abbagina[1]	PN	PN	24	ABS	_	
+38	dub-sar	dubsar[scribe]	N	N	37	appos	_	
+39	dumu	dumu[child]	N	N	37	appos	_	
+40	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	39	GEN	_
+	
+

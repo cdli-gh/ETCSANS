@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: masab-baskets at ban each filled with pomegranates to Tummal via Laqipu booked out month that of Enlil year lord of Enki was hired
+# dev/P370955.atf
+1	5(disz)	5(disz)[one]	NU	NU	4	nummod	projectivity violation	
+2	{gi}ma-sa2-ab	_[masab-baskets.at]	N	N	0	root	_	
+3	2(ban2)-ta	_[ban.each]	NU	NU	2	nummod	_	
+4	nu-ur2-ma	_[filled.with]	V	V	3	acl	_	
+5	ba-an-si	_[pomegranates]	V	V	3	acl	_	
+6	tum-ma-al-sze3	_[to.Tummal]	TN	TN	5	LOC	_	
+7	giri3	giri[foot]	N	N	8	via	_	
+8	la-qi3-pu	_[Laqipu]	PN	PN	2	via	_	
+9	szandana	szandanak[gardenner][-ra]	N	N	8	appos	_	
+10	zi-ga	zig[expend]-a	V	NF.V.PT	2	acl	_	
+11	iti	iti[month]	N	N	10	appos	_	
+12	nig2-{d}en-lil2-la2	_[that.Enlil]	MN	MN	11	appos	_	
+13	mu	mu[year]	N	N	12	appos	_	
+14	en	en[priest]	N	N	16	ABS	_	
+15	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	14	GEN	_	
+16	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	13	acl	_
+	
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Iddin-ilum general of Mari Iddin-Dagan the household manager
+# train/P432369.atf
+1	i-din-dingir	_[Iddin-ilum]	PN	PN	0	root	_	
+2	_szagina_	szakkanak[governor][-ak]	N	N	0	root	_	
+3	ma-ri{ki}	_[Mari]	GN	GN	0	root	_	
+4	i-di3-{d}da-gan	_[Iddin-Dagan]	PN	PN.GEN.ABS	0	root	_	
+5	_szabra_	szabra[chief_administrator][-ak]	N	N	0	root	_
+	
+

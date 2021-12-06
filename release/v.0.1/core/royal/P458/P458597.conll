@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena powerful king king of Urim king of four quarters Lugal-melem governor of Nibru scribe child of scribe of gipar in Nibru is your servant
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	GEN	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	appos	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_
+10	lugal-me-lam2	lugal-me-lem4[1]	PN	PN	20	ABS	_
+11	ensi2	ensi2[ruler]	N	N	10	appos	_
+12	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	11	GEN	_
+13	dub-sar	dub-sar[scribe]	N	N	10	appos	_
+14	za3-ga	zag[side]	N	N.GEN	13	GEN	_
+15	dumu	dumu[child]	N	N	10	appos	_
+16	...-{d}en-lil2	x-{d}en-lil2[1]	PN	PN	10	appos	_
+17	dub-sar	dub-sar[scribe]	N	N	10	appos	_
+18	ge6-par4	gi6-par3[cloister]	N	N	17	GEN	_
+19	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	18	GEN	_
+20	ARAD2	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	_
+21	x	_	_	_	0	dep	_
+22	x	_	_	_	0	dep	_
+23	x	_	_	_	0	dep	_
+

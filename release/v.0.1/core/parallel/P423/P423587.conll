@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: n grain-fed Ur-Dumuzida in KIAN from household of Szarakam the month festival of Szulgi year house of Szara was erected
+# train/P423587.atf						#new_text=P423587
+# train/P423587.atf new_text=P423587
+1	n	_(_)[_]	NU	NU	2	nummod	_	
+2	...	_[_]	PN	N	0	dep	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	...	_[_]	PN	N	2	dep	heuristic: after nominal head	
+6	...	_[_]	PN	N	2	dep	heuristic: after nominal head	
+8	e2	e[house]	N	N	2	appos	_	
+10	iti	iti[month]	N	N	2	appos	_	
+11	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	10	appos	_	
+12	mu	mu[year]	N	N	10	appos	_	
+13	e2	e[house]	N	N	15	ABS	_	
+14	{d}szara2	Szara[1][-ak]	DN	DN	13	GEN	_	
+15	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	10	acl	_
+	
+

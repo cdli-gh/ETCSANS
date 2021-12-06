@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# test/P127341.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	mu-kux(DU)	mukur[delivery][-ø]	N	N	1	appos	_	
+3	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+4	zi-ga	zig[expend]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+5	{kusz}du10-gan	duggan[leather_bag]	N	N	1	_	heuristic: after nominal head	
+6	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+7	na-ra-am-i3-li2	Naramili[1]	PN	PN	1	_	heuristic: after nominal head	
+8	ki	ki[place]	N	N	1	_	heuristic: after nominal head	
+9	na-sa6	Nasa[1][-e]	PN	PN.ERG	1	_	heuristic: after nominal head	
+10	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+11	a2-ki-ti-ta	_[xxx]	MN	MN.GEN.ABL	1	_	heuristic: after nominal head	
+12	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+13	ezem-{d}nin-a-zu-sze3	_[xxx]	MN	MN	18	nmod	projectivity violation	
+14	iti	iti[month]	N	N	18	nmod	projectivity violation	
+15	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+16	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	15	nummod	_	
+17	mu	mu[year]	N	N	1	appos	_	
+18	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	1	appos	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

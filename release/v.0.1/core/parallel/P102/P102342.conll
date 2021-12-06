@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lambs th day from Abbasaga month year
+# train/P102342.atf
+1	...	_[_]	PN	N	0	dep	_	
+2	1(u)	1(u)[ten]	NU	NU	13	nummod	projectivity violation	
+3	x	_[_]	N	N	2	dep	heuristic: attach to last	
+4	x	_[_]	N	N	3	dep	heuristic: attach to last	
+5	3(disz)	3(disz)[one]	NU	NU	13	nummod	heuristic: NU premodifying; projectivity violation	
+6	x	_[_]	N	N	5	dep	heuristic: attach to last	
+7	sila4	sila[lamb]	N	N	6	_	heuristic: attach to last	
+8	u4	ud[day]	N	N	7	_	heuristic: attach to last	
+9	1(u)	1(u)[ten]	NU	NU	20	nummod	_	
+10	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+11	ki	ki[place]	N	N	20	ABL	_	
+12	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	20	nmod	_	
+13	x	_[_]	N	N	0	dep	_	
+14	x	_[_]	N	N	13	dep	_	
+15	...	_[_]	PN	N	13	dep	_	
+16	iti	iti[month]	N	N	20	nmod	_	
+17	x-x-x	_[1]	PN	PN	20	dep	_	
+18	mu	mu[year]	N	N	20	_	_	
+19	x	_[_]	N	N	20	dep	_	
+20	x	_[_]	N	N	0	dep	_	
+21	...	_[_]	PN	N	20	dep	heuristic: after nominal head	
+22	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+23	1(disz)	1(disz)[one]	NU	NU	22	nummod	_	
+24	x	_[_]	N	N	20	dep	_
+	
+

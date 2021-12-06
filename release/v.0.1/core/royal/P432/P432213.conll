@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Ningal his mistress Szulgi the mighty man king of Ur and king of four world quarters
+1	{d}nin-gal	{d}nin-gal[1]	DN	DN	0	root	_
+2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN	2	appos	_
+4	nita	nita[male]	N	N	3	appos	_
+5	kal-ga	kalag[strong]	V	NF.V.PT	4	amod	_
+6	lugal	lugal[king]	N	N	3	appos	_
+7	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	3	appos	_
+9	an	_	_	_	8	_	_
+10	ub-da	an-ub-da[quarter]	N	N	8	appos	_
+11	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	10	nummod	_
+

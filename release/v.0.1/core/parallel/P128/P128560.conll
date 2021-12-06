@@ -1,0 +1,121 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P128560.atf new_text=P128560
+# train/P128560.atf						#new_text=P128560
+# tr.en: bur esze iku field surface its grain gur barley Szulgi therefrom n sila gur delivery surplus n gur year bur field surface its grain gur barley therefrom gur delivery the deficit gur barley year king of Anshan married kings daughter bur field surface its grain gur therefrom gur barig ban delivery the deficit gur barig ban year Simurrum was destroyed for rd time x household managers of
+1	1(szargal){gal}	_	NU	NU	7	nummod	_	
+2	8(szar2)	8(szar)[thirty-six_hundred][-ø]	NU	NU.ABS	1	nummod	_	
+3	5(bur'u)	_	NU	NU	1	nummod	_	
+4	4(bur3)	4(bur)[unit]	NU	N	7	nummod	_	
+5	1(esze3)	1(esze)[unit]	NU	N	4	nummod	_	
+6	3(iku)	3(iku)[unit]	NU	N	4	nummod	_	
+7	GAN2	gana[field]	N	N	0	root	_	
+8	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	9	nmod	_	
+9	3(szar'u)	_[its.grain]	NU	NU	7	nummod	_	
+10	4(szar2)	_	NU	NU	17	nummod	_	
+11	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	10	nummod	_	
+12	7(gesz2)	7(gesz)[sixty]	NU	NU	0	nummod	_	
+13	1(u)	1(u)[ten]	NU	NU	12	nummod	_	
+14	5(asz)	5(asz)[one]	NU	NU	12	nummod	_	
+15	sze	sze[barley]	N	N	17	nmod	_	
+16	gur	gur[unit]	N	N	17	nmod	_	
+17	{d}szul-gi	Szulgir[1]	RN	RN	7	appos	_	
+18	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	17	appos	_	
+19	3(szar'u)	_	NU	NU	0	nummod	_	
+20	5(szar2)	_	NU	NU	19	nummod	_	
+21	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	19	nummod	_	
+22	1(gesz2)	1(gesz)[sixty]	NU	NU	19	nummod	_	
+23	n	_(_)[_]	NU	NU	18	nummod	_	
+24	5(disz)	5(disz)[one]	NU	NU	28	nummod	heuristic: NU premodifying	
+25	sila3	sila[unit]	N	N	28	nmod	_	
+26	gur	gur[unit]	N	N	28	nmod	_	
+27	...	_[_]	PN	N	26	dep	heuristic: attach to last	
+28	mu-kux(DU)	mukur[delivery][-ø]	N	N	18	appos	_	
+29	diri	diri[intercalary_month]	N	N	28	appos	_	
+30	1(szar2)	1(szar)[unit]	NU	N	29	nummod	_	
+31	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	30	nummod	_	
+32	n	_(_)[_]	NU	NU	30	nummod	_	
+33	gur	gur[unit]	N	N	30	appos	_	
+34	...	_[_]	PN	N	35	dep	_	
+35	mu	mu[year]	N	N	29	appos	_	
+36	...	_[_]	PN	N	35	dep	_	
+37	'.	_	_	_	36	_	heuristic: attach to last	
+38	1(szargal){gal}	_	NU	NU	42	nummod	projectivity violation	
+39	1(szar'u)	_	NU	NU	38	nummod	_	
+40	GAN2	gana[field]	N	N	29	appos	_	
+41	'.	_	NU	NU	48	nummod	projectivity violation	
+42	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	29	appos	_	
+43	3(szar'u)	_	NU	NU	0	nummod	_	
+44	5(szar2)	_	NU	NU	43	nummod	_	
+45	sze	sze[barley]	N	N	48	nmod	_	
+46	gur	gur[unit]	N	N	48	nmod	_	
+47	'.	_	_	_	48	_	_	
+48	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	42	appos	_	
+49	'.	_	_	_	56	_	_	
+50	3(szar'u)	_	NU	NU	0	nummod	_	
+51	2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	50	nummod	_	
+52	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	50	nummod	_	
+53	5(gesz2)	5(gesz)[sixty]	NU	NU	50	nummod	_	
+54	gur	gur[unit]	N	N	56	nmod	_	
+55	'.	_	_	_	56	_	_	
+56	mu-kux(DU)	mukur[delivery][-ø]	N	N	48	appos	_	
+57	'.	_	_	_	56	_	heuristic: attach to last	
+58	la2-ia3	la'u[arrears]	N	N	56	appos	_	
+59	2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	0	nummod	_	
+60	5(gesz2)	5(gesz)[sixty]	NU	NU	59	nummod	_	
+61	sze	sze[barley]	N	N	56	appos	_	
+62	gur	gur[unit]	N	N	61	appos	_	
+63	'.	_	_	_	62	_	heuristic: attach to last	
+64	mu	mu[year]	N	N	42	appos	_	
+65	dumu-munus	dumumunus[daughter]	N	N	68	ABS	projectivity violation	
+66	lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	42	appos	_	
+67	lugal	lugal[king]	N	N	68	ERG	_	
+68	an-sza-...	_[Anshan.married.kings]	GN	GN	42	acl	_	
+69	'.	_	_	_	68	_	heuristic: attach to last	
+70	1(szargal){gal}	_	NU	NU	0	nummod	_	
+71	1(szar'u)	_	NU	NU	70	nummod	_	
+72	1(szar2)	1(szar)[unit]	NU	N	70	nummod	_	
+73	1(bur3)	1(bur)[unit]	NU	N	70	nummod	_	
+74	GAN2	gana[field]	N	N	42	appos	_	
+75	'.	_	_	_	74	_	heuristic: attach to last	
+76	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	77	nmod	_	
+77	3(szar'u)	_[its.grain]	NU	NU	42	nummod	_	
+78	5(szar2)	_	NU	NU	77	nummod	_	
+79	3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	77	nummod	_	
+80	3(u)	3(u)[ten]	NU	NU	81	nummod	heuristic: NU premodifying	
+81	gur	gur[unit]	N	N	77	appos	_	
+82	'.	_	_	_	81	_	heuristic: attach to last	
+83	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	82	_	heuristic: attach to last	
+84	'.	_	_	_	83	_	heuristic: attach to last	
+85	2(szar'u)	_	NU	NU.GEN	0	nummod	_	
+86	1(szar2)	1(szar)[unit]	NU	N	85	nummod	_	
+87	4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	85	nummod	_	
+88	7(gesz2)	7(gesz)[sixty]	NU	NU	85	nummod	_	
+89	4(u)	4(u)[ten]	NU	NU	85	nummod	_	
+90	2(asz)	2(asz)[one]	NU	NU	85	nummod	_	
+91	1(barig)	1(bariga)[unit]	NU	N	85	nummod	_	
+92	4(ban2)	4(ban)[unit]	NU	N	95	nummod	_	
+93	gur	gur[unit]	N	N	95	nmod	_	
+94	'.	_	_	_	95	_	_	
+95	mu-kux(DU)	mukur[delivery][-ø]	N	N	42	appos	_	
+96	'.	_	_	_	95	_	heuristic: attach to last	
+97	la2-ia3	la'u[arrears]	N	N	98	nmod	_	
+98	1(szar'u)	_[the.deficit]	NU	NU	95	nummod	_	
+99	3(szar2)	_	NU	NU	98	nummod	_	
+100	4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	98	nummod	_	
+101	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+102	2(u)	2(u)[ten]	NU	NU	101	nummod	_	
+103	7(asz)	7(asz)[one]	NU	NU	101	nummod	_	
+104	3(barig)	3(bariga)[unit]	NU	N	101	nummod	_	
+105	2(ban2)	2(ban)[unit]	NU	N	106	nummod	_	
+106	gur	gur[unit]	N	N	95	appos	_	
+107	'.	_	_	_	106	_	heuristic: attach to last	
+108	mu	mu[year]	N	N	107	_	heuristic: attach to last	
+109	si-mu-ur4-ru-um{ki}	Simurrum[1][-ø]	SN	SN.ABS	112	ABS	projectivity violation	
+110	a-ra2	ara[times]	N	N	112	DAT	projectivity violation	
+111	3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	7	nummod	projectivity violation	
+112	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	42	acl	_	
+113	x	_[_]	N	N	7	dep	_	
+114	szabra	szabra[chief_administrator][-ak]	N	N	7	appos	_	
+115	6(disz)-ba	_	NU	NU	7	nummod	_
+	
+

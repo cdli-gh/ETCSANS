@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416541.atf
+# tr.en: workdays male laborers leveled sheaves piled grain harvested in New Field and Priests Field foreman Basa under seal of Inim-Inanna year after Amar-Suen is king Inim-Inanna son of Lugal-itida
+1	6(gesz2)	6(gesz)[sixty]	NU	NU	4	nummod	_	
+2	5(u)	5(u)[ten]	NU	NU	1	nummod	_	
+3	7(disz)	7(disz)[one][-sze]	NU	NU	1	nummod	_	
+4	gurusz	gurusz[male]	N	N	0	root	_	
+5	u4	ud[day]	N	N	4	_	heuristic: after nominal head	
+6	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	9	nummod	heuristic: NU premodifying	
+7	szu-ur3-ra	_[leveled]	N	N	9	acl	_	
+8	zar3	zar[sheaf]	N	N	9	_	_	
+9	tab-ba	tab[grasp]-a	V	NF.V.PT	4	acl	_	
+10	u3	u[and]	CNJ	CNJ	9	_	heuristic: attach to head	
+11	sze	sze[barley]	N	N	9	appos	_	
+12	gur10-a	gur[reap]-a	N	NF.V.PT	11	acl	_	
+13	a-sza3	aszag[field]	N	N	17	LOC	projectivity violation	
+14	gibil	gibil[new][-ø]	V	NF.V.ABS	17	acl	projectivity violation	
+15	u3	u[and]	CNJ	CNJ	17	nmod	projectivity violation	
+16	a-sza3	aszag[field]	N	N	9	appos	projectivity violation	
+17	iszib-e-ne	Iszibene[1][-ak][-ak][-'a]	FN	FN.GEN.GEN.L1	12	LOC	_	
+18	ugula	ugula[overseer][-ø]	N	N	9	appos	_	
+19	ba-sa6	Basa[1][-ak]	PN	PN.GEN	18	appos	_	
+20	kiszib3	kiszib[seal]	N	N	19	appos	_	
+21	inim-{d}inanna	Iniminanna[1]	PN	PN	20	GEN	_	
+22	mu	mu[year]	N	N	25	_	_	
+23	us2-sa	us[follow]-a	V	NF.V.PT	22	acl	_	
+24	{d}amar-{d}suen	Amarsuen[1]	RN	RN	25	ABS	_	
+25	lugal	lugal[king]	N	N	20	parataxis	_	
+26	inim-{d}inanna	Iniminanna[1]	PN	PN	20	appos	_	
+27	dumu	dumu[child]	N	N	26	appos	_	
+28	lugal-iti-da	Lugalitida[1]	PN	PN	27	GEN	_
+	
+

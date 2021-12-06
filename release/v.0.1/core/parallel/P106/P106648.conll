@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P106648.atf
+# tr.en: Surplus diverse robes surplus of done account year following Anan was destroyed via Lu-banda
+1	diri	diri[intercalary_month]	N	N	0	root	_	
+2	2(u)	2(u)[ten]	NU	NU	4	nummod	_	
+3	tug2	tug[textile]	N	N	4	acl	_	
+4	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	1	_	_	
+5	diri	diri[intercalary_month]	N	N	4	appos	_	
+6	nig2-ka9-ak	nigSZID[account]	N	N	5	GEN	_	
+7	mu	mu[year]	N	N	4	appos	_	
+8	us2-sa	us[follow]-a	V	NF.V.PT	7	acl	_	
+9	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	4	appos	_	
+10	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	4	acl	_	
+11	giri3	giri[foot]	N	N	12	via	_	
+12	lu2-banda3{da}	Lubanda[1]	PN	PN	10	via	_
+	
+

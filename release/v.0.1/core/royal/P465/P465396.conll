@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+1	{d}en-lil2	{d}en-lil2[1]	DN	DN	18	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kur-kur-ra	kur-kur[mountain]	N	N-RDP.GEN	2	GEN	_
+4	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	{d}en-lil2-ba-ni	{d}en-lil2-ba-ni[1]	RN	RN	18	ERG	_
+6	lugal	lugal[king]	N	N	5	appos	_
+7	kal-ga	kalag[strong]	V	NF.V.PT	6	amod	_
+8	lugal	lugal[king]	N	N	5	appos	_
+9	i3-si-in{ki}-na	i3-si-in{ki}[1]	SN	SN.GEN	8	GEN	_
+10	lugal	lugal[king]	N	N	5	appos	_
+11	ki-en-gi	ki-en-gi[1]	GN	GN	13	ABS	_
+12	ki-uri	ki-uri[1]	GN	GN.GEN	11	appos	_
+13	ki-ag2	ag2[measure]	V	NF.V	10	amod	_
+14	{d}en-lil2	{d}en-lil2[1]	DN	DN	13	GEN	_
+15	u3	u3[and]	CNJ	CNJ	14	cc	_
+16	{d}nin-isin2{si}-na-ka-ke4	{d}nin-isin2{si}-na[1]	DN	DN.GEN.ERG	14	conj	_
+17	nig2	nig2[thing]	N	N	18	ABS	_
+18	...	_[_]	u	u	0	dep	_
+19	zi	_	_	_	0	_	_
+20	NE	_	_	_	0	_	_
+21	{d}en-lil2	enlil[1]	PN	PN	31	_	_
+22	zi	_	_	_	0	_	_
+23	NE	_	_	_	0	_	_
+24	gi	_	_	_	0	_	_
+25	zi	_	_	_	0	_	_
+26	NE	_	_	_	0	_	_
+27	gi	_	_	_	0	_	_
+28	zi	_	_	_	0	_	_
+29	NE	_	_	_	0	_	_
+30	gi	_	_	_	0	_	_
+31	{d}en-lil2	enlil[1]	PN	PN	0	_	_
+32	in-TAR	_	V	V	18	parataxis	_
+

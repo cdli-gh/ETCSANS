@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P416458.atf new_text=P416458
+# dev/P416458.atf						#new_text=P416458
+# tr.en: oxen cows male equids female equids old from Szu-Idim delivery month Festival of Ninazu year Simurum and Lulubu for th time were destroyed
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+10	ki	ki[place]	N	N	11	ABL	_	
+11	szu-{d}idim-ta	_[Szu-Idim]	PN	PN.GEN.GEN.ABL	2	ABL	_	
+12	mu-kux(DU)	mukur[delivery][-ø]	N	N	11	appos	_	
+13	iti	iti[month]	N	N	15	_	_	
+14	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	15	_	_	
+15	mu	mu[year]	N	N	2	parataxis	_	
+16	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	23	ABS	_	
+17	u3	u[and]	CNJ	CNJ	16	appos	_	
+18	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	16	appos	_	
+19	a-ra2	ara[times]	N	N	16	DAT	_	
+2	gu4	gud[ox]	N	N	24	ABS	_	
+20	1(u)	1(u)[ten]	NU	NU	24	nummod	_	
+21	la2	la[hang][-ø]	V	NF.V.ABS	20	_	_	
+22	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	21	nummod	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_
+	
+3	3(disz)	3(disz)[one]	NU	NU	2	nummod	_	
+4	ab2	ab[cow][-ø]	N	N	2	appos	_	
+5	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+6	dusu2-nita2	_[male.equids]	PN	PN	2	appos	_	
+7	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+8	dusu2-munus	_[female.equids]	N	N	2	appos	_	
+9	szu-gi4	_[old]	PN	PN	2	acl	_	
+

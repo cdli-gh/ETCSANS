@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P459082.atf
+# tr.en: date palm spines boat ribs pine trees for ada-planks from Lukalla to boat house under seal of Lu-sa-izu year unuri was destroyed
+1	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	_	
+2	murgu2	murgu[back]	N	N	0	root	_	
+3	pesz	pesz[thick][-ø]	NU	N.ABS	7	nummod	projectivity violation	
+4	2(gesz2)	2(gesz)[sixty]	NU	NU	2	nummod	_	
+5	4(u)	4(u)[ten]	NU	NU	10	nummod	projectivity violation	
+6	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+7	{gesz}umbin	_[ribs]	N	N	2	appos	_	
+8	ma2	ma[ship]	N	N	7	appos	_	
+9	6(disz)	6(disz)[one][-sze]	NU	NU	10	nummod	_	
+10	{gesz}u3-suh5	usuh[tree]	N	N	2	acl	_	
+11	{gesz}a-da-sze3	_[for.ada-planks]	N	N.3-SG-H-POSS.TERM	10	TERM	_	
+12	ki	ki[place]	N	N	13	ABL	_	
+13	lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	10	ABL	_	
+14	mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	10	LOC	_	
+15	kiszib3	kiszib[seal]	N	N	10	LOC	_	
+16	lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	15	GEN	_	
+17	mu	mu[year]	N	N	10	appos	_	
+18	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	19	ABS	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	17	acl	_
+	
+

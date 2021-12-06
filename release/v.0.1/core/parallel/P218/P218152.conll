@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx
+# test/P218152.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gi-sa	_	N	N	1	_	heuristic: after nominal head	
+3	dingir-re-ne	_	PN	N.PL.GEN	1	appos	_	
+4	giri3	giri[foot]	N	N	1	_	heuristic: after nominal head	
+5	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	1	_	heuristic: after nominal head	
+6	ensi2	ensik[ruler]	N	N	7	nmod	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

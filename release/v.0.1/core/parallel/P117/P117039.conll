@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P117039.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+4	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	1	_	heuristic: after nominal head	
+5	lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+6	nu-{gesz}kiri6	_	N	N	1	_	heuristic: after nominal head	
+7	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+8	za	za[unknown]	V	N	1	_	heuristic: after nominal head	
+9	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	17	acl	projectivity violation	
+11	mu	mu[year]	N	N	10	_	heuristic: attach to last	
+12	bad3	bad[wall]	N	N	11	_	heuristic: attach to last	
+13	ba-du3-ta	ba-du[build][-ø]-ta	V	MID.V.3-SG-S.ABL	17	acl	projectivity violation	
+14	mu	mu[year]	N	N	1	appos	_	
+15	us2-sa	us[follow]-a	V	NF.V.PT	14	_	heuristic: attach to last	
+16	e2	e[house]	N	N	15	_	heuristic: attach to last	
+17	puzur4-{d}da-<gan>	Puzurdagan[1][-ø]	SN	SN.ABS	1	appos	_	
+18	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	0	_	_	
+19	mu	mu[year]	N	N	0	_	_	
+20	us2-sa-a-bi-sze3	_	V	NF.V.SUB.3-SG-NH-POSS.TERM	0	_	_
+	
+

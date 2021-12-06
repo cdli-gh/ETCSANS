@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: The name of this bowl is in temple	
+1	bur-ba	bur[bowl]	N	N.DEM2.GEN	0	_	_
+2	e2-a	e2[house]	N	N.L1	1	GEN	_
+3	ma-an-...	_[_]	u	u	0	nsubj	_
+4	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_
+

@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Amar-Suena the mighty king king of Ur and king of four world quarters the place of watch in Ur he built for him This place of watch Amar-Suena Is Beloved of Nanna is its name	
+1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	13	ERG	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	kal-ga	kalag[strong]	V	NF.V.PT	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	an	_	_	_	6	_	_
+8	ub-da	an-ub-da[quarter]	N	N	6	appos	_
+9	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	8	nummod	_
+10	ki	ki[place]	N	N	13	ABS	_
+11	en-nu-ga2	en-nu[imprisonment]	N	N.GEN	10	GEN	_
+12	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	10	GEN	_
+13	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+14	ki	ki[place]	N	N	1	_	_
+15	en-nu-ga2-ba	en-nu[imprisonment]	N	N.GEN.DEM2.GEN	14	GEN	_
+16	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	17	ABS	_
+17	ki-ag2	ki[place]+ag2[measure]	V	NF.V	14	amod	_
+18	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	17	GEN	_
+19	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	1	_	_
+

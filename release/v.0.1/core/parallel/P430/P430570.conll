@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P430570.atf
+# tr.en: Ur-mes son of Lana fattener
+1	ur-mes	Urmes[1]	PN	PN	0	root	_	
+2	dumu	dumu[child]	N	N	1	appos	_	
+3	la-na	Lana[1]	PN	PN	2	GEN	_	
+4	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	3	appos	_
+	
+

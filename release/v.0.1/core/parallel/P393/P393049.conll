@@ -1,0 +1,61 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: lambs Sze-dada household administrator lambs governor of Nippur lambs zabardab lamb Lu-Nanna male goat Zige manager male goat Mealam manager ox grain-fed less sheep full-grown male goat male goat Szulgi-amati lamb Itraq-il lamb Nada delivery month Harvest year Kima and Hurti were destroyed rd day
+# train/P393049.atf
+1	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	szesz-da-da	Szeszdada[1]	PN	PN	2	appos	_	
+4	sanga	sagga[temple_administrator]	N	N	2	appos	_	
+5	2(disz)	2(disz)[one]	NU	NU	2	nummod	_	
+6	sila4	sila[lamb]	N	N	2	appos	_	
+7	ensi2	ensik[ruler]	N	N	6	appos	_	
+8	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	7	GEN	_	
+9	2(disz)	2(disz)[one]	NU	NU	10	nummod	_	
+10	sila4	sila[lamb]	N	N	2	appos	_	
+11	zabar-dab5	zabardab[official][-e]	N	N	10	appos	_	
+12	1(disz)	1(disz)[one]	NU	NU	13	nummod	_	
+13	sila4	sila[lamb]	N	N	10	appos	_	
+14	lu2-{d}nanna	Lunanna[1]	PN	PN	13	appos	_	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+16	masz2	masz[goat]	N	N	13	appos	_	
+17	zi-ge	_[Zige]	V	V	16	acl	_	
+18	nu-banda3	nubanda[overseer][-ø]	N	N	16	appos	_	
+19	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+20	masz2	masz[goat]	N	N	16	appos	_	
+21	me-a-lam2	_[Mealam]	PN	PN	20	appos	_	
+22	nu-banda3	nubanda[overseer][-ø]	N	N	20	appos	_	
+23	1(disz)	1(disz)[one]	NU	NU	24	nummod	_	
+24	gu4	gud[ox]	N	N	16	appos	_	
+25	niga	niga[fattened][-ø]	V	NF.V.ABS	24	acl	_	
+26	1(u)	1(u)[ten]	NU	NU	33	nummod	projectivity violation	
+27	la2	la[hang][-ø]	V	NF.V.ABS	29	acl	_	
+28	1(disz@t)	1(disz)[one]	NU	NU	27	nummod	_	
+29	udu	udu[sheep]	N	N	24	appos	_	
+30	1(disz)	1(disz)[one]	NU	NU	24	nummod	_	
+31	masz2-gal	maszgal[billy_goat]	N	N	33	acl	_	
+32	1(disz)	1(disz)[one]	NU	NU	33	nummod	heuristic: NU premodifying	
+33	masz2	masz[goat]	N	N	24	appos	_	
+34	{d}szul-gi-ha-ma-ti	_[Szulgi-amati]	PN	PN	24	appos	_	
+35	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+36	x	_[_]	N	N	35	dep	heuristic: attach to last	
+37	...-gal2	_	PN	PN	36	_	heuristic: attach to last	
+38	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+39	x-...-mes	_	_	_	38	_	heuristic: attach to last	
+40	x-x-ka	_	PN	PN	16	appos	_	
+41	1(disz)	1(disz)[one]	NU	NU	42	nummod	heuristic: NU premodifying	
+42	sila4	sila[lamb]	N	N	16	appos	_	
+43	it-ra-ak-i3-li2	_[Itraq-il]	PN	PN	42	appos	_	
+44	1(disz)	1(disz)[one]	NU	NU	13	nummod	projectivity violation	
+45	sila4	sila[lamb]	N	N	16	appos	_	
+46	na-da	_[Nada]	N	N	45	appos	_	
+47	mu-kux(DU)	mukur[delivery][-ø]	N	N	13	appos	_	
+48	iti	iti[month]	N	N	49	nmod	_	
+49	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	2	appos	_	
+50	mu	mu[year]	N	N	54	_	_	
+51	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	54	_	_	
+52	u3	u[and]	CNJ	CNJ	54	nmod	_	
+53	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	54	nmod	_	
+54	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	49	acl	_	
+55	u4	ud[day]	N	N	2	appos	_	
+56	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	2	nummod	_
+	
+

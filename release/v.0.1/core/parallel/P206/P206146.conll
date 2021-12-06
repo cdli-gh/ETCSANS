@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P206146.atf						#new_text=P206146
+# dev/P206146.atf new_text=P206146
+# tr.en: Basket-of-tablets years wool rations of female weavers foreman Abbagula foreman Utu-bae foreman Kuda and are here year Enmagalana
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+

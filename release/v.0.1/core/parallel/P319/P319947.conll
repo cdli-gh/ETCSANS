@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets consignment house in Nigin are here year Szarum was destroyed
+# train/P319947.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-szu-szum2-ma	_[consignment.house]	PN	PN	5	ABS	_	
+3	sza3	szag[heart]	N	N	4	LOC	_	
+4	nigin6{ki}	_[Nigin]	SN	SN.GEN.GEN.TERM	2	LOC	_	
+5	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+6	mu	mu[year]	N	N	8	_	_	
+7	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	8	_	_	
+8	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	5	parataxis	_
+	
+

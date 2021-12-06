@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Bel-tb animal fattener of Szulgi-simtum
+1	be-li2-du10	be-li₂-DU₁₀[1]	PN	PN	0	root	_
+2	kuruszda	guruszta[fattener]	N	N	1	appos	_
+3	{d}szul-gi-si2-im-tum-ma	{d}szul-gi-si2-im-tum[1]	PN	PN.GEN.ABS	2	GEN	_
+

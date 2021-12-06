@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102277.atf new_text=P102277
+# tr.en: gur barley royal fodder for sheep grain-fed from received month min-e year house of Puzri-Dagan was erected
+# train/P102277.atf						#new_text=P102277
+1	2(asz)	2(asz)[one]	NU	NU	2	nummod	_	
+2	sze	sze[barley]	N	N	0	root	_	
+3	gur	gur[unit]	N	N	2	appos	_	
+4	lugal	lugal[king]	N	N	2	appos	_	
+5	sza3-gal	szaggal[food]	N	N	2	appos	_	
+6	udu	udu[sheep]	N	N	5	DAT	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	6	acl	_	
+8	erin-KU-sze3-x	_	PN	PN.DAT-H	2	_	heuristic: after nominal head	
+9	x	_[_]	N	N	2	dep	heuristic: after nominal head	
+10	ki	ki[place]	N	N	11	ABL	_	
+11	...-ta	_[_]-ta	PN	PN.GEN.ABL	0	_	_	
+12	KA	ka[mouth]	N	N	2	_	heuristic: after nominal head	
+13	...	_[_]	PN	N	2	dep	heuristic: after nominal head	
+14	szu	szu[hand][-e]	N	N.L3-NH	2	appos	_	
+16	iti	iti[month]	N	N	17	_	_	
+17	min-esz3	Minesz[1][-'a]	MN	MN.L1	2	appos	_	
+18	mu	mu[year]	N	N	17	appos	_	
+19	e2	e[house]	N	N	21	ABS	_	
+20	puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	19	GEN	_	
+21	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	2	acl	_
+	
+

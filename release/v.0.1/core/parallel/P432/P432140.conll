@@ -1,0 +1,139 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P432140.atf						#new_text=P432140
+# tr.en: from great gate of Elam to border of Susa for king they killed many cattle and killed many sheep All governors of Elam like birds stealing eggs together were themselves taking booty Persons born in Elam At that time like a dog paws having lain at feet Gutarla citizen of Gutium the word of An had not touched Of signs of Enlil there were none at all regarding him For kingship he bathed himself The crown which they had and he carried there For what he had done there the lands of Gutium and Simudar planted troops there in south Tulium the harbor which knew no deep-going boats a fitting thing because of and because of Ur-Namma inof Ur the encouragement of holy Enlil from above Lugalbanda did to men was splitting upward	*RETOK*-x	_	_	_	_	x	_[_]	N	N	D
+# tr.en: from great gate of Elam to border of Susa for king they killed many cattle and killed many sheep All governors of Elam like birds stealing eggs together were themselves taking booty Persons born in Elam At that time like a dog paws having lain at feet Gutarla citizen of Gutium the word of An had not touched Of signs of Enlil there were none at all regarding him For kingship he bathed himself The crown which they had and he carried there For what he had done there the lands of Gutium and Simudar planted troops there in south Tulium the harbor which knew no deep-going boats a fitting thing because of and because of Ur-Namma inof Ur the encouragement of holy Enlil from above Lugalbanda did to men was splitting upward *RETOK*-x _ _ _ _ x _[_] N N D
+# dev/P432140.atf new_text=P432140
+1	'.	_[_]	PN	N	0	_	_	
+2	ig	ig[door]	N	N	4	ABL	_	
+3	gal	gal[big][-ø]	V	NF.V.ABS	4	acl	_	
+4	elam-a-ta	_[gate.Elam]	GN	GN.ABL	12	ABL	_	
+5	'.	_	_	_	4	_	heuristic: after nominal head	
+6	za3	_[border]	N	N	4	LOC	_	
+7	szuszin{ki}-sze3	Szuszin[1]-sze	SN	SN.TERM	6	LOC	_	
+8	'.	_	_	_	12	_	heuristic: before verbal head	
+9	lugal-ra	_[for.king]	N	N	12	DAT	_	
+10	'.	_	_	_	12	_	heuristic: before verbal head	
+11	gu4	gud[ox]	N	N	12	_	heuristic: before verbal head	
+12	mu-na-gi4-gi4	_[they.killed.many.cattle]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	0	root	_	
+13	'.	_[and]	N	N	12	appos	_	
+14	udu	udu[sheep]	N	N	15	ABS	_	
+15	mu-na-gi4-gi4	_[killed.many]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	12	appos	_	
+16	'.	_	_	_	15	_	heuristic: attach to last	
+17	ensi2-ensi2	_[governors]	N	N.ABS	26	ERG	_	
+18	elam-a-ke4	_[All.Elam]	GN	GN	17	_	_	
+19	'.	_	_	_	17	_	heuristic: after nominal head	
+20	muszen	_[birds]	N	N	17	EQU	_	
+21	tesz2-bi	_[like]	N	N.ABS	20	EQU	_	
+22	nunuz	_[stealing.eggs]	N	N	20	acl	_	
+23	zuh-zuh-gin7	_[together]	V	NF.V.SUB.EQU	17	_	heuristic: after nominal	
+24	'.	_	_	_	17	_	heuristic: after nominal	
+25	ne-ra	_[were]	DET	DET	26	_	_	
+26	ni2-ba	_[themselves.taking]	DET	DET	12	parataxis	_	
+27	mu-na-ak-ke4	_[booty]	V	V	26	ABS	_	
+28	'.	_	_	_	27	_	heuristic: attach to last	
+29	sag	sag[head]	N	N	28	_	heuristic: attach to last	
+30	elam	Elam[1][-ak]	EN	GN.GEN	12	appos	_	
+31	u3-tu-da	_	PN	PN	30	_	heuristic: after nominal head	
+32	'.	_	_	_	30	_	_	
+33	...	_[_]	PN	N	30	dep	heuristic: after nominal head	
+34	'.	_	_	_	30	_	heuristic: after nominal head	
+35	u4-ba	_[At.that.time]	N	N.DEM2.L1	30	LOC	_	
+36	...	_[_]	PN	N	30	dep	_	
+37	'.	_	_	_	30	_	heuristic: after nominal head	
+38	ur	_[like]	PN	N	30	EQU	_	
+39	szu-si	_[a.dog.paws]	PN	MN.|PN.	30	appos	_	
+40	...	_[_]	PN	N	30	dep	_	
+41	'.	_	_	_	40	_	heuristic: attach to last	
+42	giri3	giri[foot]	N	N	41	_	heuristic: attach to last	
+43	a-ba-x-nu2	_[having.lain.at.feet]	PN	PN	30	acl	_	
+44	'.	_	_	_	43	_	heuristic: attach to last	
+45	gu2-tar-la2	_[Gutarla]	PN	PN	43	appos	_	
+46	dumu	dumu[child]	N	N	45	_	heuristic: attach to last	
+47	gu-tim-um-ma-ra	_[citizen.Gutium]	PN	PN	43	appos	_	
+48	'.	_[the]	_	_	50	nmod	_	
+49	inim	inim[word]	N	N	48	_	heuristic: attach to last	
+50	an-na-ke4	_[word.An]	N	N	53	ABS	_	
+51	'.	_	_	_	50	_	heuristic: attach to last	
+52	szu	szu[hand][-e]	N	N.L3-NH	51	_	heuristic: attach to last	
+53	nu-mu-ni-ib2-tag	_[had.not.touched]	V	V	30	acl	_	
+54	'.	_	_	_	53	_	heuristic: attach to last	
+55	geszkim	_[Of.signs]	N	N	59	GEN	_	
+56	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	55	GEN	_	
+57	'.	_	_	_	56	_	heuristic: attach to last	
+58	na-me	_[there]	DET	PN	59	_	_	
+59	nu-mu-da-gal2	_[were.none.at.all.regarding.him]	V	V	53	parataxis	_	
+60	'.	_	_	_	30	_	heuristic: after nominal head	
+61	nam-lugal-sze3	_[For.kingship]	N	N	30	TERM	_	
+62	'.	_	_	_	61	_	heuristic: attach to last	
+63	a	a[water][-ø]	N	N.ABS	64	ABS	_	
+64	im-ma-tu5	_[bathed.himself]	V	FIN.VEN.MID.TERM.3-SG-H-A.V.3-SG-P	61	acl	_	
+65	'.	_	_	_	30	_	heuristic: after nominal head	
+66	aga	_[crown]	N	N	30	appos	_	
+67	ba-an	_[The]	N	N	66	appos	_	
+68	x	_[_]	N	N	66	dep	heuristic: after nominal head	
+69	x-ne2-esz2-a	_[which.they.had]	PN	PN	66	acl	_	
+70	'.	_	_	_	69	_	heuristic: after nominal head	
+71	NE-...	_	_	_	69	_	heuristic: after nominal head	
+72	mi-...	_	PN	PN	69	_	heuristic: after nominal head	
+73	'.	_	_	_	69	_	heuristic: after nominal head	
+74	u3	u[and]	CNJ	CNJ	69	appos	_	
+75	a-ne	_	DET	DET	69	_	heuristic: after nominal head	
+76	...	_[_]	PN	N	69	dep	heuristic: after nominal head	
+77	mi-ni-IL2	_[he.carried.there]	V	VEN.L1.3-SG-H-A.V.3-SG-P.SUB.L1	69	acl	_	
+78	'.	_	_	_	87	_	_	
+79	a-na	_[For]	DET	DET	80	_	_	
+80	bi2-in-ak-bi	_[what.he.had.done.there]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	87	acl.ADV	_	
+81	'.	_[the]	_	_	82	nmod	_	
+82	ma-da	mada[land][-ak][-ø]	N	N	87	ERG	_	
+83	gu-tim-um{ki}	_[Gutium]	GN	GN.GEN.ABS	82	GEN	_	
+84	'.	_	_	_	83	_	heuristic: after nominal head	
+85	si2-mu-dar{ki}	_[and.Simudar]	GN	GN	83	appos	_	
+86	'.	_	N	N	87	LOC	_	
+87	sig-ba	_[planted]	V	NF.V.3-SG-NH-POSS.GEN	12	parataxis	_	
+88	ugnim	_[troops]	N	N	87	ABS	_	
+89	ki	ki[place]	N	N	87	ABS	_	
+90	ba-ni-tag	_[there.in.south]	V	MID.V.3-SG-S.GEN.GEN.ABS	89	_	heuristic: after nominal head	
+91	'.	_	_	_	89	_	heuristic: after nominal head	
+92	tu-li-um{ki}	_[Tulium]	GN	GN	89	_	heuristic: after nominal head	
+93	'.	_[the]	_	_	94	nmod	_	
+94	kar	_[harbor]	N	N	89	appos	_	
+95	ma2-gur8	magur[barge]	N	N	94	acl	_	
+96	nu-zu	_[boats]	V	NEG.NF.V.PT.TERM.GEN.ABS	95	acl	_	
+97	'.	_	N	N	99	_	_	
+98	me-te	_[a.fitting]	N	N	99	nmod	_	
+99	NI	_[thing]	PN	PN	89	appos	_	
+100	...	_[_]	PN	N	99	dep	heuristic: attach to last	
+101	'.	_	N	N	99	GEN.TERM	_	
+102	nam-...	_[because]	PN	PN	101	GEN.TERM	_	
+103	'.	_	N	N	89	appos	_	
+104	nam	_[because]	N	N.ABS	103	GEN.TERM	_	
+105	...	_[_]	PN	N	103	dep	_	
+106	su3	sug[empty][-ø]	V	NF.V.ABS.ABS	89	acl	projectivity violation	
+107	...	_[_]	PN	N	106	dep	heuristic: attach to last	
+108	'.	_	N	N	103	appos	_	
+109	ur-{d}namma	Urnamma[1]	RN	RN	108	appos	_	
+110	...	_[_]	PN	N	111	dep	_	
+111	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	108	appos	_	
+112	'.	_[_]	PN	N	113	nmod	_	
+113	zi-sza3-gal2	_[encouragement]	AJ	AJ	111	_	_	
+114	(x)	_[_]	N	N	116	acl	_	
+115	ku3	kug[silver]	N	N	114	_	heuristic: after nominal	
+116	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	113	GEN	_	
+117	'.	_	N	N	126	LOC	projectivity violation	
+118	an-ta	_[from.above]	N	N	117	_	heuristic: attach to last	
+119	...	_[_]	PN	N	118	dep	heuristic: attach to last	
+120	'.	_[_]	N	N	12	appos	projectivity violation	
+121	...	_[_]	PN	N	126	dep	heuristic: before verbal head	
+122	{d}lugal-banda3{da}	Lugalbanda[1][-ak][-ra]	PN	DN	126	nmod	_	
+123	...	_[_]	PN	N	126	dep	heuristic: before verbal head	
+124	x	_[_]	N	N	126	dep	heuristic: before verbal head	
+125	lu2	lu[person]	N	N	126	_	heuristic: before verbal head	
+126	mu-szi-ak	_[did.to.men]	V	V	113	acl	_	
+127	'.	_	N	N	12	appos	_	
+128	...	_[_]	PN	N	127	dep	heuristic: after nominal head	
+129	im-mi-dar-e	_[was]	N	N	127	_	heuristic: after nominal head	
+130	AN	_[_]	PN	PN.DAT-H	12	acl	projectivity violation	
+131	gi4	gi[repay][-ø]	V	PN	127	acl	_	
+132	...	_[_]	PN	N	0	dep	_
+	
+

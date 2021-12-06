@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416454.atf
+# tr.en: gur of barley barley allotment of Anati gur of barley of Nun- total gur of barley barley allotments from field month ki-siki of Ninazu year boat ibex of absu-Enki was caulked
+1	9(asz)	9(asz)[one]	NU	NU	6	nummod	projectivity violation	
+2	sze	sze[barley]	N	N	3	GEN	_	
+3	gur	gur[unit]	N	N	0	root	_	
+4	sze	sze[barley]	N	N	3	_	heuristic: after nominal head	
+5	szuku	szukur[prebend_land]	N	N	3	appos	_	
+6	a-na-ti	_[allotment.Anati]	PN	PN	3	appos	_	
+7	2(asz)	2(asz)[one]	NU	NU	9	nummod	_	
+8	sze	sze[barley]	N	N	9	GEN	_	
+9	gur	gur[unit]	N	N	3	appos	_	
+10	{d}nun-...	_[Nun-]	DN	DN	9	GEN	_	
+11	szunigin	szunigin[total]	N	N	9	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	1(asz)	1(asz)[one]	NU	NU	19	nummod	projectivity violation	
+14	sze	sze[barley]	N	N	15	GEN	_	
+15	gur	gur[unit]	N	N	11	appos	_	
+16	sze	sze[barley]	N	N	15	_	heuristic: attach to last	
+17	szuku-ra	szukur[ration]-ak	N	N.GEN	11	appos	_	
+18	a-sza3	aszag[field]	N	N	19	ABL	_	
+19	...-GAG	_[allotments]	N	N	17	ABS	projectivity violation	
+20	UD	_[from]	PN	PN	18	ABL	_	
+21	gur8	_	V	V	20	_	heuristic: attach to last	
+22	iti	iti[month]	N	N	24	nmod	_	
+23	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	24	_	_	
+24	mu	mu[year]	N	N	3	appos	_	
+25	ma2	ma[ship]	N	N	26	nmod	_	
+26	dara3-abzu-{d}en-ki	_[ibex.absu-Enki]	PN	PN	27	ABS	_	
+27	ba-du8	_[was.caulked]	V	MID.V.3-SG-S	24	acl	_
+	
+

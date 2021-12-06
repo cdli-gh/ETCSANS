@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections shipyard laborers in Girsu year en of Nanna shipyard laborers in Nigin year following house of Puzris-daga was erected shipyard laborers of Madga shipyard laborers in Guabba year
+# train/P202765.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	20	_	_	
+2	gurum2-ak	gurum[inspection]-ak	N	N.GEN	11	nmod	_	
+3	lu2	lu[person]	N	N	2	_	heuristic: attach to last	
+4	mar-sa	marsa[shipyard]	PN	N	2	appos	_	
+5	sza3	szag[heart]	N	N	6	LOC	_	
+6	gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	4	LOC	_	
+7	mu	mu[year]	N	N	6	appos	_	
+8	en	en[priest]	N	N	2	appos	_	
+9	{d}nanna	Nanna[1][-ak]	DN	DN	8	GEN	_	
+10	lu2	lu[person]	N	N	11	_	_	
+11	mar-sa	marsa[shipyard]	PN	N	1	appos	_	
+12	sza3	szag[heart]	N	N	13	LOC	_	
+13	nigin6{ki}	_[Nigin]	SN	SN.GEN.GEN.TERM	11	LOC	_	
+14	mu	mu[year]	N	N	11	appos	_	
+15	us2-sa	us[follow]-a	V	NF.V.PT	14	acl	_	
+16	e2	e[house]	N	N	18	ABS	_	
+17	puzur4-isz-{d}da-gan{ki}	_[Puzris-daga]	SN	SN	16	GEN	_	
+18	ba-du3-a	ba-du[build][-ø]	V	MID.V.3-SG-S	11	acl	_	
+19	lu2	lu[person]	N	N	20	_	_	
+20	mar-sa	marsa[shipyard]	PN	N	0	root	_	
+21	ma2-ad-ga	_[of.Madga]	PN	PN	20	GEN	_	
+22	lu2	lu[person]	N	N	21	appos	_	
+23	mar-sa	marsa[shipyard]	PN	N	21	appos	_	
+24	sza3	szag[heart]	N	N	26	LOC	_	
+25	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	26	nmod	_	
+26	mu	mu[year]	N	N	20	LOC	_	
+27	...	_[_]	PN	N	20	dep	_
+	
+

@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127404.atf
+# tr.en: male lamb yellow male suckling lamb yellow in Wadaltum male lambs male suckling lambs slaughtered th day from Szulgi-ayamu Ur-nigar received month Festival of Nin-azu year Amar-Suen king Urbilum destroyed
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	sila4	sila[lamb]	N	N	3	acl	_	
+3	gi	gi[reed][-ø]	N	N	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+5	sila4	sila[lamb]	N	N	3	appos	_	
+6	ga	ga[milk]	N	N	5	appos	_	
+7	gi	gi[reed][-ø]	N	N	5	acl	_	
+8	sza3	szag[heart]	N	N	9	LOC	_	
+9	wa-da-al-tum	_[Wadaltum]	PN	PN	3	LOC	_	
+10	3(disz)	3(disz)[one]	NU	NU	11	nummod	_	
+11	sila4	sila[lamb]	N	N	3	appos	_	
+12	2(disz)	2(disz)[one]	NU	NU	11	nummod	_	
+13	sila4	sila[lamb]	N	N	14	acl	_	
+14	ga	ga[milk]	N	N	11	appos	_	
+15	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	11	acl	_	
+16	u4	ud[day]	N	N	15	date	_	
+17	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+18	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	17	nummod	_	
+19	ki	ki[place]	N	N	21	ABL	_	
+20	{d}szul-gi-a-a-mu-ta	_[Szulgi-ayamu]	PN	PN.GEN.GEN.ABL	21	acl	_	
+21	ur-nigar{gar}	Urnigar[1]	PN	PN	11	ABL	_	
+22	szu	szu[hand][-e]	N	N.L3-NH	11	appos	projectivity violation	
+23	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	21	acl	_	
+24	iti	iti[month]	N	N	26	nmod	_	
+25	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	26	_	_	
+26	mu	mu[year]	N	N	11	appos	_	
+27	{d}amar-{d}suen	Amarsuen[1]	RN	RN	30	ABS	_	
+28	lugal-e	lugal[king]-e	N	N.ERG	27	appos	_	
+29	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	30	ABS	_	
+30	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	26	acl	_	
+31	7(disz)	7(disz)[one][-sze]	NU	NU	0	nummod	_
+	
+

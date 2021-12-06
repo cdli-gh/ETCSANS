@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Ur and king of four world quarters for his life he dedicated to himher A person who his inscription shall erase and write his name on it may Utu the king of Sippar to his seed put an end	
+1	lugal	lugal[king]	N	N	9	ERG	_
+2	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_
+3	lugal	lugal[king]	N	N	1	appos	_
+4	an	_	_	_	3	_	_
+5	ub-da	an-ub-da[quarter]	N	N	3	GEN	_
+6	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	5	nummod	_
+7	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	9	TERM	_
+8	a	a[water]	N	N.ABS	9	ABS	_
+9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+10	lu2	lu2[person]	N	N	13	LOC	_
+11	mu-sar-ra-na	mu-sar-ra[inscription]	N	N.3-SG-H-POSS.L2-NH	10	appos	_
+12	szu	szu[hand]	N	N.ABS	13	ABS	_
+13	bi2-in-ur3	uru12[drag]	V	3-NH.L2.3-SG-H-P.V.3-SG-A.SUB.ABS	0	_	_
+14	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	15	ABS	_
+15	bi2-ib2-sar-e-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.GEN	20	nmod	_
+16	{d}utu	{d}utu[1]	DN	DN	20	ERG	_
+17	lugal	lugal[king]	N	N	16	appos	_
+18	zimbir{ki}-ra-ke4	zimbir{ki}[1]	SN	SN.GEN.ERG	17	appos	_
+19	numun-a-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	20	ABS	_
+20	he2-eb2-til-e	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_
+

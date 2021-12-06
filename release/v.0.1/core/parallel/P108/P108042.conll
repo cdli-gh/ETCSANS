@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P108042.atf
+# tr.en: Basket-of-tablets sealed documents of conveyance of ARAD foreman are here year Sz-Suen king lands of Zabali destroyed
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	6	ABS	_	
+3	dab-ba	dab[seize]-a	V	NF.V.PT	2	acl	_	
+4	ARAD2	arad[slave]	N	N	3	GEN	_	
+5	ugula	ugula[overseer][-ø]	N	N	4	appos	_	
+6	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+7	mu	mu[year]	N	N	6	parataxis	_	
+8	{d}szu-{d}suen	Szusuen[1]	RN	RN	7	appos	_	
+9	lugal-e	lugal[king]-e	N	N.ERG	8	appos	_	
+10	ma-da	mada[land][-ak][-ø]	N	N	12	ABS	_	
+11	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	10	GEN	_	
+12	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	8	acl	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107905.atf
+# tr.en: Basket-of-tablets chambers debit accounts and credits of Utamiarram from month Gazelle feast to month Harvest months year en in Eridu was installed are here of Babati are here
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-tum	bitum[administrative_term]	PN	N	18	ABS	_	
+3	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	2	appos	_	
+4	u3	u[and]	CNJ	CNJ	3	appos	_	
+5	zi-ga	zig[expend]-a	V	NF.V.PT	3	acl	_	
+6	u2-ta2-mi-szar-<ra>-am	Utamiszaram[1][-ak]	PN	PN.GEN	2	GEN	_	
+7	iti	iti[month]	N	N	2	ABL	_	
+8	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	MN.ABL	7	ABL	_	
+9	iti	iti[month]	N	N	2	LOC	_	
+10	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	9	LOC	_	
+11	iti	iti[month]	N	N	2	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+13	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	12	nummod	_	
+14	mu	mu[year]	N	N	2	appos	_	
+15	en	en[priest]	N	N	17	ABS	_	
+16	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	15	LOC	_	
+17	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	2	acl	_	
+18	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+19	x	_[_]	N	N	21	dep	_	
+20	ba-ba-ti	Babati[1][-ak][-ø]	PN	PN	21	GEN	_	
+21	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	18	parataxis	_
+	
+

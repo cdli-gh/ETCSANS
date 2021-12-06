@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets of Lu-Baba son of Balu and Lugula son of Ur-Igizibara are here year arsi urti were destroyed
+# train/P107132.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub-gid2-da	_[long-tablets]	N	N	10	ABS	_	
+3	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	2	GEN	_	
+4	dumu	dumu[child]	N	N	3	appos	_	
+5	ba-lu5	Balu[1]	PN	N	4	GEN	_	
+6	u3	u[and]	CNJ	CNJ	3	appos	_	
+7	lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	3	appos	_	
+8	dumu	dumu[child]	N	N	7	appos	_	
+9	ur-{d}igi-zi-bar-ra	Urigizibarra[1][-ak]	PN	PN.GEN	8	GEN	_	
+10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	acl	_	
+11	mu	mu[year]	N	N	10	appos	_	
+12	ha-ar-szi{ki}	Harszi[1]	SN	SN	11	appos	_	
+13	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	14	ABS	_	
+14	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	11	acl	_
+	
+

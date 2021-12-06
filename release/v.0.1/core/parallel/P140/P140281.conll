@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx
+# train/P140281.atf
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	pisan	bisag[basket]	N	N	1	appos	_	
+3	lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	1	_	heuristic: after nominal head	
+4	dumu	dumu[child]	N	N	1	_	heuristic: after nominal head	
+5	ku3-saga	_	PN	PN	1	appos	_
+	
+

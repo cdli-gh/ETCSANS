@@ -1,0 +1,819 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P123189.atf new_text=P123189
+# test/P123189.atf						#new_text=P123189
+# tr.en: laborers for days the overseer Ur-Saga son of Lugal-igi in bala stationed month Festival-of-Dumuzi ploughmen for days dumu-daba-laborers for days porters for days labor-troops for days the overseer Ur-Gebare labor-troops for days the overseer Aua in bala stationed labor-troops barig each for days the grain gur barig royal from Ur-Eninnu the overseer Ur-Saga son of Lugal-igi labor-troop workdays from Ur-kisal minus labor-troop workdays from Ur-Lamma son of Ur-nig month Festival of Szulgi from labor-troops at barig ban each for days hired labor-troops having sat out of bala its barley gur ban the overseer Ur-Gebare labor-troops for days in bala stationed labor-troops barig each for days hired labor-troops having sat out of bala its barley gur barig the overseer Lu-Ningirsu dumu-baBAD laborers for days in bala stationed they are of household Ninmar labor-troops ban each for days labor-troops barig each for days labor-troops ban each for days labor-troops ban each for days its barley gur barig ban labor-troops hired having sat out of bala the overseer Aua its barley from Ur-Eninnu labor-troops for days having sat out of bala barley not received the foreman Ur-Baba son of Lu-Nimgir ploughmen for days from tablet of governor labor-troops for days from Ur-Nane labor-troops for days from Lu-Girizal labor-troops for days from Ur-kisal labor-troops for days from Ur-Lamma son of Ur-nig the overseer Lu-Ningirsu in bala stationed tonth Festival-of-Baba labor-troops ban each for days its barley gur from Ur-Eninnu labor-troops from Ur-Nane labor-troops for days having sat out of bala barley not received from Lu-Girizal laborers for days having sat out of bala barley not received from Ur-kisal worker troop days having sat out of bala barley not received from labor-troops for n day having sat out of bala barley not received labor-troops for days having sat out of bala barley not received the overseer Lu-Ningirsu labor-troops for days in bala stationed ploughmen for days the overseer Ur-Gebare dumu-baBAD laborers for days of household of Ninmar minus labor-troops for days the overseer Aua labor-troops for days the foreman Ur-Baba son of lu-Nimgir in bala stationed month muudu labor-troops for days in bala stationed labor-troops ban sila each for days the overseer Lu-Ningirsu labor-troops ban sila each for days its barley gur barig ban from Ur-Eninnu having sat out of bala minus labor-troops for days having sat out of bala barley not received the overseer Ur-Gebare release-ploughmen for days porters for days they are of household of Dumuzi from tablet of governor labor-troop workdays the overseer Ur-Utu labor-troop workdays the overseer Nabasa labor-troop workdays the overseer Ur-tur son of x-Ningirsu household of from Ur- month Amarasi bur ee iku field singer bur field merchant bur ee iku field Nar its labor from household manager total ploughmen for days total dumudaba-laborers for days total porters for days total agricultural laborers for days total labor-troops in bala stationed in bala stationed total x its barley gur barig sila from Ur-Sukkal hired labor-troops total total labor-troops barley not received total bur field its labor from foreman total month having sat out bala out of city not going monthly passed having sat out of bala labor-troops monthly passed having sat out of bala month Amarasi the overseer Lu- release-ploughmen porters for days out of city not going household of Dumuzi overseer out of city not going household of n total ninda length per laborer ninda each its labor laborer workdays field Ninture bordering marsh total bur iku field ploughed per laborer minus sar its labor workdays field household-managership cultivated total ninda length reed-x per laborer ninda its labor workdays total laborer workdays mudwall raised field Ninegubade from Ur-Saga son of Ur-Gula total dumu-baBAD workdays total dumu-daba workdays total porter workdays total porter workdays total laborer workdays gulla-labor Total workdays sick booked out total laborers for days out of city not going total laborer workdays monthly passed Total laborers workdays gulla-labor in bala stationed total laborers for days out of city not going total laborers per day monthly passed total laborer workdays gulla-labor its barley gur barig ban total laborers for days total laborers for days out of city not going total laborer workdays monthly passed barley not received Account place of Ur-nig
+1	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+2	2(disz)	2(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	DAT	_	
+5	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	nu-banda3	nubanda[overseer][-ø]	N	N	3	appos	_	
+7	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	6	appos	_	
+8	dumu	dumu[child]	N	N	7	appos	_	
+9	lugal-igi	_[Lugal-igi]	PN	PN	8	GEN	_	
+10	bala	bala[turn][-'a]	N	N.L1	7	LOC	_	
+11	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	10	acl	_	
+12	iti	iti[month]	N	N	7	appos	_	
+13	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	7	appos	_	
+14	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+15	engar	engar[farmer]	N	N	3	appos	_	
+16	u4	ud[day]	N	N	15	DAT	_	
+17	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	19	nummod	projectivity violation	
+18	7(disz)	7(disz)[one][-sze]	NU	NU	3	nummod	_	
+19	dumu-da-ba	_[dumu-daba-laborers]	N	N	3	appos	_	
+20	u4	ud[day]	N	N	19	DAT	_	
+21	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	23	nummod	_	
+22	3(disz)	3(disz)[one]	NU	NU	21	nummod	_	
+23	ug3-IL2	uggaga[porter]	N	N	3	appos	_	
+24	1/3(disz)	1/3(disz)[one]	NU	NU	30	nummod	projectivity violation	
+25	u4	ud[day]	N	N	26	DAT	_	
+26	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	23	nummod	_	
+27	1(gesz2)	1(gesz)[sixty]	NU	NU	26	nummod	_	
+28	2(u)	2(u)[ten]	NU	NU	23	nummod	_	
+29	7(disz)	7(disz)[one][-sze]	NU	NU	28	nummod	_	
+30	erin2	erin[people]	N	N	23	appos	_	
+31	u4	ud[day]	N	N	30	DAT	_	
+32	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	34	nummod	heuristic: NU premodifying	
+33	nu-banda3	nubanda[overseer][-ø]	N	N	34	nmod	_	
+34	ur-{d}gesz-bar-e3	_[overseer.Ur-Gebare]	PN	PN.ERG	23	appos	_	
+35	3(u)	3(u)[ten]	NU	NU	23	nummod	_	
+36	3(disz)	3(disz)[one]	NU	NU	35	nummod	_	
+37	erin2	erin[people]	N	N	23	appos	_	
+38	u4	ud[day]	N	N	37	DAT	_	
+39	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	41	nummod	heuristic: NU premodifying	
+40	nu-banda3	nubanda[overseer][-ø]	N	N	41	nmod	_	
+41	a-hu-a	Ahuya[1]	PN	PN	23	appos	_	
+42	bala	bala[turn][-'a]	N	N.L1	23	appos	_	
+43	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	42	acl	_	
+44	1(u)	1(u)[ten]	NU	NU	46	nummod	_	
+45	2(disz)	2(disz)[one]	NU	NU	44	nummod	_	
+46	erin2	erin[people]	N	N	42	appos	_	
+47	1(barig)-ta	bariga[unit]-ta	NU	N.ABL	49	nummod	_	
+48	u4	ud[day]	N	N	49	DAT	_	
+49	2(u)-sze3	_[barig]	NU	NU.TERM	46	nummod	_	
+50	sze	sze[barley]	N	N	46	appos	_	
+51	2(asz)	2(asz)[one]	NU	NU	53	nummod	projectivity violation	
+52	2(barig)	2(bariga)[unit]	NU	N	54	nummod	projectivity violation	
+53	gur	gur[unit]	N	N	46	appos	_	
+54	lugal	lugal[king]	N	N	53	appos	_	
+55	ki	ki[place]	N	N	56	ABL	_	
+56	ur-e2-ninnu-ta	_[Ur-Eninnu]	PN	PN.GEN.ABL	53	ABL	_	
+57	nu-banda3	nubanda[overseer][-ø]	N	N	56	appos	_	
+58	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	56	appos	_	
+59	dumu	dumu[child]	N	N	58	appos	_	
+60	lugal-igi	_[Lugal-igi]	PN	PN	59	GEN	_	
+61	1(gesz2)	1(gesz)[sixty]	NU	NU	64	nummod	_	
+62	4(disz)	4(disz)[one]	NU	NU	61	nummod	_	
+63	erin2	erin[people]	N	N	64	acl	_	
+64	u4	ud[day]	N	N	53	appos	_	
+65	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	67	nummod	heuristic: NU premodifying	
+66	ki	ki[place]	N	N	67	ABL	_	
+67	ur-kisal-ta	_[Ur-kisal]	PN	PN.GEN.ABL	64	ABL	_	
+68	1(gesz2)	1(gesz)[sixty]	NU	NU	73	nummod	_	
+69	1(u)	1(u)[ten]	NU	NU	68	nummod	_	
+70	la2	la[hang][-ø]	V	NF.V.ABS	73	acl	_	
+71	1(disz)	1(disz)[one]	NU	NU	70	nummod	_	
+72	erin2	erin[people]	N	N	73	acl	_	
+73	u4	ud[day]	N	N	53	appos	_	
+74	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	76	nummod	heuristic: NU premodifying	
+75	ki	ki[place]	N	N	76	ABL	_	
+76	ur-{d}lamma	Urlamma[1]	PN	PN	73	ABL	_	
+77	dumu	dumu[child]	N	N	73	appos	_	
+78	ur-nig2-ta	_[Ur-nig]	PN	PN.GEN.ABL	77	GEN	_	
+79	iti	iti[month]	N	N	80	nmod	_	
+80	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	53	appos	_	
+81	1(gesz2)	1(gesz)[sixty]	NU	NU	80	nummod	_	
+82	4(u)	4(u)[ten]	NU	NU	83	nummod	_	
+83	erin2	erin[people]	N	N	53	ABL	_	
+84	1(barig)	1(bariga)[unit]	NU	N	85	nummod	heuristic: NU premodifying	
+85	2(ban2)-ta	_[at.barig]	NU	NU	83	nummod	_	
+86	u4	ud[day]	N	N	83	DAT	projectivity violation	
+87	2(u)-sze3	_[ban.each]	NU	NU.TERM	85	nummod	_	
+88	erin2	erin[people]	N	N	91	ABS	projectivity violation	
+89	hun-ga2	hug[hire]-a	V	NF.V.PT	83	acl	_	
+90	bala	bala[turn][-'a]	N	N.L1	42	appos	projectivity violation	
+91	tusz-a	tusz[dewell]-a	V	NF.V.PT	89	parataxis	_	
+92	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	42	appos	_	
+93	1(u)	1(u)[ten]	NU	NU	96	nummod	_	
+94	7(asz)	7(asz)[one]	NU	NU	93	nummod	_	
+95	2(ban2)	2(ban)[unit]	NU	N	96	nummod	_	
+96	gur	gur[unit]	N	N	92	appos	_	
+97	nu-banda3	nubanda[overseer][-ø]	N	N	98	nmod	_	
+98	ur-{d}gesz-bar-e3	_[overseer.Ur-Gebare]	PN	PN.ERG	96	appos	_	
+99	5(disz)	5(disz)[one]	NU	NU	112	nummod	heuristic: NU premodifying; projectivity violation	
+100	erin2	erin[people]	N	N	0	_	detached for projectivity	
+101	u4	ud[day]	N	N	100	DAT	_	
+102	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	103	nummod	heuristic: NU premodifying	
+103	bala	bala[turn][-'a]	N	N.L1	101	LOC	_	
+104	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	101	acl	_	
+105	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+106	4(disz)	4(disz)[one]	NU	NU	105	nummod	_	
+107	erin2	erin[people]	N	N	0	_	detached for projectivity	
+108	1(barig)-ta	bariga[unit]-ta	NU	N.ABL	110	nummod	projectivity violation	
+109	u4	ud[day]	N	N	112	DAT	projectivity violation	
+110	2(u)-sze3	_[barig]	NU	NU.TERM	107	nummod	_	
+111	erin2	erin[people]	N	N	114	ABS	projectivity violation	
+112	hun-ga2	hug[hire]-a	V	NF.V.PT	96	acl	_	
+113	bala	bala[turn][-'a]	N	N.L1	112	appos	_	
+114	tusz-a	tusz[dewell]-a	V	NF.V.PT	112	parataxis	_	
+115	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	112	parataxis	_	
+116	4(asz)	4(asz)[one]	NU	NU	118	nummod	_	
+117	4(barig)	4(bariga)[unit]	NU	N	116	nummod	_	
+118	gur	gur[unit]	N	N	115	appos	_	
+119	nu-banda3	nubanda[overseer][-ø]	N	N	118	appos	_	
+120	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	118	appos	_	
+121	1(u)	1(u)[ten]	NU	NU	124	nummod	_	
+122	5(disz)	5(disz)[one]	NU	NU	121	nummod	_	
+123	dumu	dumu[child]	N	N	122	_	heuristic: attach to last	
+124	ba-BAD	_[dumu-baBAD.laborers]	V	MID.V.3-SG-S	0	_	_	
+125	u4	ud[day]	N	N	124	DAT	_	
+126	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	127	nummod	heuristic: NU premodifying	
+127	bala	bala[turn][-'a]	N	N.L1	124	LOC	_	
+128	gub	_[stationed]	V	NF.V.PT	127	acl	_	
+129	e2	e[house]	N	N	120	appos	projectivity violation	
+130	{d}nin-mar{ki}-me	_[they.are.household.Ninmar]	DN	DN	124	acl	_	
+131	3(u)	3(u)[ten]	NU	NU	120	nummod	_	
+132	3(disz)	3(disz)[one]	NU	NU	139	nummod	projectivity violation	
+133	erin2	erin[people]	N	N	120	appos	_	
+134	1(barig)	1(bariga)[unit]	NU	N	135	nummod	heuristic: NU premodifying	
+135	2(ban2)-ta	_[ban.each]	NU	NU	133	nummod	_	
+136	u4	ud[day]	N	N	120	DAT	_	
+137	2(u)-sze3	_	NU	NU.TERM	138	nummod	heuristic: NU premodifying	
+138	5(disz)	5(disz)[one]	NU	NU	120	nummod	_	
+139	erin2	erin[people]	N	N	120	appos	_	
+140	1(barig)-ta	bariga[unit]-ta	NU	N.ABL	142	nummod	projectivity violation	
+141	u4	ud[day]	N	N	120	DAT	projectivity violation	
+142	2(u)-sze3	_[barig]	NU	NU.TERM	139	nummod	_	
+143	6(disz)	6(disz)[one][-sze]	NU	NU	120	nummod	_	
+144	erin2	erin[people]	N	N	120	appos	_	
+145	3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	144	nummod	_	
+146	u4	ud[day]	N	N	120	DAT	_	
+147	2(u)-sze3	_	NU	NU.TERM	149	nummod	projectivity violation	
+148	4(disz)	4(disz)[one]	NU	NU	120	nummod	_	
+149	erin2	erin[people]	N	N	120	appos	_	
+150	2(ban2)-ta	_[ban.each]	NU	NU	149	nummod	_	
+151	u4	ud[day]	N	N	120	DAT	_	
+152	2(u)-sze3	_	NU	NU.TERM	153	nummod	heuristic: NU premodifying	
+153	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	120	appos	_	
+154	1(u)	1(u)[ten]	NU	NU	115	nummod	projectivity violation	
+155	3(barig)	3(bariga)[unit]	NU	N	154	nummod	_	
+156	2(ban2)	2(ban)[unit]	NU	N	157	nummod	_	
+157	gur	gur[unit]	N	N	120	appos	_	
+158	erin2	erin[people]	N	N	159	ERG	_	
+159	hun-ga2	hug[hire]-a	V	NF.V.PT	115	acl	_	
+160	bala	bala[turn][-'a]	N	N.L1	159	appos	_	
+161	tusz-a	tusz[dewell]-a	V	NF.V.PT	159	acl	_	
+162	nu-banda3	nubanda[overseer][-ø]	N	N	163	nmod	_	
+163	a-hu-a	Ahuya[1]	PN	PN	159	ABS	_	
+164	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	159	appos	_	
+165	ki	ki[place]	N	N	166	ABL	_	
+166	ur-e2-ninnu-ta	_[Ur-Eninnu]	PN	PN.GEN.ABL	164	ABL	_	
+167	1(u)	1(u)[ten]	NU	NU	169	nummod	_	
+168	6(disz)	6(disz)[one][-sze]	NU	NU	167	nummod	_	
+169	erin2	erin[people]	N	N	164	appos	_	
+170	u4	ud[day]	N	N	169	DAT	_	
+171	2(u)-sze3	_	NU	NU.TERM	173	nummod	heuristic: NU premodifying	
+172	bala	bala[turn][-'a]	N	N.L1	173	_	_	
+173	tusz-a	tusz[dewell]-a	V	NF.V.PT	169	acl	_	
+174	sze	sze[barley]	N	N	173	appos	_	
+175	szu	szu[hand][-e]	N	N.L3-NH	174	_	heuristic: attach to last	
+176	nu-ti	_[not.received]	V	nu.NF.V.ed.COP-3-SG	174	acl	_	
+177	ugula	ugula[overseer][-ø]	N	N	173	appos	_	
+178	ur-{d}ba-ba6	Urbaba[1]	PN	PN	177	appos	_	
+179	dumu	dumu[child]	N	N	178	appos	_	
+180	lu2-nimgir	_[Lu-Nimgir]	PN	PN.ERG	179	GEN	_	
+181	1(u)	1(u)[ten]	NU	NU	182	nummod	_	
+182	engar	engar[farmer]	N	N	178	appos	_	
+183	u4	ud[day]	N	N	182	DAT	_	
+184	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	185	nummod	heuristic: NU premodifying	
+185	im	im[clay][-ø]	N	N	182	ABL	_	
+186	ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	185	ABL	_	
+187	1(u)	1(u)[ten]	NU	NU	189	nummod	_	
+188	5(disz)	5(disz)[one]	NU	NU	187	nummod	_	
+189	erin2	erin[people]	N	N	178	appos	_	
+190	u4	ud[day]	N	N	189	DAT	_	
+191	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	193	nummod	heuristic: NU premodifying	
+192	ki	ki[place]	N	N	193	ABL	_	
+193	ur-{d}nansze-ta	Urnansze[1][-ak]-ta	PN	PN.GEN.ABL	189	ABL	_	
+194	1(u)	1(u)[ten]	NU	NU	196	nummod	_	
+195	1(disz)	1(disz)[one]	NU	NU	194	nummod	_	
+196	erin2	erin[people]	N	N	178	appos	_	
+197	u4	ud[day]	N	N	196	DAT	_	
+198	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	200	nummod	heuristic: NU premodifying	
+199	ki	ki[place]	N	N	200	ABL	_	
+200	lu2-giri17-zal-ta	Lugirizal[1][-ak]-ta	PN	PN.GEN.ABL	196	ABL	_	
+201	3(disz)	3(disz)[one]	NU	NU	202	nummod	_	
+202	erin2	erin[people]	N	N	178	appos	_	
+203	u4	ud[day]	N	N	202	DAT	_	
+204	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	206	nummod	heuristic: NU premodifying	
+205	ki	ki[place]	N	N	206	ABL	_	
+206	ur-kisal-ta	_[Ur-kisal]	PN	PN.GEN.ABL	202	ABL	_	
+207	2(disz)	2(disz)[one]	NU	NU	208	nummod	_	
+208	erin2	erin[people]	N	N	178	appos	_	
+209	u4	ud[day]	N	N	208	DAT	_	
+210	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	212	nummod	heuristic: NU premodifying	
+211	ki	ki[place]	N	N	212	ABL	_	
+212	ur-{d}lamma	Urlamma[1]	PN	PN	208	ABL	_	
+213	dumu	dumu[child]	N	N	212	appos	_	
+214	ur-nig2-ta	_[Ur-nig]	PN	PN.GEN.ABL	213	GEN	_	
+215	nu-banda3	nubanda[overseer][-ø]	N	N	178	appos	_	
+216	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	684	ERG	_	
+217	bala	bala[turn][-'a]	N	N.L1	684	LOC	_	
+218	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	217	acl	_	
+219	iti	iti[month]	N	N	220	_	_	
+220	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	0	_	_	
+221	1(u)	1(u)[ten]	NU	NU	684	nummod	projectivity violation	
+222	5(disz)	5(disz)[one]	NU	NU	221	nummod	_	
+223	erin2	erin[people]	N	N	220	appos	_	
+224	2(ban2)-ta	_[ban.each]	NU	NU	223	nummod	_	
+225	u4	ud[day]	N	N	224	DAT	_	
+226	2(u)-sze3	_	NU	NU.TERM	684	nummod	heuristic: NU premodifying	
+227	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	229	nmod	_	
+228	1(asz)	1(asz)[one]	NU	NU	229	nummod	_	
+229	gur	gur[unit]	N	N	0	_	_	
+230	ki	ki[place]	N	N	231	ABL	_	
+231	ur-e2-ninnu-ta	_[Ur-Eninnu]	PN	PN.GEN.ABL	229	ABL	_	
+232	erin2	erin[people]	N	N	229	appos	_	
+233	ki	ki[place]	N	N	234	ABL	_	
+234	ur-{d}nansze-ta	Urnansze[1][-ak]-ta	PN	PN.GEN.ABL	232	ABL	_	
+235	3(disz)	3(disz)[one]	NU	NU	236	nummod	_	
+236	erin2	erin[people]	N	N	229	appos	_	
+237	u4	ud[day]	N	N	236	DAT	_	
+238	2(u)-sze3	_	NU	NU.TERM	240	nummod	heuristic: NU premodifying	
+239	bala	bala[turn][-'a]	N	N.L1	240	_	_	
+240	tusz-a	tusz[dewell]-a	V	NF.V.PT	236	acl	_	
+241	sze	sze[barley]	N	N	240	ABS	_	
+242	szu	szu[hand][-e]	N	N.L3-NH	241	_	heuristic: attach to last	
+243	nu-ti	_[not.received]	V	nu.NF.V.ed.COP-3-SG	241	acl	_	
+244	ki	ki[place]	N	N	245	ABL	_	
+245	lu2-giri17-zal-ta	Lugirizal[1][-ak]-ta	PN	PN.GEN.ABL	240	ABL	_	
+246	3(disz)	3(disz)[one]	NU	NU	247	nummod	_	
+247	gurusz	gurusz[male]	N	N	240	appos	_	
+248	u4	ud[day]	N	N	247	DAT	_	
+249	2(u)-sze3	_	NU	NU.TERM	251	nummod	heuristic: NU premodifying	
+250	bala	bala[turn][-'a]	N	N.L1	249	_	heuristic: attach to last	
+251	tusz-a	tusz[dewell]-a	V	NF.V.PT	247	acl	_	
+252	sze	sze[barley]	N	N	251	appos	_	
+253	szu	szu[hand][-e]	N	N.L3-NH	252	_	heuristic: attach to last	
+254	nu-ti-a	_[not.received]	V	V	252	acl	_	
+255	ki	ki[place]	N	N	256	ABL	_	
+256	ur-kisal-ta	_[Ur-kisal]	PN	PN.GEN.ABL	252	ABL	_	
+257	2(disz)	2(disz)[one]	NU	NU	258	nummod	_	
+258	erin2	erin[people]	N	N	252	appos	_	
+259	u4	ud[day]	N	N	258	appos	_	
+260	2(u)-sze3	_	NU	NU.TERM	262	nummod	heuristic: NU premodifying	
+261	bala	bala[turn][-'a]	N	N.L1	260	_	heuristic: attach to last	
+262	tusz-a	tusz[dewell]-a	V	NF.V.PT	258	acl	_	
+263	sze	sze[barley]	N	N	262	acl	_	
+264	szu	szu[hand][-e]	N	N.L3-NH	263	_	heuristic: attach to last	
+265	nu-ti-a	_[not.received]	V	V	263	acl	_	
+266	ki	ki[place]	N	N	263	ABL	_	
+267	...	_[_]	PN	N	266	dep	heuristic: attach to last	
+268	2(u)	2(u)[ten]	NU	NU	263	nummod	_	
+269	1(disz)	1(disz)[one]	NU	NU	268	nummod	_	
+270	erin2	erin[people]	N	N	263	appos	_	
+271	u4	ud[day]	N	N	270	TERM	_	
+272	n-sze3	_(_)[_]-sze	NU	NU.TERM	271	nummod	_	
+273	bala	bala[turn][-'a]	N	N.L1	274	_	_	
+274	tusz-a	tusz[dewell]-a	V	NF.V.PT	263	acl	_	
+275	sze	sze[barley]	N	N	274	appos	_	
+276	szu	szu[hand][-e]	N	N.L3-NH	280	nummod	projectivity violation	
+277	nu-ti-a	_[not.received]	V	V	275	acl	_	
+278	1(u)	1(u)[ten]	NU	NU	274	nummod	_	
+279	3(disz)	3(disz)[one]	NU	NU	278	nummod	_	
+280	erin2	erin[people]	N	N	274	appos	_	
+281	u4	ud[day]	N	N	280	DAT	_	
+282	2(u)-sze3	_	NU	NU.TERM	283	nummod	heuristic: NU premodifying	
+283	bala	bala[turn][-'a]	N	N.L1	274	appos	_	
+284	tusz-a	tusz[dewell]-a	V	NF.V.PT	274	acl	_	
+285	sze	sze[barley]	N	N	284	appos	_	
+286	szu	szu[hand][-e]	N	N.L3-NH	285	_	heuristic: attach to last	
+287	nu-ti-a	_[not.received]	V	V	285	acl	_	
+288	nu-banda3	nubanda[overseer][-ø]	N	N	274	appos	_	
+289	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	288	appos	_	
+290	1(gesz2)	1(gesz)[sixty]	NU	NU	289	nummod	_	
+291	4(disz)	4(disz)[one]	NU	NU	290	nummod	_	
+292	erin2	erin[people]	N	N	289	appos	_	
+293	u4	ud[day]	N	N	292	DAT	_	
+294	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	295	nummod	heuristic: NU premodifying	
+295	bala	bala[turn][-'a]	N	N.L1	289	LOC	_	
+296	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	295	acl	_	
+297	1(u)	1(u)[ten]	NU	NU	298	nummod	_	
+298	engar	engar[farmer]	N	N	289	appos	_	
+299	u4	ud[day]	N	N	298	DAT	_	
+300	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	302	nummod	heuristic: NU premodifying	
+301	nu-banda3	nubanda[overseer][-ø]	N	N	302	nmod	_	
+302	ur-{d}gesz-bar-e3	_[overseer.Ur-Gebare]	PN	PN.ERG	298	appos	_	
+303	1(u)	1(u)[ten]	NU	NU	306	nummod	_	
+304	5(disz)	5(disz)[one]	NU	NU	303	nummod	_	
+305	dumu	dumu[child]	N	N	304	_	heuristic: attach to last	
+306	ba-BAD	_[dumu-baBAD.laborers]	V	MID.V.3-SG-S	302	acl	_	
+307	u4	ud[day]	N	N	306	DAT	_	
+308	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	309	nummod	heuristic: NU premodifying	
+309	e2	e[house]	N	N	306	GEN	_	
+310	{d}nin-mar{ki}	_[Ninmar]	DN	DN	309	GEN	_	
+311	5(u)	5(u)[ten]	NU	NU	314	nummod	_	
+312	la2	la[hang][-ø]	V	NF.V.ABS	311	acl	_	
+313	2(disz)	2(disz)[one]	NU	NU	312	nummod	_	
+314	erin2	erin[people]	N	N	302	appos	_	
+315	u4	ud[day]	N	N	314	DAT	_	
+316	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	318	nummod	heuristic: NU premodifying	
+317	nu-banda3	nubanda[overseer][-ø]	N	N	318	nmod	_	
+318	a-hu-a	Ahuya[1]	PN	PN	314	appos	_	
+319	1(u)	1(u)[ten]	NU	NU	318	nummod	_	
+320	6(disz)	6(disz)[one][-sze]	NU	NU	319	nummod	_	
+321	erin2	erin[people]	N	N	318	appos	_	
+322	u4	ud[day]	N	N	321	DAT	_	
+323	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	324	nummod	heuristic: NU premodifying	
+324	ugula	ugula[overseer][-ø]	N	N	318	appos	_	
+325	ur-{d}ba-ba6	Urbaba[1]	PN	PN	318	appos	_	
+326	dumu	dumu[child]	N	N	325	appos	_	
+327	lu2-nimgir	_[lu-Nimgir]	PN	PN.ERG	326	GEN	_	
+328	bala	bala[turn][-'a]	N	N.L1	325	LOC	_	
+329	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	328	acl	_	
+330	iti	iti[month]	N	N	289	appos	_	
+331	mu-szu-du8	_	MN	MN.L1	289	appos	_	
+332	3(u)	3(u)[ten]	NU	NU	274	nummod	_	
+333	6(disz)	6(disz)[one][-sze]	NU	NU	332	nummod	_	
+334	erin2	erin[people]	N	N	274	ABS	_	
+335	u4	ud[day]	N	N	334	DAT	_	
+336	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	337	nummod	heuristic: NU premodifying	
+337	bala	bala[turn][-'a]	N	N.L1	274	LOC	_	
+338	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	337	acl	_	
+339	1(u)	1(u)[ten]	NU	NU	341	nummod	_	
+340	6(disz)	6(disz)[one][-sze]	NU	NU	339	nummod	_	
+341	erin2	erin[people]	N	N	263	appos	_	
+342	2(ban2)	2(ban)[unit]	NU	N	341	nummod	_	
+343	1(disz)	1(disz)[one]	NU	NU	342	nummod	_	
+344	sila3-ta	sila[unit]-ta	N	N.ABL	342	appos	_	
+345	u4	ud[day]	N	N	342	DAT	_	
+346	2(u)-sze3	_	NU	NU.TERM	347	nummod	heuristic: NU premodifying	
+347	nu-banda3	nubanda[overseer][-ø]	N	N	341	appos	_	
+348	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	376	ERG	_	
+349	2(u)	2(u)[ten]	NU	NU	348	nummod	_	
+350	5(disz)	5(disz)[one]	NU	NU	349	nummod	_	
+351	erin2	erin[people]	N	N	348	appos	_	
+352	1(ban2)	1(ban)[unit]	NU	N	351	nummod	_	
+353	5(disz)	5(disz)[one]	NU	NU	352	nummod	_	
+354	sila3-ta	sila[unit]-ta	N	N.ABL	352	appos	_	
+355	u4	ud[day]	N	N	354	DAT	_	
+356	2(u)-sze3	_	NU	NU.TERM	357	nummod	heuristic: NU premodifying	
+357	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	348	appos	_	
+358	2(asz)	2(asz)[one]	NU	NU	361	nummod	_	
+359	1(barig)	1(bariga)[unit]	NU	N	358	nummod	_	
+360	5(ban2)	5(ban)[unit]	NU	N	361	nummod	_	
+361	gur	gur[unit]	N	N	348	appos	_	
+362	ki	ki[place]	N	N	363	ABL	_	
+363	ur-e2-ninnu-ta	_[Ur-Eninnu]	PN	PN.GEN.ABL	361	ABL	_	
+364	bala	bala[turn][-'a]	N	N.L1	361	appos	_	
+365	tusz-a	tusz[dewell]-a	V	NF.V.PT	361	acl	_	
+366	<<sze	sze[barley]	N	N	368	ABL	projectivity violation	
+367	szu	szu[hand][-e]	N	N.L3-NH	372	nummod	projectivity violation	
+368	nu-ti-a>>	_[bala]	V	V	365	ABL	projectivity violation	
+369	4(u)	4(u)[ten]	NU	NU	348	nummod	projectivity violation	
+370	la2	la[hang][-ø]	V	NF.V.ABS	367	acl	_	
+371	1(disz)	1(disz)[one]	NU	NU	370	nummod	_	
+372	erin2	erin[people]	N	N	361	appos	_	
+373	u4	ud[day]	N	N	372	DAT	_	
+374	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	376	nummod	heuristic: NU premodifying	
+375	bala	bala[turn][-'a]	N	N.L1	376	_	_	
+376	tusz-a	tusz[dewell]-a	V	NF.V.PT	341	acl	_	
+377	sze	sze[barley]	N	N	376	appos	_	
+378	szu	szu[hand][-e]	N	N.L3-NH	377	_	heuristic: attach to last	
+379	nu-ti-a	_[not.received]	V	V	377	acl	_	
+380	nu-banda3	nubanda[overseer][-ø]	N	N	381	nmod	_	
+381	ur-{d}gesz-bar-e3	_[overseer.Ur-Gebare]	PN	PN.ERG	376	ABS	_	
+382	2(u)	2(u)[ten]	NU	NU	383	nummod	_	
+383	engar-bur2	_[release-ploughmen]	N	N	381	appos	_	
+384	u4	ud[day]	N	N	383	DAT	_	
+385	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	387	nummod	_	
+386	8(disz)	8(disz)[one]	NU	NU	385	nummod	_	
+387	ug3-IL2	uggaga[porter]	N	N	383	appos	_	
+388	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	389	nummod	_	
+389	u4	ud[day]	N	N	387	DAT	_	
+390	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	391	nummod	heuristic: NU premodifying	
+391	e2	e[house]	N	N	381	appos	projectivity violation	
+392	{d}dumu-zi-me	_[they.are.household.Dumuzi]	DN	DN	387	acl	_	
+393	im	im[clay][-ø]	N	N	381	ABL	_	
+394	ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	393	ABL	_	
+395	4(gesz2)	4(gesz)[sixty]	NU	NU	393	nummod	_	
+396	1(u)	1(u)[ten]	NU	NU	399	nummod	_	
+397	3(disz)	3(disz)[one]	NU	NU	396	nummod	_	
+398	erin2	erin[people]	N	N	399	acl	_	
+399	u4	ud[day]	N	N	381	appos	_	
+400	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	401	nummod	heuristic: NU premodifying	
+401	nu-banda3	nubanda[overseer][-ø]	N	N	399	appos	_	
+402	ur-{d}utu	Urutu[1]	PN	PN	381	appos	_	
+403	3(gesz2)	3(gesz)[sixty]	NU	NU	381	nummod	_	
+404	4(u)	4(u)[ten]	NU	NU	403	nummod	_	
+405	1(disz)	1(disz)[one]	NU	NU	403	nummod	_	
+406	2/3(disz)	2/3(disz)[one]	NU	NU	403	nummod	_	
+407	erin2	erin[people]	N	N	408	acl	_	
+408	u4	ud[day]	N	N	381	appos	_	
+409	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	411	nummod	heuristic: NU premodifying	
+410	nu-banda3	nubanda[overseer][-ø]	N	N	411	nmod	_	
+411	na!-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	381	appos	_	
+412	1(gesz2)	1(gesz)[sixty]	NU	NU	381	nummod	_	
+413	2(u)	2(u)[ten]	NU	NU	412	nummod	_	
+414	erin2	erin[people]	N	N	415	acl	_	
+415	u4	ud[day]	N	N	381	appos	_	
+416	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	417	nummod	heuristic: NU premodifying	
+417	nu-banda3	nubanda[overseer][-ø]	N	N	381	appos	_	
+418	ur-tur	Urtur[1][-e]	WN	PN	419	acl	_	
+419	dumu	dumu[child]	N	N	381	appos	_	
+420	x-{d}nin-gir2-su	_[x-Ningirsu]	PN	PN.DAT-H	419	GEN	_	
+431	amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	419	appos	_	
+432	'.	_	_	_	431	_	heuristic: attach to last	
+433	2(bur3)	2(bur)[unit]	NU	N	0	nummod	_	
+434	1(esze3)	1(esze)[unit]	NU	N	433	nummod	_	
+435	3(iku)	3(iku)[unit]	NU	N	433	nummod	_	
+436	GAN2	gana[field]	N	N	252	appos	_	
+437	'.	_	N	N	251	appos	_	
+438	gala	_[singer]	V	NF.V.3-SG-NH-POSS.GEN	437	acl	_	
+439	...	_[_]	PN	N	438	dep	heuristic: attach to last	
+440	'.	_	N	N	251	appos	_	
+441	2(bur3)	2(bur)[unit]	NU	N	440	nummod	_	
+442	GAN2	gana[field]	N	N	440	appos	_	
+443	...	_[_]	PN	N	440	dep	_	
+444	'.	_	N	N	440	appos	_	
+445	dam-gar3	damgar[merchant][-ak]	N	N	444	appos	_	
+446	...	_[_]	PN	N	445	dep	heuristic: attach to last	
+447	'.	_	_	_	446	_	heuristic: attach to last	
+448	1(bur3)	1(bur)[unit]	NU	N	440	nummod	projectivity violation	
+449	1(esze3)	1(esze)[unit]	NU	N	448	nummod	_	
+450	4(iku)	4(iku)[unit]	NU	N	440	nummod	projectivity violation	
+451	GAN2	gana[field]	N	N	444	appos	_	
+452	'.	_	_	_	451	_	heuristic: attach to last	
+453	nar-...	_[Nar]	PN	PN	452	_	heuristic: attach to last	
+454	'.	_	_	_	453	_	heuristic: attach to last	
+455	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	456	nmod	_	
+456	...	_[_]	PN	N	440	dep	_	
+457	'.	_	N	N	460	_	_	
+458	ki	ki[place]	N	N	460	ABL	_	
+459	szabra	szabra[chief_administrator][-ak]	N	N	460	nmod	_	
+460	...	_[_]	PN	N	440	dep	_	
+461	'.	_	_	_	460	_	heuristic: attach to last	
+462	szunigin	szunigin[total]	N	N	440	appos	_	
+463	1(u)	1(u)[ten]	NU	NU	464	nummod	heuristic: NU premodifying	
+464	engar	engar[farmer]	N	N	462	appos	_	
+465	u4	ud[day]	N	N	464	DAT	_	
+466	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	467	nummod	heuristic: NU premodifying	
+467	'.	_	_	_	0	_	_	
+468	szunigin	szunigin[total]	N	N	440	appos	_	
+469	7(disz)	7(disz)[one][-sze]	NU	NU	470	nummod	heuristic: NU premodifying	
+470	dumu-da-ba	_[dumudaba-laborers]	N	N	468	appos	_	
+471	u4	ud[day]	N	N	470	DAT	_	
+472	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	473	nummod	heuristic: NU premodifying	
+473	'.	_	_	_	0	_	_	
+474	szunigin	szunigin[total]	N	N	440	appos	_	
+475	3(disz)	3(disz)[one]	NU	NU	476	nummod	heuristic: NU premodifying	
+476	ug3-IL2	uggaga[porter]	N	N	474	appos	_	
+477	u4	ud[day]	N	N	476	DAT	_	
+478	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	479	nummod	heuristic: NU premodifying	
+479	'.	_	_	_	0	_	_	
+480	szunigin	szunigin[total]	N	N	484	acl	_	
+481	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+482	5(disz)	5(disz)[one]	NU	NU	481	nummod	_	
+483	dumu	dumu[child]	N	N	482	_	heuristic: attach to last	
+484	ba-BAD	_[agricultural.laborers]	V	MID.V.3-SG-S	0	_	_	
+485	u4	ud[day]	N	N	484	DAT	_	
+486	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	487	nummod	heuristic: NU premodifying	
+487	'.	_	_	_	0	_	_	
+488	szunigin	szunigin[total]	N	N	440	appos	_	
+489	6(gesz2)	6(gesz)[sixty]	NU	NU	0	nummod	_	
+490	2(u)	2(u)[ten]	NU	NU	489	nummod	_	
+491	erin2	erin[people]	N	N	488	appos	_	
+492	'.	_	_	_	491	_	heuristic: attach to last	
+493	bala	bala[turn][-'a]	N	N.L1	440	appos	_	
+494	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	493	acl	_	
+495	'.	_	_	_	496	_	_	
+496	szunigin	szunigin[total]	N	N	440	appos	_	
+497	3(gesz2)	3(gesz)[sixty]	NU	NU	496	nummod	_	
+498	2(u)	2(u)[ten]	NU	NU	497	nummod	_	
+499	4(disz)	4(disz)[one]	NU	NU	497	nummod	_	
+500	x	_[_]	N	N	499	dep	heuristic: attach to last	
+501	'.	_	_	_	500	_	heuristic: attach to last	
+502	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	508	nmod	_	
+503	3(u)	3(u)[ten]	NU	NU	0	nummod	_	
+504	8(asz)	8(asz)[one]	NU	NU	503	nummod	_	
+505	1(barig)	1(bariga)[unit]	NU	N	503	nummod	_	
+506	1(disz)	1(disz)[one]	NU	NU	508	nummod	_	
+507	sila3	sila[unit]	N	N	506	appos	_	
+508	gur	gur[unit]	N	N	497	appos	_	
+509	'.	_	_	_	511	_	_	
+510	ki	ki[place]	N	N	511	ABL	_	
+511	ur-sukkal-ta	_[Ur-Sukkal]	PN	PN.GEN.ABL	440	ABL	_	
+512	'.	_	N	N	514	ABS	_	
+513	erin2	erin[people]	N	N	512	acl	_	
+514	hun-ga2	hug[hire]-a	V	NF.V.PT	511	acl	_	
+515	...	_[_]	PN	N	514	dep	heuristic: attach to last	
+516	'.	_	_	_	517	_	_	
+517	szunigin	szunigin[total]	N	N	251	appos	_	
+518	3(u)	3(u)[ten]	NU	NU	522	nummod	_	
+519	4(disz)	4(disz)[one]	NU	NU	518	nummod	_	
+520	...	_[_]	PN	N	522	dep	_	
+521	'.	_	_	_	522	_	_	
+522	szunigin	szunigin[total]	N	N	517	appos	_	
+523	2(u)	2(u)[ten]	NU	NU	524	nummod	_	
+524	...	_[_]	PN	N	522	dep	_	
+525	'.	_	_	_	524	_	heuristic: attach to last	
+526	erin2	erin[people]	N	N	524	appos	_	
+527	sze	sze[barley]	N	N	524	appos	_	
+528	szu	szu[hand][-e]	N	N.L3-NH	527	_	heuristic: attach to last	
+529	nu-ti-a	_[not.received]	V	V	527	acl	_	
+530	'.	_	N	N	531	_	_	
+531	szunigin	szunigin[total]	N	N	251	appos	projectivity violation	
+532	6(bur3)	6(bur)[unit]	NU	N	531	nummod	_	
+533	GAN2	gana[field]	N	N	530	appos	projectivity violation	
+534	...	_[_]	PN	N	533	dep	heuristic: attach to last	
+535	'.	_	_	_	537	_	_	
+536	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	537	nmod	_	
+537	...	_[_]	PN	N	531	dep	_	
+538	'.	_	N	N	537	ABL	_	
+539	ki	ki[place]	N	N	538	ABL	_	
+540	ugula	ugula[overseer][-ø]	N	N	538	appos	_	
+541	...	_[_]	PN	N	537	dep	_	
+542	'.	_	_	_	541	_	heuristic: attach to last	
+543	szunigin	szunigin[total]	N	N	537	appos	_	
+544	...	_[_]	PN	N	543	dep	heuristic: attach to last	
+545	'.	_	_	_	544	_	heuristic: attach to last	
+546	x	_[_]	N	N	545	dep	heuristic: attach to last	
+547	...	_[_]	PN	N	546	dep	heuristic: attach to last	
+548	'.	_	_	_	547	_	heuristic: attach to last	
+549	iti	iti[month]	N	N	537	appos	_	
+550	...	_[_]	PN	N	549	dep	heuristic: attach to last	
+551	'.	_	_	_	550	_	heuristic: attach to last	
+552	6(gesz2)	6(gesz)[sixty]	NU	NU	0	nummod	_	
+553	1(u)	1(u)[ten]	NU	NU	552	nummod	_	
+554	x	_[_]	N	N	553	dep	heuristic: attach to last	
+555	'.	_	_	_	554	_	heuristic: attach to last	
+556	bala	bala[turn][-'a]	N	N.L1	555	_	heuristic: attach to last	
+557	tusz-a	tusz[dewell]-a	V	NF.V.PT	240	acl	_	
+558	'.	_	_	_	557	_	heuristic: attach to last	
+559	iri-ta	_[out]	N	N	560	ABL	_	
+560	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	557	ABL	_	
+561	'.	_	_	_	560	_	heuristic: attach to last	
+562	8(gesz2)	8(gesz2)[sixty]	NU	NU	0	nummod	_	
+563	2(u)	2(u)[ten]	NU	NU	562	nummod	_	
+564	...	_[_]	PN	N	563	dep	heuristic: attach to last	
+565	'.	_	_	_	564	_	heuristic: attach to last	
+566	iti-ta	_[monthly]	N	N	567	_	_	
+567	zal-la	zal[pass]-a	V	NF.V.PT	240	acl	_	
+568	'.	_	_	_	567	_	_	
+569	bala	bala[turn][-'a]	N	N.L1	573	nummod	projectivity violation	
+570	tusz-a	tusz[dewell]-a	V	NF.V.PT	567	acl	_	
+571	'.	_	N	N	573	_	_	
+572	3(disz)	3(disz)[one]	NU	NU	573	nummod	_	
+573	erin2	erin[people]	N	N	580	ABS	_	
+574	...	_[_]	PN	N	573	dep	heuristic: attach to last	
+575	'.	_	_	_	574	_	heuristic: attach to last	
+576	iti-ta	_[monthly]	N	N	577	_	_	
+577	zal-la	zal[pass]-a	V	NF.V.PT	573	acl	_	
+578	'.	_	_	_	577	_	heuristic: attach to last	
+579	bala	bala[turn][-'a]	N	N.L1	578	_	heuristic: attach to last	
+580	tusz-a	tusz[dewell]-a	V	NF.V.PT	567	parataxis	_	
+581	'.	_	_	_	582	_	_	
+582	iti	iti[month]	N	N	240	appos	_	
+583	amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	582	appos	_	
+584	'.	_	_	_	583	_	heuristic: attach to last	
+585	nu-banda3	nubanda[overseer][-ø]	N	N	582	appos	_	
+586	lu2-...	_[1][-ra]	PN	PN	585	_	heuristic: attach to last	
+587	'.	_	N	N	240	appos	_	
+588	2(u)	2(u)[ten]	NU	NU	240	nummod	projectivity violation	
+589	engar-bur2	_[release-ploughmen]	N	N	587	appos	_	
+590	...	_[_]	PN	N	593	dep	_	
+591	'.	_	_	_	593	_	_	
+592	8(disz)	8(disz)[one]	NU	NU	593	nummod	heuristic: NU premodifying	
+593	ug3-IL2	uggaga[porter]	N	N	240	appos	_	
+594	igi	igi[eye][-ø]	N	N	593	_	heuristic: attach to last	
+595	4(disz)-gal2	_	NU	NU.ABS	596	nummod	heuristic: NU premodifying	
+596	u4	ud[day]	N	N	593	DAT	_	
+597	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	600	nummod	heuristic: NU premodifying	
+598	'.	_	_	_	597	_	heuristic: attach to last	
+599	iri-ta	_[out]	N	N	600	ABL	_	
+600	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	593	acl	_	
+601	'.	_	_	_	600	_	heuristic: attach to last	
+602	e2	e[house]	N	N	240	appos	_	
+603	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	602	GEN	_	
+604	'.	_	N	N	240	appos	_	
+605	1(disz)	1(disz)[one]	NU	NU	606	nummod	heuristic: NU premodifying	
+606	nu-banda3	nubanda[overseer][-ø]	N	N	604	appos	_	
+607	BI	_	PN	PN	606	_	heuristic: attach to last	
+608	gesz	gesz[tree]	N	N	607	_	heuristic: attach to last	
+609	x	_[_]	N	N	608	dep	heuristic: attach to last	
+610	'.	_	_	_	609	_	heuristic: attach to last	
+611	iri-ta	_[out]	N	N	612	ABL	_	
+612	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	604	acl	_	
+613	'.	_	N	N	615	GEN	_	
+614	e2	e[house]	N	N	613	_	heuristic: attach to last	
+615	{d}x-...	_[household.of]	PN	PN	240	appos	_	
+616	'.	_	NU	NU	618	nummod	projectivity violation	
+617	n	_(_)[_]	NU	NU	240	nummod	_	
+618	...	_[_]	PN	N	0	dep	_	
+619	'.	_	N	N	620	_	_	
+620	szunigin	szunigin[total]	N	N	240	appos	projectivity violation	
+621	3(gesz2)	3(gesz)[sixty]	NU	NU	620	nummod	_	
+622	4(u)	4(u)[ten]	NU	NU	621	nummod	_	
+623	1/2(disz)	1/2(disz)[one]	NU	NU	621	nummod	_	
+624	ninda	ninda[bread]	N	N	619	appos	projectivity violation	
+625	gid2	gid[length]	V	N	619	acl	projectivity violation	
+626	...	_[_]	PN	N	625	dep	heuristic: attach to last	
+627	gurusz-e	_[per]	N	N.L3-NH	629	LOC	projectivity violation	
+628	1/2(disz)	1/2(disz)[one]	NU	NU	620	nummod	_	
+629	ninda-ta	nindan[unit]-ta	N	N.ABL	620	LOC	_	
+630	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	631	nmod	_	
+631	7(gesz2)	7(gesz)[sixty]	NU	NU	620	nummod	_	
+632	2(u)	2(u)[ten]	NU	NU	635	nummod	_	
+633	1(disz)	1(disz)[one]	NU	NU	632	nummod	_	
+634	gurusz	gurusz[male]	N	N	635	nmod	_	
+635	u4	ud[day]	N	N	240	appos	_	
+636	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	638	nummod	heuristic: NU premodifying	
+637	a-sza3	aszag[field]	N	N	638	nmod	_	
+638	nin-tur3-e	_[Ninture]	PN	PN.ERG	635	appos	_	
+639	ambar	_	FN	FN	240	appos	projectivity violation	
+640	sur-ra	_[bordering.marsh]	V	NF.V.RDP.ABS.GEN.GEN.ABL	638	acl	_	
+641	szunigin	szunigin[total]	N	N	240	appos	_	
+642	9(bur3)	9(bur)[unit]	NU	N	240	nummod	projectivity violation	
+643	2(iku)	2(iku)[unit]	NU	N	642	nummod	_	
+644	GAN2	gana[field]	N	N	641	appos	_	
+645	uru4-a	uru[sow]-a	V	NF.V.PT	240	appos	_	
+646	gurusz-e	_[per.laborer]	N	N.L3-NH	240	appos	_	
+647	2(u)	2(u)[ten]	NU	NU	240	nummod	projectivity violation	
+648	la2	la[hang][-ø]	V	NF.V.ABS	646	acl	_	
+649	2(disz)	2(disz)[one]	NU	NU	648	nummod	_	
+650	sar-ta	sar[unit]-ta	PN	N.ABL	646	appos	_	
+651	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	652	nmod	_	
+652	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	240	nummod	_	
+653	5(gesz2)	5(gesz)[sixty]	NU	NU	656	nummod	_	
+654	1(u)	1(u)[ten]	NU	NU	653	nummod	_	
+655	1(disz)	1(disz)[one]	NU	NU	653	nummod	_	
+656	u4	ud[day]	N	N	652	appos	_	
+657	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	659	nummod	heuristic: NU premodifying	
+658	a-sza3	aszag[field]	N	N	659	nmod	_	
+659	nam-sanga	_[household-managership.cultivated]	FN	FN	656	appos	_	
+660	uru4-a	uru[sow]-a	V	NF.V.PT	659	_	heuristic: attach to last	
+661	szunigin	szunigin[total]	N	N	240	appos	_	
+662	3(gesz2)	3(gesz)[sixty]	NU	NU	665	nummod	_	
+663	3(u)	3(u)[ten]	NU	NU	662	nummod	_	
+664	3(disz)	3(disz)[one]	NU	NU	662	nummod	_	
+665	ninda	ninda[bread]	N	N	661	appos	_	
+666	gid2	gid[length]	V	N	665	acl	_	
+667	gi	gi[reed][-ø]	N	N	666	_	heuristic: attach to last	
+668	ze2	_[reed-x]	N	N	665	appos	_	
+669	gurusz	gurusz[male]	N	N	665	appos	_	
+670	1(disz)-e	_	NU	NU	0	nummod	_	
+671	1/2(disz)	1/2(disz)[one]	NU	NU	670	nummod	_	
+672	ninda-ta	nindan[unit]-ta	N	N.ABL	665	appos	_	
+673	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	676	nmod	projectivity violation	
+674	7(gesz2)	7(gesz)[sixty]	NU	NU	665	nummod	_	
+675	6(disz)	6(disz)[one][-sze]	NU	NU	674	nummod	_	
+676	u4	ud[day]	N	N	665	appos	_	
+677	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	678	nummod	heuristic: NU premodifying	
+678	szunigin	szunigin[total]	N	N	665	appos	_	
+679	2(disz)	2(disz)[one]	NU	NU	229	nummod	projectivity violation	
+680	gurusz	gurusz[male]	N	N	681	nmod	_	
+681	u4	ud[day]	N	N	665	appos	_	
+682	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	684	nummod	heuristic: NU premodifying	
+683	im	im[clay][-ø]	N	N	684	_	_	
+684	du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	215	acl	_	
+685	a-sza3	aszag[field]	N	N	686	nmod	_	
+686	nin-e-gu3-ba-de2	_[Ninegubade]	FN	FN	684	ABS	_	
+687	ki	ki[place]	N	N	688	ABL	_	
+688	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	686	ABL	_	
+689	dumu	dumu[child]	N	N	686	appos	_	
+690	ur-gu-la	_[Ur-Gula]	PN	PN	689	GEN	_	
+691	szunigin	szunigin[total]	N	N	686	appos	_	
+692	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	686	nummod	projectivity violation	
+693	5(gesz2)	5(gesz)[sixty]	NU	NU	692	nummod	_	
+694	dumu	dumu[child]	N	N	693	_	heuristic: attach to last	
+695	ba-BAD	_[dumu-baBAD]	V	MID.V.3-SG-S	696	acl	_	
+696	u4	ud[day]	N	N	691	appos	_	
+697	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	698	nummod	heuristic: NU premodifying	
+698	szunigin	szunigin[total]	N	N	686	appos	_	
+699	3(gesz2)	3(gesz)[sixty]	NU	NU	686	nummod	projectivity violation	
+700	3(u)	3(u)[ten]	NU	NU	699	nummod	_	
+701	dumu-da-ba	_[dumu-daba]	N	N	702	acl	_	
+702	u4	ud[day]	N	N	698	appos	_	
+703	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	704	nummod	heuristic: NU premodifying	
+704	szunigin	szunigin[total]	N	N	686	appos	_	
+705	1(gesz2)	1(gesz)[sixty]	NU	NU	686	nummod	projectivity violation	
+706	3(u)	3(u)[ten]	NU	NU	705	nummod	_	
+707	ug3-IL2	uggaga[porter]	N	N	704	appos	_	
+708	1/3(disz)	1/3(disz)[one]	NU	NU	709	nummod	heuristic: NU premodifying	
+709	u4	ud[day]	N	N	707	appos	_	
+710	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	711	nummod	heuristic: NU premodifying	
+711	szunigin	szunigin[total]	N	N	686	appos	_	
+712	4(gesz2)	4(gesz)[sixty]	NU	NU	686	nummod	projectivity violation	
+713	ug3-IL2	uggaga[porter]	N	N	711	appos	_	
+714	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	715	_	heuristic: NU premodifying	
+715	u4	ud[day]	N	N	713	appos	_	
+716	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	717	nummod	heuristic: NU premodifying	
+717	szunigin	szunigin[total]	N	N	686	appos	_	
+718	1(gesz2)	1(gesz)[sixty]	NU	NU	686	nummod	projectivity violation	
+719	4(u)	4(u)[ten]	NU	NU	718	nummod	_	
+720	8(disz)	8(disz)[one]	NU	NU	718	nummod	_	
+721	gurusz	gurusz[male]	N	N	722	nmod	_	
+722	u4	ud[day]	N	N	717	appos	_	
+723	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	724	nummod	heuristic: NU premodifying	
+724	a2	a[time]	N	N	686	appos	_	
+725	gul-la	_[gulla-labor]	V	V	724	_	heuristic: attach to last	
+726	szunigin	szunigin[total]	N	N	686	appos	_	
+727	1(gesz2)	1(gesz)[sixty]	NU	NU	729	nummod	_	
+728	3(disz)	3(disz)[one]	NU	NU	727	nummod	_	
+729	u4	ud[day]	N	N	726	appos	_	
+730	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	731	nummod	heuristic: NU premodifying	
+731	tu-ra	tur[young][-a]	V	NF.V.PT	729	acl	_	
+732	zi-ga	zig[expend]-a	V	NF.V.PT	729	acl	_	
+733	szunigin	szunigin[total]	N	N	732	appos	_	
+734	5(u)	5(u)[ten]	NU	NU	736	nummod	_	
+735	3(disz)	3(disz)[one]	NU	NU	734	nummod	_	
+736	gurusz	gurusz[male]	N	N	733	appos	_	
+737	u4	ud[day]	N	N	736	DAT	_	
+738	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	740	nummod	heuristic: NU premodifying	
+739	iri-ta	_[out]	N	N	740	ABL	_	
+740	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	736	acl	_	
+741	szunigin	szunigin[total]	N	N	736	appos	_	
+742	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	747	nummod	_	
+743	8(gesz2)	8(gesz2)[sixty]	NU	NU	742	nummod	_	
+744	3(u)	3(u)[ten]	NU	NU	742	nummod	_	
+745	8(disz)	8(disz)[one]	NU	NU	742	nummod	_	
+746	gurusz	gurusz[male]	N	N	747	nmod	_	
+747	u4	ud[day]	N	N	741	appos	_	
+748	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	750	nummod	heuristic: NU premodifying	
+749	iti-ta	_[monthly]	N	N	750	_	_	
+750	zal-la	zal[pass]-a	V	NF.V.PT	747	acl	_	
+751	szunigin	szunigin[total]	N	N	736	appos	_	
+752	($	_	_	_	751	_	heuristic: attach to last	
+753	blank	_	_	_	752	_	heuristic: attach to last	
+754	space	_	_	_	753	_	heuristic: attach to last	
+755	$)	_	_	_	754	_	heuristic: attach to last	
+756	gurusz	gurusz[male]	N	N	757	nmod	_	
+757	u4	ud[day]	N	N	751	appos	_	
+758	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	759	nummod	heuristic: NU premodifying	
+759	a2	a[time]	N	N	757	appos	_	
+760	gul-la	_[gulla-labor]	V	V	757	acl	_	
+761	bala	bala[turn][-'a]	N	N.L1	757	LOC	_	
+762	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	761	acl	_	
+763	szunigin	szunigin[total]	N	N	736	appos	_	
+764	8(disz)	8(disz)[one]	NU	NU	765	nummod	_	
+765	gurusz	gurusz[male]	N	N	763	appos	_	
+766	u4	ud[day]	N	N	765	DAT	_	
+767	2(u)-sze3	_	NU	NU.TERM	769	nummod	heuristic: NU premodifying	
+768	iri-ta	_[out]	N	N	769	ABL	_	
+769	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	765	acl	_	
+770	szunigin	szunigin[total]	N	N	775	acl	_	
+771	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	775	nummod	_	
+772	8(gesz2)	8(gesz2)[sixty]	NU	NU	771	nummod	_	
+773	3(u)	3(u)[ten]	NU	NU	771	nummod	_	
+774	4(disz)	4(disz)[one]	NU	NU	771	nummod	_	
+775	gurusz	gurusz[male]	N	N	765	appos	_	
+776	u4	ud[day]	N	N	775	LOC	_	
+777	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	779	nummod	heuristic: NU premodifying	
+778	iti-ta	_[monthly]	N	N	779	_	_	
+779	zal-la	zal[pass]-a	V	NF.V.PT	775	acl	_	
+780	szunigin	szunigin[total]	N	N	736	appos	_	
+781	($	_	_	_	780	_	heuristic: attach to last	
+782	blank	_	_	_	781	_	heuristic: attach to last	
+783	space	_[laborer]	N	N	785	nmod	_	
+784	$)	_	_	_	783	_	heuristic: attach to last	
+785	gurusz	gurusz[male]	N	N	780	appos	_	
+786	u4	ud[day]	N	N	785	_	heuristic: attach to last	
+787	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	788	nummod	heuristic: NU premodifying	
+788	a2	a[time]	N	N	785	appos	_	
+789	gul-la	_[gulla-labor]	V	V	785	acl	_	
+790	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	785	appos	_	
+791	3(u)	3(u)[ten]	NU	NU	785	nummod	projectivity violation	
+792	7(asz)	7(asz)[one]	NU	NU	791	nummod	_	
+793	1(barig)	1(bariga)[unit]	NU	N	791	nummod	_	
+794	3(ban2)	3(ban)[unit]	NU	N	790	nummod	_	
+795	gur	gur[unit]	N	N	794	appos	_	
+796	szunigin	szunigin[total]	N	N	785	appos	_	
+797	4(u)	4(u)[ten]	NU	NU	785	nummod	projectivity violation	
+798	4(disz)	4(disz)[one]	NU	NU	797	nummod	_	
+799	gurusz	gurusz[male]	N	N	796	appos	_	
+800	u4	ud[day]	N	N	799	DAT	_	
+801	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	802	nummod	heuristic: NU premodifying	
+802	szunigin	szunigin[total]	N	N	785	appos	_	
+803	1(u)	1(u)[ten]	NU	NU	805	nummod	_	
+804	6(disz)	6(disz)[one][-sze]	NU	NU	803	nummod	_	
+805	gurusz	gurusz[male]	N	N	785	appos	_	
+806	u4	ud[day]	N	N	805	DAT	_	
+807	2(u)-sze3	_	NU	NU.TERM	809	nummod	heuristic: NU premodifying	
+808	iri-ta	_[out]	N	N	809	ABL	_	
+809	nu-e3	nu-e[sow][-ed]	V	NEG.NF.V.F	805	acl	_	
+810	szunigin	szunigin[total]	N	N	805	appos	_	
+811	8(gesz2)	8(gesz2)[sixty]	NU	NU	814	nummod	_	
+812	4(u)	4(u)[ten]	NU	NU	811	nummod	_	
+813	gurusz	gurusz[male]	N	N	814	nmod	_	
+814	u4	ud[day]	N	N	810	appos	_	
+815	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	817	nummod	heuristic: NU premodifying	
+816	iti-ta	_[monthly]	N	N	817	_	_	
+817	zal-la	zal[pass]-a	V	NF.V.PT	814	acl	_	
+818	sze	sze[barley]	N	N	805	appos	_	
+819	szu	szu[hand][-e]	N	N.L3-NH	805	appos	projectivity violation	
+820	nu-ti-a	_[not.received]	V	V	818	acl	_	
+821	nig2-ka9-ak	nigSZID[account]	N	N	805	appos	_	
+822	ki	ki[place]	N	N	42	appos	projectivity violation	
+823	ur-nig2	_[place.Ur-nig]	PN	PN	821	appos	_
+	
+

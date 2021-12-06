@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: its silver oil of sort sila fine plant oil	*RETOK*-ma-na	_	_	_	_	ma-na	mana[unit]	N	N	D
+# train/P454238.atf						#new_text=P454238
+# tr.en: its silver oil of sort sila fine plant oil *RETOK*-ma-na _ _ _ _ ma-na mana[unit] N N D
+# train/P454238.atf new_text=P454238
+1	ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	0	root	_	
+2	i3!	i[oil]	N	N	1	appos	_	
+3	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+4	la2	la[hang][-ø]	V	NF.V.ABS	8	nummod	_	
+5	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	4	nummod	_	
+6	2(disz)	2(disz)[one]	NU	NU	8	nummod	_	
+7	sila3	sila[unit]	N	N	8	nmod	_	
+8	i3-gesz	igesz[oil]	V	N	2	_	_	
+9	du10-ga	dug[good]-a	V	NF.V.PT	8	appos	_	
+10	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+11	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	10	nummod	_
+	
+

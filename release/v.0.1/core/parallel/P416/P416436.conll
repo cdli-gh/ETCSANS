@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416436.atf
+# tr.en: oxen barley-fed breeding bull barley-fed cows barley-fed sheep barley-fed of good quality sheep barley-fed long-fleeced sheep sheep lambs beer-pouring of Nunida n lambs Ziqur-il delivery Nasa accepted month Mekigal Festival year after Kima was destroyed th day
+1	5(u)	5(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	7	nummod	projectivity violation	
+3	gu4	gud[ox]	N	N	0	root	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	3	acl	_	
+5	1(disz)	1(disz)[one]	NU	NU	7	nummod	projectivity violation	
+6	gu4	gud[ox]	N	N	10	nummod	projectivity violation	
+7	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	3	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	3(disz)	3(disz)[one]	NU	NU	7	nummod	_	
+10	ab2	ab[cow][-ø]	N	N	7	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+12	1(u)	1(u)[ten]	NU	NU	7	nummod	_	
+13	5(disz)	5(disz)[one]	NU	NU	19	nummod	projectivity violation	
+14	udu	udu[sheep]	N	N	7	appos	_	
+15	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+16	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	_	
+17	4(u)	4(u)[ten]	NU	NU	7	nummod	_	
+18	5(disz)	5(disz)[one]	NU	NU	22	nummod	projectivity violation	
+19	udu	udu[sheep]	N	N	7	appos	_	
+20	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+21	2(gesz2)	2(gesz)[sixty]	NU	NU	7	nummod	_	
+22	udu	udu[sheep]	N	N	7	appos	_	
+23	a-lum	aslum[sheep_type]	N	N	22	acl	_	
+24	7(gesz2)	7(gesz)[sixty]	NU	NU	7	nummod	_	
+25	udu	udu[sheep]	N	N	7	appos	_	
+26	1(gesz2)	1(gesz)[sixty]	NU	NU	28	nummod	projectivity violation	
+27	sila4	sila[lamb]	N	N	7	appos	_	
+28	kasz-de2-a	kaszdea[banquet][-sze]	N	N	7	appos	_	
+29	nu-ni-da	_[Nunida]	PN	PN	28	GEN	_	
+30	n	_(_)[_]	NU	NU	3	nummod	_	
+31	sila4	sila[lamb]	N	N	3	appos	_	
+32	zi-qur2-i3-li2	_[Ziqur-il]	PN	PN	31	appos	_	
+33	mu-kux(DU)	mukur[delivery][-ø]	N	N	31	appos	_	
+34	na-sa6	Nasa[1][-e]	PN	PN.ERG	35	ABS	_	
+35	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	33	acl	_	
+36	iti	iti[month]	N	N	35	date	_	
+37	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	36	appos	_	
+38	mu	mu[year]	N	N	36	appos	_	
+39	us2-sa	us[follow]-a	V	NF.V.PT	38	acl	_	
+40	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	33	appos	_	
+41	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	33	acl	_	
+42	u4	ud[day]	N	N	41	appos	_	
+43	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+44	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	43	nummod	_
+	
+

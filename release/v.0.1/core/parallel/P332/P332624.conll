@@ -1,0 +1,53 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep grain-fed sila barley each sila fine bran each sila regular bran each regular offerings of Szara sheep grain-fed sila barley each regular offerings of Szulgi and Amar-Suen for days total gur barley total gur fine bran total gur regular bran total month Barley at quay year boat of Enki was calked
+# train/P332624.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	6	nummod	projectivity violation	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	5/6(disz)	5/6(disz)[one]	NU	NU	9	nummod	projectivity violation	
+5	sila3	sila[unit]	N	N	6	nmod	_	
+6	sze-ta	sze[barley]-ta	N	N.ABL	2	appos	_	
+7	1/2(disz)	1/2(disz)[one]	NU	NU	9	nummod	_	
+8	sila3	sila[unit]	N	N	9	nmod	_	
+9	duh	duh[bran]	N	N	1	appos	projectivity violation	
+10	saga-ta	saga[good][-ø]-ta	V	NF.V.ABS.ABL	9	acl	_	
+11	1/2(disz)	1/2(disz)[one]	NU	NU	13	nummod	_	
+12	sila3	sila[unit]	N	N	13	nmod	_	
+13	duh	duh[bran]	N	N	7	appos	_	
+14	du-ta	_[regular.each]	V	V	13	acl	_	
+15	sa2-du11	sadug[offerings]	N	N	13	appos	_	
+16	{d}szara2	Szara[1][-ak]	DN	DN	15	GEN	_	
+17	4(u)	4(u)[ten]	NU	NU	19	nummod	_	
+18	5(disz)	5(disz)[one]	NU	NU	17	nummod	_	
+19	udu	udu[sheep]	N	N	13	appos	_	
+20	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	_	
+21	1/2(disz)	1/2(disz)[one]	NU	NU	23	nummod	heuristic: NU premodifying	
+22	sila3	sila[unit]	N	N	23	nmod	_	
+23	sze-ta	sze[barley]-ta	N	N.ABL	19	appos	_	
+24	sa2-du11	sadug[offerings]	N	N	19	appos	_	
+25	{d}szul-gi	Szulgir[1]	RN	RN	24	GEN	_	
+26	u3	u[and]	CNJ	CNJ	25	appos	_	
+27	{d}amar-{d}suen	Amarsuen[1]	RN	RN	25	appos	_	
+28	u4	ud[day]	N	N	19	TERM	_	
+29	3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	28	nummod	_	
+30	szunigin	szunigin[total]	N	N	28	appos	_	
+31	8(asz)	8(asz)[one]	NU	NU	28	nummod	projectivity violation	
+32	sze	sze[barley]	N	N	30	appos	_	
+33	gur	gur[unit]	N	N	32	appos	_	
+34	szunigin	szunigin[total]	N	N	28	appos	_	
+35	3(asz)	3(asz)[one]	NU	NU	36	nummod	_	
+36	duh	duh[bran]	N	N	28	appos	_	
+37	saga	saga[good][-ø]	V	NF.V.ABS	36	acl	_	
+38	gur	gur[unit]	N	N	36	appos	_	
+39	szunigin	szunigin[total]	N	N	36	appos	_	
+40	3(asz)	3(asz)[one]	NU	NU	41	nummod	_	
+41	duh	duh[bran]	N	N	36	appos	_	
+42	du	gin[quality_designation][-ø]	V	NF.V.ABS	41	acl	_	
+43	iti	iti[month]	N	N	41	appos	_	
+44	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	41	appos	_	
+45	mu	mu[year]	N	N	41	appos	_	
+46	ma2	ma[ship]	N	N	48	ABS	_	
+47	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	46	GEN	_	
+48	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	41	acl	_
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432197.atf
+# tr.en: Szulgi the god of his country the mighty king of Ur and king of world quarters the four when the countries of Kima and Hurtim he obliterated a ditch he created and an embankment he built
+1	{d}szul-gi	Szulgir[1]	RN	RN	0	root	_	
+2	_dingir_	_[the.god]	PN	N	1	appos	_	
+3	ma-ti-szu	_[his.country]	PN	PN	2	GEN	_	
+4	da-num2	_[the.mighty]	PN	PN	1	appos	_	
+5	_lugal_	lugal[king]	N	N	4	appos	_	
+6	uri5{ki}	Urim[1][-ak]	SN	SN.GEN	5	GEN	_	
+7	_lugal_	lugal[king]	N	N	6	appos	_	
+8	ki-ib-ra-tim	_[world.quarters]	N	N	6	GEN	_	
+9	ar-ba-im	_[the.four]	PN	PN	5	date	_	
+10	i3-nu	_[when]	V	V	9	acl	_	
+11	ma-at	_[the.countries]	PN	PN	10	appos	_	
+12	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	11	GEN	_	
+13	u3	u[and]	CNJ	CNJ	12	appos	_	
+14	hu-ur-tim{ki}	_[Hurtim]	SN	SN.GEN.ABS	12	appos	_	
+15	u3-ha-li-qu2-na	_[he.obliterated]	PN	PN.ERG	11	acl	_	
+16	hi-ri-tam2	_[a.ditch]	N	N	11	appos	_	
+17	isz-ku-un	_[he.created]	PN	PN	16	acl	_	
+18	u3	u[and]	CNJ	CNJ	16	appos	_	
+19	bi2-ru-tam2	_[an.embankment]	PN	PN	16	appos	_	
+20	ib-ni	_[he.built]	PN	PN.GEN.ABS	19	acl	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ox sheep grain-fed birth gift for wife of sukkalma female kids grain-fed for boat of An booked out Bel-tab month Festival of Mekigal year after Anan was destroyed
+# train/P107555.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	5(disz)	5(disz)[one]	NU	NU	5	nummod	projectivity violation	
+4	udu	udu[sheep]	N	N	2	appos	_	
+5	u2	u[grass]	N	N	2	acl	_	
+6	igi-kar2	_[birth.gift.for]	N	N	5	appos	_	
+7	dam	dam[spouse]	N	N	6	DAT	_	
+8	sukkal-mah	_[sukkalma]	PN	N	7	GEN	_	
+9	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+10	{munus}asz2-gar3	aszgar[female_kid]	PN	N	5	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	10	acl	_	
+12	ma2	ma[ship]	N	N	5	appos	_	
+13	an-na-sze3	An[1]-ak-sze	PN	DN.GEN.TERM	12	TERM	_	
+14	zi-ga	zig[expend]-a	V	NF.V.PT	5	acl	_	
+15	be-li2-du10	Belidu[1]	PN	PN	14	ABS	_	
+16	iti	iti[month]	N	N	5	appos	_	
+17	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	16	appos	_	
+18	mu	mu[year]	N	N	16	appos	_	
+19	us2-sa	us[follow]-a	V	NF.V.PT	18	acl	_	
+20	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	5	appos	_	
+21	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	5	acl	_
+	
+

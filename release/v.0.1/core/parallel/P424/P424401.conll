@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Eki from month Flight Lugaldaban from month Seeding ARADhulla from month House-month- fallen overseer Basa official seal of Uramma year en-priest of Eridu was installed Uramma scribe son of Nasilim
+# train/P424401.atf
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	e2-ki	_[Eki]	PN	PN	0	root	_	
+3	iti	iti[month]	N	N	2	ABL	_	
+4	dal-ta	_[from.Flight]	N	N	3	ABL	_	
+5	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+6	lugal-da5-ba-an	_[Lugaldaban]	PN	PN.GEN.ABS	3	appos	_	
+7	iti	iti[month]	N	N	3	ABL	_	
+8	szu-numun-na-ta	_[from.Seeding]	MN	MN.GEN.ABL	7	ABL	_	
+9	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+10	ARAD2-hul3-la	_[ARADhulla]	PN	PN	3	appos	_	
+11	iti	iti[month]	N	N	3	ABL	_	
+12	e2-iti-6(disz)-ta	_[from.House-month-]	NU	NU	11	nummod	_	
+13	ri-ri-ga	deg[collect]-a	V	NF.V.PT	3	acl	_	
+14	ugula	ugula[overseer][-ø]	N	N	2	appos	_	
+15	ba-sa6	Basa[1][-ak]	PN	PN.GEN	14	appos	_	
+16	kiszib3	kiszib[seal]	N	N	2	appos	_	
+17	nam-sza3-tam	namszatam[administration]	N	N	16	acl	_	
+18	ur-am3-ma	Uramma[1][-ak]	PN	PN	16	GEN	_	
+19	mu	mu[year]	N	N	22	_	_	
+20	en	en[priest]	N	N	22	ABS	_	
+21	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	20	GEN	_	
+22	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	2	acl	_	
+23	ur-am3-ma	Uramma[1][-ak]	PN	PN	2	appos	_	
+24	dub-sar	dubsar[scribe]	N	N	23	appos	_	
+25	dumu	dumu[child]	N	N	23	appos	_	
+26	na-silim	Nasilim[1][-ak][-ø]	PN	PN	25	GEN	_
+	
+
