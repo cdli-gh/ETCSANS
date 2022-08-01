@@ -12,11 +12,12 @@ Overall, ETCSANS syntax annotation is largely derived from manual annotation or 
 ## known issues
 
 - `v.0.1/extended`: change from morphology format to syntax format, run annotator
-- `v.0.1/core`: transactions not transformed yet
+- `v.0.1/core`: transaction provide partial annotations, only, to be complemented with morphology-based pre-annotation
 - The royal subcorpus incorporates morphological annotations from the ETCSRI corpus. Note that ETCSRI data is different in transliteration and tokenization, and sometimes, in readings, and that annotations projected from ETCSRI to CDLI/ETCSANS data may be partially incorrect.
 
 ## history
 
+- 2021-12-08 v.0.1a: initial conversion of transaction subcorpus
 - 2021-12-04 v.0.1: consolidated corpus repository, see linked submodules under [`dev/`](dev/) for their respective histories.
 
 ## acknowledgements
