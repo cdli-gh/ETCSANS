@@ -9,18 +9,18 @@ With a total of 24,460 syntactically annotated texts, the ETCSANS core corpus cu
 
 Overall, ETCSANS syntax annotation is largely derived from manual annotation or translations rather than manually created. Given the amount of data and the high degree of specialization required in doing the annotation, this is unavoidable, but from a methodological view, it presents a challenge. We plan for a moderated crowdsourcing process to improve and verify annotations via CDLI (which provides such a workflow since more than 10 years for transcriptions). The necessary tools are linked in the [`tools/`](tools) folder.
 
-## known issues
+## Known issues
 
 - `v.0.1/extended`: change from morphology format to syntax format, run annotator
 - `v.0.1/core`: transaction provide partial annotations, only, to be complemented with morphology-based pre-annotation
 - The royal subcorpus incorporates morphological annotations from the ETCSRI corpus. Note that ETCSRI data is different in transliteration and tokenization, and sometimes, in readings, and that annotations projected from ETCSRI to CDLI/ETCSANS data may be partially incorrect.
 
-## history
+## History
 
 - 2021-12-08 v.0.1a: initial conversion of transaction subcorpus
 - 2021-12-04 v.0.1: consolidated corpus repository, see linked submodules under [`dev/`](dev/) for their respective histories.
 
-## acknowledgements
+## Acknowledgements
 
 funding by MTAAC
 student support within GSoC
