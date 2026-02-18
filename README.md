@@ -1,4 +1,4 @@
-# Electronic Text Corpus of Syntactically Annotated Neo-Sumerian (ETCSANS)
+# ELECTRONIC TEXT CORPUS OF SYNTACTICALLY ANNOTATED NEO-SUMERIAN (ETCSANS)
 
 Sumerian is a language of utmost importance to the cultural heritage of all humankind. As the very first written language, it has a vast literature spanning thousands of years (4th to 1st millenium BC) and ranges from genres as diverse as poems and songs over mythological and historical treatises, laws and letters to contracts and administrative records.
 At the same time, however, much of this data remained underexplored and only accessible to experts, so far. Although portals such as the Cuneiform Digital Library Initiative (CDLI) and the Open Richly Annotated Cuneiform corpus (ORACC) provided much of the textual data in digital form, very little of it had been translated and/or annotated, and if so, only at the level of morphological glosses (Cunningham et al., 2006; Zólyomi et al., 2008). In order to improve access to these texts for both a larger audience and machines, we developed an innovative annotation workflow (Chiarcos et al. 2018) and now provide the first syntactically annotated corpus of Sumerian, ETCSANS: The Electronic Text Corpus of Syntactically Annotated Neo-Sumerian. Our talk describes its creation, access strategies and usage scenario.
@@ -9,18 +9,18 @@ With a total of 24,460 syntactically annotated texts, the ETCSANS core corpus cu
 
 Overall, ETCSANS syntax annotation is largely derived from manual annotation or translations rather than manually created. Given the amount of data and the high degree of specialization required in doing the annotation, this is unavoidable, but from a methodological view, it presents a challenge. We plan for a moderated crowdsourcing process to improve and verify annotations via CDLI (which provides such a workflow since more than 10 years for transcriptions). The necessary tools are linked in the [`tools/`](tools) folder.
 
-## known issues
+## KNOWN ISSUES
 
 - `v.0.1/extended`: change from morphology format to syntax format, run annotator
 - `v.0.1/core`: transaction provide partial annotations, only, to be complemented with morphology-based pre-annotation
 - The royal subcorpus incorporates morphological annotations from the ETCSRI corpus. Note that ETCSRI data is different in transliteration and tokenization, and sometimes, in readings, and that annotations projected from ETCSRI to CDLI/ETCSANS data may be partially incorrect.
 
-## history
+## HISTORY
 
 - 2021-12-08 v.0.1a: initial conversion of transaction subcorpus
 - 2021-12-04 v.0.1: consolidated corpus repository, see linked submodules under [`dev/`](dev/) for their respective histories.
 
-## acknowledgements
+## ACKNOWLEDGEMENTS
 
 funding by MTAAC
 student support within GSoC
